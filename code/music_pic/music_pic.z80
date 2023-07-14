@@ -1,0 +1,141 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+    DEVICE ZXSPECTRUM128 
+
+Stack_Top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    ; vortex tracker init address
+    di
+    call 0xc000
+    ei
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+    ; ------------------------------------------
+
+    ; border color
+    LD A,0
+    OUT (254), A
+
+    ; vortex tracker play address
+    call 0xc005
+
+    ; border color
+    LD A,2
+    OUT (254), A
+
+    ; ------------------------------------------
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+
+    ; https://github.com/oisee/vti/blob/master/ZXAYHOBETA/ZXTSPlayer.txt
+    ; https://www.z88dk.org/forum/viewtopic.php?t=9634
+    ; https://zxspectrumcoding.wordpress.com/2022/01/01/128k-programming-basics-vortex-tracker-part-1/
+
+
+
+; vt_init:    
+;     ;; initialize song
+;     ;; I don't believe vt's code worries about race conditions so
+;     ;; we should disable interrupts around the initialization
+;     di
+;     call 0xc000
+;     ei
+;     ret
+
+;vt_play:
+
+   ; vt interrupt service routine
+   ; must save all registers as we're not sure what the vt player uses
+
+;    push af
+;    push bc
+;    push de
+;    push hl
+;    ex af,af'
+;    exx
+;    push af
+;    push bc
+;    push de
+;    push hl
+;    push ix
+;    push iy
+
+;   call 0xc005   ; vortex tracker play address
+
+;    pop iy
+;    pop ix
+;    pop hl
+;    pop de
+;    pop bc
+;    pop af
+;    exx
+;    ex af,af'
+;    pop hl
+;    pop de
+;    pop bc
+;    pop af
+
+;    ei
+   reti
+
+    ORG 0xc000
+    INCHOB "StarTrip.$c"
+
+
+Code_Length: EQU $-Code_Start+1
+
+    EMPTYTAP "noise.tap"
+    SAVETAP "music_pic/music_pic.tap", CODE, "Code", Code_Start, Code_Length, Code_Start

@@ -1,0 +1,1 @@
+copy /b loader.tap + sergey.tap + music_pic.tap release5.tap

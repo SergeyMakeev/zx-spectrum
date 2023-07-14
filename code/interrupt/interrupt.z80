@@ -1,0 +1,116 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+    DEVICE ZXSPECTRUM48
+
+Stack_Top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+;
+; Your code here...
+;
+
+    ; some random memory address
+    LD HL, 100
+
+    LD B, 128 ; loop counter
+BorderLoop:
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    LD A,(HL)
+    AND 7             ; since we only need lower 3 bits
+    OUT (254), A
+    INC HL
+
+    DJNZ BorderLoop
+
+
+
+;
+; Your code here...
+;
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "interrupt/interrupt.sna", Code_Start

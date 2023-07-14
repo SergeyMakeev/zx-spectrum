@@ -1,0 +1,19 @@
+10 CLEAR 24575
+20 LOAD "" SCREEN$
+25 POKE 23739,111
+30 LOAD "" CODE 32768
+40 RANDOMIZE USR 32768
+
+
+X = Clear
+J = Load
+Ctrl+P = "
+Ctrl+Shift = "E" +  Ctrl+K = Screen$
+O = poke
+Ctrl+Shift = "E" + I = Code 
+T = Randomize
+Ctrl+Shift = "E" + I = Usr
+S = "Save"
+Ctrl+Shift = "E" +  Ctrl+3 = Line
+---- to save -----
+SAVE "loader" LINE 10

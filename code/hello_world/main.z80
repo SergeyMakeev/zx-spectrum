@@ -1,0 +1,34 @@
+; NONE
+; ZXSPECTRUM48
+; ZXSPECTRUM128
+; ZXSPECTRUMNEXT
+; https://z00m128.github.io/sjasmplus/documentation.html
+    DEVICE ZXSPECTRUM48
+
+Stack_Top: EQU 0xFFF0
+Code_Start: EQU 0x7FFD				
+
+    ORG Code_Start
+
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    LD HL,Hello_String ; load to HL
+    CALL Print_String
+    RET
+
+Print_String:
+    LD A,(HL)            ; load a byte from HL address
+    OR A                 ; check if A == 0
+    RET Z                ; return if Z flag is set
+    RST 16               ; print character (call system func)
+    INC HL               ; HL++
+    JR Print_String      ; jmp back to beggining
+
+Hello_String:
+    DEFM "Hello, World!"
+    DEFB 0
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "hello_world/main.sna", Code_Start
