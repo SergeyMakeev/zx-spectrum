@@ -10,6 +10,8 @@ https://code.visualstudio.com/
 https://marketplace.visualstudio.com/items?itemName=maziac.asm-code-lens  
 https://marketplace.visualstudio.com/items?itemName=maziac.dezog  
 https://marketplace.visualstudio.com/items?itemName=maziac.z80-instruction-set  
+https://marketplace.visualstudio.com/items?itemName=jsjlogin.zxbasic  
+https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics  
 
 Terminal -> Run Build Task  
 Run -> Run Without Debbuging  
