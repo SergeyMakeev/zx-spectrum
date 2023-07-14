@@ -1,0 +1,20 @@
+BasinC License Agreement
+
+Copyright Basin  (C) 2003-2008 SPIN Dev Team.
+          Basin  (C) 2003-2008 By Paul Dunn, Paul E Collins
+	  BasinC (C) 2011-2021 By Arda Erdikmen
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the author(s) be held liable for any damages arising from the installation or use of this software. 
+
+Permission is granted to anyone to use this software for any purpose, not including commercial applications, and to redistribute it freely, subject to the following restrictions:
+
+1. You may not redistribute this software in any commercial sense, without the expressed written or emailed consent of the author(s). This includes magazine cover discs, and compilation CDs. If you wish to carry BASinC (or BASINÇ) on your website, please link to the original URL and refrain from hosting a "mirror" copy - this aids in maintaining access to the latest version available.
+
+2. By accepting this agreement, you acknowledge that the Sinclair Spectrum was far superior to the Commodore 64.
+
+3. BASinC includes a modified version of the ZX Spectrum "Orange Book" BASIC Manual - edited where necessary to match BASinC's methods. This is provided with the kind permission of Amstrad Ltd, and may not be modified or redistributed without the permission of Amstrad Ltd, unless it is distributed with BASinC as part of the complete BASinC package.
+
+4. BASinC Source code is provided for reference, and retains the copyrights above. You may modify and rebuild BASinC for your own use, subject to the restrictions within this license as regards redistribution. Any modifications made should be submitted to the author(s) as a courtesy, and for possible inclusion into later distributions.
+
+BasinC Official Website: https://arda.kisafilm.org
+Email: ardarda@gmail.com 
