@@ -1,0 +1,372 @@
+     __             __
+     \ \       __  /_/
+      \ \     / / __  ____  __  __  ____  __
+       \ \   / / / / / __/ / / / / / __ \ \ \
+        \ \_/ / / / _\ \  / /_/ / / /_/ / / /___
+         \___/ /_/ /___/  \____/ /_/ /_/ /_____/
+            -- o f   M a g i c    S o f t --      
+                       
+        
+                     
+               Классификация  и  каталог
+               музонов, выпущенных  мною
+               на компьютере ZX-SPECTRUM.
+                 Дата выпуска - 8.06.98
+─────────────────┬─────────────────────┬──────┬────────────────────
+   название      │  стиль композиции   │ год  │  редактор
+─────────────────┼─────────────────────┼──────┼─────────────────────
+                 │                     │      │
+#1    1.BEER     │   pop               │ 1996 │     ST
+      2.RAVENESS │   pop               │ 1996 │     ST
+      3.PORTVINE │   pop	       │ 1996 │     ST
+      4.LIQUOR   │   pop	       │ 1996 │     ST
+      5.MINDLESS │   pop 	       │ 1996 │     ST
+      6.GRID MIX │   techno  	       │ 1996 │     ST
+      7.HANG_ON! │   pop	       │ 1996 │     ST
+      8.INTENT1  │   pop	       │ 1996 │     ST
+      9.INTENT3  │   pop	       │ 1996 │     ST
+     10.INTENT5  │   pop	       │ 1996 │     ST
+     11.EAGLE    │   slowly	       │ 1996 │     PT2
+     12.MIND FLY │   pop	       │ 1996 │     PT2
+     13.KILL'Z   │   techno	       │ 1996 │     PT2
+     14.EPIL'E   │   slowly	       │ 1996 │     PT2
+     15.WAIT     │   techno	       │ 1996 │     PT2
+     16.DREAM    │   pop	       │ 1996 │     PT2
+     17.HOLDERA  │   pop	       │ 1996 │     PT2
+     18.SILENT.M │   psychedelic       │ 1996 │     PT2
+     19.DRUGS    │   trancy techno     │ 1996 │     PT2
+     20.6-SPEED  │   nonstandart       │ 1996 │     PT2
+     21.EXAMS    │   pop               │ 1996 │     PT2
+     22.CHECHNYA │   pop 	       │ 1996 │     PT2
+     23.BOILER   │   trancy techno     │ 1996 │     PT2
+     24.THE JAM  │   slower	       │ 1996 │     PT2
+     25.SANDGLASS│   cool techno       │ 1996 │     PT2
+     26.ALPHA    │   pop 	       │ 1996 │     PT2
+     27.BETA     │   pop   	       │ 1996 │     PT2
+     28.PARGOLD  │   brakebeaty pop    │ 1996 │     PT2
+     29.DELTA    │   pop   	       │ 1996 │     PT2
+     30.GAMMA    │   pop	       │ 1996 │     PT2
+     31.PAIN     │   pop	       │ 1996 │     PT2
+     32.EPSILON  │   cool pop	       │ 1996 │     PT2
+     33.MAINMIND │   cool pop	       │ 1996 │     PT2
+     34.MOUNTAIN │   slower	       │ 1996 │     PT2
+     35.CHECH.MIX│   pop	       │ 1996 │     PT2
+     36.JARREMIX │   nonstandart       │ 1996 │     PT2
+     37.SHIT-C   │   pop	       │ 1996 │     PT2
+     38.ZIPPO    │   techno	       │ 1996 │     PT2
+     39.PAIN-1   │   techno	       │ 1996 │     PT2
+     40.THE DEEP │   pop	       │ 1996 │     PT2
+     41.A BEAST  │   pop	       │ 1996 │     PT2
+     42.SUNRISE  │   cool pop slower   │ 1996 │     PT2
+     43.S.J.N.M  │   psychedelic       │ 1996 │     PT2
+     44.TO INTRO │   techno	       │ 1996 │     PT2
+     45.3DRV-MIX │   techno   	       │ 1996 │     PT2
+     46.XPOHIK1  │   pop	       │ 1996 │     PT2
+     47.POWER    │   pop	       │ 1996 │     STPRO
+     48.CMS2/MIX │   techno	       │ 1996 │     STPRO
+     49.FINGER   │   cool pop	       │ 1996 │     STPRO
+     50.THUNDER  │   fantasy ballade   │ 1996 │     PT2
+     51.XPOHIK2  │   pop	       │ 1996 │     PT2
+     52.VISUAL/1 │   pop	       │ 1996 │     PT2
+     53.THEIR LAW│   brakebeat	       │ 1996 │     PT2
+     54.ECLIPSE  │   techno	       │ 1996 │     STPRO
+     55.TIME     │   techno	       │ 1996 │     STPRO
+     56.VISUAL/3 │   psychedelic       │ 1996 │     PT2
+     57.NOT4EVER │   pop	       │ 1996 │     STPRO
+     58.DUKEZHAZ │   nonstandart       │ 1996 │     STPRO
+     59.PRIKOL-1 │   nonstandart       │ 1996 │     STPRO
+     60.VISUAL/4 │   dream             │ 1996 │     PT2
+     61.VISUAL/5 │   pop	       │ 1996 │     PT2
+     62.WARCRAFT │   pop	       │ 1996 │     PT2
+     63.APOCAL.1 │   trancy techno     │ 1996 │     STPRO
+     64.POSSIBLE │   fantasy	       │ 1996 │     PT2
+     65.MEN-MARS │   fantasy	       │ 1996 │     PT2
+     66.TORNADO  │   acid pop	       │ 1996 │     PT2
+     67.2D-RELAX │   slower	       │ 1996 │     STPRO
+     68.APOCAL.2 │   techno	       │ 1996 │     PT2
+     69.CONQUEST │   nonstandart       │ 1996 │     PT2
+     70.FUTURE   │   brakebeat	       │ 1997 │     STPRO
+#2   71.RULEZ    │   cool pop	       │ 1997 │     PT2
+     72.SUNLIGHT │   fantasy ballade   │ 1997 │     PT2
+     73.CLOUDS   │   fantasy ballade   │ 1997 │     PT2
+     74.FIRST SN │   fantasy ballade   │ 1997 │	    PT2
+     75.SPEED    │   ravin pop         │ 1997 │     STPRO
+     76.SPACE    │   pop               │ 1997 │     STPRO
+     77.APOCAL.3 │   brakebeat	       │ 1997 │     STPRO
+     78.XPOHIK3  │   pop	       │ 1997 │     PT2
+     79.R-TRANCE │   psychedelic trance│ 1997 │     PT2
+     80.J-TRANCE │   psychedelic trance│ 1997 │     PT2
+     81.EPSL.MIX │   trance 	       │ 1997 │     PT2
+     82.SYSTEM   │   cool pop          │ 1997 │     STPRO
+     83.DREAM-1  │   dream	       │ 1997 │     STPRO
+     84.3D-REST  │   slower            │ 1997 │     STPRO
+     85.MAGICLAN │   fantasy ballade   │ 1997 │     PT2
+     86.PERSIA   │   ammy pop          │ 1997 │     PT2
+     87.FREEDAY  │   pop 	       │ 1997 │     PT2
+     88.>LOOKER! │   techno            │ 1997 │     PT2
+     89.WEDNESD. │   ammy pop          │ 1997 │     PT2
+     90.BEYOND   │   pop 	       │ 1997 │     PT2
+     91.A-TRANCE │   psychedelic trance│ 1997 │     PT2
+     92.*HTB*    │   slower	       │ 1997 │     PT2
+     93.EXPLOSE-0│   ballade	       │ 1997 │     PT2
+     94.EXPLOSE-1│   ballade	       │ 1997 │     PT2
+     95.EXPLOSE-2│   dream	       │ 1997 │     PT2
+     96.EXPLOSE-3│   cool pop	       │ 1997 │     PT2
+     97.EXPLOSE-4│   psychedelic trance│ 1997 │     PT2
+     98.EXPLOSE-5│   brakebeat	       │ 1997 │     PT2
+     99.EXPLOSE-6│   cool pop	       │ 1997 │     PT2
+    100.CHRON4   │   nonstandart       │ 1997 │     PT2
+    101.OXYGEN13 │   nonstandart       │ 1997 │     PT2
+    102.SUBZERO  │   techno            │ 1997 │     STPRO
+    103.ZX.P(A)  │   goa trance        │ 1997 │     PT2
+    104.ZX.P(B)  │   goa trance        │ 1997 │     PT2
+    105.BRAKEB.1 │   brakebeat         │ 1997 │     PT2
+    106.AMNESIA  │   pop	       │ 1997 │     PT2
+    107.BRKTRNCE │   breakbeat-trance  │ 1997 │     PT2
+    108.OBERON1  │   cool pop          │ 1997 │     PT2
+    109.OBERON2  │   fantasy ballade   │ 1997 │     PT2
+    110.OBERON3  │   cool pop          │ 1997 │     PT2
+    111.PLASM    │   goa trance        │ 1997 │     PT2
+    112.CREWS    │   pop               │ 1997 │     PT2
+    113.COSMIX   │   cosmic trance     │ 1997 │     PT2
+    114.SCOOTER  │   hardcore          │ 1997 │     PT2
+    115.GALAXION │   goa trance        │ 1997 │     PT2
+    116.KOTOMIX  │   dream             │ 1997 │     PT2
+    117.NOBODY   │   cool pop          │ 1997 │     PT2
+    118.INSTITUT │   pop               │ 1997 │     PT2
+    119.KND&EVIL │   ravin pop         │ 1997 │     PT2
+    120.LOSER    │   nonstandart       │ 1997 │     PT2
+    121.HOT      │   cool pop	       │ 1997 │     PT2
+    122.DEPRESS. │   slower	       │ 1997 │     PT2
+    123.INDIA    │   techno	       │ 1997 │     PT2
+    124.TITLES   │   nonstandart       │ 1997 │     PT2
+    125.LOSTLOVE │   slower	       │ 1997 │     STPRO
+    126.CRUSADE  │   goa trance	       │ 1997 │     PT2
+    127.EXP.M1   │   ballade	       │ 1997 │     PT2
+    128.EXP.M2   │   ballade	       │ 1997 │     PT2
+    129.EXP.M3   │   cool pop	       │ 1997 │     PT2
+    130.EXP.M4   │   goa trance        │ 1997 │     PT2
+    131.EXP.M5   │   goa trance	       │ 1997 │     PT2
+    132.EXP.M6   │   cool pop          │ 1997 │     PT2
+    133.REALFEEL │   slower            │ 1997 │     STPRO
+    134.NEWHV1.3 │   techno	       │ 1997 │     PT2
+    135.LIVE&DIE │   cool pop          │ 1997 │     PT2
+    136.CR2V1.6  │   trance            │ 1997 │     PT2
+    137.PSYCHO-2 │   psychedelic       │ 1997 │     PT2
+    138.DNK-MIX  │   intellectual pop  │ 1997 │     PT2
+    139.NR.TRNCE │   goa trance        │ 1997 │     STPRO
+    140.PHANTOM  │   cosmic trance     │ 1997 │     STPRO
+    141.BYE!BYE! │   nonstandart       │ 1997 │     PT2
+#3  142.MADDOG   │   psychedelic trance│ 1997 │     STPRO
+    143.P-TRANCE │   psychedelic trance│ 1997 │     PT2
+    144.A-RAVE#1 │   jungle            │ 1997 │     PT2
+    145.IN-JUNGL │   intelectual jungle│ 1997 │     PT2
+    146.DOOM-MIX │   cool trance       │ 1997 │     PT2
+    147.G&E.FINL │   raven pop         │ 1997 │     PT2
+    148.UNIVERSE │   goa trance        │ 1997 │     PT2
+    149.HYP.ACID │   acid trance       │ 1997 │     PT2
+    150.SMZ(MIX) │   intelectual trance│ 1997 │     PT2
+    151.L.L.EDIT │   slower            │ 1997 │     STPRO
+    152.FAREWELL │   techno            │ 1997 │     PT2
+    153.GAMEOVER │   nonstandart       │ 1997 │     PT2
+    154.B.GOA I  │   goa trance        │ 1997 │     PT2
+    155.B.GOA II │   goa trance        │ 1997 │     PT2
+    156.REFRESH  │   psychedelic trance│ 1998 │     STPRO
+    157.S.THEME  │   ammy cool pop     │ 1998 │     PT3
+    158.POSEIDON │   intellectual pop  │ 1998 │     PT2
+    159.XCLUSIVE │   cool pop          │ 1998 │     PT3
+    160.MEMORIES │   ambient	       │ 1998 │     PT3
+    161.REQUIEM  │   ambient	       │ 1998 │     PT3
+    162.P.G #1   │   progressive house │ 1998 │     pt3
+    163.Source   │   ambient-trance    │ 1998 │     PT3
+    164.W.T.H.G. │   ambient           │ 1998 │
+    165.POSCRIPT │   psychedelic       │ 1998 │     PT3
+─────────────────┴─────────────────────┴──────┴───────────────── 
+   
+    О стилях:
+
+    1.pop - попса.Наиболее  общее название  простых незамыслова-
+            тых мелодичных музнов.Наиболее распостраненный стиль
+            компьютерной музыки на спектруме (и не только...).
+ 
+ 2.techno - наиболее  обобщенное  название  техно  музыки.Причем  
+            речь идет не только о истенном  техно  времен  таких 
+            групп как 2 unlimited,culture  beat,но  и  некоротых  
+            новых techno rave направлениях.
+
+ 3.trancy
+   techno - исключительно стиль Visual'a. Смесь  техно и транса,
+            однако перевес в сторону первого(наиболее яркие при-
+            меры: Drugs,Boiler).
+
+ 4.slowly - медлячок. Имеет родство с поп стилем,однако обладает
+            расслабляющим действием (-: ...
+
+ 5.psychedelic
+          
+          - медлячок стиля ENIGMA. Имеет  некоторые  отличия  от
+            slower,в основном отличия в  ударных  партиях. Явным
+            'бестселлером' psychedlic музыки на спектруме  можно
+            назвать Royal Soft.
+                  Примеры:
+               Royal: Never ending story II
+               Royal: Theme from intro SMASH TV 
+               Royal: Sax solo        
+              
+ 6.nonstandart
+    
+          -  нестандартная композиция.Как правило полуклассичес-
+             кая или авангард.
+             Пример:
+             Ironman:Moricone
+          -  Bobov I:Birds-2
+ 7.fantasy
+   ballade 
+ 
+          -  один из любимых моих направлений, который, судя  по
+             критикам,(-:,им нравится больше всего.Если говорить 
+             непосредственно о стиле,то можмо  охарактерезовать,
+             как быстрый поп музончик для intro.
+             Пример:
+             Doc:Intro8
+           Visual:Clouds,Sunligh,Magic Land e.t.c.             
+
+ 8.brakebeat
+
+          -  так уж повелось,что название стиля непосредсвенно
+             связано с какой-нибудь легендарной группой. Так и
+             здесь если сказать слово Prodigy,то будет все по-
+             нятно...
+6               Примеры: 
+                  Theme from Insane demo
+                  Theme from Condommed
+
+ 9.dream  -  аналогичная  ситуация.  Слово  Robert  Miles  даст 
+             исчерпывающую информацию об этом стиле.
+              Пример:
+                  JOE:LAKEMYA
+10.Fantasy 
+ 
+          -  пожалуй один из редчайших стилей. Дать точного оп-
+             ределения я не могу,разве только сказать, что  это
+             очень быстрое поп техно, или  развязка  ambient'а
+             (тут,пожалуй,загрузил).  Если  говорить, о музонах
+             ,то можно отметить музоны:
+                         - Аshnar : theme from Bizzare
+                         - MIC  : theme from Paroxyzm
+
+11.Acid   -  в переводе с английского - кислота. Сам по себе
+             Acid встречается чрезвычайно редко,однако часто
+             играет роль приставок: Acid trance              
+                                    Acid jazz
+                                    Acid techno
+             Ознначет это лишь то,что в музоне часто встречают-
+             ся волновые модуляции (или кислотные звуки).
+              
+12.Ammy
+   pop    -  Если рассортировать амижные поп музоны,то можно вы-
+             делить определенную  группу  музонов,которые  между 
+             собой очень схожи. Но так как многие музыканты кон-
+             вертируют музоны с Амиги на спектрум,то этот  стиль
+             понемногу перебрался и на спектрум...
+              Для примера отмечу такие музоны,как:
+                         Visual:Persia
+                            Doc:почти все (-:
+                          Slash:aналогично.
+             P.S По смыслу к ammy pop очень близок стиль fantasy
+                 ballade.
+
+13.psychedelic 
+   trance
+
+          - я думаю  не  нуждается в представлении. Для  примера
+            отмечу музоны:
+                Visual:R-trance 
+                Visual:Mad dog (theme from Power up (part II)).
+           
+14. Goa trance
+
+          - Почти тоже,что и psychedelic trance,однако с некото-
+            рыми различиями,которые я чувствую,но как  сформули-
+            ровать - не знаю.
+                Примеры:
+                 Visual: Binary Goa.
+                 Visual: Theme from Phrenetic demo.
+
+15. Cosmic trаnce
+
+          - мелодичный транс,так сказать,грузящий...
+          Для примера опять придется привести свой музон,ибо
+          на спектруме трансом никто толком не занимается:
+                   Visual: Cosmix
+
+16. ballade
+
+          - баллада. Но не в прямом смысле(какая на спектруме
+            на фиг баллада ?!).Имеется ввиду попытка изобразить
+            какой-либо струнный инструмент (-:
+            Пример:
+                      TWIN S:Epilogue from Insult
+
+17. Jungle 
+          
+          - Достаточно спецефичный музыкальный стиль,основой ко-
+            торого явлаются ударники и бас.Более подробно об 
+            этом вам расскажет Кунф,а я лишь отмечу,что jungle-
+            частный случай brakebeat'а. Примеры:
+                      Кунф: Почти все музоны 1997 года
+                      IMP: theme from Mental masturbation.
+
+18. Intellectual
+        jungle
+
+          - Jungle,с мелодией,вещь очень красивая и грамотная
+            (любимый стиль одного  из Magic'oв). На спектруме
+            чиповой  (AY)  Intellectual jungle в единственном 
+            экземпляре,во всяком случае пока.
+                    Visual: IN-Jungle.
+            
+19. Intellectual
+         pop
+
+          - Отличается от обычной попсы грусным,тяжелым соляком,
+            который задевает душу...
+                   Например:
+                   Madmax: LED don't be sad
+                      Ksa: STING,unreal и почти все KSA-шные
+                                 композиции.
+                      EA: FFF
+                      EA: SERENITY            
+20. Raven pop
+ 
+          - поп с уклоном rave-культуры:
+                     Visual:Speed
+                     MIC: Theme from S4B
+                      EA: EA in TRANCE
+21. Ambient
+
+          - Oчень рдкий музыкальный стиль,который почти отсутст-
+            вует в 'рационах' персональных и домашних  компьюте-
+            ров. Я и Кунф, пожалуй, пока единственные музыканты,
+            который воспроизвели этот стиль на спектруме. 
+           
+               Пример:
+     VISUAL:MEMORIES OF TIME.Единственный эмбиент,который был
+            кинут в сеть и,вероятно,есть на сервере 
+            'МUSIC BBS',точнее у EA.
+     VISUAL:Requiem for survivers.           
+ 
+22. Progressive
+    house
+
+          - Достаточно известный rave-стиль. На спектруме что-
+            либо подобное доселе я не слышал,поэтому примеры
+            привести не могу,разве что окромя своего:
+               Visual:P.G. #1
+                               
+P.S приставка cool в классификации говорит о высоком уровне поп
+    mузона (по-моему мнению),ибо попсы много,а хорошей и качест-
+    венной не так уж...
+ 
+                                               ViSuaL/XtM
+                                               ----------

@@ -1,0 +1,117 @@
+                            ____ ___
+                      ______\   \\_/______  ___ ___   _______ __ _
+ ___ __ ____________ _\  ___/\__    /\__  \|\_/   /__/   ___//_//_\
+ \_/__/_____________/_\\____/_||___/|______\ ____/|_____/ __ ____ __ 
+______ ___ ___ ____  \_/    ___       /_\       ___ ___  /_|/___//__\       
+\  ___|\_/   /__   \ __ ___|_  |_ ____ __ _____|   |_ / ___ ___ ____ \_|)\\/=_
+ \____/_____//__\   \_//  __/_ _/  __/\  \  ___| _ _/  |\_/   /__   \ __ _____
+     \_\__/___|  \__|____/ |___|\__\|_____\____/___|___|_____//__\   \_//  __/  
+       __ _                                          ______ __    \__|____/
+       \_\ chaos constructions 2016 official results ______\_/
+
+
+  ZX Spectrum 640K Demo
+- -------------------------------------------------------------------------- -
+       01  263 ACROSS THE EDGE by deMarche
+       02  256 Break Space by thesuper
+       03  224 CBET by DenisGrachev
+       04  210 Sosochi 2016 by .nix  / site, brightentayle, nyuk, HYPE All Stars
+       05  164 we <3 by hedj
+       06  162 enmnm by Noby & TDM
+
+  Realtime ZX Graphics
+- -------------------------------------------------------------------------- -
+       01  169 When I sleep I see demons by Darklight/Ghostown
+       02  152 Cool guy sleeping by CornetTheory/
+       03  151 Closed Eyes by Tutty/Kpacku
+       04  136 Момент пробуждения от глубокого сна доброй собачки by vassa
+       05  135 DreamPlanes by helcril
+       06  131 In space you sleep alone by Matej "Retro" Jan
+       07  130 Falling Into Isomnia by brightentayle
+       08  127 Deep sleep by moroz1999/dibiliki
+       09  125 ZX Dreaming by RMartins/
+       10  123 Deep Sleep Inc. by anonymous
+       11  114 Sweet Dreams by Ralf
+       12  110 Сон спектрумиста by Kakos Nonos
+       13   99 Alarm Clock by 4throck/
+       14   96 Deep Sleep by g0blinish
+
+  Realtime 53c Graphics
+- -------------------------------------------------------------------------- -
+       01  129 When i sleep I see a pony. by BlastOff
+       02  112 Robo_Skull by CornetTheory
+       03  107 sorrow by bfox
+       04  102 cyborg_ebun_pokaraet_tebja_! by d1sablished
+       05  101 blink of an eye by prince/tOM/TRSi
+       06  100 Робосвин остается by moroz1999
+       07   98 69 by aturbidflow
+       08   92 Fratze 53c by prince/tOM/TRSi
+       09   90 Всего лишь оптимизация by pixelrat
+       10   87 Baby deep sleep by Garvalf
+       11   85 The Second Renaissance by Matej 'Retro' Jan
+       12   83 Good buy, robots! by Al Rado
+       13   81 Death of beauty by Marinova Alexandra
+       14   73 No chances by Tais
+       14   73 boxheadz by zedOFF / Wct Studio
+       16   71 Make 53c Great Again by CalmDownKidder
+       17   64 then i sleep, this is bdit by wbr
+       18   60 Deep sleep button by zedOFF / Wct Studio
+       19   58 Угроза роботов by Саша Радюк 9 лет
+       20   55 g0blinishit by selfie
+       21   41 Robot by Armand
+
+  Realtime ZX Music
+- -------------------------------------------------------------------------- -
+       01   99 Awakening by Quiet
+       02   68 Deep Sleep for 35 minutes by splin7er/DL Corp
+       03   65 Lullaby for a deep sleep by garvalf/
+
+  ZX Spectrum Tiny Intro (256b)
+- -------------------------------------------------------------------------- -
+       01  232 ATOM by kotsoft/no
+       02  193 Flag256 by Lisokryl/Therac25
+       03  174 Rhombus2 by DenPopov
+       04  161 Bounce by g0blinish
+
+  ZX Spectrum Graphics
+- -------------------------------------------------------------------------- -
+       01  313 Clone Warrior by diver4d
+       02  287 Гнездо by vassa
+       03  280 Come back by moroz1999/dibiliki
+       04  258 glass by prof4d
+       05  255 Leon by dman/pcb
+       06  243 Болото by vassa/
+       07  238 Lovecraft by aturbidflow
+       08  227 morocio - da lil lier-dick by sand/makHeim
+       09  206 Surf Bunny Beach by mr_r0ckers
+       10  190 Givi VS Clash by DenisGrachev
+       11  189 :: Shawarma :: Шаурма :: by error/errorsoft
+       12  166 Somewhere far away... by error/errorsoft
+       13  123 ur.omedxz by g0blinish
+
+  ZX Spectrum AY-Music
+- -------------------------------------------------------------------------- -
+       01  211 Happy Chaos by MmcM/Sage
+       02  196 Never Give Up by Quiet
+       03  172 PAY to mr. SID by Mic/Progress, Pentatonica
+       04  171 Welcome to the pop by Ahim
+       05  166 Irregular Circuts by kotsoft/no (ejkot)
+       05  166 Groove Blaster '96 by gotoandzlew
+       07  154 farewell by scalesmann/march[ing]_cats
+       08  139 Duck you, Social Networks! by aturbidflow
+       09  120 Воспоминание by garvalf
+
+  ZX Spectrum Beeper Music
+- -------------------------------------------------------------------------- -
+       01  197 Black Roses Will Blossom by utz/irrlicht project
+       02  174 Road song by aturbidflow
+       03  138 La chanson du vent by garvalf
+
+  ASCII/ANSI Graphics
+- -------------------------------------------------------------------------- -
+       01  198 Lost in space. Chapter I by aturbidflow
+       02  177 Fratzengeballer XI: Big Plant'O'Fun by prince/the Obsessed
+               Maniacs / TRSi
+       03  173 Tank Girl by skin/deZign
+       04  145 Pulp Fiction by dman/pcb
+       05  122 Uma by dman/pcb

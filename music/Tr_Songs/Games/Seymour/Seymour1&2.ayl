@@ -1,0 +1,20 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\RST7\BEATLES.stc
+..\..\Intros\Seymour At The Movies\ALF-BUG.asc
+<
+Comment=Intro1
+Time=10368
+Loop=0
+>
+..\..\Authors\Kent\SIMEX2.stc
+<
+Comment=Intro2
+Time=8000
+Loop=0
+>
+..\..\Authors\XPEH\Seymour2 title.stc
+<
+Comment=Title
+Time=8064
+Loop=0
+>

@@ -1,0 +1,31 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Kent\2 FROM MUSICSOFT ALBUM 'THE SIRIUS'.stc
+<
+Length=2945
+Time=11520
+Loop=0
+>
+..\..\Authors\Kent\Spec05_01-P.FLOID.stc
+<
+Length=2468
+Time=7488
+Loop=0
+>
+..\..\Authors\Kent\Spec03_00.stc
+<
+Length=1428
+Time=4224
+Loop=0
+>
+..\..\Magazines\Spectrofon\Spec03_01.stc
+<
+Length=1429
+Time=1536
+Loop=0
+>
+..\..\Other\3A Soft\KARMEN.stc
+<
+Length=1939
+Time=2880
+Loop=0
+>

@@ -1,0 +1,36 @@
+International Vodka Party 2006 (that was a 3rd edition)
+took a place  in Poland, in Krakow city, 28 - 30 April 2006.
+Organized by YERZMYEY/H-PRG^AY_R.
+
+It was a ZX SPECTRUM party although with a presence
+of ATARI XL/XE computers and presentations.
+
+Guests came from following countries: Poland, Czech, England.
+
+There were 2 compos: 
+4 channels MOD compo for ZX Spectrum with General-Sound card
+and
+Idiotic Demo compo (for the most stupid ZX demo :) ).
+
+*****THE RESULTS*****
+
+Idiotic  Demo Compo:
+
+1. Shock (EQUINOX) - 99
+2. Vodkemon (GASMAN, MISTER BEEP, EXIN) - 98
+
+Out of compo
+RotoZlow (ICABOD) - the production for Idiotic Demo Compo came
+too late. :( WE ALL REGRET IT!
+
+
+MOD Compo:
+
+1. Drink Vodka or Eat Mrtka z Krtka (FACTOR6 / AY_R) - 102
+2. Old-School Rave Part 2 (YERZMYEY / H-PRG^AY_R)- 98
+3. Molition Day - 84 (TDM / AY_R)
+
+If You use an emulator, use some that has GENERAL SOUND
+card emulation.  THE BEST WOULD BE "Z80 STEALTH"
+
+trd version by tiboh/debris

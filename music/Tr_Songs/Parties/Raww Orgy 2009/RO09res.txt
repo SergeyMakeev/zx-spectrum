@@ -1,0 +1,59 @@
+                   -+-- raww.orgy 2009 results --+-
+                                                                           v1.0
+
+Well then, this would be the very quickly put-together-before-my-tea Results
+file for this years raww.orgy!  The event took place in St4vs house in wintery
+Exeter, in South West England.  Attendance was low, with only 5 voters for the
+competitions, but the entries were, as usual, of a high standard.
+
+The party took place from 6th to 8th of February 2009.
+
+We had in total 6 music entries (lower than usual), and 6 graphics entries...
+sadly the graphics entry by BITS arrived late.  Also arriving late was their
+rather nice 256b intro, leaving 9 participants in the compo.
+
+But enough scribbling... the results...
+Format is: Place, Score (out of 50), title/author/group.
+
+
+ Screen$
+-=======-
+1 : 43 : ZX Cyber                               / Trixs       
+2 : 38 : Biplane                                / Prof^4d     
+3 : 37 : Moriturus                              / Dimidrol    
+4 : 30 : Death                                  / SAG         
+5 : 28 : Exit                                   / SAG         
+6 : 25 : MARe                                   / Blaz & Shade
+- : -- : Untitled                               / BITS        
+
+ AY-Music
+-========-
+1 : 37 : Deep Down Under                        / z00m    
+2 : 36 : Rising Force                           / Karbofos
+3 : 34 : throughTheGod'sLove                    / Riskej  
+4 : 32 : SQ-Tracker                             / Factor6 
+5 : 28 : Haus-Haus                              / Slip    
+6 : 21 : Neverhood                              / JeRrS   
+
+ 256b Intro
+-==========-
+1 : 43 : Mangy3                                 / tiboh/debris   
+2 : 36 : Brainwasher                            / dox            
+3 : 34 : Starlet Guitarlet                      / Gasman         
+4 : 28 : No Signal                              / Shiru          
+5 : 27 : RGB                                    / dox            
+6 : 24 : Alone Pixel II                         / Tygrys / AYLand
+7 : 23 : There's no any ideas, just some greets / bfox           
+8 : 15 : Where is my gas?                       / Tygrys / AYLand
+9 :  0 : zerodivide                             / skrju          
+- : -- : BITS3000                               / BITS           
+
+
+Congratulations to the winners.  The organisers (myself and/or LaesQ) will
+contact you shortly to sort out prizes (there will be some delay with prizes as
+they're not yet ready).
+
+
+History
+=======
+v1.0 - First version of results, no known errors.

@@ -1,0 +1,192 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Gasman\Exonique.stc
+<
+Author=Gasman/Hooy Program
+Name=Exonique
+Comment=266 points
+Time=6720
+Loop=0
+>
+..\..\Authors\Ivan Roshin\Improv_8.ay
+<
+Author=Ivan Roshin
+Name=Improvisation #8
+Comment=263 points
+Offset=24
+Time=4992
+Loop=0
+>
+..\..\Authors\Factor6\Navstevnici Theme.sqt
+<
+Author=Factor6/PHT+K3L
+Name=Theme from Navstevnici
+Comment=256 points
+Time=4297
+Loop=0
+>
+..\..\Authors\Ivan Roshin\Improv10.ay
+<
+Author=Ivan Roshin
+Name=Improvisation #10
+Comment=253 points
+Offset=24
+Time=8064
+Loop=0
+>
+..\..\Authors\Ravager\Happy Hardcore #2.pt3
+<
+Author=Ravager/CRG
+Name=Happy Hardcore #2
+Comment=251 points
+Time=4120
+Loop=24
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-I-am-fine.sqt
+<
+Author=X-Agon/PHT
+Name=I'm Fine
+Comment=250 points
+Time=10172
+Loop=0
+>
+..\..\Authors\Klim\Fall.pt3
+<
+Author=Klim
+Name=Fall
+Comment=235 points
+Time=8516
+Loop=0
+>
+..\..\Authors\Ahim\Planetary2002.pt3
+<
+Author=Ahim/Cyberpunks Unity
+Name=Planetary2002
+Comment=227 points
+Time=9616
+Loop=0
+>
+..\..\Authors\Ahim\Black Rain.pt3
+<
+Author=Ahim/Cyberpunks Unity
+Name=Black Rain
+Comment=223 points
+Time=6870
+Loop=0
+>
+..\..\Authors\Klim\Inferno3_07.pt3
+<
+Author=Klim
+Name=Remix
+Comment=222 points
+>
+..\..\Authors\Nik-O\simple+.pt3
+<
+Author=Nik-O
+Name=Simple
+Comment=219
+Time=5746
+Loop=0
+>
+..\..\Authors\TDM\Unexceptable.sqt
+<
+Author=TDM
+Name=Unexceptable
+Comment=216 points
+Time=8673
+Loop=0
+>
+..\..\Authors\Riskej\2002\nokopy\Parazmer.pt3
+<
+Author=Risk/Original Comp. Association
+Name=Parazmer
+Comment=212 points
+Time=4946
+Loop=0
+>
+..\..\Authors\Key-Jee\reliz03\083-key-jee-fluff_'mums'.pt3
+<
+Author=Key-Jee/TBK
+Name=Fluff
+Comment=210 points
+Time=16766
+Loop=0
+>
+..\..\Authors\Key-Jee\reliz03\084-key-jee-silence.pt3
+<
+Author=Key-Jee/TBK
+Name=Silence
+Comment=208 points
+Time=10240
+Loop=2048
+>
+..\..\Authors\Riskej\2002\nokopy\Flying.pt3
+<
+Author=Risk/Original Comp. Association
+Name=Flying
+Comment=205 points
+Time=3567
+Loop=3552
+>
+..\..\Authors\Miguel\Ghost.pt3
+<
+Author=Miguel/CPU
+Name=Ghost
+Comment=202 points
+Time=4887
+Loop=4872
+>
+..\..\Authors\Moran\Dominion.pt3
+<
+Author=Moran/Cyberpunks Unity
+Name=Dominion
+Comment=195 points
+Time=9216
+Loop=0
+>
+..\..\Authors\VooDoo of XTC\NO_GOOD+.pt3
+<
+Author=Voo/XTC
+Name=Durdom
+Comment=189 points
+Time=2240
+Loop=512
+>
+..\..\Authors\Moran\Hegemony of Earth.pt3
+<
+Author=Moran/Cyberpunks Unity
+Name=Hegemony of Earth
+Comment=183 points
+Time=7104
+Loop=0
+>
+..\..\Authors\Factor6\Blah-Blah-Gal.sqt
+<
+Author=Factor6/PHT+K3L
+Name=Blah-Blah-Gal
+Comment=157 points
+Time=8044
+Loop=0
+>
+..\..\Authors\Mitchell\Free Jazz.pt3
+<
+Author=Mitchel&D-Juice
+Name=Free Jazz
+Comment=Not played on the party
+Time=6201
+Loop=6137
+>
+..\..\Authors\Gasman\SelfTest.stc
+<
+Author=Gasman
+Name=Self Test
+Comment=Bonus
+Time=3840
+Loop=0
+>

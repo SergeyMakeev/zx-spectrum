@@ -1,0 +1,196 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=AY
+>
+..\..\Authors\Qjeta\MQM4-4Agent-X'sInspiration.stc
+<
+Author=Qjeta
+Name=Agent X's Inspiration
+>
+..\..\Authors\Qjeta\Qjeta - AMD2 part1.stc
+..\..\Authors\Qjeta\Qjeta - AMD2 part2.stc
+..\..\Authors\Qjeta\MQM2-6AnotherWorld-Amiga.stc
+<
+Author=Qjeta
+Name=Another world
+>
+..\..\Authors\Qjeta\MQM4-3AtariSTECrack.stc
+<
+Author=Qjeta
+Name=Atari ST song
+>
+..\..\Authors\Qjeta\MQM4-12BeerJoint.stc
+<
+Author=Qjeta
+Name=Beer Joint
+>
+..\..\Authors\Qjeta\MQM1-13Alphavile.stc
+<
+Author=Qjeta
+Name=Big In Japan
+>
+..\..\Authors\Qjeta\MQM4-1CarrierCommandSTCrack.stc
+<
+Author=Qjeta
+Name=Carrier Command
+>
+..\..\Authors\Qjeta\MQM4-7Chorus(Erasure).stc
+<
+Author=Qjeta
+Name=Chorus
+>
+..\..\Authors\Qjeta\MQM4-11Complications(Amiga).stc
+<
+Author=Qjeta
+Name=Complications
+>
+..\..\Authors\Qjeta\MQM4-14CrazyWoodpecker.stc
+<
+Author=Qjeta
+Name=Crazy Woodpecker
+>
+..\..\Authors\Qjeta\MQM4-6CybernoidSTCrack.stc
+<
+Author=Qjeta
+Name=Cybernoid
+>
+..\..\Authors\Qjeta\MQM4-10DullSeason.stc
+<
+Author=Qjeta
+Name=Dull Season
+>
+..\..\Authors\Qjeta\MQM4-5EcstasyFromBeer.stc
+<
+Author=Qjeta
+Name=Ecstasy From Beer
+>
+..\..\Authors\Qjeta\MQM1-14FinalCountdown.stc
+<
+Author=Qjeta
+Name=Final Countdown
+>
+..\..\Authors\Qjeta\MQM2-12Firefly-48SpecialFX.stc
+<
+Author=Qjeta
+Name=Firefly
+>
+..\..\Authors\Qjeta\MQM2-11Flaps2-AtariSTE.stc
+<
+Author=Qjeta
+Name=Flaps 2
+>
+..\..\Authors\Qjeta\MQM2-5GreatCourts-Amiga.stc
+<
+Author=Qjeta
+Name=Great Courts
+>
+..\..\Authors\Qjeta\MQM2-2HardWedge1.stc
+<
+Author=Qjeta
+Name=Hard Wedge 1
+>
+..\..\Authors\Qjeta\MQM2-4HardWedge2.stc
+<
+Author=Qjeta
+Name=Hard Wedge 2
+>
+..\..\Authors\Qjeta\MQM2-7HardWedge3.stc
+<
+Author=Qjeta
+Name=Hard Wedge 3
+>
+..\..\Authors\Qjeta\MQM2-10HardWedge4.stc
+<
+Author=Qjeta
+Name=Hard Wedge 4
+>
+..\..\Authors\Qjeta\MQM2-13HardWedge5.stc
+<
+Author=Qjeta
+Name=Hard Wedge 5
+>
+..\..\Authors\Qjeta\MQM4-15HardWedge5TurboRemix.stc
+<
+Author=Qjeta
+Name=Hard Wedge 5 (turbo remix)
+>
+..\..\Authors\Qjeta\MQM1-16It'sASin.stc
+<
+Author=Qjeta
+Name=It's a sin
+>
+..\..\Authors\Qjeta\MQM1-12JohnFromAmiga.stc
+<
+Author=Qjeta
+Name=John
+>
+..\..\Authors\Qjeta\MQM2-8KickOff2-Amiga.stc
+<
+Author=Qjeta
+Name=Kick Off 2
+>
+..\..\Authors\Qjeta\MQM2-9Leviathan-AtariSTE.stc
+<
+Author=Qjeta
+Name=Leviathan
+>
+..\..\Authors\Qjeta\MQM1-11MetalsynthFromAmiga.stc
+<
+Author=Qjeta
+Name=Metalsynth
+>
+..\..\Authors\Qjeta\Qjeta - MQM3 Intro.stc
+..\..\Authors\Qjeta\Qjeta - MQM4 Intro (part1).stc
+..\..\Authors\Qjeta\Qjeta - MQM4 Intro (part2).stc
+..\..\Authors\Qjeta\Qjeta - MQM6.sqt
+..\..\Authors\Qjeta\MQM4-9OxygeneIV(JMJarre).stc
+<
+Author=Qjeta
+Name=Oxygene IV
+>
+..\..\Authors\Qjeta\MQM2-3PennyLane-Beatles.stc
+<
+Author=Qjeta
+Name=Penny Lane
+>
+..\..\Authors\Qjeta\Qjeta - PSB01.stc
+..\..\Authors\Qjeta\MQM4-2Qjeta'sHello.stc
+<
+Author=Qjeta
+Name=Qjeta's Hello
+>
+..\..\Authors\Qjeta\MQM1-15Seriously.stc
+<
+Author=Qjeta
+Name=Seriously
+>
+..\..\Authors\Qjeta\MQM2-14SoHard-PetShopBoys.stc
+<
+Author=Qjeta
+Name=So Hard
+>
+..\..\Authors\Qjeta\MQM1-17Suburbia.stc
+<
+Author=Qjeta
+Name=Suburbia
+>
+..\..\Authors\Qjeta\MQM2-1Supremacy-Amiga.stc
+<
+Author=Qjeta
+Name=Supremacy
+>
+..\..\Authors\Qjeta\Qjeta - Take On Me.stc
+..\..\Authors\Qjeta\MQM4-8TranzeSeven'sInspiration.stc
+<
+Author=Qjeta
+Name=Tranze Seven's Inspiration
+>
+..\..\Authors\Qjeta\MQM2IntroMusic-Turrican1v1.stc
+<
+Author=Qjeta
+Name=Turrican 1 v1
+>

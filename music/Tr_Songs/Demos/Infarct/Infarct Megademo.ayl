@@ -1,0 +1,105 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Averin Roman\Infarct1.vtx
+<
+Author=Roma
+Name=Infarct Intro
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=1626
+Original=70560
+Offset=109
+Time=5040
+Loop=0
+>
+..\..\Authors\Averin Roman\Infarct2.vtx
+<
+Author=Roma
+Name=Infarct Part 1
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=2589
+Original=52640
+Offset=110
+Time=3760
+Loop=0
+>
+..\..\Authors\Averin Roman\Infarct3.vtx
+<
+Author=Roma
+Name=Infarct Part 2
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=2092
+Original=82460
+Offset=110
+Time=5890
+Loop=514
+>
+..\..\Authors\Averin Roman\Infarct4.vtx
+<
+Author=Roma
+Name=Infarct Part 3
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=1910
+Original=78400
+Offset=110
+Time=5600
+Loop=0
+>
+..\..\Authors\Averin Roman\Illusion.asc
+<
+Author=AVERIN ROMAN 10/95
+Name=ILLUSION #1
+>
+..\..\Authors\Averin Roman\Agress.asc
+..\..\Authors\Averin Roman\Infarct7.vtx
+<
+Author=Roma
+Name=Infarct Part 6
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=2137
+Original=47544
+Offset=110
+Time=3396
+Loop=0
+>
+..\..\Authors\Averin Roman\Infarct8.vtx
+<
+Author=Roma
+Name=Infarct Part 7
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=2899
+Original=104300
+Offset=110
+Time=7450
+Loop=0
+>
+..\..\Authors\Averin Roman\Infarct9.vtx
+<
+Author=Roma
+Name=Infarct Epilogue
+Program=Infarct Megademo
+Tracker=ASM
+Date=1997
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=1871
+Original=108150
+Offset=112
+Time=7725
+Loop=55
+>

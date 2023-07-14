@@ -1,0 +1,116 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+<
+ChipFrequency=2000000
+PlayerFrequency=50000
+ChipType=YM
+>
+..\..\Authors\Sarek\Atari_Touch (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Atari Touch
+Length=1115
+Time=4608
+Loop=768
+>
+..\..\Authors\V0yager\Boobswatch_theme (2MHz).pt3
+<
+Author=V0yager
+Name=Boobswatch theme
+Length=1248
+Time=1536
+Loop=1344
+>
+..\..\Authors\Sarek\Caprain_Xeron_Theme (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Xeron Overture
+Length=619
+Time=2240
+Loop=0
+>
+..\..\Authors\V0yager\Cartridge_Generation (2MHz@60Hz).pt3
+<
+PlayerFrequency=60000
+Author=V0yager/Lamers
+Name=Cartridge Generation
+Length=5396
+Time=9600
+Loop=9408
+>
+..\..\Authors\Yerzmyey\Evelynn (2MHz).pt3
+<
+Author=YERZMYEY/AY-RIDERS
+Name=EVELYNN
+Length=7191
+Time=7680
+Loop=0
+>
+..\..\Authors\Yerzmyey\Get_Mad (2MHz).pt3
+<
+Author=YERZMYEY
+Name=GET MAD
+Length=7189
+Time=6272
+Loop=0
+>
+..\..\Authors\Sarek\Improvisation (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Improvisation
+Length=2424
+Time=7424
+Loop=256
+>
+..\..\Authors\Sarek\Organic_Robots (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Organic Robots
+Length=1512
+Time=7680
+Loop=2560
+>
+..\..\Authors\Yerzmyey\spiker12_1_Yerz.stc
+<
+Author=YERZMYEY/AY-RIDERS
+Name=yerz3 (outro)
+>
+..\..\Authors\Yerzmyey\Silly_Invite_2010 (2MHz).pt3
+<
+Author=YERZMYEY/AY-RIDERS
+Name=Silly_Invite_2010
+Length=7468
+Time=10560
+Loop=0
+>
+..\..\Authors\Sarek\Sports_Day (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Sports Day
+Length=1276
+Time=4608
+Loop=0
+>
+..\..\Authors\Yerzmyey\STandard_Crap (2MHz).pt3
+<
+Author=YERZMYEY/AY-RIDERS
+Name=STandard_Crap
+Length=5352
+Time=8640
+Loop=0
+>
+..\..\Authors\Sarek\Stop_Start (2MHz).pt3
+<
+Author=Sarek, (c) 2005
+Name=Stop Start
+Length=2124
+Time=8960
+Loop=0
+>
+..\..\Authors\Sarek\Witches (2MHz).pt3
+<
+Author=Sarek
+Name=Witches
+Length=1045
+Time=3664
+Loop=0
+>

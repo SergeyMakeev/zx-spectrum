@@ -1,0 +1,87 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Factor6\Taio Byte.sqt
+<
+Author=Factor6
+Name=Taio Byte
+Length=6114
+Time=9648
+Loop=0
+>
+..\..\Authors\z00m\Botkyrka Sidekicker.pt3
+<
+Author=.z00m^TCG.03/2009.origin.dubmood
+Name=.Botkyrka.Sidekickers.remake.
+Length=4042
+Time=5376
+Loop=1536
+>
+..\..\Authors\TDM\Princ a Vecernice.sqt
+<
+Author=Hvezdny general TDM
+Name=Princ a Vecernice
+Length=5889
+Time=8444
+Loop=0
+>
+..\..\Authors\Trefi\Future.pt3
+<
+Author=I know,Bce 3aBucuT oT Hac.Scarab
+Name=6yDywee. Kakum OHO 6yDeT ?
+>
+..\..\Authors\mborik\Serenity 2009 (Party version).pt3
+<
+Author=Martin Borik
+Name=Serenity 2009
+Length=13424
+Time=11632
+Loop=384
+>
+..\..\Authors\Jerrs\Im Not Lucky Man.pt3
+<
+Author=JeRrS
+Name=Im Not Lucky Man
+Length=1370
+Time=3456
+Loop=0
+>
+..\..\Authors\Baze\Buddha Beat.stc
+<
+Author=baze/3SC
+Name=Buddha Beat
+Length=2278
+Time=7168
+Loop=0
+>
+..\..\Authors\Karate\Pepe to Petra.sqt
+<
+Author=Karate of Mandala Breakers
+Name=P to P (Pepe to Petra)
+Length=4281
+Time=14233
+Loop=0
+>
+..\..\Authors\Slip\Q-Basik.pt3
+<
+Author=SLIP
+Name=Q-BASIK
+Length=2724
+Time=7296
+Loop=0
+>
+..\..\Authors\Key-Jee\good bye my friend.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=kahwi/triebkraft
+Name=good bye my friend
+Date=2009
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=3183
+Original=53200
+Offset=107
+Time=3800
+Loop=0
+>

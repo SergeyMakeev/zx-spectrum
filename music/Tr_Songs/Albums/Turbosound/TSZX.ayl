@@ -1,0 +1,197 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Karbofos\TS\turbosound\funkyenvelopes.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=funky envelopes
+Length=2680
+Time=7104
+Loop=6912
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=funky envelopes
+Length=3166
+Offset=2680
+Time=6816
+Loop=6624
+>
+..\..\Authors\Karbofos\TS\turbosound\Goddy.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=Goddy
+Length=5381
+Time=4896
+Loop=768
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=Goddy
+Length=3895
+Offset=5381
+Time=4896
+>
+..\..\Authors\Karbofos\TS\turbosound\insane (ts).pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=Insane
+Length=4512
+Time=4944
+Loop=432
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=Insane
+Length=5017
+Offset=4512
+Time=4944
+>
+..\..\Authors\Karbofos\TS\turbosound\kk.pt3
+<
+Author=karbofos&kyv [3umph]
+Name=KK
+Length=2588
+Time=5616
+Loop=2352
+>
+<
+Author=karbofos&kyv [3umph]
+Name=KK
+Length=1651
+Offset=2588
+Time=5616
+>
+..\..\Authors\Karbofos\TS\turbosound\krwrk.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=krwrk
+Length=1968
+Time=9024
+Loop=0
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=krwrk
+Length=1351
+Offset=1968
+Time=9024
+>
+..\..\Authors\Karbofos\TS\turbosound\lgwbyb.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=little girl with big yellow bow
+Length=5190
+Time=5368
+Loop=1016
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=little girl with big yellow bow
+Length=4271
+Offset=5190
+Time=5368
+>
+..\..\Authors\Karbofos\TS\turbosound\nm.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=Napalmodium
+Length=1175
+Time=2112
+Loop=0
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=Napalmodium
+Length=1262
+Offset=1175
+Time=2112
+>
+..\..\Authors\Karbofos\TS\turbosound\NoPower2.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=No power: load                ;)
+Length=2156
+Time=6085
+Loop=5765
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=No power: load                ;)
+Length=1171
+Offset=2156
+Time=6085
+>
+..\..\Authors\Karbofos\TS\turbosound\over.pt3
+<
+Author=Trmxd krb 2k6
+Name=overloaded
+Length=3061
+Time=7040
+Loop=160
+>
+<
+Author=Trmxd krb 2k6
+Name=overloaded
+Length=2566
+Offset=3061
+Time=7040
+>
+..\..\Authors\Karbofos\TS\turbosound\raketa.pt3
+<
+Author=karbofos [dlcorp][3umph]
+Name=Lichu naroketi!
+Length=3006
+Time=9984
+Loop=0
+>
+<
+Author=karbofos [dlcorp][3umph]
+Name=Lichu naroketi!
+Length=2885
+Offset=3006
+Time=9408
+>
+..\..\Authors\Karbofos\TS\turbosound\s2a.pt3
+<
+Author=krb
+Name=s2a
+Length=617
+Time=4864
+Loop=0
+>
+<
+Author=krb
+Name=s2a
+Length=1126
+Offset=617
+Time=4864
+>
+..\..\Authors\Karbofos\TS\turbosound\trotil.pt3
+<
+Author=karbofos&splinter
+Name=Trotyl sausage
+Length=3829
+Time=7104
+Loop=0
+>
+<
+Author=karbofos&splinter
+Name=Trotyl sausage
+Length=2164
+Offset=3829
+Time=7104
+>
+..\..\Authors\Karbofos\TS\turbosound\turbodance.pt3
+<
+Author=karbofos 2k6
+Name=Meat grinder
+Length=3382
+Time=6240
+Loop=0
+>
+<
+Author=karbofos 2k6
+Name=Meat grinder
+Length=2904
+Offset=3382
+Time=6240
+>

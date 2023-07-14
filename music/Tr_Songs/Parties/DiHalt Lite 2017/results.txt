@@ -1,0 +1,134 @@
+DiHalt Lite 2017 demoparty
+6-8 January
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+Official results v1.0
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1.   7.68   Drunk Santa by Quiet
+2.   7.19   Winter Vacation by MmcM ^ Sage
+3.   6.92   life after forty by nq ^ skrju
+4.   6.86   a big adventure of the fork in the world of soup by scalesmann ^ march[ing]_cats
+5.   6.26   Drunken Snowflakes by kubikami
+
+
+[ ZX Spectrum Beeper Music ]
+
+1.   8.06   Quantum of Destruction by utz ^ irrlicht project
+
+
+[ LowEnd Graphics ]
+
+1.   8.44   Поймала! by vassa
+2.   8.39   Dinosaur War by Leon ^ Singular Crew / Chorus / Resource
+3.   8.33   Orco by DenisGrachev
+4.   8.05   XXI Century Pirates by kubikami
+5.   8.00   Ray Donovan by Dimidrol
+6.   6.87   The Face of the Eternity by aturbidflow
+7.   6.70   Return of the Pig Zombie by moroz1999
+8.   6.35   bonsai by pixelrat
+9.   5.68   W-chan by mr_r0ckers
+10.   5.23   73-color chunkybeetle by pixelrat
+11.   5.05   Йош (Hedgehog) by g0blinish
+12.   4.97   piramida by pixelrat
+
+
+[ LowEnd 256b Intro ]
+
+1.   9.38   Happy New Yeah! by bfox
+2.   6.57   Intellivision running man by g0blinish
+3.   5.07   Hello,Di:Halt! by g0blinish
+
+
+[ LowEnd 1K Intro ]
+
+1.   6.11   Wham! The Rest in Peace Box by Lisokryl
+2.   5.48   Not a SIL! by g0blinish
+
+
+[ LowEnd Demo ]
+
+1.   9.43   e-Bun. ЭлектроБулка by Excess team
+2.   8.30   TbMA by SibCrew
+3.   7.00   Super Mega Hit by Q-BONE (eye-q and fishbone)
+4.   6.79   DHL2K17 by DIHALT VISITORS
+5.   6.43   kkrktr17 by Techno Lab
+6.   5.77   Happy New Year 2017 by Placebo
+7.   5.75   Xmas 2016 by TDM & Noby
+8.   4.93   Happy New Year by wbr
+
+
+[ LowEnd Enhanced Demo ]
+
+1.   8.19   Fast by g0blinish
+2.   5.76   Wavering by vbi / wbcbz7
+3.   5.57   giftro17 by g0blinish
+4.   5.50   happy new 0x7e1! by b-state
+
+
+[ Realtime LowEnd Coding ]
+
+1.   7.05   bumpa1k by SerzhSoft
+2.   6.43   Rays by g0blinish
+3.   6.10   ashot by Buyan
+4.   5.48   Rottotor by Lisokryl
+
+
+[ Realtime LowEnd AY-Music ]
+
+1.   8.62   Altitude by Quiet
+2.   7.79   Nice Place (Realtime) by MmcM ^ Sage
+3.   6.82   windy sun under us by wbc ^ b-state
+
+
+[ Realtime LowEnd Graphics ]
+
+1.   8.35   Inside by DenisGrachev
+2.   8.03   Ultra super cat by vassa
+3.   7.92   Ктулхование by moroz1999 ^ dibiliki
+4.   6.08   That they REALLY found on the Moon by mr_r0ckers
+5.   3.50   Fantastic Beasts Among Us by Krysolir
+6.   3.49   Йа упоролся by square
+
+
+[ Realtime ZX Spectrum 53c Graphics ]
+
+1.   8.97   white pearl by rainman ^ deMarche
+2.   7.22   KARRRAAAMMBAAA!!!!! by bfox
+3.   6.94   Karramba! by serzhik
+4.   6.91   на абордаж! by shuran33
+5.   6.32   Йо-хо! by zedOFF
+6.   6.19   Pirate Ship by Vinnny
+7.   6.03   Night lovers by BlastOff
+8.   5.90   fort by Flash_zx
+9.   5.84   где же корсары,черт возьми?! by KloyanA
+10.   5.81   Yo ho ho and a bottle of rum by DenisGrachev
+11.   5.77   Хомяк-пират by София, 8 лет
+12.   5.68   pirat by dmtitov
+13.   5.66   8bit pirat 4ever!!! by Bender64
+14.   5.26   Пиратская? by Flast
+15.   5.19   Pirate harbor by wbr
+16.   5.10   на всех парусах by KloyanA
+17.   4.94   Наше дело правое! Нет киберпиратам! by Antibender
+18.   4.81   Пиратская бухта by Antibender
+19.   4.55   Bone island by moroz1999
+20.   4.26   Mayya's Shit by AdambI4
+21.   4.23   Bad Girl On The Pirates Beach by Creonix ^ Brain Wave / Mistigris
+22.   4.06   не хотела на DiHalt by sherhan
+23.   3.84   Lord Haven by Krysolir
+24.   3.48   Череп и кости by Сева 8 лет
+25.   3.00   nyuk by vera
+26.   2.39   S lubovu k orgu by vera
+
+
+[ Realtime Paint Over ]
+
+1.   8.79   realtime aviation by prince ^ the Obsessed Maniacs
+2.   7.30   Butterfly by vassa
+3.   6.88   Bug hunt by moroz1999
+4.   6.47   jane air by bfox
+5.   5.47   pacman by shuran33

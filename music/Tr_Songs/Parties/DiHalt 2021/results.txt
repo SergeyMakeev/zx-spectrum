@@ -1,0 +1,121 @@
+DiHalt 2021 demoparty
+7-9 January
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+
+Official results v1.0
+
+
+
+[ ZX Spectrum Beeper Music ]
+
+1. 8.39 Dark Transit by utz ^ irrlicht project
+2. 8.02 Hey Beeper! by Tufty
+3. 7.48 Standing Wave by Shiru
+4. 6.53 Repeating Itself by Shiru
+5. 6.26 ZXBITLES.COM by hellraver ^ ZX BITLES
+6. 5.93 tune by hellraver ^ ZX BITLES
+7. 5.70 Fire2 by hellraver ^ ZX BITLES
+
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1. 7.73 Everything will be fine by kotsoft
+2. 6.61 CompoFiller#1 by EA ^ Antares
+3. 6.50 CompoFiller#2 by EA ^ Antares
+4. 6.42 [so sad that] covfefe is outta here! by scalesmann ^ march[ing]_cats
+5. 4.04 Tunnels of Light by Garvalf
+
+
+
+[ Realtime ZX Music ]
+
+1. 8.15 WaL'sOk by MmcM ^ Sage
+2. 7.39 Powersword by Cj Splinter
+3. 6.34 FIREWORKS by hellraven ^ ZX BITLES
+
+
+
+[ LowEnd Graphics ]
+
+1. 8.94 Rain by Mikael ^ Pretzel Logic
+2. 8.56 The Raven Outside by Tutty
+3. 8.48 Fear and Loathing in KEMO City by brightentayle
+4. 8.15 Scientist by dman ^ Placebo
+5. 8.02 NAD-M-OZG by devstratum
+6. 7.62 GraySkull by Almighty God ^ Level 64
+7. 7.58 Kookaburra by Dimidrol
+8. 7.57 Радио-Маяк (Beacon) by ALKO
+9. 7.48 Witch from Hell by shuran33
+10. 6.46 Furrball by pixelrat
+11. 5.74 Funny little men by shuran33
+12. 5.68 Robocop by Rainman ^ deMarche
+13. 5.32 Bunny by pixelrat
+14. 5.10 Progulka by pixelrat
+15. 5.00 DerevoNeSpit by sashapont
+16. 4.64 krodetsya by pixelrat
+17. 4.09 HNY2021 by g0blinish
+18. 4.02 Moroz protiv Santy by sashapont
+19. 2.89 Сизиф by Мазилка
+
+
+
+[ Realtime LowEnd Graphics ]
+
+1. 8.66 di halt deer by nodeus
+2. 7.15 Kolyadki by shuran33
+3. 5.72 Podarok v trubu by sashapont
+
+
+
+[ Realtime ZX Spectrum 53c Graphics ]
+
+1. 7.82 В тазу by Rainman ^ deMarche
+2. 7.61 I'm Bathman! by Mihhru
+3. 7.46 mon plaisir by toughthrough
+4. 6.26 Тяжело быть банщиком by shuran33
+5. 5.67 Alcoban by hellraver ^ ZX BITLES
+6. 5.41 v bane s venikom by sashapont
+7. 5.29 Bansheenator by Dovakin
+8. 5.27 Парку! by Mechta
+9. 5.21 банки банит by Amirnasyri ^ Excess team
+10. 5.16 Банщик ZX.PK by CHRV ^ NedoPC
+11. 4.56 Баня, через дорогу раздевалка by Мазилка
+12. 4.00 Баня, веник...девушка by Sherhan
+13. 3.72 Баньши-К by Flast
+
+
+
+[ LowEnd 256b Intro ]
+
+1. 9.37 GleEst by bfox
+2. 8.81 Superform by Superogue ^ Marquee Design
+3. 8.16 zen by Agenda
+4. 8.00 2033 by SerzhSoft
+5. 7.63 CoRoBars by Shiru
+6. 6.76 Mandelbrot Fractal by s_i_m ^ Fortran Lovers
+7. 6.72 moroz-no! by Adam Bazaroff ^ Excess team
+8. 6.65 ColorMash 64b by g0blinish
+9. 6.48 Crazy Hampster by gorgh ^ Agenda
+10. 5.58 triple invitation intro by xeen ^ Agenda
+11. 4.96 Calctro by Frog ^ ROi
+12. 4.90 No Copper by Sandro
+13. 4.67 Just Snow by error ^ errorsoft
+14. 4.38 Kermit the Frog by gorgh ^ Agenda
+
+
+
+[ New Year's Intro ]
+
+1. 6.09 2021NYgiftro by g0blinish
+
+
+
+[ LowEnd Demo ]
+
+1. 9.60 Void by Invaders
+2. 7.77 Bored by SibKrew
+3. 6.06 Boing Ball by Manwe ^ SandS

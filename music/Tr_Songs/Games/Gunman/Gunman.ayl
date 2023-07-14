@@ -1,0 +1,40 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+..\..\Authors\Mmcm\1996-2000\GuNMaN4.pt3
+<
+Author=Mm<M of Sage 26.Apr.99 twr 21:32
+Name=Loading Gun Man ...
+Comment=Intro
+Time=1144
+Loop=704
+>
+..\..\Authors\Mmcm\1996-2000\GuNMaN1.pt3
+<
+Author=Mm<M of Sage 24.Apr.99 twr 20:50
+Name=TrAcK foR gAmE GuN MaN /AF'SG'99
+Comment=Menu
+Time=2304
+Loop=0
+>
+..\..\Authors\Mmcm\1996-2000\GuNMaN3.pt3
+<
+Author=Mm<M of Sage 25.Apr.99 twr 14:50
+Name=Sectrack: game
+Comment=In-Game
+Time=1920
+Loop=384
+>
+..\..\Authors\Mmcm\1996-2000\GuNMaN2.pt3
+<
+Author=Mm<M of Sage 24.Apr.99 twr 21:15
+Name=TrAck for gAme OvER of GuN MaN
+Comment=Game Over
+Time=256
+Loop=0
+>
+..\..\Authors\Mmcm\1996-2000\InStIMPa.pt3
+<
+Author=Mm<M of Sage 13.Mar.99 twr 02:04
+Name=In style ImP/DMS :) ...
+Time=1536
+Loop=0
+>

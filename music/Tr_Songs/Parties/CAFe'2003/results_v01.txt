@@ -1,0 +1,393 @@
+
+                                    CAFe'2003
+                    
+                          23-24 august 2003 Kazan/Russia
+
+                                official results
+                                      v0.1
+pt  - place
+sh  - collected points
+sn  - shown
+
+-----------------------------------{day 1}-----------------------------------------
+
+PC:
+
+-------------ASCII
+
+pt sh  sn
+
+ 1 237 14 Paravespula                         Ice'Di/Triumph
+ 2 236 10 Wisdom                              Kingpin Octopus/MiMiC
+   236 19 Socializm                           woody
+ 3 226  7 real joke!                          c-jeff/gbg+bwt
+ 4 225 13 Elis                                Ice'Di/Triumph
+ 5 212  8 shut up, pc!                        c-jeff/gbg+bwt
+ 6 206  1 Bitch                               Zero/Zeitnot
+ 7 200  9 TopPeople                           petya/Red Brigade
+ 8 194  3 Ira                                 Zero/Zeitnot
+ 9 189  4 competition                         raz
+10 185 12 gangsta house                       shadow_lord/secular/galza/ceg
+11 183 11 rebirth                             shadow_lord/secular/galza/ceg
+12 169 17 CAFe'03 logo                        DMan/Placebo
+13 143 18 Hatred                              DMan/Placebo
+14 130  5 relict wizards of galza             zmej_/galza, varga
+15 129  6 robots too people                   riskej^original computer association, [v]arga
+16 116 15 native pfhor                        zmej_/galza, varga
+17 115 16 picture                             pulsar/original computer's association
+18  92  2 cafe                                petya/Red Brigade
+
+-------------ANSI
+
+pt sh  sn
+
+ 1 210  1. Action                               Zero/Zeitnot
+   210  2. body                                 saji        
+ 2 192  5. last cigarette                       shadow_lord\secular/galza/ceg
+ 3 185  3. cafe'o3                              c-jeff\gbg+bwt
+ 4 177  7. tee-vee                              saji
+ 5 176  4. paranormal                           c-jeff\gbg+bwt
+ 6 113  6. cafe'o3 party!!!                     shadow_lord/secular/galza/ceg
+
+-------------64k Web
+
+pt sh  sn
+
+ 1 244  4. Buzz web page                        DMan/Placebo
+ 2 236  3. Red brigade                          petya/Red Brigade
+ 3 189  5. Vek-TV web page (promo version)      DMan/Placebo
+ 4 134  2. psycho style - RecoveR's web project RecoveR/Power Reality
+ 5 131  1. Jim Morrison true poet               Eugeny Gordeyv
+
+
+ZX Spectrum:
+
+-------------AY-music
+
+pt sh  sn
+
+ 1 258  7. Retrochip 2                         Gasman/Hooy-Program / AY Riders
+ 2 233 13. its life                            mmcm^sage
+ 3 231  1. fioletto                            c-jeff/gbg+bwt
+ 4 220 14. SunFlyer                            Ravager/Computer Rats Group
+ 5 211 18. J.S.                                Gibson/Universal SoftGroup
+ 6 210  4. Mind Endurance                      Key-Jee/Triebkraft
+ 7 205  6. Medieval - part I "Who Are You?"    Artur(iK)/Tiraspol Art Group/TAG
+   205 11. the box                             ahim/cpu
+ 8 198 12. i don't know what me to do          morfy/original computer association
+ 9 195 15. good morning                        Fatal Snipe/Fenomen
+10 189 16. Lappki Oziabli                      Siril/4D (Fourth Dimension)
+11 188 17. for love cafe version               sjee/ milytia
+12 178  3. NEW SOUND                           YERZMYEY/H-PRG^AY_R
+   178  9. Sintezz                             KYV/Triumph
+13 172  8. my foto                             riskej/original computer association
+   172 20. Guardian Angel                      Cj.Echo/Triumph
+14 155 10. laser                               moran/cpu
+15 144  5. killing loops                       alx^bw
+16 143  2. i'm niger                           niger//nigergy team
+17 132 19. Souperifik saund of beis nout       Nik-O
+
+out of compo
+
+        4. LETNAA JARA                         A.S.EKB. (Александр Смирнов)
+        6. Шторм                               Scarab/Siberian Group
+       20. Nedrukh                             Nik-O
+       22. lazy evaluation                     alone coder/i8
+       24. Matrix1                             Research/Volgasoft
+       25. to the sky                          dee jey slee
+       28. Tpexhem.pt3                         EA/ANTARES
+       29. 'S novim godom, kroshka' (MT)       Sergey Bulba
+
+lost work:
+
+       30. Ded Mazaj & AllyM!NEVAYa LOPATA     Flabber/Virtual Masters
+
+-------------Gfx
+
+pt sh  sn
+
+ 1 345  8. Unreal                              Rion
+ 2 290 11. Alien                               G.D./Triebkraft, 4th Dimension
+ 3 287 19. Village People                      Diver/4th Dimension
+ 4 285  6. morda                               clown/delirium tremens
+ 5 274 20. KPbICA                              Kasik/Sinclair Club
+ 6 264  5. Holiday in the sun                  Exocet/Just For Fun^Spaceballs^Industry
+ 7 262  1. Stay Cool                           Diver/4th Dimension
+ 8 261 18. Thoughtf (Thoughtful)               Dimidrol/Green Bit Group
+ 9 245 13. sIckNess                            Ice'Di/Triumph
+10 243  4. Green                               Hedgehog
+11 235  7. semilanceta hunting                 r0m/progress
+12 222 12. Tram racing                         Gas 13
+13 214  3. dolphin's fly                       voodoo//delirium tremens
+14 200 14. Батарейка                           Stanly/stall
+15 199 16. cosmopolitan                        sg/milytia
+16 188 17. Rix                                 Iron Lord/Green Bit Group
+17 178 15. Mauntain                            Robodron/Ultraviolence
+18 176  2. Chasm of his mind                   Yerzmyey/H-PRG
+19 173  9. The Eye Of God Is Blind             Kempy / Veezya
+20 166 10. Зависимость                         Surfin Bird
+
+out of compo
+
+        2. de-anima (my first speccy-screen)   DizZy
+       13. sk:018                              scan master	
+       15. a bomb                              alx^bw
+       18. drunk chasm                         voodoo/delirium tremens
+       19. обезображенное лицо свободы         clown^delirium tremens
+       20. PIC001.SCR                          MZ
+       21. PIC001.SCR                          MZ
+       22. Sobanya                             Lilu/Omega Hackers Group
+        1. Bob Marley                          r0m/progress
+
+-------------512 bytes
+
+pt sh  sn
+
+ 1 265  9. i512                                psb/halloween
+ 2 237  1. DRAWING                             Siberian Group
+ 3 206  5. qbee                                voodoo/delirium tremens
+ 4 202 10. HARMONY                             Konex/Antares
+ 5 192  6. Love Of Stars                       KIM/PoS-WT
+ 6 184  3. kubo                                mikezt/zeroteam, constelation
+ 7 178  7. Shock 512                           Flying/Digital Reality                            
+ 8 176  8. 512 mlt                             milytia
+ 9 174  2. Estonia                             SCAR/PoS-WT
+10 157  4. Phore512                            Ice'Di/Triumph
+
+-------------4k intro
+
+-- ---  1. Requiem of a Sun                   KIM/PoS-WT
+
+-------------demo
+pt sh  sn
+
+ 1 370 07. Weed                               Triebkraft
+ 2 303 06. RESURRECTION                       Jocker, Klim/ Omega Hackers Group
+ 3 208 03. caprize                            milytia
+ 4 199 04. Fuck You Scene                     Skrju
+ 5 192 01. demo22                             organizm
+ 6 178 05. EVENLESS                           CPU
+ 7 134 02. _the_source_                       inward/CPU
+
+-----------------------------------{day 2}-----------------------------------------
+
+PC:
+-------------4 Channel Music compo
+
+pt sh  sn
+
+ 1 134 03. STPRO.MOD                          EA/ANTARES
+ 2 124 02. Goa                                Psycho/DJ MoHaX
+ 3 91  01. gas-alarm                          n1k-o/techno lab
+
+-------------Rendered Graphics Compo
+
+pt sh  sn
+
+ 1 219 4. bitch                               hewle art/cpu
+ 2 212 6. Game Over                           Trion
+ 3 190 8. оружейная (oruzeynaya)              tara/eYe-Q team
+ 4 172 5. Снайпер (BattleTech)                AmiF1Team/team Dogma
+   172 2. Arachnids                           Trion
+ 5 169 10. Desert Life                        Andrey
+ 6 155 9. T-90 Heavy Tank                     woody
+ 7 151 7. autumnal waltz                      magnetik/cpu
+ 8 148 3. back to the primitive               petya/Red Brigade
+ 9 140 1. free flight                         petya/Red Brigade
+
+-------------Handdrawn Graphics Compo
+
+pt sh  sn
+
+ 1 191 14. See real life                        Ray_Noa/Mayhem
+ 2 169  7. Mother's Nightmare                   Critikill/Madwizards^Farbrausch
+ 3 166  9. Overlook                             Ray_Noa/Mayhem
+ 4 155  8. nosay                                magnetik/cpu
+   155  3. Why?                                 Demiurge Ash
+ 5 150 15. Gnome and Fish                       Manwe/SandS
+ 6 148 11. Axis of the ill                      L-Graph/team PowerAmiga
+ 7 145  1. Faith                                L-Graph/team PowerAmiga
+ 8 140  4. freedom                              hewle art/cpu
+ 9 121  5. Doped Vision                         sand/mayhem
+10 108 10. Summer forever                       Ice'Di/Triumph
+11 107 13. Space                                Trion
+12  92 12. Deevaaha                             qWErt/roxxsoxx
+13  84  2. Fantasy                              Trion
+14  77  6. pane                                 zmej_/galza, varga
+
+out of compo:
+
+16. Live                                 Trion    [too much works from 1 author]
+
+-------------MP3 Music Compo
+
+pt sh  sn
+
+ 1 163 10. You love me			MMCM/Sage
+ 2 158  5. Twisted Love			ViSuAl
+ 3 156  7. Dreaming Of You		Arktika
+ 4 149  6. We Will Funk You!		Megus/Brainwave Team
+ 5 144  2. Ski Da			ukms[z]
+ 6 143  9. My name is Ganja		Chuk'n'Gek
+ 7 141  4. Funky Tropicale Gangsta	Zeebr/deMarche
+ 8 135 13. SpaceDelay			Deft and Art
+ 9 134  1. dirty sounds			petya/[red brigade]
+10 131 12. Ne ty			Maxi GC/KOHTAKT
+11 130 14. Rescue "Kursk"		BJ/Technology insys
+12 128 11. Восход			Vodoley/Excess Team
+13 124  3. broka			neogen/corner cut
+14 118  8. Music From The Space		dj Scally/PoS-WT
+15 114 15. Latino Disco			Maxwell/Technology insys
+
+Out of compo:
+
+ 2. I Fly To The Sky			dj Dreamer
+ 3. punk_theme.mp3			Research/Volga-Soft
+ 4. MARAZM				W.A.M./MixOFP
+ 6. Saigot				MMasteR/PowerReality
+ 8. Самоубийство 2			RecoveR/PowerReality
+12. suggestion				ahim/cpu
+14. Play this tune at full blast 	Forward
+15. Forward Again			Dj Kym
+17. How You Feeling?			iam29
+18. Day&night.mp3			EA & Marianna/ANTARES
+19. Festivalnaya			Yuri Lugovskikh/PoS-WT
+21. I Have a plan			Nyquist/KCN
+23. Merging2 				Tiamad, Klim/Critical Mass
+24. Insanity				Алексей Зотов/ГринЧ
+28. mad dolls factory			fish/makheim
+31. MixMusic				RedS/Technology insys
+32. Unknown				George/Technology insys
+33. Arctic Sun                          leopart/deMarche
+34. Птицы внутри меня                   Phantom Lord/CMS + Psy
+35. I want to say                       YurOk
+36. Восстановление                      ЮриэЛ
+
+
+-------------Multichannel: Traditional
+
+pt sh  sn
+
+ 1 177 04. mirror people                       rain/the sands
+ 2 162 01. West song                           Butch/UnLimit
+ 3 135 06. There was a Hole.it                 Necrolyte Ulin
+ 4 133 05. Life                                ImpulSe/UnLimit group
+ 5 125 09. Just believe                        Vibe/Cornercut
+ 6 122 10. gentle dance                        RedS/Technology insys
+ 7 118 11. Jazz with white bear                Stormbringer
+ 8 116 02. HARD-ROCK                           Lt. Columbo/Kooperativ 3.14ZDETS
+ 9 110 07. Fantasy #5                          iam29
+10 108 08. Vint                                Phantom Lord/CMS + Psy
+11 102 03. dark angel of love                  neogen/cornercut
+
+-------------Multichannel: Alternative
+
+pt sh  sn
+
+ 1 172 16. matyage.it                          Vipe
+ 2 162 01. Road to Sunset                      Butch/UnLimit
+ 3 151 15. x3 sound                            Maxwell/Technology insys
+ 4 149 08. Positive Energy                     Vibe/Cornercut
+ 5 145 03. Divine [Curse of Love] (compomix)   technoiZ/cornercut
+ 6 141 11. Blade in The Dark                   DJ MoHaX/Psycho
+ 7 139 09. Release                             djkor/cornercut
+   139 05. philosophy of live                  Em(022000)
+ 8 135 14. feel the sound                      BJ/Technology insys
+ 9 130 06. EVILTRNC.XM                         ANTARES/EA
+10 128 02. In the crazycar                     Darkman007
+11 127 13. Toren 2                             Phantom Lord/CMS + Psy
+12 109 07. Guests are comming                  |<ypa/)esa
+13 100 10. DAT like DAT                        iam29
+14  94 04. Electronic depression               neogen/cornercut
+15  77 12. immersing                           riskej/original computer association, [v]arga
+
+Out of compo:
+
+05. robotization                        neogen/cornercut
+19. Ocean                               Maxwell/Technology insys
+
+Out of Multichannel compo (compo not signed)
+
+    No way back                         Grover
+
+-------------Wild
+
+pt sh  sn
+ 
+ 1 217  3. 4 Gluks (Четыре глюка)              Power Of Sound Web Team
+ 2 215  4. ww3                                 l-graph/team poweramiga
+ 3 183  2. cpuday                              cyberpunks unity
+ 4 172  9. DOS				       MacTep
+ 5 168  7. Gift for Jane                       Vivid/Brainwave Team
+ 6 156  8. Comrade WOODY : Самолёт             woody
+ 7 151  5. Простые движения                    ukms[z]/Творческая труппа "Апполоны"
+ 8 123 10. Scaners (party version)	       Ray_Noa/Mayhem
+ 9 115  1. Swine (wild funtro)                 DMan/Placebo
+10  86  6. speccy                              petya/[red brigade]
+
+no codec
+
+out Ёжик в тумане                       Cat Broken & AmiF1Team
+
+
+-------------Intro 512 bytes
+
+ 1. glass512                             Doctor Max^GLOBAL Corporation
+ 2. matrix                               3d Poison
+
+-------------Intro 128 bytes
+
+pt sh  sn
+
+ 1 244  1. CyberLand				SerzhSoft
+ 2 191  2. command.com [.make.love.not.war.]   napoleon/brainwave team
+   191  3. www.porno.com [.make.love.not.war.] napoleon/brainwave team
+
+-------------Animation
+
+pt sh  sn
+ 
+ 1 243 3. memory of rek                        magnetik/cpu
+ 2 189 5. Run baby!                            CatBroken/team Dogma
+ 3 188 4. Visitor 2:REVENGE                    Ivan MT/WARPIG Studio/Yoshkar-Ola
+ 4 175 2. Anticondome                          Ivan MT/WARPIG Studio/Yoshkar-Ola
+ 5 129 1. COH                                  Kawaii Baka
+ 6 101 6. Cafe~2003                            RA
+
+-------------Demo
+
+pt sh  sn
+
+ 1 231 4. deBut                                 deMarche
+ 2 219 1. Agitation! (amiga)                    teamPowerAmiga
+ 3 180 2. militarize [.make.love.not.war.] (pc) brainwave team, warpig studio
+ 4 126 3. 10days     (pc)                       bemz
+ 5 108 5. Vice       (amiga)                    V-nom
+
+ZX Spectrum:
+
+-------------Game Compo
+
+pt sh  sn
+
+ 1 206 6. Fire&Ice                            n-Discovery
+ 2 204 5. Lethargy                            Studio Stall
+ 3 200 3. Darkwing Duck                       Virtual Masters
+ 4 172 2. death valley cafe pre-release       green bit group
+ 5 161 1. milos kazmus                        alf/cpu
+ 6 132 4. Erotris                             Virtual Masters
+
+---[additional info]------------------------------------------------------------
+
+    day 01 voters: ?? total
+    day 02 voters: ?? total
+
+      votes counted by Himik^PoS
+                       Lasoft^Excess team
+                       Leonard
+                       
+                       
+    day 01 & 02 compiled by UnBel!ever^x7m and Vinnny^AiC 25.08.2003 03:57
+                            special tnx to Diver
+
+---[eof]---------------------------------------------------------[25.o8.2oo3]---

@@ -1,0 +1,134 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.5
+..\..\Authors\Darkman007\turbo.pt3
+<
+Author=Darkman007^[Quite]
+Name=Turbo
+Length=2549
+Comment=6,500
+>
+<
+Length=2930
+Offset=2549
+>
+..\..\Authors\Ch41ns4w\ganbatte.pt3
+<
+Author=ch41ns4w^[DLCorp]
+Name=Ganbatte!
+Length=7650
+Comment=6,395
+ChannelsAllocation=ABC
+ChipType=AY
+>
+..\..\Authors\Riskej\pbikesho.pt3
+<
+Author=riskej^[simbols]
+Name=poisoned'bikers.show
+Length=5661
+Comment=6,278
+>
+..\..\Authors\Mmcm\NeXt_dAy.pt3
+<
+Author=MmcM^[Sage]
+Name=NeXt dAy
+Length=6280
+Comment=6,270
+ChannelsAllocation=ABC
+ChipType=YM
+>
+..\..\Authors\Ch41ns4w\dot.pt3
+<
+Author=karbofos & ch41ns4w^[DLCorp / Triumph]
+Name=dot
+Length=5586
+Comment=5,861
+>
+<
+Length=737
+Offset=5586
+>
+..\..\Authors\Splinter\long path 4 dihalt.pt3
+<
+Author=Splinter^[Trinitrocode / DLCorp]
+Name=Long path (Shot "Now Dance" cut)
+Length=5317
+Comment=5,514
+ChannelsAllocation=ABC
+ChipType=AY
+>
+..\..\Authors\Alone Coder\TONbI_TS.pt3
+<
+Author=Alone Coder & n1k-0
+Name=tones
+Length=6266
+Comment=5,500
+>
+..\..\Authors\Moran\HLFdiHLT.pt3
+<
+Author=Moran^[CPU]
+Name=Half-Di-Halt
+Length=6271
+Comment=5,135
+>
+..\..\Authors\Key-Jee\Other\happyend.pt3
+<
+Author=key-jee^[triebkraft]
+Name=HappyEnd
+Length=8852
+Comment=5,132
+ChannelsAllocation=ABC
+ChipType=AY
+>
+..\..\Authors\Kyv\fuldiz.pt3
+<
+Author=red barbnark^[DLCorp / Triumph]
+Name=full dizorgazm
+Length=7779
+Comment=5,028
+ChipType=AY
+>
+..\..\Authors\Karbofos\bored_toy.pt3
+<
+Author=karbofos^[DLCorp / Triumph]
+Name=bored toy
+Length=3981
+Comment=4,921
+>
+..\..\Authors\Riskej\TS\pt3698j.pt3
+<
+Author=riskej^[simbols]
+Name=shadowpop.evening
+Length=4026
+Comment=4,848
+>
+..\..\Authors\Nik-O\tohawto.pt3
+<
+Author=n1k-o^[skrju]
+Name=to hate with love
+Length=7883
+Comment=4,686
+>
+..\..\Authors\Scalesmann\mbii.pt3
+<
+Author=scalesmann^[march[ing] cats]
+Name=my bleep is inside
+Length=1285
+Comment=4,556
+>
+<
+Length=3671
+Offset=1285
+>
+..\..\Authors\Moran\AGAPE.pt3
+<
+Author=Moran^[CPU]
+Name=Mind-A-gaP-e
+Length=3369
+Comment=4,486
+>
+..\..\Authors\Trefi\.squeak..pt3
+<
+Author=trefi^[debris]
+Name=squeaking devil of nothing
+Length=5809
+Comment=3,676
+>

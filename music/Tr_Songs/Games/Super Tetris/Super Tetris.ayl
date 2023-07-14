@@ -1,0 +1,25 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Alex Art\RATS_AA.pt3
+<
+Author=PROG MASTER
+Name=RATS (AA'EDIT)
+Length=1688
+Time=5376
+Loop=768
+>
+..\..\Authors\Prog Master\YELLO.pt3
+<
+Author=PROG MASTER
+Name=YELLO (AA'UNIT EDIT)
+Length=2388
+Time=7680
+Loop=768
+>
+..\..\Authors\Prog Master\WHITE.pt3
+<
+Author=PROG MASTER'98
+Name="WHITE WAY"
+Length=1778
+Time=5760
+Loop=640
+>

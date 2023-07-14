@@ -1,0 +1,30 @@
+ZX Demo Compo
+ 	Demo Name	Author
+  1	Silabba	Target Team
+AY Music Compo
+ 	Music Name	Author
+  1	Пьяный Джин застрял в бутылке :)	karbofos & voxel
+  2	Noc me tight tonight	Scalesmann / March Cats
+  2	Svoboda	Striker
+  3	Delirium Tremens	Vedem
+  4	Nirvana	Striker
+  5	All ok!	Jass
+  6	Budun!	Creator
+  6	Доделывать точно не стану!	JeRrS
+  6	Koto	Crazy Pixel
+  7	Panki	Slip
+Gfx Compo
+ 	Work Name	Author
+  1	Зона	MoNaRcH
+  2	Полесье 20	MoNaRcH
+  3	Толстяк	One Man
+  4	Pank	wrecker
+  5	Беларусь	Сергей / Golden Fly
+  6	Роза	wrecker
+  7	Банан	JAG
+  8	Афромосквич	wrecker
+  9	PC Shit	One Man
+  10	Звёздное Наследие 3	EaZy
+Hacker's Top 2009 Summer Edition Invitation Intro
+ 	Work Name	Author
+  1	HT09SE Invitation	Sinus, breeze, fatalsnipe

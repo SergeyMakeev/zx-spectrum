@@ -1,0 +1,45 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\VVS of DGMS\GROB.asc
+<
+Author=G_SOFT
+Name=GROB
+Length=3089
+Time=9024
+Loop=0
+>
+..\..\Authors\Rat\FOOL.pt2
+<
+Name=EGOR LETOV "ABOUT FOOL" BY RAT
+Length=826
+Time=576
+Loop=0
+>
+..\..\Authors\Surgeon\ZOO.pt2
+<
+Name=ZOO OF GR.OB. BY:SURGEON OF EG
+Length=1880
+Time=5440
+Loop=320
+>
+..\..\Authors\Debugger\Mertvye.pt3
+<
+Author=Egor Letov / Civil Defence
+Name=-= M E P T B b| E =-
+Length=1814
+Time=1584
+Loop=48
+>
+..\..\Authors\Phantom Lord\ON FACE.pt2
+<
+Name=PHANTOM LORD:ON FACE:GR.OB.
+Length=1366
+Time=9024
+Loop=64
+>
+..\..\Authors\Rat\TRAIN.pt2
+<
+Name=EGOR LETOV "TRAIN TO.." BY RAT
+Length=1252
+Time=4664
+Loop=1592
+>

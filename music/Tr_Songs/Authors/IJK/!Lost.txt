@@ -1,0 +1,6 @@
+In X-Magazin 19 credits (really used music from X-Magazin 18):
+1. ABBA - Our Last Summer
+2. ABBA - King Kong Song
+3. ABBA - I Wonder (Departure)
+
+Also ABBA - Mamma Mia (restored ornaments).sqt was broken (3 and 4 ornament pointers was pointed outside of module), pointers changed to point to 2 and 6

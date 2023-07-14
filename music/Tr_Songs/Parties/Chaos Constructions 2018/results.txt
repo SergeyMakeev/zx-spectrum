@@ -1,0 +1,118 @@
+                _
+ _ ___ _      ______              _ ____ _       _ __ _     _ ___ _
+__________    ______  __        ____________   __________  __________
+___________ _|      |____    _   ___________  _____________ __________
+\       ___\\_           \  ____ \___       ||             |\       __\ \
+ \      \    |     \      \ _________|      ||c  h  a  o  s| \      \
+\ \      \   |      \      \\       _       ||constructions|  \      \ \
+ \ \      \  |      |\      \\      \       ||2 - 0 - 1 - 8|   \      \ \ \
+\ \ \      \ |      | \      \\      \      ||r e s u l t s|    \      \ \
+   \ \______\|______|  \______\\____________||_____________|_dvr_\      \ \ \
+       ______ ______       __    ___________   _  __  ____               \ \
+_____  ____  ____   _____ |  |_ ____ __ __ _____ |  |_ __  ____  ____   __\__
+\   _\| __ ||    \ _\   _\|  _/|  _/|  \  |\   _\|  _/|  || __ ||    \ _\   _\
+ \__\ |____||__\__|\____\ |__| |__|  \____| \__\ |__| |__||____||__\__|\____\
+   _    __    _  _   ____  _    _      ___    _   _    _____  ____  __  ____
+                                                      /_   /_| __ ||  |/____\
+                                                       /____/|____||__|\____/
+
+_________________________________ ____
+\          Oldschool Demo        \\   \ __
+\\________________________________\\___\\_\.
+
+       01  257 AONDEMO by Shiru
+       02  255 oopsooca by Outsiders
+       03  231 TWO THOUSAND by STARDUST
+       04  212 Forever 20 invitation intro by Noblnoch & MmcM
+       05  199 РК умеет вот так! by norduk/kakos nonos/raphaelgoulart
+       06  192 Chaos by error/errorsoft
+       07  182 DiHalt Winter 2019 invitation by organism/q-bone
+       08  139 size matters by insiders
+
+_________________________________ ____
+\          Combined Demo         \\   \ __
+\\________________________________\\___\\_\.
+
+       01  252 kak by jetlag
+       02  244 Good Apple by the SandS
+       03  188 Ottifants intro by vbi/Enhancers team, Dr.Max, Nik-O
+       04  168 coder-monkey-0xFF by zephyr/
+       05  150 Wild by skarab/kstorm
+
+_________________________________ ____
+\     ZX Spectrum Tiny Intro     \\   \ __
+\\________________________________\\___\\_\.
+
+       01  258 CAFe'2019 invitat!on by БКfans
+       02  252 purpleation by facepalmer
+       03  245 roll'em up by twisteroid
+       04  240 into the depth by deeplookers
+       05  234 stripes invasion by mr.krooker
+       06  231 bend me moar! by cooperman
+       07  230 lightforms by alex mc'coy
+       08  229 burn to live by f!re$st@rter
+       09  223 CGA Dreams by error/errorsoft
+       10  219 itube by iflyer
+       11  200 back to oldschool by dr.drei
+       12  192 CCup by rasmer/q-bone
+       12  192 over the board by joyzee
+       14  172 to be a triangle by sofascener
+       14  172 Strange Movements of Sandkings by Dalthon / Joker
+       16  159 bflicker by ShaMAN / Ruslan Novikov
+       17  154 checker by ovich
+
+_________________________________ ____
+\      ZX Spectrum Graphics      \\   \ __
+\\________________________________\\___\\_\.
+
+       01  261 Cliff Sunset by Matej 'Retro' Jan
+       02  201 Car by dman/Placebo
+       03  198 The Burden by moroz1999^dibilliki
+       04  185 Old scener by dman/Placebo
+       05  167 Summer wind by Vassa/Dibiliki
+       06  160 Hitch-hikers by prof4d
+       07  148 Король Шутов by error/errorsoft
+
+_________________________________ ____
+\       ASCII/ANSI Graphics      \\   \ __
+\\________________________________\\___\\_\.
+
+       01  162 Alien: just a guy by York
+       02  156 SM by dman/placebo/blocktronics
+       03  140 Metroid by dman/placebo/blocktronics
+
+_________________________________ ____
+\      ZX Spectrum AY-Music      \\   \ __
+\\________________________________\\___\\_\.
+
+       01  217 Last beach night by kotsoft/no
+       02  209 4cc18 by EA/Antares
+       03  207 Alien Groove by fatalsnipe/N0GROUP
+       04  189 kokos where is my tutor? by schafft / 7th Layer
+       05  176 deep space by schafft / 7th Layer
+
+_________________________________ ____
+\      Realtime 53c Graphics     \\   \ __
+\\________________________________\\___\\_\.
+
+       01  127 Blue Mars by Matej 'Retro' Jan
+       02  124 The Sea has won. by Sasha Marinova
+       03  123 Flooded Pyramids by cornettheory
+       04  114 Планеты тоже плачут by BlastOff
+       05  109 The Sun in St. Petersburg? by Marinova Sasha
+       06  106 Balance of Nature by Vinnny
+       07  104 The sun shone brighter and the grass was greener by Tais
+       08   94 exchange of climate by insiders
+       09   81 Rain by Error
+       10   79 Watertown sunset by York
+       10   79 У природы нет плохой погоды by sherhan
+       12   77 Relampago lindo by shuran33
+       13   71 Ilon Mask (beep beep beep) by razvedchik
+       14   67 Сохранить by ShaMAN
+
+_________________________________ ____
+\      Realtime ZX Graphics      \\   \ __
+\\________________________________\\___\\_\.
+
+       01  159 San Francisco 2118 by Retro/Retronator
+       02  125 Earth mug by CornetTheory

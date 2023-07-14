@@ -1,0 +1,90 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Artem Zinovyev\Folly5.stc
+<
+Length=1749
+Time=2560
+Loop=0
+>
+..\..\Authors\Dron of GSD\G_Gift2.pt2
+<
+Length=1387
+Time=8544
+Loop=0
+>
+..\..\Authors\Daniil Bayanov\Crusher2.asc
+<
+Author=BAYANOV D. (C)1996
+Name=IF SEA WILL BE BEER.
+Length=1628
+Time=2400
+Loop=0
+>
+..\..\Authors\Wally\S BODUNA.pt3
+<
+Author=Volin
+Name=Privet s bolshogo boduna!
+Length=1386
+Time=15150
+Loop=0
+>
+..\..\Authors\Wally\LIMON.pt3
+<
+Author=Volin
+Name=Strana Limonia
+Length=2005
+Time=27760
+Loop=0
+>
+..\..\Authors\Mast\Com_Flat.pt2
+<
+Name=MASTSOFT/FTL: COMMUNAL FLAT
+Length=3292
+Time=5360
+Loop=0
+>
+..\..\Authors\Sergey Bulba\My_Songs\My ST modules\Pivo.stc
+<
+ChannelsAllocation=ABC
+ChipType=YM
+Author=Sergey Bulba
+Name=Pivo
+Length=2753
+Time=5440
+Loop=0
+>
+..\..\Authors\Ice'n'green\Sky.pt3
+<
+Author=ice'n'green --.07.2000  :-))))))
+Name='Into Sky...' maybe DUNE mix...
+Length=5822
+Time=12032
+Loop=512
+>
+..\..\Authors\Gogin\N02,DUNA.pt2
+<
+Length=5114
+Time=6400
+Loop=0
+>
+..\..\Authors\Gogin\N18,KWAR.pt2
+<
+Length=6353
+Time=6880
+Loop=0
+>
+..\..\Demos\Jean Claude Van Damme\LIMONIA.asc
+<
+Author='Dream Team' 1993
+Name=Strana 'Limoniya'
+Length=2620
+Time=8192
+Loop=0
+>
+..\..\Games\Red Stone\HELLO!.asc
+<
+Author='Dream Team'
+Name=Hi s BOLSHOGO boduna
+Length=1482
+Time=3840
+Loop=0
+>

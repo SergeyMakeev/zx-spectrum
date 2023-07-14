@@ -1,0 +1,54 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.5
+..\..\Authors\Splinter\Now Trance !.pt3
+<
+Author=Splinter / Trinitrocode
+Name=Now Trance!
+Comment=562
+Length=4011
+Time=6144
+Loop=1536
+>
+<
+Length=1289
+Offset=4011
+Time=6144
+Loop=1536
+>
+..\..\Authors\TAD\copy\not full\MegaMix.pt3
+<
+Author=mr.TAD
+Name=MegaMix
+Comment=537
+>
+..\..\Authors\MadMax of KNA\Mechanic Hi-Tech.pt3
+<
+Author=Kravtsov Maksim / MaDMaX
+Name=Mechanic Hi-Tech
+Comment=535
+Length=8692
+Time=6960
+Loop=6912
+>
+..\..\Authors\Scalesmann\bms.pt3
+<
+Author=Scalesmann / March Cats
+Name=Blow My Spirit
+Comment=506
+Length=1289
+Time=6982
+Loop=6912
+>
+<
+Length=2031
+Offset=1289
+Time=6916
+>
+..\..\Authors\Moran\mantra.pt3
+<
+Author=MORAN / inward / cpu
+Name=MAHTPA XPICTY
+Comment=433
+Length=6404
+Time=9856
+Loop=0
+>

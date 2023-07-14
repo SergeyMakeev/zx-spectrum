@@ -1,0 +1,164 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Mofobaru\devil.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=Mofobaru / Ate Bit
+Name=Better The Devil You Know (Kylie)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=3797
+Original=137088
+Offset=141
+Time=9792
+Loop=2496
+>
+..\..\Authors\Gasman\gasman_-_disco_2000.vtx
+<
+Channels=Mono
+ChannelsAllocation=Mono
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+Author=Gasman / H-Prg
+Name=Disco 2000 (Pulp)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=3663
+Original=168000
+Offset=151
+Time=12000
+Loop=0
+>
+..\..\Authors\Mofobaru\riot_15.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=Mofobaru / Ate Bit
+Name=I Predict a Riot (Kaiser Chiefs)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=3129
+Original=110880
+Offset=146
+Time=7920
+Loop=0
+>
+..\..\Authors\Mofobaru\girls_and_boys_10.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=Mofobaru / Ate Bit
+Name=Girls And Boys (Blur)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=2276
+Original=119616
+Offset=102
+Time=8544
+Loop=768
+>
+..\..\Authors\Gasman\dqueen.stc
+<
+Author=Gasman / H-Prg
+Name=Dancing Queen (Abba)
+Length=7524
+Time=12096
+Loop=0
+>
+..\..\Authors\Simon\DaxSax or What's my age again (Blink 182).pt3
+<
+Author=Simon / CPU
+Name=What's My Age Again? (Blink 182)
+Length=1379
+Time=4864
+Loop=1792
+>
+..\..\Authors\Mofobaru\west_end_15.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=Mofobaru / Ate Bit
+Name=West End Girls (The Pet Shop Boys)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=2676
+Original=143136
+Offset=144
+Time=10224
+Loop=1200
+>
+..\..\Authors\Nik-O\Englishman.pt3
+<
+Author=N1k-o / Skrju
+Name=Englishman In New York (Sting)
+Length=9254
+Time=5661
+Loop=0
+>
+..\..\Authors\Mofobaru\souvenir_04.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=Mofobaru / Ate Bit
+Name=Souvenir (OMD)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=1083
+Original=56448
+Offset=128
+Time=4032
+Loop=448
+>
+..\..\Authors\Gasman\gasman_-_video_killed_the_radio_star.vtx
+<
+Channels=Mono
+ChannelsAllocation=Mono
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+Author=Gasman / H-Prg
+Name=Video Killed The Radio Star (The Buggles)
+Tracker=ZX Spectrum Pro Tracker v3.xx
+Date=2006
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.8
+Length=4680
+Original=131040
+Offset=170
+Time=9360
+Loop=0
+>
+..\..\Authors\Gasman\gasman_-_paranoid_android.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+Author=Gasman / H-Prg
+Name=Paranoid Android (Radiohead)
+Program=Pimp My Chip
+Tracker=Soundtracker + PT3
+Date=2008
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=8342
+Original=237538
+Offset=163
+Time=16967
+Loop=0
+>

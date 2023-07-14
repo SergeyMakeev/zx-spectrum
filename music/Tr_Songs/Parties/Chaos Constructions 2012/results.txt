@@ -1,0 +1,106 @@
+ _ ___ _      ______              _ ____ _       _ __ _     _ ___ _
+__________    ______  __        ____________   __________  __________
+___________ _|      |____    _   ___________  _____________ __________
+\       ___\\_           \  ____ \___       ||             |\       __\ \
+ \      \    |     \      \ _________|      ||c  h  a  o  s| \      \
+\ \      \   |      \      \\       _       ||constructions|  \      \ \
+ \ \      \  |      |\      \\      \       ||2 - 0 - 1 - 2|   \      \ \ \
+\ \ \      \ |      | \      \\      \      ||r e s u l t s|    \      \ \
+   \ \______\|______|  \______\\____________||_____________|_dvr_\      \ \ \
+       ______ ______       __    ___________   _  __  ____               \ \
+_____  ____  ____   _____ |  |_ ____ __ __ _____ |  |_ __  ____  ____   __\__
+\   _\| __ ||    \ _\   _\|  _/|  _/|  \  |\   _\|  _/|  || __ ||    \ _\   _\
+ \__\ |____||__\__|\____\ |__| |__|  \____| \__\ |__| |__||____||__\__|\____\
+   _    __    _  _   ____  _    _      ___    _   _    _____  ____  __  _____
+                                                      /_   /_| __ ||  |/_   /_
+                                                       /____/|____||__| /____/
+_________________________________ ____
+\ ZX Spectrum Game               \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  190 Survivisection by Sanchez
+  02.  129 Мышонок by Руслан
+  03.  115 Galaxian III by World XXI Soft
+  04.  109 Imola G1 by World XXI Soft
+  05.  102 War Of Old World by Underlain of RSI
+  06.  101 Robin Hood by World XXI Soft
+_________________________________ ____
+\ ZX Spectrum Beeper Music       \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  168 Downhill by Darkman007/quite
+  02.  148 metaLS by irrlicht project 
+  03.  133 Californication by baxter
+  04.  122 B'TMAN  by Alone Coder
+  05.  114 Here and There by Rene Sens
+_________________________________ ____
+\ ZX AY-Music                    \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  134 c-jeff by changYES
+  02.  125 2019 [It's Alive] by mborik/RM-TEAM
+  03.  121 waterfall by scalesmann/march[ing] cats
+  04.  120 Mint by nix./site
+  05.  117 Chaos in music by Klim/omegaHACKERSgroup
+  06.  114 Somebody that i used to know by Gotye by Bugsy
+  07.  112 scrolleqs by siril/4d
+  08.  103 tili tili by moran
+  09.  100 Star travel by splinter/trinitrocode
+  10.   93 AERmusicCC by AER
+  11.   81 subtrash by moran
+_________________________________ ____
+\ ZX Graphics                    \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  196 HAPPY BIRTHDAY SPECCY by PIESIU / AGENDA
+  02.  178 Spirited Away by plaid/triumph
+  03.  173 Artist by Dimidrol/
+  04.  171 And Who Are You? by aGGreSSor/CPU
+  05.  155 Great Wave by prof
+  06.  146 dust to dust by hydrogen
+  06.  146 Chiptune Reaper by Black Cat
+  08.  144 Fight Scene Fight! by Riskej
+  09.  130 oh my, summer in the city by scalesmann/march[ing]
+                   cats
+  10.  124 Hey Dicksaws, Why So Serious? by Mchanga
+  10.  124 Lowres Sunset by riskej
+  12.  122 В потоках by Moran
+  13.  111 Шуба by Moran
+  14.  104 Peace! by PJane
+_________________________________ ____
+\ ZX Spectrum 4k Intro           \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  191 Song in lines by Busy & Noro
+  02.  117 YACR512 by Optimus/Dirty Minds
+  03.   86 8x8 bit Op-Art by goblinish
+_________________________________ ____
+\ ZX Spectrum 640k Demo          \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  309 RECYCLER by thesuper
+  02.  168 Dancebit by AER
+  03.  144 Demo 2 by AAA Band
+  04.  138 YOULAMER by AER
+_________________________________ ____
+\ Realtime ZX Graphics           \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  206 2012 by pharcide/nitrox
+  02.  197 konezz by wizard/delirium tremens
+  03.  169 maya wishes you happy 2012 by hydrogen
+  04.  146 Sauflon by mayan
+  05.  130 Sun Love by Nick
+  06.  125 maya by moroz1999
+  07.  121 Первомайский парад by Sebya
+_________________________________ ____
+\ Realtime Music                 \\   \ __
+\\________________________________\\___\\_\.
+
+  01.  146 i'm wait!n' an apocalypse by bfox
+  02.  141 Realtime apocalypse by Megus
+  03.  135 tryndeZ (по мотивам Мая) by Splinter
+  04.  117 End of Light by Darkman007/quite
+  05.  101 jaga jaga by keen
+  06.   89 true_union by oCtOpUsNiTr0/
+_________________________________ ____

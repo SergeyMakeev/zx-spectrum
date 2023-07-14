@@ -1,0 +1,83 @@
+   3BM OpenAir 2015
+   10.07.2015-12.07.2015
+
+   Official results v.1.01
+
+
+   ZX Spectrum music compo                                                      
+
+ # title                                                            vts pts  avg
+
+ 1 three bad mice                     luchibobra                     30 243 8,10
+ 2 Summertime                         MmcM                           29 230 7,93
+ 3 isglass                            wbc \\ b-state                 29 224 7,72
+ 4 The Citadel                        tayle^debris                   27 200 7,41
+ 5 chip night                         scalesmann/march[ing] cats feat yattak
+                                                                     28 191 6,82
+ 6 beeper cigar                       Kakos_nonos                    27 167 6,19
+ 7 spanish candy                      scalesmann/march[ing] cats     28 172 6,14
+ 8 Candlemixx                         Abrimaal                       27 152 5,63
+ 9 сросшиеся балансирующие камни в пустыне
+                                      John Norton Irr                27 129 4,78
+
+   ZX Spectrum realtime graphics compo                                          
+
+ # title                                                            vts pts  avg
+
+ 1 Не столь отдаленное будущее        Vassa                          38 311 8,18
+ 2 Medieval pixel compo               moroz1999                      37 271 7,32
+ 3 Bad Weather - No Power on Party    TmK                            38 239 6,29
+ 4 No Light                           dman                           37 225 6,08
+ 5 Bad Weather - Bad DiHalt           TmK                            39 234 6,00
+ 6 ck0M0p0x                           tayle^debris                   36 206 5,72
+ 7 Крути быстрей, а то демы лагают    Kakos_nonos                    39 217 5,56
+ 8 Пати без электричества             Misha Pertsovsky               38 206 5,42
+ 9 Электрошокер (Taser)               Vinnny                         37 173 4,68
+10 da-da                              John Norton Irr                37 135 3,65
+
+   ZX Spectrum graphics compo                                                   
+
+ # title                                                            vts pts  avg
+
+ 1 Bat2Con                            Tutty/Paradise                 42 350 8,33
+ 2 Amur Tiger                         Dimidrol                       41 323 7,88
+ 3 banka                              KASik/Sinclair Club            42 325 7,74
+ 4 FRUCTUS                            prof4d                         41 307 7,49
+ 5 Drunk kung-fu                      Buddy^ERA Creative Group       43 319 7,42
+ 6 The Split Foundations              tayle/debris                   41 304 7,41
+ 7 Fuck the system                    prof4d & G.D.                  41 292 7,12
+ 8 Monstro                            Vassa                          41 278 6,78
+ 9 Gungirl                            dman                           42 260 6,19
+10 Biker                              Tzerra^ERA Creative Group      42 255 6,07
+11 The Intruder                       mr_r0ckers                     41 249 6,07
+12 Samurai                            dman                           42 237 5,64
+13 Goropic                            John Norton Irr                44 231 5,25
+
+   ZX Spectrum Basic demo compo                                                 
+
+ # title                                                            vts pts  avg
+
+ 1 silent attraction                  bay 6                          27 245 9,07
+ 2 video_pro_bas                      Misha Pertsovsky               28 206 7,36
+ 3 ff                                 G.D.                           28 187 6,68
+ 4 Lines in song                      Kabardcomp                     27 157 5,81
+ 5 3BM Heartbeat                      nodeus                         28 158 5,64
+ 6 Border3col                         Misha Pertsovsky               26 108 4,15
+
+   ZX Spectrum demo compo                                                       
+
+ # title                                                            vts pts  avg
+
+ 1 Eager (to live)                    Life on Mars                   32 278 8,69
+ 2 Guardians of the Scene             KPACKU                         29 209 7,21
+ 3 doing                              Kabardcomp                     32 221 6,91
+ 4 Mapped Show                        Misha Pertsovsky               29 129 4,45
+
+   Enhanced demo compo                                                          
+
+ # title                                                            vts pts  avg
+
+ 1 UnHinged                           VBI, SPKE, TAYLE               23 175 7,61
+
+48 voters: 36 online + 12 at partyplace
+online party management system provided by nyuk	

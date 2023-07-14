@@ -1,0 +1,486 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.5
+..\..\Authors\Ksa\Unreal.pt2
+<
+Name=INTRO
+>
+..\..\Authors\Klav\Sat12.stc
+<
+Name=FREESTIL
+>
+..\..\Authors\Ziutek\LyraII6.stc
+<
+Name=LOVES
+>
+..\..\Authors\XPEH\OLD TV PROGRAM.stc
+<
+Name=MYTH
+>
+..\..\Authors\Ziutek\BEASTI.stc
+<
+Name=J.BOOK
+>
+..\..\Authors\Maciej Kluziak\P.MORIA.stc
+<
+Name=SICILY
+>
+..\..\Authors\Kent\POLICEAY.stc
+<
+Name=ACADEMY
+>
+..\..\Authors\Andrew Kolesnik\HUDSONH.stc
+<
+Name=H.HAWK
+>
+..\..\Other\Other modules\Western.stc
+<
+Name=WESTERN
+>
+..\..\Authors\Mad Max of SB\S_B_BOOT.stc
+<
+Name=S.GARDEN
+>
+..\..\Authors\Mad Max of SB\Switch Blade Intro 2.stc
+<
+Name=QUEEN
+>
+..\..\Other\Other modules\NEZAB.stc
+..\..\Authors\Mad Max of SB\Xecutor Intro.stc
+<
+Name=COMPLI
+>
+..\..\Authors\Mad Max of SB\ACID=HAPPO.stc
+..\..\Other\Other modules\Fancy.stc
+<
+Name=FANCY
+>
+..\..\Authors\Mad Max of SB\ARMY OF LOVERS'92 (OBSESSION).stc
+..\..\Authors\Mad Max of SB\GAZEB.stc
+..\..\Authors\Mad Max of SB\SBBoot.stc
+<
+Name=CRYPTOG
+>
+..\..\Authors\Bonysoft\instrmus.stc
+<
+Name=INSTRMUS
+>
+..\..\Authors\Quit Style\AUDI.stc
+<
+Name=BATTY
+>
+..\..\Authors\Dangerous\REVO2.stc
+<
+Name=MUADMUS
+>
+..\..\Authors\(R)Soft\Drink'em all.stc
+<
+Name=DRINKEM
+>
+..\..\Authors\Agent-X\Narcopol.stc
+<
+Name=NARCOPOL
+>
+..\..\Authors\RST7\BEATLES.stc
+..\..\Authors\XPEH\LASERMANIA.stc
+<
+Name=AYSCHEME
+>
+..\..\Authors\Andrew Kolesnik\HEROQUES.stc
+<
+Name=H.Q.LOAD
+>
+..\..\Authors\Mikropol\TheCubeCS.stc
+<
+Name=CUBE
+>
+..\..\Other\Other modules\Strike.stc
+<
+Name=STRIKE
+>
+..\..\Authors\Mad Max of SB\PRESID32.stc
+<
+Name=ENOUGH
+>
+..\..\Authors\Mad Max of SB\Antivirus-1.stc
+<
+Name=MASK
+>
+..\..\Authors\Mad Max of SB\Pressure (Best Sound).stc
+<
+Name=PRESSURE
+>
+..\..\Authors\Mad Max of SB\HIT MIX'95.stc
+<
+Name=PILATOS
+>
+..\..\Authors\Mad Max of SB\Laser Dance'89.stc
+<
+Name=MIND
+>
+..\..\Authors\Mad Max of SB\Marauder Intro.stc
+<
+Name=PHANTOM
+>
+..\..\Authors\Mad Max of SB\PINGPONG.stc
+..\..\Authors\Mad Max of SB\SB2.stc
+<
+Name=ARMY
+>
+..\..\Authors\Mad Max of SB\Lucky.stc
+<
+Name=LUCKY
+>
+..\..\Authors\Mad Max of SB\Ranger.stc
+<
+Name=RANGER
+>
+..\..\Authors\Mad Max of SB\Invasion.stc
+<
+Name=INVASION
+>
+..\..\Other\Other modules\Texnolog.stc
+<
+Name=TEXNOLOG
+>
+..\..\Authors\Mad Max of SB\Christms.stc
+<
+Name=XMAS
+>
+..\..\Other\Other modules\West.stc
+<
+Name=WEST
+>
+..\..\Authors\Mad Max of SB\Perplex.stc
+<
+Name=PERPLEX
+>
+..\..\Authors\Mad Max of SB\Alone.stc
+<
+Name=ALONE
+>
+..\..\Other\Other modules\Shooter.stc
+<
+Name=SHOOTER
+>
+..\..\Authors\Mad Max of SB\SB1.stc
+<
+Name=LOSE
+>
+..\..\Authors\Mad Max of SB\BTTF.stc
+..\..\Authors\Mad Max of SB\Party.stc
+<
+Name=PARTY
+>
+..\..\Authors\Mad Max of SB\Tears.stc
+<
+Name=TEARS
+>
+..\..\Authors\Mad Max of SB\SEXTRIS1.stc
+<
+Name=TET
+>
+..\..\Other\Other modules\Two.stc
+<
+Name=TWO
+>
+..\..\Other\Other modules\Gold.stc
+<
+Name=GOLD
+>
+..\..\Authors\Mad Max of SB\Sad_Mad.stc
+<
+Name=SAD
+>
+..\..\Authors\Mad Max of SB\Glyzin.stc
+<
+Name=GLYZIN
+>
+..\..\Authors\Mad Max of SB\Invasion (BersKill).stc
+<
+Name=BERSERK
+>
+..\..\Authors\Imp\HEY,YOU!.stc
+<
+Name=IMP
+>
+..\..\Authors\Mad Max of SB\M13-PRESID31-H.A.T.E..stc
+<
+Name=H.A.T.E.
+>
+..\..\Authors\Mad Max of SB\I'AM NOT A FOOL (BAD BOYS BLUE'94).stc
+..\..\Authors\Doc\FREEZED.stc
+<
+Name=TRAIN
+>
+..\..\Authors\Mad Max of SB\SHADOW_B.stc
+<
+Name=REDNEX
+>
+..\..\Authors\XPEH\2 UNLIMITED's NO LIMIT.stc
+<
+Name=UNLIMIT1
+>
+..\..\Authors\Kent\2Unlimited-NoLimit.stc
+<
+Name=UNLIMIT2
+>
+..\..\Authors\Imp\NOU-NOU (RELAX).stc
+<
+Name=UNLIMIT3
+>
+..\..\Authors\Imp\BRAG\TWO UNLIMITED (1).stc
+<
+Name=UNLIMIT4
+>
+..\..\Authors\Kent\HADDAWAY (Spectrofon version).stc
+<
+Name=H.AWAY1
+>
+..\..\Magazines\Spectrofon\Spec02_04.stc
+<
+Name=H.AWAY2
+>
+..\..\Authors\Kent\Europe.stc
+<
+Name=EUROPE1
+>
+..\..\Intros\Venom\VENOM-Intro.stc
+<
+Name=EUROPE2
+>
+..\..\Authors\Imp\assorty0.stc
+<
+Name=ASSORTY1
+>
+..\..\Authors\Imp\assorty1.stc
+<
+Name=ASSORTY2
+>
+..\..\Authors\Andrew Kolesnik\Ninja Warrior Loader-SEYMO128.stc
+<
+Name=KORNE1
+>
+..\..\Authors\Mad Max of SB\Gift4All-OWL.stc
+<
+Name=KORNE2
+>
+..\..\Authors\Mad Max of SB\E-TYPE R.stc
+..\..\Authors\Mad Max of SB\E-TYPE!.stc
+<
+Name=E-TYPE M
+>
+..\..\Other\Other modules\S.GAS1.stc
+..\..\Other\Other modules\S.GAS2.stc
+..\..\Authors\Andrew Kolesnik\CAPDYNAM.stc
+<
+Name=IWA1
+>
+..\..\Authors\Andrew Kolesnik\S.W.I.V..stc
+<
+Name=IWA2
+>
+..\..\Authors\Andrew Kolesnik\Robocop 3 Loader.stc
+<
+Name=IWA3
+>
+..\..\Authors\Andrew Kolesnik\Misteryous (2 Unlimited)-ROBOSOFT.stc
+<
+Name=IWA4
+>
+..\..\Authors\Andrew Kolesnik\RODLAND.stc
+<
+Name=IWA5
+>
+..\..\Authors\Andrew Kolesnik\DOUBDRAGON.stc
+<
+Name=IWA6
+>
+..\..\Authors\Andrew Kolesnik\SAINT.stc
+<
+Name=IWA7
+>
+..\..\Authors\Matthias\SPF_0.stc
+..\..\Authors\Matthias\Spec01_00.stc
+<
+Name=SPECTR2
+>
+..\..\Magazines\Spectrofon\Spec01_01-STAR.stc
+<
+Name=SPECTR3
+>
+..\..\Authors\Kent\Spec01_03-JACKSON.stc
+<
+Name=SPECTR4
+>
+..\..\Authors\Matthias\Spec01_02.stc
+<
+Name=SPECTR5
+>
+..\..\Authors\Kent\Spec02_01-VICTOR.stc
+<
+Name=SPECTR7
+>
+..\..\Authors\Kent\Spec02_03-SIMEXMIC.stc
+<
+Name=SPECTR8
+>
+..\..\Authors\Kent\Spec03_00.stc
+<
+Name=SPECTR9
+>
+..\..\Magazines\Spectrofon\Spec03_01.stc
+<
+Name=SPECTR10
+>
+..\..\Authors\Matthias\Spec03_02.stc
+<
+Name=SPECTR11
+>
+..\..\Authors\Matthias\Spec04_00.stc
+<
+Name=SPECTR12
+>
+..\..\Authors\Matthias\Spec04_02.stc
+<
+Name=SPECTR13
+>
+..\..\Authors\Matthias\Spec04_01.stc
+<
+Name=SPECTR14
+>
+..\..\Authors\Kent\SIMEX2.stc
+<
+Name=SPECTR15
+>
+..\..\Authors\Klav\Sat02.stc
+<
+Name=SF.BALLS
+>
+..\..\Authors\Klav\Sat01.stc
+<
+Name=SF.INTRO
+>
+..\..\Authors\Klav\Sat04.stc
+<
+Name=SF.GREET
+>
+..\..\Authors\Klav\Sat03.stc
+<
+Name=SF.SCROL
+>
+..\..\Authors\Klav\Sat08.stc
+<
+Name=SF.PIPE
+>
+..\..\Authors\Klav\Sat06.stc
+<
+Name=SF.NITKA
+>
+..\..\Authors\Klav\Sat05.stc
+<
+Name=SF.SQUAR
+>
+..\..\Authors\Klav\Sat10.stc
+<
+Name=SF.FACES
+>
+..\..\Authors\Klav\Sat11.stc
+<
+Name=SF.CUBE
+>
+..\..\Authors\Klav\Sat07.stc
+<
+Name=SF.SW
+>
+..\..\Authors\Ziutek\LyraII3.stc
+<
+Name=LY.BOTTL
+>
+..\..\Authors\Ziutek\LyraII5.stc
+<
+Name=LY.BELT
+>
+..\..\Authors\Ziutek\LyraII8.stc
+<
+Name=LY.BALLS
+>
+..\..\Authors\Ziutek\LyraII2.stc
+<
+Name=LY.CHANS
+>
+..\..\Authors\Ziutek\Shock2.stc
+<
+Name=SH.INTRO
+>
+..\..\Authors\Ziutek\Shock3.stc
+<
+Name=SH.KOTO
+>
+..\..\Authors\Ziutek\Shock4.stc
+<
+Name=SH.ICEMC
+>
+..\..\Authors\Ziutek\Shock6.stc
+<
+Name=SH.PLOS
+>
+..\..\Authors\Ziutek\Shock7.stc
+<
+Name=SH.BALLS
+>
+..\..\Authors\Ziutek\Shock8.stc
+<
+Name=SH.END
+>
+..\..\Authors\Gar\Titan.stc
+..\..\Authors\Gar\Jobba.stc
+..\..\Authors\Steve of Total Eclipse\Green Sunday.stc
+..\..\Authors\Xterminator\Madness remix demo 3.stc
+..\..\Authors\Xterminator\MUSREMIX.stc
+..\..\Authors\Xterminator\MADNES2.stc
+..\..\Authors\XPEH\DYNA BLASTER.stc
+..\..\Authors\Kent\CAMOUFLAGE'S ZONDER COMMANDER.stc
+..\..\Authors\XPEH\SCREAM TRACKER'S MAXAMIZZA.stc
+..\..\Authors\Ziutek\PARADISE.stc
+..\..\Authors\Ziutek\GOODLUCK.stc
+..\..\Authors\Ziutek\IT_IS.stc
+..\..\Demos\TB MINI\BARDAC.stc
+..\..\Authors\Ziutek\DISCO.stc
+..\..\Authors\Ziutek\BILINS.stc
+..\..\Authors\Ziutek\HOUSEM.stc
+..\..\Authors\Rajsoft\OBLADI.stc
+..\..\Authors\Kicia\popcorn.stc
+..\..\Authors\Kicia\startrip.stc
+..\..\Authors\Kicia\axel.stc
+..\..\Authors\Kicia\stracker.stc
+..\..\Authors\Kicia\stcompil.stc
+..\..\Authors\Kent\MUTANT-1.stc
+..\..\Authors\Kent\FIRE.stc
+..\..\Authors\Kent\Demo1.stc
+..\..\Authors\Kent\Warlock (Demo version).stc
+..\..\Authors\Kent\Brat Attack.stc
+..\..\Authors\Imp\DEPECHE MODE 2.stc
+..\..\Authors\Popirin Denis\Crazy Ball.stc
+..\..\Authors\Kent\MUTANT-2.stc
+..\..\Authors\Homesoft\2 Unlimited.stc
+..\..\Authors\Homesoft\Children In Paradise.stc
+..\..\Authors\Steve of Total Eclipse\Big in Japan.stc
+..\..\Authors\Dron of GDC\ANEKD_33.stc
+..\..\Authors\Dron of GDC\ANEKD_34.stc
+..\..\Authors\Dron of GDC\ANEKD_35.stc
+..\..\Authors\Dron of GDC\ANEKD_36.stc
+..\..\Authors\Agent-X\SOCOBAN1.stc
+..\..\Authors\Agent-X\SOCOBAN2.stc
+..\..\Authors\Imp\PUFFY (RELAX).stc
+..\..\Authors\Imp\Relax2.stc
+..\..\Authors\Imp\HATE.stc
+..\..\Authors\Kent\VIRGIN_4.stc
+..\..\Authors\Doc\NEON3-PRIGODA.stc
+..\..\Authors\Imp\TREAT1.stc
+..\..\Authors\Imp\TREAT3.stc
+..\..\Authors\Imp\ROBOJOP.stc
+..\..\Authors\Dron of GDC\ANEKD_32.stc
+..\..\Authors\Lob\ANEKD_37.stc
+..\..\Authors\Doc\coming soon 1.stc
+..\..\Authors\Evolver\VMP_gliss.stc
+..\..\Authors\Imp\LOGIC_1.stc
+..\..\Authors\Imp\MASKASHW-LOGIC-2.stc

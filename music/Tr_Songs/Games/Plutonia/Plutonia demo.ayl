@@ -1,0 +1,35 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Maverick\Plutonia Demo 2.pt2
+<
+Name=TWIN PEAKS BY TWIN PEAKS GROUP
+Length=1194
+Time=6680
+Loop=0
+>
+..\..\Authors\Maverick\Plutonia Menu.pt2
+<
+Length=774
+Time=1680
+Loop=0
+>
+..\..\Authors\Maverick\Plutonia demo - game.pt2
+<
+Name=MAVERICK. REMIXED BY REX   '96
+Length=1035
+Time=3072
+Loop=0
+>
+..\..\Authors\Maverick\Plutonia Demo.pt2
+<
+Name=COMPOSED BY MAVERICK     '1996
+Length=976
+Time=5376
+Loop=1536
+>
+..\..\Authors\Maverick\Plutonia.pt2
+<
+Name=BATTLE MUSIC BY MAVERICK   '96
+Length=733
+Time=480
+Loop=320
+>

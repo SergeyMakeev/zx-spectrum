@@ -1,0 +1,97 @@
+              _________
+________chaos_\        \_constructions_zol3_____ ________________ _____________
+\      __ ________     _       \______  __       \     __ __  ____\        ____\
+ \________________\_____\        \________\_______\___________\____________\dvr.
+  _____ _____ ______ ____\________\___ __ ___ ____ ______ ____ _____ _____ _____
+ /  __/ __  /  _   _/   _/_   _ /  __/  /   /  __/ _   _/____/ __  /  _  _/   _/
+/_____/____/__/__/_____/  /__/ /__/ /______/_____/ /__//___//_____/__/__/____/
+
+          official results v.1.2
+
+
+          ##   pts title / author
+
+_________________| Realtime Music |_____________________________________________
+
+          01.  115 MARCH2 by Darkman007/Quite
+          02.  108 Grand Hotel by MmcM/Sage
+          03.   99 MARCH by Darkman007/Quite
+          04.   76 Totorization by Kakos_nonos
+
+_________________| ZX Spectrum 640k Demo |______________________________________
+
+          01.  251 The Cambrian Explosion by Hooy-Program
+          02.  193 Dust by g0blinish/
+          03.  143 Two Effect by 3ASOFT/AAABand Group
+          04.  140 The kih by Kakos_nonos
+          05.  131 Vyborg Demo by Funsoft
+
+_________________| ZX Spectrum 1k Intro |_______________________________________
+
+          01.  220 Make Demos Not 1K Intros by TmK/deMarche
+          02.  206 LifeMusic by g0blinish/
+          03.  202 Prepare, it will be loud by g0blinish/
+          04.  185 Xubez by VBI/
+          05.  171 Xolon by VBI
+
+_________________| ZX Spectrum Game |___________________________________________
+
+          01.  191 Super Eldarman by Shuric Program
+          02.  155 War Of Colors by Minin Aleksandr
+          03.  116 White House by Boys
+          04.  106 Craft by Hlopotin Jeny
+
+_________________| Realtime ZX Graphics |_______________________________________
+
+          01.  213 CeCyPuTu (sesurity) by nix./site
+          02.  189 security by diver/4d
+          03.  181 Resting guard by Vassa/
+          04.  166 ОХРАНА, СТОП! by Samanasuke
+          05.  151 Nikolai Kopeikin (copy) by moroz1999/
+          06.  124 my lovely dudes  it is for you! take a smile! we
+                   love you! by Sand
+          06.  124 ХаХана! Аромащь! by DP aka Den Popov
+          08.  116 Chaos 2113 by John Norton Irr
+          09.  110 Ohrana CC13 by Kakos_nonos
+
+_________________| ZX Graphics |________________________________________________
+
+          01.  283 Mercenary 3: The Melange Defender by diver/4d
+          02.  273 look back  by  r0bat
+          03.  259 Piggy by Mad Max
+          04.  248 Zetixus by Piesiu/Agenda ^ MSB
+          05.  244 Inquisition by aGGreSSor/CPU
+          06.  223 to do all anything by Schafft
+          07.  207 Alice in wonderland 2030 by Vassa/
+          08.  201 Africa by P_ Jane
+          09.  181 Make Demos Not Gfx by TmK/deMarche
+          10.  175 Fly Kiss by Snake
+          11.  172 TNBM IS ALWAYS WINS! by mihhru
+          12.  164 Планета Лейв by RD
+          13.  157 Do A Devil LOL by nix./site
+          14.  149 Jedi by John Norton Irr
+          15.  126 Dizzy's Choice by John Norton Irr
+          16.  119 Krokodila by Jenya
+          17.  103 Дискотека у Ферлямбы by Jenya
+
+_________________| ZX AY-Music |________________________________________________
+
+          01.  125 Beyond Time by MmcM/Sage
+          02.  116 [as soon] as it began by
+                   scalesmann/march[ing]_cats
+          03.  108 Lovers by C-jeff
+          04.  101 Tekka Tekka by brightentayle
+          05.   90 Young and Beautiful by nq/skrju
+          06.   80 "Zatknis" (funny remix) by Silent
+          07.   77 Space Odyssey  by Research
+
+_________________| ZX Spectrum Beeper Music |___________________________________
+
+          01.  107 Destruction Force by Darkman007/Quite
+          02.   87 Beeper Infection by Kakos_nonos
+          03.   86 Soldat by Alone Coder
+          04.   80 Highway Fifteen by targarim/leftchace feat.
+                   nix./site
+          05.   75 Fly Away [Beep version] by Silent
+          06.   74 Power of nature by Kakos_nonos
+          07.   63 Extreme Error by irrlicht project

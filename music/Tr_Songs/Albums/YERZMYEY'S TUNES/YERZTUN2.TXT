@@ -1,0 +1,36 @@
+*******************************************************************************
+                           YERZMYEY'S TUNES part 2
+*******************************************************************************
+                              THE CHIPTUNE-PACK
+                    (C) 11.2002 by YERZMYEY/HOOY-PROGRAM
+	         Don't use VTX plugin for Winamp this time!!
+                      Use only AY_EMUL by Sergey Bulba!
+
+
+
+
+    Hello there... After 2 years I publish my new chiptune-pack. If You are a
+fan of synthetic sound, You've just found new, cool stuff. You can find here
+9 songs (which gives You about 40 minutes of music) in various styles: as usual
+- some techno stuff, some pop, ballads, and many complex melodies often with 
+unpredictible rhythms. (If some of them seem to be cut off, it means they were
+looped originally).
+
+    I was making these chiptunes within 2 years (2000-2002) and I hope all of 
+'micromusic' fans will be satisfied. As usual, my pack is especially dedicated
+to AY/YM chipsound maniax (the chip is in ZX Spectrum, Atari ST, Amstrad and 
+others). Of course all of my songs I wrote on Speccy and converted them into PC
+so You will be able to listen to them using AY EMULATOR by Sergey Bulba: the
+AY-3-8910, AY-3-8912 and YM2149F Emulator, Player, Converter and Music Ripper, 
+which You can find on http://bulba.at.kz site.
+
+    This time I don't add VTX plugin for Winamp, as I found that it doesn't
+play AY/YM songs correctly. Only Sergey's AY EMULATOR can play them IDEALLY, so
+You will have to download it from its official site - then You will be able to
+be glad of perfect ZX Spectrum sound.
+
+    I hope You will enjoy my new production. Let 'chip' aesthetic be with You!!
+
+
+                         YERZMYEY/HOOY-PROGRAM
+                         yerzmyey@friko.onet.pl

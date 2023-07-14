@@ -1,0 +1,2023 @@
+                      AY Composers List v6.0
+                        Alone Coder Project
+                             04.06.2023
+
+                Visit http://bulba.untergrund.net/
+          for the latest version and development tools.
+
+Все замечания и дополнения по данному списку прошу направлять на мой адрес:
+                  Sergey Bulba <svbulba@gmail.com>.
+
+Замечания:
+- Сергея Бульбы - [sb];
+- Алексея Алексеенко - [AAA].
+
+*Строчки, изменённые по сравнению с прошлой версией, помечаются звёздочками.
+
+Применена сортировка по нику. Приставки "cj","dj","dr","mr","the" в сортировке
+не участвуют.
+
+Все поля в строгом порядке (генерируются автоматически из базы данных).
+
+Если найдёте даже мелкое несоответствие или опечатку (или если знаете ответ хотя
+бы на один знак вопроса), срочно пишите! Добавляйте даты рождения, если знаете.
+Помогите расшифровать всех Слав и Алексов ПОЛНОСТЬЮ!
+
+Люди, не имеющие реальных имён, могут быть коллективными псевдонимами!
+Люди, не имеющие реальных имён, могут упоминаться несколько раз!
+Люди с похожими никами могли быть перепутаны!
+"?" может означать сомнения в имени, городе, существовании самого человека и
+сомнения в том, является ли он композитором.
+
+Знаком [wanted] помечены люди, вся музыка которых либо безвозвратно утеряна,
+либо идёт её поиск.
+Знаком [b] - only beeper songs found.
+
+                  1. ZX SPECTRUM (1389+38[b]+24[wanted])
+                     *44 новых или обновлённых записей
+
+Сокращено:
+3c - Запорiзька Сiч corp., Запорожье
+acl - ascendancy creative labs/fishbone, Гродно
+alliance - alliance team, Екатеринбург
+adg/rpsg - atomic destruction group (AtD), Рязань
+any - anarchia, Рязань-Чучково-Авангард
+asm - amazing software making, Украина
+bhg - beermans/extreme, Саров=Арзамас-16
+botb - battle of the bits (battleofthebits.org)
+caig - coders' academy interactive group, Таганрог
+cds - cyber dreams software, Иваново
+coma - colour of magic, Владивосток
+cpu - cyberpunks unity, Рыбинск
+crg - computer rats group, Курган
+-=csl=- - Computer Service, Ltd., СПб
+ctl - constellation international association (CTLia)
+ct - cyber team, Искитим
+dgms - demos and games makers software, СПб
+dms - dream makers software/rush, Гомель
+dpl - disabler production labaratory, Ростов-на-Дону
+dr/rpsg - digital reality/russian prestige, Новгород
+dsc - dark souls corporation (dark souls group), Иваново
+dt - dream team, Челябинск
+eg - enigma group, Харьков
+ei - eternity industry, Ковров
+esa - excellent speccy aces
+fff - famous faces factory, Красноярск
+fxi - fx illusion(fx-illusion), Екатеринбург
+gbg - green bit group, Йошкар-Ола
+gdc - golden disk corp., Воронеж
+gfc - galaxy force inc. (gf, galaforce, galaforce hackers group), Иркутская область
+i8 - invaders group, Рязань
+j77 - jupiter77, Томск
+jvc - jaguar vengeful company (ранее timur company), Сочи
+kd - kingdom dreams, Новочебоксарск
+lfg - light future group, Пермь-Глазов
+lmg - last masters group, Харьков и Харьковская область
+mhcg - master home computers group, Дзержинск
+mkhg - mortal kombat hackers group, Москва
+nsg - north star [makers|hackers] group, Мурманская область
+ohg - omega hackers group, Ростов-на-Дону
+ohg(ohc) - omega hackers group(club)/mafia private corp., Челябинск
+pgs - progress, Москва
+phg - power hackers group, Брест
+phf - phantom family, Чебоксары
+pht - phantasy
+pos - power of sound, в основном Ижевск
+pp - power project, Дзержинск
+pzs - partyzans, Ростов-на-Дону и Ростовская обл.
+phd - pro hackers dynasty, Минск
+rfg - reflection group, Харьков
+rldg - red limited drunkards group, Йошкар-Ола
+rmc - real masters (rmg), Петрозаводск
+rmda - russian massive digital aggression
+ssg/ctl=smg/ctl - serious speccy group = serious makers group, Калининград
+ssg - sinclair super group (Спб)?
+shg - scorpion hackers group (Ростов-на-Дону)
+thh - the hot heads, Чебоксары
+tl - techno lab, Краснодар
+ulg - unlimited land group, Сарапул
+vvg - virtual vision group, Воронеж
+wsg - wolf soft group, Магадан
+xtm - extreme
+zbhg - zombuster hackers group
+
+ник/группа(варгруппы) (ник2, ник3, Фам Имя Отч=ник4), Город (название трека или где искать музыку) годы
+ex- означает: вышел из группы до её расформирования.
+gr. - то же, что group.
+soft - то же, что software.
+в слитных круглых скобках даны варианты чтения ника или группы.
+в отдельных круглых скобках - альтернативные имена.
+в квадратных - пропускаемые части ника.
+=ник4 означает послеспектрумовский ник.
+варгруппы означает вариант названия группы.
+если ника нет, то имена, набранные кириллицей, отсортированы по фамилиям,
+а латиницей - по именам.
+БОЛЬШИМИ буквами помечены либо люди, фигурирующие только в списке Newart'а,
+либо информация, известная только от Newart'а.
+
+?/gremlin graphics (switchblade game)
+
++gama, Чехия (music in Finty & Poke Micro Demo) 97
+
+*12me21, USA (M.U.L.E. title theme source for VT II found at author youtube channel) 2020
+*2a03fox (fable feer, Xx_fable_xX 27.02.xx), USA (прислал Adrien Pouleyn)
+3vc (imperius(до начала осени 1997 г), Воронин Владимир), Днепропетровск (интро от punisher к игре space crusade) 97-98
+4Mat/ate bit/slipstream/anarchy/cosine (4-Mat, Brick, M. S., M.S, Matthew Simmonds 15.03.74), Англия ("Get Up" demo forever5, stick up game assembly4) 89-92,99-07
+
+aaa (3a soft, medikoment, Алексеенко Алексей Александрович), Москва 94-95
+A. A. Bogachev
+*Aardbei (sent by Adrien Pouleyn)
+*AArt1256 ( xx.xx.07), Turkey (прислал Adrien Pouleyn)
+ABK, КАЗАНЬ 95
+ac, Томск (11 треков ST из Platinum #1)
+ace (Майоров Александр), Харьков (Over The Top) 96-97
+AceMan/Dreamweb/Agenda/RSE (Jakub Szeląg), Poland (speccy.pl'18.1) 18,21-22
+activator/golden code software(gcs, g.c.s.), Красноярск (музоны 97 года найдены на zxart.ee) 95-97
+activator/rfg/lmg ((st)soft, Баженов Станислав 16.11.78), Харьков 98
+mc adams/mega byte, Краснодар (3 S_Sonic музона в M-TV demo совместно с Павлом Решетняком) 94
+Adrian R. Shaw (игра Cavemania) 89-90 [b]
+aer (Атконов Евгений), Малиновка, СПб 11-17
+afina/avalon/rush (elena, princess, Онищенко Елена), Чернигов (сестра Виатора, "dogdance") 95-97
+Агаев Эльдар/starfire h.g./mkhg/seamans b.g.?, Москва 95
+agent-x/exodus (Ed Polinski), Minsk Mazowiecki/Poland 90-93
+aGGreSSor/CPU (Соболев Евгений В.), СПб 97,14-15,19,21-23
+agnelover/phf (Шанин Павел), Чебоксары (музыка к DSLF)
+ahim/cpu (Ерастов Михаил Николаевич 11.08.80), Рыбинск 01-04,16-17
+AiR (Дмитрий), Нижний Тагил (игра Color Lines by ANTON & AiR) 98
+ajg (Alberto Gonzalez) (игра Hostages) 90-91
+A. J. Madden (игра Dragon Spirit) 89
+akasaka/genjitsu labs/genjitsu records (ak.r, akasaka ryuunosuke, Владислав Коротнев 14.05.97), Уфа (был Киев) (DH'2017) 16-17
+Ахметшин Аркадий(akhmetshin arkadey) ("bethoven")
+Акимов Александр, Нижний Новгород (игра Минёр) 95
+akira/ssg (Петров Артём), Иркутская обл. (Братск?) 99-00
+al/pht/pos (al(alex) heather, a.t., ALT, Титов Алексей), Ижевск 93-96
+Alberto Sampler (игра Enchanted) 89 [b]
+d.j.aleck/eg (dj.aleck, dj aleck, Юхно Алексей), Харьков ("overmuz3", "rally_s") 94-97
+Alejandro Andre (игра Spirits) 87 [b]
+Aleksandr Kyklin (Куклин Александр), Киров? ("fantasy 1.1"/King's Bounty3)
+d.j.alex (журнал ZX Power 4) 99
+ d.j.alexx (1 трек совместно с Prog Master из интро Alex Art'а к игре Rex) 99 - он же?
+alex/3c (Решетило Алексей), Запорожье
+alex/ay group (Костик Александр 17.3.80), Ясногорск, Тульская область 94-95
+alex/ct (Махов Александр), Искитим (в игре Цифромания в credits "MUSIC BY MR.CLUMSY AND DJ ERASER", а по тегам три модуля ALEX/CT и один без подписи, так кто из них ALEX/CT?) 98
+ dj eraser/ct, Искитим (игра Цифромания) 98
+ [mr.]clumsy/ct, Искитим Новосибирской обл. (игра Цифромания) 98
+alex/dt, Челябинск (mtv mix demo)
+alex/rip(real imagines programmers) (Overdemo) 96
+*alex/skal studio (Панков Александр), Пермь 98
+Alexandr Ko/excess?, Казань? (Info в About Last Hero от Debosh)
+Alex Art (AA) (вносил правки в музыку Prog Master'а) 99
+alex bat (Болото Александр), Приволье/Украина 00
+alex injector/syndicate, Днепропетровск (в 3D-Space demo конвертировал чью-то музыку из ST в PT2) 97
+alex job/entire (alex j., Штанько Александр), Киев 95-96
+alex kann (polKan, Алексей...), Саранск 96,00
+alexmc/d.masters(digital masters hackers & creative gr.) ([dj.]alex, Горин Александр), Михайловка (игра XIXIT by Real Soft, часть музыки помечена Alex&Serg Gorin - Сергей Горин его брат?) 96-97,00
+alex mg ("classic(alex mg)from duke")
+alex microspace (Богров Алексей), Киев ("holding.microspace", "Jarre: Chronologie") 94-96
+alexoft/bis(brokimsoft)/rush [i.s.p.a.] (scratcher, Алексей 82/83), Черкассы (music in cracktro) 00-01
+alex plusov/general coders gr. (Плющев Алексей), Минск (Fuck Back 2.5, конвертировал Alex Plusov, поправлял Neonsoft) 94 ?
+ p.a. soft/jvc (Артём 79), Сочи->Ростов-на-Дону (в Dizzy 8 - little joke музыка та же, что в первой части Fuck Back 2.5) 94-95 ?
+alex rostov/delirium tremens (Ростов Александр/dementia corp), Барнаул 95-99,06,09-11
+[lord] alexsoft/lotus group (alex soft, Александр), Красноярск (демка Info One, mirikom #2) 94
+alexsoft/syndicate, Днепропетровск (syndicate megademo) 95-96
+alex x/strg (Романов Александр Анатольевич 80), Рязань 95-96
+alf (ZX-Life#10) 98
+alff/cpu/rainbow dreams (один модуль в RTCode с DiHalt'2007) 07
+alien/virt gr. (Фёдоров Андрей), СПб 95-96
+AliSer (S. A. Aleinikov) (интро к игре Genetic Wars) 99
+alk software (Imperio.pt2 найден в b1536M_calgary)
+Allister Mark Brimble 70, London (Grell and Falla game) 90-91
+dj.almaz (NUOtrk11)
+alone [coder]/i8/any (alco, a, a.c.i.8, Быстров Дмитрий Михайлович 13.12.81), Рязань 99-07,10-11,15-16,18-20
+alone star (alonestar, Васильев Алексей), Тула ("technospace") 96-97
+alos [junior]/spark'cg (Мосяндз Антон А.), Донецк (And19 gift) 95-98
+alx/brainwave (Баженов Александр), Йошкар-Ола (cafe'03, часто писал с Danzil'ом) 03
+amigo (j.andreev, Андреев Евгений), Великие Луки 97-98
+ams (несколько ASM треков с VVS (Svoyevolin))
+amsoft/special team, Словакия (Neogen Decideo) 96
+anarchy/nsg (romano, Башин Роман), Оленегорск Мурм. обл. (1997 demo) 95-97
+anatoliy swingin, СПб (музыка к игре "the turn" от mad max) 95
+and/speedway (and soft, & soft, Андреев Дмитрий 26.02.82), Воронеж (7up) 97-00,20
+Andrej Viselka (Demobit'95) 95
+andrew/nortec gr. (Журавлёв Андрей 78), Норильск (The Rainbow Demo) 96
+Andrew Cavendish (игра Zarjas) 88 [b]
+andrew jalnine/dt (a.v.j., Жалнин Андрей), Челябинск (3d collection) 95
+andrew placid/double plus (asw/vvg, Прохоров Андрей 3.7.81), Воронеж 97-98
+Andrey Lisowoy 01
+and v/reception software, Мариуполь (Sore demo) 95
+andy/-=csl=- (Andy Egorov), СПб (Jenny's demo) 93
+dj andy/chemnesoft+, Уфа (журнал STAR#2) 96
+Andy Brown (игра Wild Water) 89 [b]
+andy coding (Панин Андрей), Барнаул (The Best Of Kino demo) 94
+ НИКОЛАЕВ И (5 треков оказались из демки Barnaul Dance 1 Andy Coding'а) 94 - явно ошибка Newart'а
+andy fer/fregat/phf/intentions matrix (&y fer, andrew fer, [ray] sirius, Александров Андрей Николаевич), Чебоксары (PHF'96.1 demo, sexy potion/selected realms (siril & andy fer)) 96-00
+Andy Mills (игра Ano Gaia) 92 [b]
+andy severn (игра Prison Riot) 87-90
+andyson (bil/image crew/black star group, billy, bil lee, Банников Андрей 21.07.77), Киров/п. Юрья-2 Кировской обл. (Black Star demo) 97-98
+Andy Taylor (игра Super Space Invaders) 91
+Andy Wynd (игра Stryker in the Crypt of Trogan) 92
+Анфиногенов Рома
+angel soft (Воронов Дмитрий), Запорожье (сопоставление ФИО и города произведено по S.LOVE.asc - он был на диске с музыкой DIA) 94
+angel zarazaga/opera soft, Испания (poogaboo)
+a.n.other (музыка к игре Twinz! by Theo Develegas/Hellenic Software) 91
+ant1, UK (Battle of the bits) 11-13
+Anton (Александрович Антон), Нижний Тагил (игра Color Lines by ANTON & AiR) 98
+anton & vlad ("Wind")
+Antony/Bitmunchers (Нориков Антон), Тула 95
+antony/technoman gr. (Антон), СПб (писал с Виктором Петренко) 93-94
+anton ze player/ap's adventures (abelenki, Беленький Антон), Пермь (музыка в Bubble Bobble the adventure) 93
+anvers (Demodulation'21) 21
+a.parazit (Екшибаров Александр), Барнаул (ZX-Club) 97-98
+apnsoft (apn soft, Андриянов Павел), Тула 95
+aprisobal (Трубчик Артём), Минск (игра Square Mania) 06
+ardo/silent stream (andrey r., andreyr, andrey/crowd c.(crowd company), Рыбальченко Андрей), Краснодар (Coming Soon Noname Kilodemo) 97-00
+arkan [soft] (arkan ltd), Челябинск ("wolga-wolga (1993)": демо tusnya) 93
+[dj] arno/omega gr./softenterprise/welcome (Михайлов Александр), СПб 96-97
+artice (Калинин Артём), Ярославль (Dizzy Dash без музыки, архив с музыкой на zxart.ee) 95
+ARTIST/ORION GROUP, КРАСНОУРАЛЬСК 98
+as/phf (ac, phantom, Александров Сергей), Чебоксары (AC в интро к игре Terminator 2) 95-96
+A.Savenkoff/Technotop Inc(Technotop Graphics) (Савенков Анатолий), Красноярск 93
+asc (Andrew Strikes Code, Andrew Sendetski, Сендетский Андрей Степанович 69/71?), Днепропетровск (автор музредактора ASM) 93-94 [ум. 13.10.2011]
+a.s.ekb (s.a.v, a.s. ekb, Смирнов Александр В. 71), Екатеринбург (Paper Fantastic) 99-09
+ashnar/bhg/bearmans/ssc(sarov spectrum club) (trivial/bhg, Комиссаров Павел), Саров=Арзамас-16 (3d-pool.ay, демки bizarre construction, demodyin) 96-99
+asi (Синицын Андрей Александрович 4.11.83), Нижний Новгород ("lovestar", Forever5) 96-05
+asphyx/greedy guys group, Николаев (Crash demo) 95
+assembler soft (Мохов Михаил), Череповец (Faded TNT megademo) 93-94
+ast/stellar company inc., Кирово-Чепецк (игра Devil Course) 98
+Astamur Panov
+ata/x-project (Teperik A.A.), Харьков ("nokturne") 96-97
+atl/virtual brothers (r.v., dr.vitalidze, Романов Виталий), СПб (fast coded demo, "little shit part 2. by atl(rv)") 96-98
+avatar (Сергеев Борис), СПб 96-01,03
+avd (Демченко Анатолий), СПб (единственный Crystal Silence.stp прислал Survivor) 98-00
+aviasoft
+Авилов Борис, Волгоград (Rec-time 6) 93
+[d.j.]avo/fff/virtual creators hackers group (avo ltd, avo.ltd, Овчинников Андрей Валентинович), Красноярск (игра Gravity Wars by Scorpion soft, окончание LTD есть только в Motos Intro.stc и Smaily intro.stc) 94-96
+axe/k3l (Kamil Kopecký), Чехия (в демке Macrobia написано, что он музыкант) 95 [wanted]
+ayland (Maroš Dzoba), Словакия (Adage Demo) 96
+AZ (Andrew Zhiglov, Жиглов Андрей), Усть-Илимск (Preliminary Monty) 09
+
+dj.b1b1 (1 трек TEKNO.pt3) 00
+baca/lavers(lave software)/dms (Пахомов Василий), Гомель (2 трека) 96-98
+bach xxi/wsg (Бабкин Антон П.), Магадан (журнал Spectrumland #2) 96,98
+Back Noise (1 track with gibson) 03
+mr.bad guy/zbhg, Каменск-Уральский (6 треков)
+baks[man]/phf, Чебоксары 96-98
+[hacker] baloo/shark software (-brv-), Доброполье Донецк.обл (Death demo) 94-95
+baltika (Игорь), Нововятск (Киров) (Kilogift) 95-96
+Бальвас Виталий, Кишинёв 96
+bars/entire (Моисеенко Андрей), Киев [wanted]
+basil/i8 ("базИл", Логинов Василий Евгеньевич 03.06.83), Рязань 98-04
+bat (Ратников Константин), Черкассы 98
+the bat/frame (dark raven, Цехмейстер Семён Владимирович), Тихвин (1 трек ZG#4.5 hidden part, больше нету - уничтожены автором) 00
+Бацан Роман(bacan roman), Рыбинск (adv#1-4, Battle Demo 3) 93-96
+*baze/3sc hardcore (Miloš Bazelides), Dubnica/Словакия 96-05,09,23
+bazoft (baz0FFt/smk(smokers)/shg, baz, baxsoft, [dj] bazzy, Караченцев Андрей Валерьевич), Минск 97-00
+beact sound (два модуля найдены на zxart.ee)
+bear/pp/mhcg (ze bear/eye-q, Ростунов Александр), Дзержинск ("M.FANTAS" FT'98) 98-00 = bear/ds и bear&djkukan
+beast music (the beast, Martin Šáděra), Чехия (dark music demo вместе с TDM'ом) 94
+bedjamen/perspective (and, Пеунов Андрей 29.12.62), Вологда (в игре Вера заголовки модулей затерты, а указано 3 музыканта) 08
+mr. beep (Forever 9) 08 [b]
+mr.beeper/lmg/xpj (m-man, Желтухин Юрий Леонидович), г.Дергачи Харьковской обл. (журнал ZX Power 4, игра Stalker) 96-99
+beethoven/e-mage (George Bom Jovi, Францев Георгий Борисович), Гродно (F.A.Prev cracktro?)
+bell/k3l (Martin Kunstmüller), Czech Republic (Macrobia demo, а Mlada Boleslav похоже название города, а не имя) 95-98
+benn daglish(BEN), ENGLAND (Butcher Hill) 86-89
+bey elder/just for fun (точная конвертация Dizzy 4-1.pt3) 06
+beyker/computer emuzone games studio(cez gs) (Sergio Vaquer Montes), Барселона, Испания (Phantomas Saga: Infinity) 05-09
+bezl (Syndeecate Apocalypse 2002)
+Беззометнов И. И./орион (игра Пятнашки, найден на zxart.ee) 97
+BFA'ce/int(interceptors), Gdynia/Poland (Geography demo) 93
+Big Alec (Gunnar Gaubatz), Germany (есть конверсия с Atari ST - Locomotion.ay)
+bill gilbert & his wife (Hard Way demo, шутка Kicia? Непохоже)
+Biozoom (Веселов Андрей), Москва (ZXAAA 2010) 10
+black cat/kd (Олег 77), Новочебоксарск (один трек в Demn-17 gift совместно с Dr.Crash) 94-97
+black fox (reitser, bfox, blacky, black_f, olly_bfox, sova studio, Сенин Олег 85), СПб (ремикс "It comes from the dark" @toy'04) 99-09,12,16-19
+[black] helmet/phantom software (black helmet's lab, Караваев Денис), Новосибирск (Vampire's 18th Anniversary demo) 94
+black lord/lfg (bl/lf, zx-master, Кусакин Роман), Пермь 95-99
+blazer/stall, Первоуральск (Opens game) 01
+blind/volume 4/cpu (d.j.michael, Малышев Михаил), Рыбинск (Battle Demo 1-3) 94-97
+Bloobop, USA (Battle of the bits) 17
+bmw soft/craftware(craft ware) (буталин мифодий, Буталин Михаил), Егорьевск (демка Dead Mazay) 95
+mr.bob/crazytronic (Martin Sachl), Чехия (демка Reinject) 99-00
+boba & dru ("SONATA 14 BEETHOVEN" in May Be My Bank) 96
+bobby, Германия (The Happy Birthday Demo) 92-93
+Богданов Игорь/Virtual Brothers?, СПб? (интро к игре Fire Gear) 94
+Bogie Yolpa/yolpa brothers/e-3, Bristol/England (OTM 2 demo) 94 - не музыкант?
+bonch/unreal group, Новосибирск? (Universe demo) 95
+bonysoft (Грибов Борис), Волжский ("supermuz": King's Bounty 2 part battle) 93-94,18-19,21-22
+[alex] booster/KDF Soft (Филимонов Александр), Воронеж (музыка для GDC, MKHG и AAA soft) 93-95 [ум. 19.02.2012]
+BOPOH'Ok (BOPOH"OK, dr.dj) (@toy 2004) 96,99,04
+Boris Asad/Cassiopeia, Братислава (Eye Of The Beholder demo) 93
+boss/lord group(lord corp.) (Диброва Руслан), Николаев (Punkdemo)
+Brandon (WhoIs Hero?) 13-14,18,21
+Brian Marshall (игра Last Ninja 2) 88 [b]
+bsc(Beta Soft Cologne)/the mad guys(tmg), Германия (конверсия с Atari ST в Mega Lo Mania demo) 95
+b.s.s. (1 трек ASM из FX1demo)
+budder/VTinc/mgn (Зайцев Константин Викторович 86), Петрозаводск 01,03,07
+bugsy/hackerz' design software (Master Mind, Фёдоров Роман Александрович 18.9.80), Тюмень (Noter1.x) 97-02,04-12
+Буль|Deaz(TH)er|sdc (KilleRam, (sic)maggot, invsn, Дворник Николай Александрович 4.10.86), Енакиево (ZX-Time14intro2)
+Бульба Сергей Владимирович 77, Хабаровск (автор AY Emul и VTII) 94-95,00-06,09,22
+bumerang co/dt (Лукьянов Евгений=dj.Lukash), Челябинск 93
+Busy (Busy Soft & Hard, Busysoft, Busy Soft, Slavomír Lábsky), Словакия (Forever XIII) 12
+buzz/cc(Cyber Corporation), Краснодар 96
+buzzkej (buzzkei) 16
+byteman (Александров Александр), Минск (ZXAAA 2010) 09-10
+bzyk/pentagram (Jarosław Burczyński), Poland (автор ST, но в комплекте модули by Kicia, TriNitroToluene demo, Slideshow demo) 91-92
+
+mr.c/hell raisers (2 трека совместно с Ray, Summer trackmo) 97
+*cabbage drop, USA (прислал Adrien Pouleyn)
+cache?
+caliph/syndrome/visual boys (Никишин Илья), Пенза 98-99
+[pack] camel (Моисеев Роман), СПб 97
+cannibal/accept corporation (Садовой Григорий), Армавир 96-97
+capry/stall (dj pahnodrom, paul/st'prvr(DePress #2), Стахов Павел), Первоуральск (Opens game) 98-01
+Captain Pronin/sliders (dj cap/cag, Пронин Алексей), Волгоград 97-99
+carcass/sleepwalkers (Самойлов Дмитрий), СПб ? музыка обещана в From Beyond demo, но, видимо, наврали
+cardinal/(DV)Soft (Андронов Алексей), Арзамас
+cardinal/playgear/bda (Латышев Денис Иванович), Кемерово (написал бут со своим трэком)
+cardy/accept corp(ac)/mafia (cardinal, Казаков Виталий), Армавир 96-97
+casanova, Минск (Gift 2 Casanova) 95
+casecoma (Русских Роман), Одинцово (DiHalt'22) 22
+casio/shark soft/excess (siv blader, Петрунин Игорь), Казань ("CALL_TO" FT'98, Shark demo) 97-99
+cat-man/claw/exodus/esi/speccy.pl (CaT, catman, Rafal Kus), Lodz/Poland 91-95,99,14-19,22
+CAV Inc/auryn/cpu (Котов Александр Владимирович), Рыбинск (1 трек ST из ADEMO из Speccy #5)
+cds soft/diamond group (Елисеев Александр), Москва (найдено в архивах ZXNET Влодека, видеомонитор демо) 96-98
+ceeroy/intruders corp (Зубченков Максим/screws creative gr.(объединение по Newart'у)), Курск (EMSlog, CC1) 01,08
+*cepukka, Finland (Battle of the Bits) 21
+c'est demon/phf (c'demon, Громов Денис), Чебоксары (Zonder Gift) 96
+cezarrr, Варшава? (1 трек ST из демки The Software Crimes Of Bill Gillbert) 91
+C. Grewe (игра Tom & Jerry 2 совместно с G. Brandt) 89
+ch41ns4w/dl corp(drink lover's) (naoru-kun, Кураев Роман 91), Самара (robo3_v_*.pt3) 06-08
+Charlie (Яшин Ник), Саров (найден на zxart.ee) 22
+chasm/cpu/infosoft ("кэзм", Фёдоров Владимир Юрьевич 15.03.74), Рыбинск (Pressure) 93-99
+dj.chemist (Кириллов Сергей=mcmacker), Чебоксары 98-00,21
+Черенков Сергей, п.Пудость Лен.обл. (ГАТЧИНА?) (Red Refr.demo intro) 96-99
+Червинский Андрей, СПб 98-99
+chip champion, Virginia, USA (Battle of the Bits) 12-14,16
+Чирков Роман/s.t./unit-5, Темрюк Краснодар. края (Extravagance demo) 92-97
+ agen, Краснодар (режим 128 от Joker's Club в игре Zombi) 95 - он же?
+cir (Rüdiger Döring), Германия (CIR-DEMO) 91
+c-jeff/brainwave/mimic/green bit gr.(gbg) (jeffie, cj.flexo, enlait, destroyer, zen, nether, niger/nigergy, cwk, cwrq, Жемков Дмитрий Олегович=seajeff 16.5.87), Йошкар-Ола ("secondation", Forever5) 01-13,16-17,19,22
+*Clasiku (Clásikū) (sent by Adrien Pouleyn)
+Cliffy T (Cliff Tate), UK (Cool Cliff demo) 95
+clive brooker (War Cars Construction Set)
+cobra/eg (Белоус Константин 77), Харьков (1 трек совместно с Dj Aleck в Over The Top) 97
+cobra/speccy boyz (Peter Agyagos), Словакия 98-00
+dr.codex (survivor/lfg/jumble, surv!v0r, Муханов Михаил Сергеевич 22.11.NN), Глазов 97,99
+conan[soft] (Wojciech Slawinski=Pyza/Illusion), Luban/Poland (GamesMix demo song written with Kriss MusicBox128) 92 not musician! only drums sequences performed
+concord/kd (vaco, Трофимов Андрей 77), Новочебоксарск (earth shaker loader) 94-95
+[dj] cont/jvc (d.j.cont, Кузьменко Павел), Сочи (Second Joke megademo) 95-97
+cooper/premier/smash hb/asm (Романченко Виктор), Симферополь (Mega Gift For Trash) 96-97
+cop/shg(scanner hackers group) (mutant), Красноярск (музыка в интро Activator/GCS к игре Universal Hero) 95
+[dr.]cop/zx-legion (Дворниченко Дмитрий Анатольевич), Минск (ELEMENT#1) 97-99
+dj crack/areasoft (Юхневич Сергей), Новосибирск (ZX-Light#3, интро к игре BMX-Ninja) 98
+craft/forum corporation, Краснодар (демка Happy New Year 96) 95
+crank (1 музон совместно с Eraser)
+crapman (Celebrity Arses from Crap Game Compo 2006) 06
+crash [the humanoid]/exult crew/rmc (ilich, akira, Панфилов Илья Васильевич), Петрозаводск ("Imperators of Illusions", 2XGift) 00-06
+dr.crash/thh (dr.rave[crasher], dr'ave, Репин Василий), Чебоксары (Demn-17 and Slon gifts) 97-98
+crazer/kd (revise soft, Владимир.. 77), Новочебоксарск (Create Miracle demo) 94-95
+crazy cat/lotus group, Красноярск (Informations II) 94-95
+crazy dmc/fxi/alliance (Марcудинов Дмитрий), Екатеринбург (Eraser gift) 96-97
+ dmc (1 трек PT2 из Infinity World с Funtop 98) 98 - он же?
+crazy doctor [hfg]/3c (Крамаренко Владимир), Запорожье (MUSIC FROM 'MSX' R.SCORPION на самом деле by Crazy Doctor (info from author)) 96-97
+crazy michaell/crystal dreams (c. michaell, Михальков Владимир), Луганск 96-97
+crazy pixel/alliance/biotech software inc.(bsi) (cp, c.p., crazzzy pixel, bio, Базуев Алексей), Краснотурьинск/Екатеринбург (SnowFall demo, Image megademo, интро к игре Lode Runner 3) 95-96,09
+creator/fairlight (Ковригин Алексей), Новосибирск (Enlight'97) 97
+creator/sendest corporation (urangame, Коптев Олег), Краснодар (Execution demo) 96
+mr.credo/dialog (Куцевол Алексей), Омск 98-99
+criminal [gas]/die krupps (gas software, gas soft, Гулов Андрей Сергеевич 79), Новочеркасск 95-00
+cryss/razzlers (Богомолов Андрей), Новгород 98-00 [12.03.08]
+cyber/cobra soft (Селев Сергей Анатольевич), Львов (10x10 intro) 00
+[dj] cyber-d/digital sliders/poltergeist tech (cyberI)/shockwave, designer, cj cyber[-d], Щеткин Дмитрий), Челябинск 00
+cyborg/firesoft (Игорь), Киров (в Lode Runner 1 and 2 games intro автор музыки technocyborg из firesoft'а - он же?) 95-96
+ igor/firesoft (Игорь) (судя по интро к коллекции Thunder Birds, там использован музон Игоря из Firesoft, но в других релизах встречается эта же музыка с чуть более громкими сэмплами за подписью Cyborg & Scooter - Mo-Do (Best Music).asc) 95
+czar, СПб (3 PT2 трека) 97
+
+DAB Laboratory (Nova Soft, Беккерман Дмитрий Александрович), Биробиджан (Автор Sound FX v1.0, интро к игре Head Over Heels) 95
+ dnl soft (Дмитрий), Биробиджан (В интро к игре Head Over Heels написано: "DNL SOFT! дима, твой MUSIC талант пропадает зря!") 95 [wanted]
+dack/coolguys limited, United Kingdom (Ceremony demo) 91
+daddy karlo (fuckstones.stc) 94 - который писал форматер текста в 99?
+daf (daf sound, daf soundmaster), СПб (игра Dizzy Y) 94
+dagma/xtm (Шивиков Денис), Самара 96-98
+dak/gladiators, Кохма (found in b1536M_calgary archive) 96
+dakti/CrapTeam/DRRM/Pixel Nation/TTN (daktari), Poland (Decrunch 2020 Invitro) 20,22
+dalezy/triad/rebels (Antique Toy 07) 07
+danger (dangerous, Сарафов Вячеслав), СПб (ufo.stc, "Диззи: возвращение в Россию") 94-96
+daniel/playgear/bda (Баянов Даниил Иванович), Кемерово (Crusher Arcade Game) 94-96
+daniel moro (Морозов? Даниил/Technospace soft) (The Mission game) ?
+danzil (Горанин Даниил Петрович 15.10.81), Йошкар-Ола (crap music, часто писал с Alx'ом) 03
+DaRkHoRaCe (Paolo Arus), Italy 12
+darkman007/quite (Тугай Владимир), Туапсе (DiHalt 06-07, брат Em(022000)) 06-07,12,14,16,19
+datasoft (John Garner), UK (Not dead demo) 94-95
+dave/caig (Бугров Виталий), Таганрог (public spirit#1) 97
+dave j. rogers (игры Nether World, Marauder) 88-89
+dave kelly, UK (игра Star Wars - Return Of The Jedi) 87-89 [b]
+*daverd (Battle of the Bits) 14
+David Box (игра Pixy The Microdot 2) 89 [b]
+David Perry, Англия? (игра Great Gurianos) 87 [b]
+David Sanders (игра Stack Up) 90 [b]
+david whittaker, Великобритания (игры от Code Masters) 86-91
+david willis (Чупак Роман), Днепропетровск (демо Hip-Hop) 97-00
+*davos/horrorsoft/cpu (Окатов Дмитрий=CJ Explaud 23.03.79), Череповец 96-01
+dc pak/claw (Przemysław Kasprzak), Poland (Lazarus demo) 94-98
+DDp (Дмитриев Дмитрий) (ASCII'08) 08
+dead8088 (Ураков Александр), Йошкар-Ола 15
+deadie/horrorsoft/cpu (Крыгин Владимир 9.1.75), Череповец 99-02
+*Deater (sent by Adrien Pouleyn)
+deBUGger (Мельников Андрей Григорьевич), СПб (2nd on cc'4) 96-00
+ded smirnoff/pos (Смирнов Андрей 05.12.68), Ижевск 94-95 [03.12.99]
+ lash/pos, Ижевск (единственный трек с E'97 на самом деле написан Ded Smirnoff)
+deetsay (Tero Heikki Mäyränen), Финляндия (Inércia'22) 22
+demiurge ash/ex-ei/jeez (Широков Алексей Валерьевич 10.6.75), Ковров (Heresy2 intro) 98
+demon/diman plus co (Терентьев Дмитрий Васильевич), Черемисиново Курской обл. (ZX-Ferrum#1 intro) 03
+demon/zxpro/bitmunchers (Дмитрий), Тула (демо spazm, spirius@) 95-97
+demonik/Ruins of Mankind Art Group (Логвинцев Павел), СПб (6 треков) 99-00
+demon soft (Белозеров Александр), Москва (игра Mine Sweeper) 95
+den *bsent*/bloody skull entertainment (**bs-ent**, Расторгуев Денис), СПб, СЕВЕРОДВИНСК (демо игры "Стань стальной крысой") 97
+den/rmc (Кухарев Денис), Петрозаводск (демо Anamnesis) 99
+den c.m./umdpower/umd group (Денис), Киев (One Plus One demo) 95
+deni/x-trade (magic-studio, Соколов Денис), СПб (демо Illusion, "texnotron") 95-97
+ deni(ssl) (трек в демо GREETZ!! by Diamond) - он же?
+denis/dt, Челябинск (mtv mix megademo)
+ rted/dt, Челябинск (он?) [wanted]
+Denis Asad/Cassiopeia xx.12.76, Братислава (Eye Of The Beholder demo) 93-00
+d.j. dens/surdakar/cpu (dj-dens, psychodel, Рябцев Денис), Рыбинск-Самара (Adventurer) 94-96
+dj denson/flash (.dj.dens0n., [dj.]denson/int/dm(diamond sofware), denny(в интро к игре Lost Cave), Воробьёв Денис Сергеевич), Новосибирск (fire&ice) 96-02,08,13
+deon(demoralizer studio?)/ta (Phat0)
+Destr 15
+dev/warlocks group (devilman, Андрей), Евпатория (демка MIRACLE с Enl96) 95-96
+dexter/galaxy (nik, Жиров Николай 26.02.81), Гатчина или п.Пудость Лен.обл. (Red Refr.demo epilogue) 96-01
+dia/3c corp (Тищенко Дмитрий), Запорожье 94-96
+dia/digital masters hackers & creative gr., Михайловка (1 трек с Alexmc) 00
+diamond, Великие Луки
+diamond[soft]/nsg (Давидович Дмитрий), Апатиты (SleepKot demo) 96-97
+dic/zombusters crew (Шилов Дмитрий), Арзамас (1d destruction kit) 95-96
+digital boy/firesoft (1 трек ASM)
+dihalt/ci5 (di halt, Jiri Oto), Чехия (Doxycon 99 Gfx) 99-00
+Dik Cambel (1 ASM-трек из демки Gift4All совместно с А.Луговских (может Ю.Луговских?))
+DIK Soft (Смирнов Дмитрий), Ярославль (Эльдорадо#1, писал с неким Михаилом) 96?
+[dj] dilex/diamond (Усов Дмитрий), Москва ("XPERION!" FT'98) 97-98
+dimanit/gadget software unlimited (DIMANIN, Томилов Дмитрий), Новосибирск (A-10 game)
+dingo/dmj (Piotr Ziemian), Poland (демка Carminadle 1) 92
+Dippy (Yung Gotenks), USA (Battle of the Bits) 18-19
+dis soft[ware] (dissoft), Москва (в Double Demo 1 музыку возможно писал KSA) 94
+disa/s.a.(Spectrum Aces Group, SA Group) (Репин Денис Александрович 76), Киров (Просто Мария demo, кавер Зелень Трав кировской рок-группы Аллергия) 95
+disabler/ohg (Горелов Андрей Петрович 18.6.80), Ростов-на-Дону (в Klim Gift наверное его музыка) 96
+dr.dismal/lfg (dr.dead, deus, censored, nodeus, Ширинкин Илья), Пермь 96-00,13-14,16,18
+dismaster/unicum gr. (dis/ug, Дмитриев Денис), Харьков (STS6.2H) 95-98
+dissonator/ryazan speccy gr./i8/any (dtr/rsg, Шаев Константин 18.9.82), Рязань 99-00
+div/compu-studio [ltd] (Круглов Дмитрий), Димитров, Донецкая обл. (Чёрная Ворона #6, см. также раздел "перекомпиляторов") 97-01
+djg/j77 (dmitry.j.ganin, Ганин Дмитрий), Томск ("Macarina" из интро Adventure Series: Voodoo Castle, в интро год не указан) 96-97
+djj/tat (joker, Марихов Максим), Новочебоксарск (найден на zxart.ee) 02
+*djmaximum, USA (Battle of the Bits) 18-20
+d.j.nz, Нижний Новгород (HG-demo) 97
+djnzx48, New Zealand 18-19
+d-juice/laser soft/hwc (zet, z, mr.z, dj.z, d-jooz, [mr.]screw, d-j00z, Лещуков Евгений 23.03.82), Оболенск Моск.обл (Vika Morozova=d-juice+mitchel?) 96-01,08
+Дмитриев Игорь/sim&sim/wredosoftware ltd, Рыбинск (adv#3, Laser Squad editor help) 96
+Дмитриев Сергей/sim&sim/wredosoftware ltd, Рыбинск (adv#3, Laser Squad editor help) 96
+dmitry zakharijew/black square soft[ware](b.s.s.) (dmitry l.z./csl(computer service ltd), Захарьев Дмитрий Леонидович 6.12.72), СПб (интpа к Shock Megademo, почти вся информация найдена по фото из интервью https://zxdemos.ru/viewtopic.php?id=11077) 93
+dnk/gg/virt gr. (darkman, Ковалев Дмитрий), СПб 96-99
+ [dj.]darkman/smg(ex-ssg)/ctl (Захаров Виктор), Калининград (Zhenya18 gift. Есть несколько модулей, которые в одних программах подписаны как dnk/vg, а в других - darkman/smg. Что за путаница? Сами авторы развлекались, или те, кто вставлял модули в свой софт? Если это один автор, какое отношение DNK имеет к Калининграду?) 98-99
+doc/ns(neonsoft)/psg (Батищев Игорь 16.8.77), Минск 95-98
+dj doc/tria gr.(3a,aaa) ([pro]digy doc, expert, Алекс..), Ижевск 98-99
+Doc Radzins (Doc.R), Польша (Out Of ZSL demo) 92
+DoctorGentleman (Nicolas B. 06.12.xxxx), USA (Battle of the Bits) 14
+doctor max, Старый Оскол (No Smoking Demo) 95-96
+dok/united minds/raww arse (Robert Skene), Scotland (1 трек) 94-95
+dominator/alliance (Ахаимов Олег), Екатеринбург 97-99
+ dominator/optimal gr. (игра darkness) - он же ?
+dominator/gdc, Воронеж
+doom star/ldt(laser dream technology) (skiv/mif(myth corp), Кривошея Антон), Днепропетровск 98-99
+double soft, Черкассы (музыка в CSC-1) 95-96
+dozzer/Spectrum's World Corp/crz(CodeRaizers)/sw(ShockWave) (Руслан), Челябинск
+dr ("my dreams appear here") ?
+dragon, Запорожье
+dragon, Пенза (чел с форума) 99? [wanted]
+Дратов Денис Юрьевич/team V=dexus 3.12.78, Нижневартовск (автоp Pro-Sound Maker Music Editor) 94-96
+draza/killers toads(kt), Литва 96-98
+dreamer/entire+pos (m.v.?, Муренко Виталий Васильевич), Киев (FINE & M.V. - он с Fine Soft'ом?) 94-96
+dreams software inc.(d.s.i.), Узловая (корректировал музыку для Big Fuck To Sega 1) 94
+dron/gdc (ave-soft, a.v.e. soft, Евдокимов Андрей Валерьевич 78), Воронеж (anecdotes 2.75,3) 94
+dron/gsd (Филин Андрей), Арзамас (Demo, игра filler) 96-97
+dron/last hackers' hope group(lhh gr.) (Мацкевич Андрей 80), Харьков (The Classic Revelation kilodemo) 95
+druid (Волков Алексей), СПб 95-97
+druid [h.c.]/tch(the coconut hackers)/Druid Hacking Centre (Побережный Александр Николаевич=Rene Sens 25.04.81), Томск (Happy Ritmation demo, phat0, игра Genius House, с Jupiter77 работал, но официально не входил, www.rene-sens.com) 95-97,07
+drx (Dragan Espenschied), Германия (cc'4) 04
+duck/fireware, Одесса (Gift for Lyopick) 99
+dw.corp (dw-corp.) (Krolik demo) 95
+dx-69/crg (Хоменко Дмитрий Владимирович 29.5.74), Курган (Word Life game) 97-99
+Dya/Resistance (Diagamblic, Aaron Hickman), USA (speccy.pl'18.1) 18-20
+dynamite dinastie (интро by Magic Soft к игре Scorpions) ?
+DZh (Живилов Дмитрий В.), Минск (Fiveteens Classic - 3 трека STC, он же автор Sir Knight (91)) 00
+
+ea/megadate/antares/subdivision team(sdt) (Абросимов Илья Юрьевич 17.07.76), Москва 96-04(01-02),07,17-23
+eastman/x-team (Иванов Алексей), Ижевск 00-02 [ум.10.8.03]
+cj.echo/triumph ("Ухо", dj devil, dj echo, cj echo, cj_echo, yxa, Максимов Александр 84), Челябинск 98-02
+ sj.lex (cj.lex, cj.leexx, sj lex), Челябинск - он же?
+ julia/triumph (julli, Рахматулина Юлия), Челябинск (со слов cj.echo все её треки на самом деле его)
+Ефремов Алексей Александрович, Курск 91-93
+eg/diamond gr. (spencer winset, Голяков Евгений), Москва (UBSPARTY music на кнопе 7 - "My way/Clawfinger"remix-funy-light Spencer Winset/Diamond group) 97
+electro, Poland (Forever XIII) 12
+electro/eap (gdemo.scl in rip archive)
+electro/ohg/mafia (Александр), скорее Ростов-на-Дону, чем Челябинск [wanted]
+electron/n-Discovery (kostet, Лебедев Константин), СПб 00-01
+elfh/cpu/auryn/inward (Елфимов Константин Валерьевич 23.12.78), Рыбинск ("moranelf") 03-05
+el-lable (Нуриев Эльдар), Феодосия (DiHalt 07 Game Compo) 06
+ellvis/zero team/ctl (ales, Ales Jurica), Словакия (Space demo) 96-06,08,16
+em(022000)/angel2 (Тугай Иван Александрович 81), Туапсе (писал под 3,5 МГц (неверно подключенный музыкальный сопроцессор), брат Darkman007) 96-00
+*emook (em00k, emk21, David Saphier), Manchester, United Kingdom 17-18,20-21,23
+employer/fxi/alliance (Огневский Денис), Екатеринбург (Eraser gift) 96-98
+dj.enik ("Эник", Медведев Евгений), Гомель 00
+equator/pro hackers dynasty (Ковалёв Валерий), Минск 97-02
+eraser/unique/alliance/rcs(realcode) (Шабаршин Артём), Екатеринбург (Acid Revolution demo) 96-97
+esau (David Enheden), Sweden 9,16
+esv (Емельянов Сергей 22.06.78), Барнаул (ESV Demo) 94 - автор ESV сrunсher'а (96)?
+esv/cds (Егоров Сергей), Иваново (some music in Phantom Megademo beta version) 95 - автор ESV сrunсher'а (96)?
+[mr.]event/codex gr./i8/any (Лесовский Александр Александрович 5.7.81), п.Чучково Ряз.обл. - Владимир 98-04(03)
+evolver/dms (vmp, Петюкевич Владислав М.), Гомель (assorty megademo) 93-96
+exalot (Эксалот Михаил), СПб (digital arts fantasy, UFO-1) 93-96
+
+*factor6/esa/k3l/3sc/5sc/pht/Gemba Boys (Akio Tenshi, Aki, Koko&Keke, Alan Petrik), Чехия (PIGGY game, Petr^i'k - это откуда вариант фамилии?) 96-19,21-23
+falcon/bg(bandit group) (Краснов Константин), Ульяновск
+falcon/scg(strategic creative group), Гуково (игра Шахта) 99
+fanat/fff (Батенко Юрий), Красноярск (демо FANAT'95) 94-95
+fancy (Чудинов Евгений) (Heroquests intro)
+fantom/ohg (Филимонов Анатолий), Ростов-на-Дону (sinusomania) 95
+fantomassoft/proxium/centronics/megasystem/megaforce (asman, Чиков Владимир), Москва ("coming_s2","h.birthday" - похоже эти и ещё два модуля приписаны ему ошибочно) 94-97 - не музыкант
+faraon/queen software inc. (faraon steevis, Сергей..), Самара ("judgement of heaven") 95-96
+dj fast (друг Skull Chaser'а) 99-03
+fatal snipe/fenomen/psycho (fatalsnipe, Покалюк Денис Владимирович 9.3.83), Могилёв 95?-05,09,17-21,23
+fbi/the unbelievables(uvs) ([hyper-]ebi, Thomas Eberle), Германия (First Association demo) 94-96
+Federico J. Álvarez Valero, Испания (игра Sokoban by Compiler Software) 06
+fedin (fedini) (2 трека)
+filin bros. (музыка в демке Answer от Zombusters Crew)
+Fil Jr./dsc/cds (vvf, Филоненко Владимир), Иваново 95
+Филоненко Алексей, Ташкент 94 [wanted]
+fine soft/DeviShak (fine, Яцковский Вячеслав), Киев (FINE & M.V. - вероятно он и Dreamer?) 95
+ f&m soft music - они же?
+fireman/zbhg/destrucrion team (jax, Валерий), Каменск-Уральский (Ice Gift) 96-99
+firestarter/hackerz' design software (Фёдоров Алексей Александрович 16.3.87), Тюмень ("HaeBy") 00-10
+mr.first/kzs/f0ff (stone, leopart/eye-q/deMarche, Захаров Александр), Дзержинск 97-99,17
+fist [soft]/vvg (Кулаков Алексей Владимирович 2.8?.80), Воронеж 96-98 [27.9.99]
+flabber/virtual masters, Ковров 01-03
+[hellish] flamer/magnetic monsters, Сарапул 01-03
+dj flash (1 трек с REX и 1 - с ALOS)
+flint (flint inc., flinty overdrive, Осинцев Денис), Новосибирск (Very Old Games and Murder demos) 95-96
+flyer/dgms (pam, Осипов Антон), СПб (1 трек из FCM-1 demo совместно с братом) 96-97
+flyer/rage/psycho/zx-legion (McFLY, Сосин Вячеслав Александрович), Минск 96-00
+flymansoft (Мушников Андрей), Харьков (игра Supaplex) 98-99
+fox fluffy's/ais/savers alliance/target team (gpn, svirepka-moguchka, foxy fluffy's, Гоголевский Павел Hиколаевич 30.12.80), Гродно (Mil'02) 97-06
+foxman, Шадринск (музыка в интро by Lone Wolf/Шадринск к игре Bear Bovver) 96
+ FOXSOFT, ЩАДРИНСК (похоже ошибка Newart'а и в нике, и в городе) 96 [wanted]
+foxx/april entertainment (foxx/ilw(inside law), Енин Алексей), Воронеж 97-99
+FrankT (Frank Triggs), UK 12-13
+fred gray, England 86-87 - black lamp?
+freeman (Евгений), Днепропетровск (друг Karo) 97
+freeman/ex-fatality/freeart/zx-legion/asphyxia(apx) (Губский Роман Алексеевич), Минск 97-01
+freezeman/spiders gr. (Примачёв Павел?), Гомель (Monarch Gallery v1.5, в credits FreezeMan - converter, там же пара MegaVolt/FreezeMan и Примачев Р.А./П.А., но непонятно, П. он или Р.) 00
+fresher/phf (Кудряшов Алексей), Чебоксары (игра 6-in-line) 97-98
+frunze/style gr. (Фрунзе Сергей), СПб 97-98
+Fubukimaru 19
+fudgepacker/Technium 220 (DJ Fist, Dave Fountain), UK (демо British Battletracker) 94-96
+fun/vga studio (fanat/tnt sector), Челябинск (Музыка в демо-версии игры Zone The Last Stalker) 99,01
+funute, USA (Battle of the bits) 17
+fux/seamans b.g/progress (phookz, ph00kze, gena, Фисун Сергей), Москва 96-98
+fuxoft (František Fuka), Czech Republic 87-91
+Fyrex/Bitmunchers (Megafire, Лысенко Андрей), Тула 95
+
+gabber/diamond (Алексей), Москва (NIAGRA в ZX РЕВЮ 2)
+galahad/the knights, Англия (Train Spottin' demo) 93
+galaxy [music block]/crystal dream/action (max, Максим), Луганск (журнал ZX News #1) 94-96
+[da] gangster/convention (death, twix), Англия (демки British Battletracker и DeJarreVu) 95
+gans/rage (crazyhead/ws(wolfsoft), hans, ganz, crazy/ws/rgb, morbid angel, hanz, Головач Дмитрий Александрович), Минск (ELEMENT#2, демоверсия игры Monstrland, phantazm demo) 96-99
+gar/total eclipse, Gloucester/England (2 конверсии в demo Toxic Elephant) 91
+Garvalf, France 15-19,21
+Gary Biasillo, England (игра Joe Blade) 87-88
+*gasman/raww arse/hprg (dj.moonbug, Matthew Westcott), Оксфорд, Англия 94-09,12-14,16-17,19-20,23
+Гайдуков Станислав, Челябинск ("adamsky") 93
+G. Brandt (игра Tom & Jerry 2 совместно с C. Grewe) 89
+gd638sh 16
+G-Elay MC/queen software inc. (kurtain, Анисимов Антон), Самара (Хулиганы в раю 1 demo) 95-96
+george/gladiators soft (gms, george music studio, zebra, Терентьев Георгий), Ульяновск (Madness) 95-97,12
+Gerard Gourley (игра Wrestling Superstars) 92
+ghostsoft (Летягин Сергей), Тамбов (Conveyer demo с Андреем Кузнецовым) 95
+[nick] gibson/usg/NotSoft (костик ворофикин, jibbz, Никифоров Константин Васильевич 83/84), Новокузнецк (IG#5) 97-04,06-07,09-10,14
+gillespie/new gr. (Шимановский Александр), Брест (intro к Hunt for Red October, New Group New Year demo) 95-96
+ginsoft/reception software, Мариуполь (Coming Soon Illusion Part 1 не его?) 95 [wanted]
+Girlzilla/Knuckle Girls (Clare, Claire), Nottingham, England 94
+Гисс Алексей/moon soft, Коркино Челяб. обл. (Time Cop) 95-96
+Гизатулин Денис, Череповец (демка FUCKEL) 95
+gizmo (Adam Gilmore), UK 88
+glider/nrg(Energy gr.)/xxl (Бочкарёв Геннадий), Черкассы ("по ночному городу") 03
+gloomer/j!zzz, Екатеринбург ("Del'finy plyvut na lunu" @toy03)
+Глотов Сергей А., Ростов-на-Дону (игра Battle City 3) 93
+gluck/enigma variations (game "Defenders of the Earth) 90
+gluke (1 stp из архива b1536M_calgary) 97
+glukman/ohg (doctor gluk), Ростов-на-Дону (Gift 4 Mistik) 96
+GM BIT (Gm, Гапонов Михаил), Красноярск (HackersTop 2010 Greets Intro) 09
+Гобузов Аркадий, Омск 95
+gogin ([hacker] smir, Смирнов Сергей Андреевич=super! 83/84), Череповец - СПб (Dizzy XII) 97-03,19-21
+Голодов Евгений, Армавир (1 трек совместно с Сергеем Селищевым в Salutation demo) 95
+gominolas/topo soft, Испания 88-89 [b] - должна быть музыка в игре Chicago, но её нет ни в одном релизе :(
+gonza/rldg (Трегубов Евгений 81), Йошкар-Ола (интро от mkhg, Shiting Ball demo) 95
+Gorfovenko Andrew (Music Tracker demo) [wanted]
+*gotoandplay/botb/gotoandzlew, UK 14-18,22
+graf (5 треков) 97
+graf, Poland (megademo, ace ploter кодил совместно с dr.df0) 91
+graphmaster/T.S.Soft, Арзамас
+graster/oversun friendship (Скользков Сергей), Северодвинск 01
+the gravedigger (GRAVER, gRAVER_ZX, Медведев Павел Михайлович 86), Москва - Омутнинск(Кир.обл) (Book01) 01-03
+Гребцов Валерий, СПб 97
+grey/ohg/mafia (Бологов Григорий Александрович), Новочеркасск (игра Elopement, демка Megasound) 95-97
+dr.grifus/acl (blaze, Орлов Сергей Александрович 14.7.80), Гродно 97-99
+groloson/adg (mimic, Рождественский Сергей Николаевич 77), Рязань 95-96
+grongy (Смольянников Дмитрий), Владивосток (zxgfx #6 memory from DiHalt'23) 22-23
+groove/JURASSIC SOFT(js/tnl) (Сочнев Дмитрий), Ульяновск 97-98,22
+gsk/last hackers' hope group (games killer, Сиренко Артём 79), Харьков (Joker Gift) 95-96
+g-soft (Гапкалов Дмитрий), СПб ("Grob") [wanted]
+Гудков Иван, Новосибирск (интро к игре soldier of the future) 96
+Гулевич Сергей/Technotime, Гомель (Treat demo) 94-95 (см. https://zxaaa.net/TECHT.html [sb])
+Гультяев Дмитрий, Великие Луки (Digital Graphic and Profi Demos) 94-96
+Guy Stevens (игра Head Over Heels) 87
+gyms, USA (Battle of the Bits) 11
+gyn (death soft) (=Dagma in Newart archive)
+
+ha/phd (heaven aeroplane, Sergei Dubarev, Дубарев Сергей), Минск (демы PHA-Q и PHA-Q2) 97
+hacker alex/dt, Челябинск (Rescate Enel Golfo intro) 94
+hacker design (earth shaker 128)
+hacker foreman (демка Without Name II) 89
+hacker intruders (hackers intruders), Польша (DAG Demo 3, Strong Demo Part 1, больше похоже на то, что ему/им приписали то, что на самом деле выдернуто и/или подредактировано чужого) 91
+hacker kay/nuclear inc/pos-wt (kay/nc, Елисеев Константин Александрович=kay27 23.7.81), Ижевск 96-00
+hacker king daimon (Кабатов Виктор/s.e.soft(special effects software)), Самара (Demons demos) 95-98
+hacker rva (hacker rwa, Рындич Вадим), Канев (1 трек совместно с Wild Cat в Stastar demo, 1 - совместно с VBI) 96
+Hamish Rust (игра Hyper Lane совместно с Martin McKenzie) 89
+hammer/del (dj.MoHaX/Psycho, monah/tpg, Монахов Александр), Минск (демо nibble dreams) 95-96
+handrix (andy, chap, Овсянников Андрей), Волгодонск (игра clocks)
+*hanna, USA (Battle of the Bits) 20-22
+han solo (Кузеванов Владислав), Волгоград (музыка из Super Sim Simulator возможно Авилова) 93
+harry/iron boyz (Митрофанов Игорь), Арзамас (3D Demo 2 by Zombusters Crew) 96-97
+hawk/tornado virtual group. (Шилюк Михаил), Брест (1 трек PT2 из газеты ZX-Jump #1) 97
+hazard/pht (haz, Oskars Herliņš), Латвия (Flea Adventure Intro) 97-99,20-22
+hazard dreams (Поликанин Леонид), Коммунары Лен.обл (игра open it) 95
+head [soft] (headsoft, russoft, Абудков Евгений), Москва (Happy Birthday Crystal Corp) 95
+heep/Black Hawks (Васильев Владимир), Новгород (интро к Dizzy X и Dizzy Y) 95
+himik/di halt/dark souls (Мирахмедов Алексей 24.11.76), Иваново (&alexandr(bass) - газета Di Halt) 96
+himik's zxz/pos (himik, Кудрявцев Илья 01.04.78), Ижевск 94-95
+hitsoft/u.h.g.(united hackers group, uhg) (Сергей), Киров (его музыка в After The War 2 intro by UHG очень похожа на Joker of BSG\15 Hits\05 BOLDER Game on Vector.stc) 94-95
+home(program's)soft/code busters (homesoft, Боблак Юрий), Харьков (resound1 music demo)
+honeyman/hackers-jokers gr. (Медов Александр), Нижний Новгород (HG-demo) 96-97
+hood/crazytronic/kiss (Milan Stava), Чехия 98-01,03
+horror/gsd (Кондрашин Дмитрий), Арзамас (1 трек STP из Kick demo) 97
+hunter/style gr./terror gr (n.hunter, night hunter, Шолохов Сергей), СПб 96-98
+
+Ian Sheridan (игра Cobra Force) 89
+icabod/raww arse/convention (cupré, cupre, Robert Cooper 76), Merriot/Somerset/Англия (Mania and ID Demos) 93-94
+i.c.c.(Ice Cool Coders) (игра 1999 совместно с Steve Corry) 87 [b]
+ice'di griz/triumph/rover[soft] (Десяткин Денис Юрьевич 5.6.81), Челябинск 96-97
+ice'n'green/eye-q (ice/pp, spaceman/pp, dj.space, Назарычев Игорь), Дзержинск 97-03
+igneous (Александр), Чебоксары (в основном VTX, но есть и InSpace.pt3) 98-00
+igoval/triangle gr./antique (Шевелёв Игорь), Ивано-Франковск 97-98
+ijk/ci5 (Jaroslav Kovář), Чехия (X-Magazin) 97-01
+[dj.]ik/tiraspol art gr. ([dj.]artur(ik), Артур...), Тирасполь 01-04
+il/raisin software, Новосибирск (Noberone demo)
+illarion m*guard/excellent four software(e.f.s.) (игра Memory Blocks)
+im 3 (Виноградов Александр), Москва (1 трек совместно с d.j.nz в HG-demo)
+Imagitec (игра Space Crusade) 92
+imp/dms (Хропов Владимир Владимирович=randomajestiq=rmjq), Гомель 93-98
+impetus led/rfg (Ворожкин Александр Александрович 80), Харьков (Pat Demo 1) 95 - вроде музыку не писал...
+int 51/olive-branch, Тула (музыка в игре Paganini Horror совместно со Spider) 98
+inter game, Северск (Past Time 2 demo) 93-95
+intim soft/megastars h.g./3xl/intim corp. (Веселко Александр), Днепропетровск (интро svv-soft к mtv-mix megademo) 96
+ips/artwork gr. (ip, Пасечник Игорь А.), Донецк (игра "Зеркало") 97-98
+ironman/roversoft/pungency/ohc/mafia ([dj.]IronSoft, C-Phone, Shuman, Dj.Iron, reverier, manic/bad boys company, dj.peregar, Шумаков Антон Юрьевич 08.03.1981), Челябинск (kuzya by inferno soft в Exotic Morphing Gift - Ironman, Jektor или ...? из журнала "muzak for faultless 6 /languag" - есть оригинальный модуль Speccy3_10.pt2 без подписи, авторство по журналу) 93-99
+ishma/power gr. (Шматов Иван 31.5.77), Витебск 96-99
+isihlabathi/wishers (multimatograf'17 128 demo) 17
+i.s.v. (izzz, isv, Изотин Сергей), СПб (GENA.asc)
+isy (Сергей), Харьков ("st_demo1","st_demo7") 94
+*iyatemu (imatrackman, Im_a_Track_Man)
+i.ye, Латвия
+Изотов Анатолий, СПб ("M. Darklord" в Netus News #9) 99
+
+jaan/pht (jancho, Вийра Ян), Таллинн 96-98
+jack action/kdf (jacksoft, Кудаев Евгений И.), Воронеж (писал вместе с AlexBooster'ом; "tucha") 95
+the jackal (Barry Leitch), Англия (игра Xenophobe) 89
+jaguar/phg (Мелинюк/Лобач Павел), Брест (Technodrom, газета Impulse) 97
+jam (Барков Сергей), Москва (Черный Ворон) 96
+jam/clevers/clever soft/triumph (dem, Белов Дмитрий), Челябинск (4x4 puzzle, Faces demos) 95-99
+jam/diamond gr.?, Москва? (diamond*.pt2)
+jam/xpj (Нестеренко Евгений), Харьков 99
+james advent (Бервинов Сергей), Харьков (The Beatles demo с RST7, Resound 1 demo в Super Sonic'е) 93
+jammer (dzemik, Kamil Wolnikowski), Poland 17-19
+Jangler (Brandon Mulcahy), Philadelphia, Pennsylvania, USA (Battle of the Bits) 13-14
+jaro-jaro&tek (писал в Wham128, Wix demos) 89
+Jason C. Brooke, АНГЛИЯ (Motos) 87-90
+ J. C. Brookes (игра Mega Apocalypse) 88 - он же?
+jass (Спиряков Евгений), Бобруйск 97-98,09
+jax (Хлопотин Евгений), Москва 99-00
+jay derrett 87-88
+J. C. Rodriguez (игра Toi Acid Game совместно с J. V. Aranda) 89 [b]
+jeenio/ScenePT All Stars (Jorge, Noise Bleeder, Jorge Silva), Portugal 19
+jektor(один раз jector)/inferno soft(isi), Мариуполь (см. Ironman\KUZYA.pt2) 95-97
+jenka music inc. (интро Crazy Games Collection) 96
+jerrs (Зарубин Станислав), Екатеринбург (в основном VTX, но доступны и PT3, пишет в VT II) 05-11
+Jerry Astley (игра Olli & Lissa: The Ghost of Shilmoore Castle) 86 [b]
+Jerry Danison (игра Olli & Lissa 2: Halloween) 88 [b]
+Jess (Jean-Sébastien Gerard 70), France (есть адаптация его музыки с Atari ST - Tears.pt3)
+Jessica Justice (В интро "Строитель коммунизма" передаёт привет Fantadrom LTD, возможно, музыка не её) 94 ?
+jimmie jee/wasp software (jee, Рябцев Роман), Краснодар (For Ninja Master and Ninja Master 7 demos) 94
+Jim Waterman (Super Mario Fruit Machine from Crap Game Compo 2004) 04 [wanted]
+jk/ice gr. (Корзюк Ян), Димитровград (игра ADMIRAL, at_night.pt3) 97-03
+joe/dr (bloody joseff, bl.josy, coldun, Ермолин Руслан), Новгород 95-99
+ joe/reflect, Новгород (для Free demo писал с Van/Reflect) 95-96 - демка 96 года, а одна из музык помечена 99-м (явно ошибка). Он же?
+jofa
+john [rzd] (john_rzd, Раздорских Евгений), Тихвин (gift for Дм.Лещенко-21) 00
+dr.john (Солошенко Евгений 18.10.75), Новосибирск (Dr.John demo) 94
+john [silver]/i8/any (denis, Логинов Денис Евгеньевич 31.03.79), Рязань 98-05,16,18-20
+John Connolly (found at zxart.ee) 19
+John F. Cain (игра Booty) 84-88
+Johnny (John), Казань (2 трека с RA) 99
+Johnny McGibbitts (найден на zxart.ee) 21,23
+johnson/tula tronics (jinn, Гера, msv?, Григорьев Георгий Владимирович), Тула (Black Day 2 demo) 94
+john underwood/wc(welcome corp.)/wf(welcome firm), СПб (2 музона, интро к игре 3D Starfighter) 97
+johny x/naughty crew (Jan Otvinovský 80), Teplice/Чехия (демка Naughty Crew Info, Slepka) 96-01,08
+joker/black star group (sound blaster, envelop/image, Зозуля Андрей Анатольевич 17.08.81), Киров->Калуга (как Joker: Black Star, 15 Hits demos or Dizzy 7 Help?, как Envelop: интро к игре Street Fighter, музыка в Image's Boot-Microdemo) 95-97
+ funatic/image crew (Станислав), Киров (в игре Street Fighter музыка с его тагами, но в интро написано, что писал Envelop, Envelop=Funatic?) 96-97
+joker/joker systems (Минин Владимир Николаевич?), Котлас 99-03
+Jonathan Cauldwell (игра Area 51 из Minigame сompo 2004) 04 [wanted]
+jonathan dunn(choroid) (New Zealand Story ?) 87-91
+jon do/lotus group, Красноярск (Informations II) 95
+Jon-Paul Eldridge (игра Professional Ski Simulator) 87 [b]
+jose a. martin, Испания? (музыка к AMC) 89
+JosSs (Jose Manuel Perez Paredes), Spain (found at zxart.ee) 19,21-22
+joyrex (1 трек PT3) 04
+J. Preston (игра Twin Turbo V8) 89 [b]
+jrlepage (Jean-Philippe Lepage), Montreal, Quebec, Canada (Battle of the Bits) 12-13
+js madcap (jsm, Скаковский Евгений), СПб 96-99
+jtn/4d (Климов Василий Юрьевич 5.9.78), Пермь (5 треков) 98,13
+julian breeze (музыка в игре Thanatos) 86-87
+Jumperror/Team Moritz (Pedro Pimenta) 18-22
+Juraj Macháč (4-е место на Demobit'95, в TXT - Juro) 95
+justinas/smg(ex-ssg)/ctl (sector, dJuZzzz(на sundown'08-09), Валяшкин Вадим Георгиевич), Клайпеда, ex-Калининград 97-02,07-09
+ js/russia (1 трек PT3 на Syndeecate Apocalypse 2003) - он же?
+J. V. Aranda (игра Toi Acid Game совместно с J. C. Rodriguez) 89 [b]
+j.v.m design (игра Hunt for Red October)
+
+KAA (Кузьмин Андрей), Гродно 97
+Kakos_nonos (Завгородний Александр), Кабардинка 14,16,19
+Karate/Mandala Breakers, Чехия 09,11
+karbofos/drink lover's (harconen soft, harkonnen/cds'cc, krb, karb, karbo, korobkin, Мумрин Николай Владимирович 80), Ярославль (игра Return To Home, "slow glass" cracktro by 3umf) 96-98,05-11,15,17-18,23
+karo [da hodge [green]]/codeworld (Ходжикян Каро), Днепропетровск 99-03
+karp [soft] (karp boy, w karp, Карпов Дмитрий), Балашиха 94-95
+kas29 (Кашкаров Алексей), Барнаул (игра "Три осминожки") 17
+kasper/ssg/smg, Калининград (возможно 2 единственных stp - это другой Kasper) 97-00
+KASS, Белоруссия 97 [wanted]
+kassoft, Poland 92
+kd (Козлов Дмитрий) (Один трек ASM из Spectrofon #16)
+kdd[soft] (ericsoft, Кудинов Дмитрий 79), Краснодар (Flex demo) 95
+Keith Tinman/Odin Computer Graphics, АНГЛИЯ (Midnight Resistance? Batman? Recoil?) 85-90
+kenotron/etc(style gr.)/scene (Трясун Андрей 10.08.79), Черкассы 96-00
+kent/musicsoft(msg) (Воробьёв Павел), Москва (ns5c.stp (2000) by Воробьёв Павел не Kent?) 93-95,00
+kettles (Костырев Владислав), Семипалатинск (Folly demo) 96
+[hacker] *kev*/inferno/shark software (shark?, kev/mafia, Коссе Евгений Владимирович), Доброполье Донецк.обл ("evenings", Terminator 2 demo) 94-96
+kevin/concern chaos (Курлаев Денис Евгеньевич), СПб (Dizzy 'B') 97-01
+[mr.]key (keysoft/damage inc, Кузнецов Владимир), Челябинск (в интро Keysoft'а к игре Elven Warrior написано DAMAGE INC. ВЫРАЖАЕТ СВОЮ БЛАГОДАРНОСТЬ L.M. ЗА СОДЕЙСТВИЕ В НАПИСАНИИ ЭТОЙ AY-MUSIC!) 95-97 - key=keysoft?
+[neue] key-jee/triebkraft (black groove/BLPsq/lfg, trommler, #mib, noo.n.e, luchibobra, kawai, kahwi, Петухов Иван Сергеевич 20.4.82), Пермь ("firstlee", Forever5) 97-07,09-11,15,22
+keyser soze/colour of magik (kyser soze, Пастушенко Андрей), Владивосток 01-03
+ duktin/zeitnot (duktine, duktinjus/zetnot/Colour of Magic), Владивосток? (WDdemo/BM#2, информация о том, что keyser soze=duktin от Newart'а) 02
+kfaraday (Kay Faraday, Kevin Faraday, Keffie, charlotte, Charlotte Kay), UK (Battle of the Bits) 12-15,17
+kicia (Maciej Wronski), Poland (was made all Soundtracker songs: Popcorn, Axel_F, Compiler song etc... and all DOBRANOCKI songs) 89-91
+kid/nsg (Бусел Владимир), Оленегорск Мурм. обл. (упомянут в 1997 demo Башиным Романом) 96-97 [wanted]
+mr.kid/tgm crew (Pavel Suk), Лоуни/Чехия 95-97
+kid/violator'zero (Лигейка Мартинас), Клайпеда ("xernia") 97
+kidson[soft]/rapeware corp.(rwc) (kiddy(в интро к игре Magic Fields)/dmd(diamond software), Круглыхин Борис), Новосибирск 94-97
+kir/omega gr. (Чубенко Кирилл), СПб (возможно найденные 6 PT2 модулей - это другой KIR) 96
+kiriller/studio 7, Рига (игра Flea Adventure, реклама Studio 7) 95
+klav/codebusters (Лещенко Константин 75), Харьков (автор Super Sonic'а) 93-95
+klax/s.o.s. (Киселев Игорь(имеется 3 одноименных)), Новосибирск (Wakson20 gift) 95
+klim/new race/ohg/xxl/critical mass (Клименко Григорий Александрович 27.1.80), Ростов-на-Дону 96-04(99-00),09,11-13
+Князев Андрей/merry life-hackers famely, Миасс (spectrum discothek demo) 97
+koc, Ульяновск (Cossackos #4) 04
+Колесник Андрей, Харьков (интро от codebusters) 92-95
+Колотовкин Юрий/d.masters(Digital Masters Hackers & Creative Group), Михайловка (журнал Spectrophoby #06)
+Коновалов Станислав/Corona Studio, Уфа 96
+Коробейников Даниил(Ден), Курган (mtv mix megademo от crack soft и enjoy megademo) 94,96?
+korund (Петухов Илья), Ижевск ("dreams"/Izhnews#D) 01-02
+kostick/gfc 96
+Kostya Evkysev/scorpion soft (Евкучев Константин/lotus group), Красноярск (демки CokaCola, Info One и Informations-II, игра battle city, Mirikom) 94-95
+ technomans (technomanses, technoman's), Красноярск (игра Battle City 2, Fanat demo) 95 - он же?
+d.j.kot (kotsoft, ejkot, Питолин Андрей Павлович), Котлас 94-03,10,14-19,21
+kot [ltd]/nsg/ctl (kot [lzd], Попов Дмитрий), Кировск Мурм. обл. (1997 demo) 96-01
+Котин Кирилл/-sf- studio, СПб (Russian Remix demo, возможно RussianRemix2.asc) 95
+Котин Максим В./-sf- studio, СПб (Russian Remix demo) 95
+kpa3/delirium tremens (crazy alex, Токмаков Александр), Казань (по его словам музыка была) [wanted]
+kriss/illusion/reaction (Krzysztof Leszczynski), Польша (real action demo, dies irae, писал в sqt) 92-97
+kristoph/screw (kristof/smg, кристайskrju, Глущенко Кирилл Сергеевич 83), Калининград 00
+Крутько Сергей/mto sunrise electronic ltd, Узловая (ААА думал, что автор одной мелодии в New Music Demo 3 и Chechna demo Дашков Алексей, но в первой Крутько сам написал, что музыка его) 94
+ksa/mkhg/progress (Кузин Станислав=madminder 25.02.79), Москва 94-96
+ksp/merry life-hackers famely (Князев Сергей), Миасс (spectrum discothek demo) 97
+kubikámi (kubikami, aturbidflow, atrubidflow, atf, Фло Артем), Воронеж 16-17
+kuk/kuk's idea, Новосибирск (Last Warrior demo, в одной группе с M.P.) 95
+Куликов Даниил (Demodulation'20-21) 20-21
+Kulor (Richard Armijo), Phoenix, Arizona, USA (Forever 2009) 09
+kum/global corp (Кузнецов Александр), Старый Оскол 95-97
+kunakh, Житомир 97
+kunf/eighteen gr./digital sound labs/begemota soft (Кунафин Антон Раилиевич), Москва 97-99
+kurt (Литвинов Владимир=xsample/unit-5), Краснодар 93-99
+kuvo/Caroline Software Inc (VladimirKutiak0ff, Кутяков Владимир), Самара 20-23
+Кузнецов Андрей, Тамбов (игра Jolly lines) 95
+Кузнецов Олег/thd, Москва (игра Tube Mix) 93
+kva/e-mage (Кузьмин Виктор), Гродно
+kvm/kvl (Karel Vaněk), Czech Republic (Dungeon demo, music for ultrasoft) 92-93
+kvs [soft]/flash (rex, Кислов Вячеслав), Новосибирск (sd1-5inf, писал один и на пару со Slack Den'ом) 97
+kyv/ex-ctl/xlnc/triumph (klf, yurik, red barbnark/dl corp/triumph, redbarbnark, Насекомов Николай, Клопов Юрий Викторович 26.4.79), Челябинск 95-97,99-08,10-11
+
+Ladislav Balara/DSA Computer Graphics, Словакия (игры Sherwood, Towdie, брат художник Dusan Balara) 92-94
+lady music, Бердск (Cocktail demo) 94-95
+*l.a.esq/e-3(extacy-3)/yolpa brothers/raww arse (l.a., la, Lieutenant Arsehole Esquire, Legless Addict, LaesQ, Neil Laws), Bristol/Англия (Subliminal Extacy e-zine) 92-07,19,23
+laks (Сергей), Пермь (написал свой boot с ASM-модулем)
+lamer1 (hypergy and lamergy papers' anonimous)
+lamer2 (lamergy paper's anonimous)
+lamergy (lamergy paper's anonimous)
+lamer n (lamergy paper's anonimous)
+*Lamer Pinky/Gemba Boys/Krap Gang/invaders (Lamer, Pinky, Petr Klusal), Uherský Brod, Czech Republic 14-16,18-19,21-23
+Ламков Алексей, Саранск (Fargo demo) 95
+lampovyï_ninja (lampovyi_ninja), Курск (Multimatograf'18) 18-20,22
+laser genius/acl/fishbone (lg, zorg, Януцевич Евгений Иванович 5.10.80), Гродно (SNG#2) 97-00
+lasoft/excess (Лёвин Александр), Казань (демо "Vida" cafe'99) 99
+[the] last monster (Jan Kučera), Чехославакия (дема Digital Music Composer) 91
+lav/galaxy/softland/sands (mz zero, mz0, dr.sampler, lavender, lavstudio, Литвинов Андрей Витальевич 9.12.79), СПб (ZX-Format#2,4) 94-98
+Лаврик Денис/PhF, Чебоксары (игра Broken Heart (меню)) 96
+LCD (mn, mgn, Нагимов Марат/m.n. trade corporation), Казань (в Reaction demo один модуль подписан им, но такой в STP есть у Даниила Коробейникова) 94-96
+lds soft/delirium hg (delirium в Каневе Черкасской обл?)
+lds soft/excess/m.n. trade corporation (Лисенков Дмитрий), Казань (demo "Made in Kazan") 94-96
+lee du-caine (dc audio), Bristol/UK (3-й альбом на Ubiktune из игрушки Stranded 2.5) 07-09
+lee max/scorpion club (Ли Максим), Москва (демо Porno-1) 95
+legend/the unbelievables(uvs), Германия 94
+Lekkey (Wct Pie 2016) 16
+lemming/etc (Лёскин Максим 20.07.76), Черкассы (Confusion demo) 95
+cj.leo/caig/pzs (lion-7, staN, Стоян Павел 8.8.81), Таганрог -> Германия ("Disco22" Pdx'02, "to say good bye") 96-00
+lepa/scg(strategic creative group) (leper, Мальцев Алексей Геннадьевич 81/82), Гуково Рост.обл. (&falcon, игра "Шахта") 99,02
+les (l.e.s.h., Карпов Алексей), Саратов (2:5053/23.16?) 95
+Leskiff Stepan/moon soft (Step Leskiff, Леськиф Степан), Коркино Челяб. обл. 95
+Lete (игра Jungle Warrior) 90
+Lexx/Milytia (Алексей), Ижевск 03
+mr.limited (mr.ltd, Салатов Алексей), Новосибирск (один паттерн в игре Battle City) 95
+dr.lion/realsoftmakers/freestyle (Олександренко Евгений Александрович 03.12.82), Новая Водолага Харьк.обл - Харьков (Чёрная Ворона #4) 00
+lis/l&d(lis'n'das) (Лазарев Иван), Ульяновск (Letter D demo) 98-99
+Лисицкий Ян, Екатеринбург 95
+listat/adg (Гуреев Сергей), Рязань (wolfdemo#2, больше треков нет) 96
+LiSU/Tristesse 12-13
+liu kang/mkhg, Москва (релиз batty от universe software) 97
+*LJRadio (Battle of the Bits) 17
+l.m., Челябинск (помогал Keysoft'у с музыкой в интро к игре Elven Warrior) 95
+lob/gdc (Лобов Дмитрий Александрович 76), Воронеж (anekdotes 3) 94-95
+Logic [Corpsegrinder]/3umf (Зырянов Иван 26.10.1981), Челябинск 02
+loner/new life studio/n-discovery (Киселёв Игорь(имеется 3 одноименных)), СПб (интро к игре "Доктор Айболит", "preludy" #clyde/triumph?) 00-02
+lone wolf/new software (Andy, Андреев Андрей), Шадринск
+looker/ms(magic soft) (magic, mv soft, Москалёв Виктор), Москва (remix of Thunder by Visual в интро к игре Jaws , больше ничего нет) 96
+lord archy/die krupps (Хиценко Артём), Новочеркасск 98
+Lord Insanity/The Lords (David Gommeren), Netherlands 89
+lords of sorrow/impellent (повелители горя), Николаев (игра Columns) 95
+Lords of Sound (игра Zona 0) 91
+l.p.v. (Лузьянов Павел), Москва (mtv mix demo) 93
+lsd/steel warriors legion(s.w.l.) (lds soft, Лоханкин Дмитрий 76), Фрязино (Techno Unfuck Demo) 95
+luckysoft (lucky) (Spectrology demo) 94
+luk/kvl (Lukáš Vlček), Czech Republic (Delayed Megademo) 90-95
+Lukáš Hladeček (Demobit'95) 95
+lyndon sharp, АНГЛИЯ 89-91
+lynx/GMD/explosive team (x-treamer/infotek, Николаев Владимир), Екатеринбург 00?
+
+m9m (mega9man xx.xx.2000), Arad, Romania (Battle of the Bits) 14-16
+*ma2e/Desire/Fatzone/Moods Plateau/Proxima/Resistance (mAZE, Highpower), Норвегия 21-22
+Maciej Kluziak, Poland (игра Logo) 90
+macros (Гуляев Сергей Анатольевич), Котлас 99-04
+MAD_DEL (LaserStone(c)), СПб 16
+mad cat/tpml(the plague mailmans league) (Константинов Константин Олегович 24.3.82), Белгород (#GIFT'99, THING4k) 99
+madmax/k-n-a(kna) (madmad/kna, Кравцов Максим 83), Комсомольск-на-Амуре (треки с Artfield'07 и RawwOrgy'08) 07-10,19
+madmax/silicon brains (mad max, Пономарёв Максим Викторович 15.01.1976), Николаев 94-97
+mad max/surdakar/cpu (mad-max, Поздняков Максим Геннадьевич 1980), Рыбинск 94-96
+dj.magnum/karlo computer soft/add 257/add-257 (Витенко Владимир), Енакиево 01-03
+mak (mike kalinin, Калинин Михаил), Ковров (3 модуля ASM в Virtual Player, ArtComp'98) 95-96
+Makinavaja (Antonio Cano-Caballero Pérez), Испания (найден на zxart.ee) 15,19
+Максимук Павел, Брест (интро к игре Space Crusade - музыка по структуре похожа на Skull Chaser\Old\LevMusic.pt2) 96
+malex/legionsoft (Мезенцев Александр), Курск (Cow demo) 96-97
+dj manager/xtmg (djmanager, Кобзарев Виктор), Минск
+Manami Matsumae (Chanchacorin, Manami Gotoh), Japan (1 трек с C-jeff) 18
+manga inc. (Киселёв Игорь(имеется 3 одноименных)), Череповец (Sound Cracker, писал музыку к Adventurer или ещё какому-то местному журналу) 95-96
+Manuel Cubedo (игра Freddy Hardest) 87 [b]
+marcus/kvl (Delayed megademo) 95
+Marek Pilát (Demobit 95) 95
+Mark Alexander/martech soft(или softeam?) (pulsator game) 85-87
+mark cooksey, АНГЛИЯ 88 - Ghosts&Goblins ?
+market soft/sg (Телеляев Дмитрий), Самара (Oberon#2, Fizzy) 96-97
+Mark Jones (игра Arkanoid) 87 [b]
+mark tait, SCOTLAND (Indiana Jones & Last Crusade) 89
+markus [xxv]/proxium/werewolf (marcus, sadrian, cloud, Богачёв Вячеслав), Москва (газета X-RAY [ремиксил с Mc.Floyd'ом сонг Subject'а], интро к демке influence, Dr. Alcohol gift) 96
+Martin Galway 03.01.66, Северная Ирландия (игра Cobra) 85-86 [b]
+Martin McKenzie (игра Hyper Lane совместно с Hamish Rust) 89
+martin walker - R-Type 2 ? Atomic Robokid ? FinalBlow ? Shadow of the Beast ?
+Мартынов Алексей/reserve company (игра Regeners совместно с Дмитрием Привальцевым) 95
+mas/world eyes (Мариничев Сергей 79/80), Вильнюс (гифт rajah17 by we gr., Snack demo) 95-96
+massoft/tula tronics (маля, skyman, Мальцев Алексей), Тула (Black Day 2 demo) 95
+mast[soft]/freeart/fatality(ftl)/ex-Jurassic Park Hackers gr. (Каминский Сергей Владимирович 79?), Минск 95-01
+master (exorcist, Макаревич Андрей 20.07.xx), Днепропетровск (демки Dizzy Chorus и Goblins, в последнем и упомянут ник Master, а в Mortal Kombat & Others - Exorcist) 94-96
+master/megadate(MDG) (Скогорев Алексей Владимирович), Москва 97 = EA? (Fast.pt2 с E'97 написан EA, а больше ничего вроде нет [sb])
+mata[soft]/mqm team (Michal Matějka), Brno/Чехия 92
+Matej Kovalčík (matej kovalcik - nothing else matters.sqt) 95
+matrix/cyber corporation, Краснодар (Coming Soon Free Demo) 96
+matsoft (Matěj Kryndler) (Finty'n'Poke в X-Magazin 2) 97
+matthew cannon, АНГЛИЯ? 90
+matthew smith (игра Jet Set Willy) 83-84 [b]
+matthias/step (Матвеев Юрий А.), Москва (музыка к Звездному Наследию, "lost star") 94-95
+matty (игра Navy Seals) 91
+MAV (Михеев Андрей), Йошкар-Ола (найден на zxart.ee)
+maverick/romantic warriors/twin peaks gr. (mvr/tpg, Бродяга, Починчик Андрей Леонидович 28.12.78), Слоним->Минск (игра "Плутония") 96-97
+dr.max (Красса Максим Юрьевич 25.08.73), Старый Оскол ("s(uper)hit music" и ещё какой-то трек, у которого автор KUM, remix by Dr.Max/Global (сказал сам)) 96
+max, Волжский (alexgift)
+max/-=csl=-, СПб 93
+max/cyberax(cbx)/bda (amv, Арнольд Максим В.), Кемерово (deja vu#7) 98-00
+max/dmj (Krzysztof Makles), Poland (демка Carminadle 1) 92
+dj max [sensation]/max co/moderation/PoS-WT/xts (dj max peroff, dj peroff, Самарин Максим Леонидович 20.07.1980), Нефтекамск 97-03,08-09,18-20
+max/ts (1 трек STP) 99
+max-hi-fi (Максимычев Владимир), Нижний Новгород 01-02
+maximum/gfc (maxsoft, Андрей), Ангарск (75H and Cyber Gifts, Mania demo) 97
+.max. ltd (Макс), Симбирск (Revanche 2 demo) 96
+max m./umdpower/umd group (Максим), Киев (One Plus One demo) 95
+maxsoft/speed co/xtm (max piwamoto, Васильев Максим), Самара ("taiga/agata kristie") 96
+maxwell/jurassic soft (shuffle, Минеев Максим), Ульяновск (Moratorium demo) 96-99
+dj.maxx/phf (max/golden dreams group(gdg), Алексеев Максим), Чебоксары 95-01
+max-zx/surdakar/cpu (max zx, Смычков Максим), Рыбинск (в Imagination Megademo указан в credits) 96
+mborik/Gemba Boys (mborik128, Martin Bórik), Košický, Slovakia 09-16,20
+mc alby (музыка в игре Hostages) 88
+mc.bazun, СПб? (Gidt2den)
+mcf/flash (Черданцев Михаил=Dark Force=Quadro=Ethernal Motion), Новосибирск (1 трек совместно с Mr.Nik) 96
+mc.floyd/werewolf (mfd, Daddy Freddy, Евгений), Москва (газета X-RAY, CS Softleft MD 2) 95-97
+mch/genesis project/multistyle labs/samar/joker (Michał Brzeski), Poland 20-22
+mcjak
+mckeymn/cds(condor soft) (mc keymn), Ярославль 98
+McMaker/fatality (mc conor, mc.conor, McCormic, Кобзарёв Александр Сергеевич), Минск (интро к Scenergy#2) 96-99 McMaker=Mc Conor по Newart'у
+m.coder, Минск (демо "Try Me Buster! Part 1.5") 94
+*meanings (battle of the bits) 20
+Медноногов Алексей/Copper Feet, СПб (игра "Приключения Буратино") 92-93 [b]
+Megabyte/LittleSoft (k.v.p., Костин Василий П.), Ялуторовск 95-98,08-09
+megavolt/shock brigade(shb), Калининград (Woodman gift)
+megus/star gr./brainwave/x-project (megasoft/sv-soft, Петров Роман Сергеевич 26.7.82), Йошкар-Ола 95-03,20
+dj.mel/caig/pzs (meloman, dj.vigil, Борзенков Александр), Таганрог ("raining on street") 97-00
+metal/systematic gr. (Солодейкин Илья), Киров 95-96
+meter, Брест? ("flt.speccyed by meter" Echo 4)
+mew/xd(xg) (Малышкин Евгений В.?) 98
+m. f. valente (klimax game) 89
+MGSak (MGS Software, m.g.s.), Чехия (Ugly Blaster Intro совместно со StupidiuS) 97
+mic (Mirko Seidel) (demo Missing in Fun from Forever 3)
+mic/mps/progress (moby/cosmix, Иващенко Михаил), Москва ("shut me up and hurry!" murzilka3:анонс) 95-98,12,16
+michael batty (Earth Shaker) 90 [b]
+midi[soft]/dsg(duke soft gr.)/og(oberon gr.)/energy minds/freedom/x-project/asm (ms, Туткевич Роман=race), Одесса ("crying soul") 96-00
+midnight [shadow]/ellipse (Голубовский Дмитрий Александрович 1.2.81), Минск 00
+miguel/cpu (infected pixels, Ершов Михаил Юрьевич 03.07.78), Рыбинск 99-05
+miheich (Михаил..), Запорожье (outside#7) 99,20
+mike/fdm(4d) (Климов Михаил Юрьевич 85), Пермь-Москва ("war for life 05.98") 13
+Mike Brown (игра Sword Slayer, писал с Andy Severn) 88 [b]
+Mikropol, Польша (Comming Soon: The CUBE Megademo, модуль использован в куче программ, но по хронологии скорей всего в этой впервые) 91 ?
+mimi/warriors (mr warrior/studio 7), Riga/Latvia (вся информация и единственный модуль из интро к игре Bubble Dizzy) 95?
+dr.mind/xtc(xtatic), Киев
+mindflow (Fredrik Hedvall), Швеция (Timewaster demo) 01
+minos/serachan gr.(shcg), Донецк ('london good bye', Xgame0)
+mirage/eg (Столяренко Дмитрий), Харьков (Over The Top) 94-97
+MIRZA [wanted]
+mischel/fxi (mishel, michel, Михаил..), Екатеринбург 97
+Misha/dgms? (Михаил) (1 трек с OVS)
+mister/fff, Красноярск 94
+mitchell/lazer soft/hwc (boomer, Аншуков Владимир Александрович 14.11.76), Норильск->Оболенск Моск.обл (Vika Morozova=d-juice+mitchel?) 96-01,08
+mksoft [ltd] (dracotino, Кошкин Михаил), Новосибирск (Genius demo, Our Life demo) 94
+m-man (music-man, Титов Иван А. 83) (писал в STP, модули могут быть на дискетах) 90-95
+mmcm/sage (modest/rmda, Косов Сергей Сергеевич 23.12.77), Самара 95-03,05-07,09-23
+Mofobaru/Ate Bit (Chronos, Matt Furniss), Англия (Toobin game, the old skool invitro maker from Sundown'06) 89-90,06-07
+Мохова Анна, Рыбинск (игра color lines)
+Мохов Сергей/Surdakar, Рыбинск (игра color lines)
+Molodcov Alex (Молодцов Александр) (DizzySACK) 06-07,11-15
+monohrom/tetra russian gr.(trg) (Остальцев Владимир), Ижевск 00-01
+monster/sage (Востриков Михаил) (1 трек совместно с MMCM)
+monster of music/digital life gr. (Иванова Вероника), Кемерово 94-97
+the monsters (интро к Sex Tetris 2 от Seamans) 95
+moonlight soft/rain gr. inc/PoS-WT (ms/rgi, Лавров Александр), Ижевск (интро от pos к игре el juego de la oca, SCARGIFT) 97-98
+moonwalker/mhcg (foreman, breeze, zeebr/deMarche, mwr, Патракеев Алексей), Дзержинск 96-99
+mor/sfg(spectrum fanatics gr.) (master of random, crash, Горелов Андрей), Москва (2 трека PT2) 97
+moran/cpu/inward (мОран, rgs, Скворцов Роман Геннадиевич 26.2.77), Рыбинск 00-05,07,09-17,20,22
+Морозова Вика(mitchell+d-jooz), Оболенск Моск.обл (Deja Vu#A)
+morphiy/image crew (bmv/shock soft(ssw), shocksoftware, Бронников Михаил 08.03.80), Киров ("astral child", игра Гуманоид, в демо Sixteen есть три мелодии by f0x, он же?) 95-99
+morphy/o<a(o.c.a.) (mr.pi, morfy/simbols, Подкин Павел Владимирович 84), Чайковский-Пермь (GenZ#4) 03,08
+MotionRide, Poland (speccy.pl 2018.1 party) 18-19
+cj.mouse/caig/pzs (Пойда Сергей), Таганрог 01
+MovieMovies1, Norway (Battle of the Bits) 14
+m.p./kuk's idea (М. Пётр), Новосибирск (No Limit Remix demo) 95
+mr287cc (Александр 19.12.80), Казань 18
+msa/excess (dj reason), Казань ("glittering prizes") 97
+mst (Пустовалов Максим) 97
+dj.music[soft]/music makers (dj.m./m.m., Гусейнов Дмитрий Владимирович), Ярославль->Астрахань(97) (Эльдорадо#2, игра Prince of Persia) 96
+[d.j.]mutant (O.A.V, Орлов Алексей), Гусь-Хрустальный 97-00
+Muuuuu (speccy.pl'19.1) 19
+muzafar/nhg/adia (dj alex, tomal, Томанов Алексей), Брест (NHG релизы, Technodrom, Activity demo) 96-97
+mythos/rage, Минск (игры kill pc, mobile wars) 98
+
+Нагибин Павел/nutron star hackers gr.(nshg) 80, Красноярск (Yet-Demo) 97-98
+nastya/legion(ZX-Legion corp.) (Анастасия), Минск
+n.beast (nik beast/tsunami group, Никита 83), Ижевск? (13 Years demo) 96
+Нечипуренко В., Волжский (в Rec-time 8 - Ничипуренко В.) 96
+neppie/sibcrew (nepnep, neppieneppie) 19
+Нестеренко Михаил, Волгоград (The Last Demo) 94
+never/cpu/infosoft (worm, flex, Колин Алексей 11.10.73), Рыбинск 97-99
+ngg(new generation group), Чебоксары (Talk.pt2 найден в b1536M_calgary, +1 музон с Andy Fer) 96
+nick[soft]/fatality(ftl) (Кожевников Николай), Минск 97
+nick dance/perspective gr. (Кладовщиков Николай), Вологда 96-98
+nick jones 85-88
+nigel pritchard, UK (dna warrior) 89
+nigel speight (Miami Cobra GT) 91
+nightman/vega/gs (Панасюк Юрий), Омск (Gift4Vel) 98-99
+nihirash (Alexander Sharikhin) 19
+mr.nik/flash (Пуртов Николай), Новосибирск 96
+nika mc, Харьков? ('tnn' by mirage/eg & nika mc)
+nike (Александр), Днепропетровск (бывает nike&freeman, KB3 demo, друг Karo) 97
+nikhotmsk (Fischinger demo с CAFE'22) 22
+Никитин В. А. (Спектрофон#10) ?
+*nik-o/duplex/tl/pzs/netspec/bogee/skrju/Conscience ("нИко", oleg, y'ozh-e, nq, Nick Roll/thesuper, n1k-o, njk-q-rsu, njkqrsu, olegltd, Никитин Олег Сергеевич 11.10.82), Краснодар 95-23
+nikphe/ex-i8/any (nikf, nikfe, Емельянов Алексей Александрович), п.Авангард, Ряз.обл. (BRED в соавторстве и 3 трека+1 ремикс в RAIL_MD) 98-01
+ninja master/new life corporation(nlc) (absolut, space sheriff, Грикуров Александр), Краснодар (For Ninja Master 9, БРЕД demo) 93,95-96
+*nitrofurano (Paulo Silva) (автор VGM to VT II txt, sent by Adrien Pouleyn)
+nixoft/special team (Karol (Karčim) Nikitinský 1.9.80), Словакия (Neogen Decidemo) 95-96
+noize/pht (moostafa/ugd/crazy bros(crb)/pht, Депутат Максим), Ровно 97-00
+nomy[ graphics][ limited]/megasystem/megaforce hackers gr./the rippers/centronics hackers gr (nomy gfx[ ltd], nomygfx, Кокоткин Алексей Анатольевич), Москва (SIMP.stc на диске 173.TRD коллекции Nomygfx) 95
+nooly/clrsrc (Vojta Nedved), Kladno/Czech (Forever 9) 99-01,08
+noro (Norbert Grellneth), Братислава 90-95,21?
+notsoft (Oleg N.), Питкяранта (уточнить на https://zxaaa.net/view_demos.php?a=Notsoft) 96-98
+[mr.]nut/delta hg/pzs (nutz/dhg, Коровин Владимир), Азов 98-99
+NVitia (Никитин Виктор), Москва 10-11
+
+o&f/oops (&mix, Фрязинов Олег), Одинцово ("FAST DREAM" FT'98, funtasy demo, ZX-REVIEW 5-6) 98
+ogpu soft/Concord of Gifted Personalitys(cgp) (Петров Сергей), Волжский (Diman 4 demo) 95
+oko (Oleg Krasnobaev, Краснобаев Олег), Днепропетровск 93-94
+OldFartGamer (Сухих Сергей), Киров (найден на zxart.ee) 18-19
+oldsoft (Zdeněk Starý), Чехия (Oldsoft's First Demo) 95
+Олег/smash hackers band, Севастополь (интро к Wiking) 98
+oleg sheberstov
+Omega Softworks (Omega Softworx/TRS Corporation, Ondra Fick), Чехия (TRS First Music Demo) 95
+one man/optical brothers (Ковалеров Александр), Минск 96-00
+d.j. onesoft (Буравцов Юрий), СПб 99
+orson/united minds (ors, Patrick Morriss), Scotland (6 треков в st, Raww.Orgy 2007) 92-95(6?),07
+oscar (johny cage, Александр), Москва (один музон со Spilberg в демке Techno) 94
+Осипович Александр, Пермь 17
+overaye/trg(tetra russian gr.)/x-team (Тукмачев Александр), Ижевск (Ultimatum#2) 01
+ovs/dgms (vlad, Осипов Владислав), СПб (брат Flyer'а) 96-97
+owl/pos (Сорокин Павел), Ижевск (1 трек совместно с ZxZ в интро к игре Grand Prix Simulator 2) 95
+oxomusic (oxo) (Spectrology demo) 94
+ozzyoss (Martin Daniel), Чехия (Metal Mania and Metal Mania II demos)
+
+pablo(pablito) toledo, Испания 90 [15.07.07]
+Пахомов Сергей, СПб (журнал Spectrum Progress) 95-97
+Pak-Zer0, Spain (найден на zxart.ee) 15,19-20
+panda/bis(brokimsoft)/etc/rush (fastbear, pandabear, kiddypanda, Горин Андрей 9.9.79), Черкассы (King's Bounty 3) 95-99
+Pandagirl/Knuckle Girls (Amy, Amanda), Nottingham, United Kingdom 94
+Paolo Ferraris, Италия (игра Spectris в Minigame сompo 2002) 02
+Папетов Евгений, Луганск (игра "Смагли", Joke Gift) 95
+paradox (2dox, д.в.м., dvm, Моторин Дмитрий Васильевич 11.06.73), Великие Луки ("beware of the car") 97-98
+PARANOID-ANDROID/BIOTECH SOFTWARE INC(BSI) (Хабенский Андрей), СПб (КРАСНОТУРЬИНСК?) (сопостовление между ФИО и ником произведено по credits музыки в эпилоге Image Megademo, оригинал которой в формате STC - Андрея Хабенского) 92-95
+Пархоменко Александр/master computer company, Ростов-на-Дону (New (Little) Music Demo) 94
+pasha/pva code (Васин Павел), Воронеж (Ferrary 328 GTS demo, по данным AAA - Старцев) 94
+pasha k./rfg (Кошпаренок Павел), Харьков ("fault2_8" for rfg) 95-96
+pat/CI5 the amaters (Lukáš Slovák), Чехия (gFX SHOW 2) 98-00,05
+*pator/joker (Kamil Patecki), Poland 20-23
+patrol/realsoft (Павел..), Брест (парочка его музонов была использована в интрах) 97
+pat soft (patsoft, Патерило Максим 80), Харьков 95
+paul hiley/tag ("Lost Caves" & "Moving target" games by Premier) 90
+paulmory/russian bear gr. (Михайлов Павел), Новокузнецк ("lunatiki") 97
+[dj] paulo/phf (dc media, disco media, paul/slavjack soft(sjs), pavel, dc. media, Павел), Чебоксары (игра Bignose's USA Adventures) 96-97
+ mediator/phf (Павел..), Чебоксары (музыка в Arcanoid 32k) 98-99 - он же?
+paul tonge, Англия 89
+Pavel Jurzykowski (1 трек SQT с Demobit 95, в TXT - Jurzy Kouski) 95
+pay [software]/gfc (75h, Шелохов Антон), Шелeхов? Иркутской области (Parallax demo) 95-97
+Pedro Fortes 89 [b]
+Пехов Юрий А./sunny tram [research]/sunny tram ltd, Ярославль (игра Trubis) 95
+pennsoft, UK 86-88
+penta[soft]/shb(shock brigade) for ssg (Виталий?..(или Павел 3233269?)), Калининград (polmal.pt2) 96-98
+Perepelicia Stas (Перепелица Станислав), СПб 94
+perm/lfg (1 трек "COMING SOON PANIC...") ?
+Перцовский Михаил, Петрозаводск, СПб 14-16
+Peter Clarke, Англия 87
+Peter Williamson, UK 88 [b]
+petet, US (найден на zxart.ee) 18
+Петров Павел/Rome'R Soft, СПб ("Стань стальной крысой demo") 97-98
+Петрунин Сергей/fucksoftware ltd, Калуга (демо Натали) 95
+[d.j.]phantom lord/accept corp(ac)/psycho(psy) (p.lord, pl/cm, Селин Дмитрий), Армавир 95-01
+pigdevil2010 (pigu), Тайланд (Battle of the bits) 17,19
+pink elephant/halloween (Дунаев Александр), Миасс (cc'4 offcompo) 96-99
+PL (Ляховский Павел), Псков (музыка в Dizzy Editor) 95-97
+Plaid/roversoft (Blade, Ракитин Александр), Челябинск (Designer Music demo) 95
+playful/reception software, МАРИУПОЛЬ (Coming Soon Illusion Part 1 не его?) 95 [wanted]
+p.m.s. (p.m.s soft), Самара (GIBBdemo by S.Y.B, Oberon#5) 97 - к marketsoft отношения не имеет?
+pnsoft (Petr Nemec), Чехия (No Inspiration demo) 93-94
+Попов Андрей/data[ soft], Нижний Новгород (интро к играм Skill и Transformers) 95
+Попырин Денис/cross road(cross-road)/home studio, Всеволожск (демка MIND) 94
+poseidon soft, Новополоцк?
+Послушаев Юрий Сергеевич/south gold, Нижний Новгород (найден на zxart.ee)
+Potash Dmitry/karlo computer soft/add 257/add-257 (Поташ Дмитрий), Енакиево 01-02
+poxoft (pavel pok/poxoft music software 1976), Чехия (Rhytmick demo) 91-92
+preacher/cfhg(computer forces  hackers group) (Никита), СПб ("fantazzzy" музыка из интро 4 in 1, год в интро не указан)
+predator [a.m.]/atlantic gr./tsunami gr. (Модестович Алексей 77?), Ижевск (Trans and Hard Techno In The Space demo) 95-96
+prisoner/die krupps (jeka software, Чуриков Евгений Игоревич 79), Новочеркасск 96-98
+Привальцев Дмитрий/reserve company (игра Regeners совместно с Мартыновым Алексеем) 95
+prn code (Паушу Руслан 76-77?), Ярославль (музыка к никодимовской игре "пираты") 95
+prog master/smcg(sinc masters creative group) (dj pm, Матюшёнок Владимир Геннадьевич=cjvn=CJ Vlam Newman), Нижний Новгород<->Бор 98-01
+pro soft (professional soft, Брындак Виталий), Смела (игра Color Lines) 95
+psb/halloween (PSBsoftware?, Просвиров Сергей Борисович 16.2.82), Миасс (две 512-байтных интры) 97?,03-04,12
+psi-co/[the] united minds, UK
+pst/hell raisers (Сергиенко Алексей), Ростов-на-Дону (3 музона) 97
+ptv/tim ("Space" Artcomp 98) 98
+pulsar/o<a (di, Патютько Дмитрий Николаевич), Чайковский ("marazm" crap music)
+punisher/vdp (Степанов Алексей), Днепропетровск (3 трека с Uzer DE) 00
+punker/atlantic gr./tsunami gr. (Лаврентьев Сергей), Ижевск ("'begin'for nik beast") 95-97
+push (-=zed=-, БобОв Иван 77), СПб (mega-tetris2000) 94-99
+
+Qbasus (Jakub Husak), Poland (Possible demo) 21
+qjeta/omega graphics/mqm team/k3l (Petr Krevňák), Brno/Чехия (First Association demo) 92-93,95,99
+Quiet (Смирнов Дмитрий), Петрозаводск 15-19
+quit style (Witalik)
+ condorsoft (Кокарев Александр/кондорсофт), Ростов-на-Дону (AUDI.stc есть в интро к AY-адаптации игры Batty, указан как автор музыки, но непонятно, к игре это относится, или к интро) 91-93
+qwerty/ufo (Дмитрий..), Харьков (garlic respiration) 96-98
+
+*ra/shark brainware/excess (panther, Антонов Руслан), Казань 98-00
+racesoft/syndicate (zad), Днепропетровск (sindicate megademo) 95-96
+rad/ssg(sinclair super gr.) (Радзивилл Андрей), СПб (5 треков) 98-99
+raffaele cecco (stormlord)
+rage (Тимофеев Роман), СПб 99
+rainwarrior (Brad Smith), Ontario, Canada (Battle of the Bits) 12-14
+rajsoft/pentagram, Польша (игра Master Blaster) 91
+random/rldg (rnd, Царегородцев Григорий), Йошкар-Ола (impulse player, inter mode player, chopper duel intro) 95-98
+[cybernetic] rat (ra7, Рыбаков Сергей Александрович), СПб 99-00,05
+ rat & panc (игра minesweeper by panc) - оттуда же?
+ravager/crg (killer, rla, Капанин Александр В. 06.12.82), Курган 98-01
+Raxoft (Patrik Rak), Чехия (писал fxm треки)
+ray/hell raisers (Шостак Роман), Зерноград Ростовской обл (Summer trackmo) 97
+rayload (Sherlock_2005.pt3) 05
+rayman/4d (prof, Русаков Алексей Юрьевич 76), Пермь 98?
+*RazerBlue6 (Battle of the Bits) 18
+rcl/rs/vvg (Рекман Дмитрий 3.4.81), Воронеж (VVG Intro) 96-98
+rdm(real doc music)/x-team/vish soft/brutal creators(brc) (Александр), Ижевск (Ultimatum#2)
+reanimator/computer work company/ohg (Шапоров Сергей), Ростов-на-Дону 97
+rebel/technium 220(t220) (reb, equinox, Paul E Collins), Wokingham/England (Rebel's Music Collection demo, Call My Bluff from Crap Game Compo 2006) 97,06
+reception (интро от Mafia: Block Dizzy, CJ In USA) 95
+recver/siberian gr. (r.a.p., current93, Раенко Антон Павлович), Красноярск 01
+red alex/miu/ctl (reddie, Шипов Александр), Апатиты/Кировск 97-00,23
+red scorpion/3c corp (Дордей Андрей), Запорожье 96-97
+red stereo/cpm [corporation](creative program makers)/technology interactive systems(tis, tnl) (red's, Юрий), Ульяновск (5 треков, Virtual World #3) 96-98
+ yuriy from cpm, Ульяновск (GIFT'97 by jurassic) - он же?
+*rei8bit ( 25.10.05), Japan (sent by Adrien Pouleyn) 23
+[j.]research/volga soft (Якушкин Денис 21.2.79), Тольятти/СПб (демо Free Art) 96,03-04,13 = anathema ("life is infinitive" by volga soft, cc'4)
+(research)soft [software]/cannibals gr. ((r)soft, r-soft, Бакум Владимир 11.7.73), Харьков (Drink'em All and Megadrink demos) 93-94
+Решетняк Павел/mega byte, Краснодар (3 S_Sonic музона в M-TV demo совместно с MC Adams) 94
+revolver/wave soft(ws)/wavesoft (Mercuriev Victor, Меркурьев Виктор, Витёк, Калинин Виктор), Рига (Тайна Капитана Шелтона) 96-97
+ Калиша/wavesoft (Витёк), Рига (Gift 4 Санёк) 97 - он же?
+ J.Kalninsh, Рига? (SpecInfo # 1) 96 - он же?
+Richard Chaney (игра Mig-29 Fighter) 87 [b]
+richard joseph, АНГЛИЯ (international 3d tennis) 86-90
+*Riley (sent by Adrien Pouleyn)
+Rinat, Казань (1 трек с RA)
+rind[SOFT] (Данилов Дмитрий), Москва (интро от softstar к игре carrier command) 94-96
+rinssoft (Никонов Станислав), Н.Новгород (Man demo) 94-95
+risk[ej]/lsg(last speccy gr.)/o<a(original computer association)/simbols/o.c.a. (dr.'s'/cic(children infatuated computers), kkerensky, theme, r!sk/o.<.a., dr's', rj, eminent, Шаров Сергей Николаевич), Чайковский 01-12,14,18
+risk/slavjack soft(sjs), Чебоксары 96 [wanted]
+rkluch (rk, Налётов Роман), СПб (1st place CC'5) 98-06
+rob f./entire gr./DeviShak (mad rob, robus, Филь Алексей Николаевич), Киев ("vaery hard", "verywave") 95-96,98,10,13-14,19
+rob hubbard, АНГЛИЯ (музыка к "International Karate" Software Studio Production) 85-87
+Robyn, USA (Battle of the Bits) 17,19
+Родзевич Николай, Великие Луки (Profi demo совместно с Дмитрием Гультяевым) 96
+rožka/skr team (Jiří Rozsypal), Чехия (SKR 3 The AY Demo) 94
+rok soft/we gr. (Романович Олег), Минск ("event n30", King's Valley, RDS help) 94-95
+rolemusic (Jose Lopez), Кордова, Испания 04-06,10,15,19
+roma/integer, Шелехов (интро к игре Phantis 2) 99
+roma/rmc (Аверин Роман), Петрозаводск (демо Emergency) 94-98 = на E97 за serg/rmc (Мальцева Сергея) и vlad/rmc (Влада Петрова), а ткже (по информации AlCo and Newart) за  sergey lapin/rmg
+Roman Hergueta, Ипания (игра Hundra) 87 [b]
+rom corp/vvg (rom corporation, Насонов Роман А.=Zetter/tPA 26.12.74), Воронеж (Color Lines 3, 1996 and 1997 demos) 95-97
+romik/remsoft (Назаренко Роман/rem software), Краснодар (Energy demo) 95-96
+Рощин Иван, Москва 00-04
+royal soft[ware]/ffc computers (royal, Шварёв Евгений), Москва ("saxsolo") 94-95
+rra/Alien Factory (>>rra>>, Рябов Роман Александрович), Самара (2 трека из BattleToads совместно с MMCM) [ум. 29.09.2001]
+rst7/codebusters/god's bastards (dr.cruncher, Опарин Дмитрий Валериевич 8.12.73), Харьков (сначала писал с james advent'ом. Beatles demo, EYE ACHE1,2) 93-97
+rstm/hlavsoft team (rst-m), Словакия (First Association Demo) 97
+rubedo/lapis_ph (ZX Enhanced compo 2016) 16
+ruff/avalon/rush (Дудко Павел), Чернигов (kick da gaga, "ruff's funky rave '97") 97
+ruguevara (Гроховецкий Руслан), Екатеринбург (gift for nq) 18
+Рулева Елена, Псков (музыка в Sprite Generator её брата Сергея Яковлева) 96
+rum/e-mage (Hожко Виталий), Гродно 98
+rumatisoft (Rudolf Priečinský), Cловакия (демка blava) 91-92
+runc/EhD, Финляндия (Kyrpa demo с Anal Party 2003) 03
+d.j.rush (Ковалев Роман), Барнаул (ZX Club #6) 97
+ruslan/fire angel [software|studio], СПб (демки Idle Space 1 и 2) 93
+Russell Marks, Англия? (игра ZBlastSD из Minigame сompo 2003) 03
+Rybaliov Romka/скыръ&co (Рыбалёв Роман), Кишинёв (Adidas Championship Football intro) 94
+ryurik/drinks lover's (Рябков Юрий Михайлович 10.3.81), Ярославль (организатор DL corp, пишет в VT II) 06
+
+SaiR00S/ei/placebo (mr.alex/shadow/ei, syrus, sairoos, Гаврилов Александр Владимирович 15.08.78), Ковров 97-03
+Samanasuke (Valeron, CAMAHACYKE, Samuil Bonza, Иванашко Валерий), Слоним (1 музон на HT10SE) 10
+sam style (Синяков Александр Александрович 15.9.81), Новгород 03,05
+sand/mayhem/global pro gr./togyaf (dr.sandy, sandrowski, Плужников Александр 11.7.82), Тула (на ArtField 2010 работа 2001 года, в 2018 году возродил Fast Tracker) 01,18
+sant alex (Черенцов Алексей), Новосибирск (игра "Последняя авантюра", авторство музыки отдельно не прописано, но одна из двух точно не его)) 97
+Sarek (sndh.atari.org) 05
+sas (sat, Стяжкин Александр), д. Усть-Сарапулка 97-02
+ nik (1 трек совместно с SAT)
+[dj] satan[soft]/avg(armageddon virtual gr., mortal virtual gr.) (Свириденко Павел), д. Красный Берег Жлобинcкого района 99-01
+sauron (Adrian Sumera), Словакия 94
+sauron/dr/masters of memory (ans/dr/psg, mirage, Васильев Александр 19.01.79), Новгород (как ans в интро от dr к игре dragonia и beerinfo demo) 95-00
+savage (1 трек с Enlight'97) 97
+savage/power gr. (Козлов Николай 12.3.81), Витебск 95
+Савчук Владимир/outland corp., Кишинёв (игра Strip Reversi) 96
+s.a.w./battle tech inc./stormlord company (saw, Александр), Томск (музыка в Wiking+AY вроде все-таки С. Никонова) 95
+Sayk (Потапов Александр), Воронеж (ArtField 2010) 10
+sayman/areasoft/siberian aliance (sobos, Мирошниченко Александр), Новосибирск (Gift 4 Brain) 98-00
+Сазонов Макс, Нижний Новгород (игра Transformers) 95
+scald (Фролов Андрей), СПб (не родственник FK0) 01-02
+scalex/proxima (Miroslav Hlavička 4.4.74), Mlada Boleslav/Чехия (игра jmeno ruse, www.scalex.cz, но ZX-е ссылки уже не работают) 92-94
+scandall [jackson]/ecg (*cobra*, Кирильчук Александр), Нижний Тагил (Harhan game) 96,98
+ snake/black diamond, Нижний Тагил (он же cobra?) [wanted]
+scatz (Damian Scattergood), Dublin (Y.S.Capers) 90
+schafft/colour of magic/brothers/7th layer (omen, rufus, goblin, brother, altro, Трофимчук Александр Викторович 18.08.83), Владивосток 18-20
+scl/march cats (scale, scalesmann/mc, Яковлев Антон Александрович 17.11.86), Ульяновск ("crashed" Forever5, Cossackos) 04-22
+scoopy, Вильнюс? (& zhenya - "1943" cracktro)
+scooter/rezon/firesoft/image crew (deathstalker?, Калабин Евгений), Киров (игра Crasher, переложение музыки из игры draconus с atari, в mtv mix demo его Jurassic Park подписан "BY DEATHSTALKER & 'DT'") 95-97
+scorpion? (игра Atomix, 1990)
+scorpion/caig (Ляликов Александр), Таганрог (Steve gift) 96
+scorpion/digital technologies/triumph (Тараканов Григорий Александрович 77), Северодонецк (интро на Spextream'04) 99-04
+scratcher/e-mage (Аукин Сергей Викторович), Гродно (Condommed) 96-98
+screamer 1? (screamergy#01)
+scrunk/the lords, Roosendall, Holland (Crazy Sample II demo) 89
+sdg/aspalm 01
+sean conran (road runner&vile e.coyote) 88-90
+sector, Москва (писал корявые факи HL>MD, DE>MD) 96-97
+seeens (Егоров Виталий Юрьевич), Днепропетровск (dnieprobite#1) 03
+[dj] sega/digital sliders, Челябинск (1 трек с Cyber-D) 00
+sega master/black diamond/code gangsters gr., Нижний Тагил 95-96
+Селищев Сергей, Армавир (1 трек совместно с Евгением Голодовым в Salutation demo) 95
+semen/hr(hell raisers) (Семенов Владимир), Ростов-на-Дону (найден на zxart.ee)
+sems/3xl (s.e.m.s., Сурков Евгений), Днепропетровск (Gift4Max) 96
+Сенкевич Сергей, Минск (газета Batva #8) 98
+Sentinel (Tommy Barreira Pereira), US (найден на zxart.ee) 15
+serg/digital masters hackers & creative gr. (Горин Сергей), Михайловка (3 трека с Alexmc) 96
+serg/phd (Нечаев Сергей), Минск (Funny Night, сообщил Equator) 98
+dj.serga (найден в b1536M_calgary) 97
+sergant/acl/fishbone (d-jan, dj.serg, dee-jan, Ханько Сергей Михайлович 20.6.81), Гродно-Глазго 98-05(03)
+s.e.r.g.e (Карпачев Сергей), Рыбинск (adv#4) 97?
+Sergey Rowsan/lotus group (Романов Сергей), Красноярск (Information-II demo) 94-95
+serg g./good guys (Горшенин Сергей), Арзамас (Demoparty 1) 97-98
+sergius puzzler/proxima centauri/jeez (Горелкин Сергей Евгеньевич), Ковров (ZX-Pilot intro) 98
+Sergsoft (Кононов Сергей Александрович), Омск (Sergdemo) 97
+serych/real (grey/inside law, sonic/might desert[ syndi], Логутов Сергей), Воронеж (Fantastic Music On Speccy demo) 96-98
+serzhsoft (Колотов Сергей Сергеевич 12.07.78), Шадринск (phat0) 00
+set/ellipse (seth, [dj] kluv/kode pumpers(kp)/cp, Лещиловский Алексей 29.5.82), Минск 98-02
+sey soft/megaforce hackers gr. (Сергей), Москва 95 см. http://zxaaa.net/SEY.html [sb]
+sfh/soemmerda, Германия (CIR-DEMO 1) 91
+sg/milytia(milq7, m7) (SGizM, SyGy, Зорин Александр Валерьевич 16.12.84), Ижевск 03-04
+sgo (sg [software], Гордеев Сергей Олегович 17.03.84), Сосновоборск 05
+shabla (Шмотолоха Андрей), Львов (В Optron 26, 40 фамилия через А - Шматолоха) 97
+shadow/mmm soft (AY demo 2) ?
+ shadow ("commodore") - он же? или Конов?
+shadowman (в Star megademo возможно не его музыка, Newart закинул в Jskovich Ura) 94 ?
+shadowman/unit-5, Краснодар (тема в JockGift совместно с Kurt)
+shaitan/sg(surdakar)/cpu (xnobys, xn0bys, Паршуков Юрий Юрьевич 25.2.77), Рыбинск ('fucking trance' by shaitan/sg) 95?-99
+Шахбазян Георгий/larry gr., Владикавказ (ОВД против НАТО) 99
+sharik/darkdreams corp (Родионов Александр), Питкяранта 06,08-10
+shark/ohg/mafia/nasty hackers and creative gr.(nhg) (victor, vic, Чабан Виктор Алексеевич 8.1.79), Ростов-на-Дону (схема covox от disabler'а) 96-97
+sheyh-aleks/bandit group(bg) (Кулагин Александр), Ульяновск (в Nostalgia demo музыку написала его сестра) 96
+shin/uci(universal company incorporated) (sh(c)/universal, Шин Дмитрий), Москва (Coming Soon Paradox Megademo) 94-95
+shiru otaku/angel2/IIpr/NedoPC (dj.uranus, shiru, Семёнов Александр Сергеевич 12.3.81), Москва 99-06,10-11,18
+SHIVA 01
+shocker (s.c.g.), Краснодар (в демках For Ninja Master 8, Flash Shock авторство музыки не указано)
+shony cancer/litre club, Таганрог (Heavy Metal Mover by UCM group) 96
+shotgun/proxima hackers gr. (Ежиков Сергей), Ковров ("RAINBOW" FT'98) 98
+shov/accept corp (Шашкин Олег), Саранск ("12th war" demo) 97,99-00
+shrsoft/infosoft gr./cpu (Шпинев Роман), Рыбинск (1 трек из демки Limoniya 3+ от Infosoft, в которой автором музыки назван некий shrfuck) 95
+[alex] sibi/smash soft inc(ssi) (Брычев Александр), Нижний Новгород (1 модуль TNT.pt2) 96
+silent/delta hackers gr.(dhg)/partyzans/infinite (flying skull, fs, Кочуров Денис 13.11.79), Азов-Москва 98-02,04,06-07,11,13
+silver (Milan Hladík), Словакия (Chimera demo) 94
+silver crown (Павел..), Москва ("ordword" demo) 96-98
+silver warrior/phantom, Чебоксары (музыка в Total Eclipse 2) 95
+dr-simens (dr simens, dr.simens, Семёнов Алексей), Екатеринбург (Paper Fantastic) 99-03
+simi/the unbelievables(uvs), Германия (EBI's Piccy Show) 93
+Simikin A./SUN Corp (Симыкин Александр), Ростов-на-Дону (8 треков) 95-96
+simon/cpu (killoozer, 8bitnotshit, Шамарин Александр Александрович), Рыбинск (демо CPU Loves U - с Мигелем, DiHalt06 intro) 05-07,10,12
+*Sinc-X, Canada (Battle of the Bits) 16
+sinus/savers alliance/target (slavik/zgr, restorer/fct^mp/fsb, Третьяк Вячеслав Сергеевич 18.5.83), Гродно 02
+siril/4d (Sir Ilias, Sir Loiso Pondohva, Виноградов Илья Вячеславович=oisee), Пермь (sexy potion/selected realms (siril & andy fer)) 97-04,06-08,10-12,14,16,18,21
+sirius/new gr.(ns/nhg) (nashvill, Дудяк Олег), Брест (Echo, интры, Xixit) 96-97
+sirius soft (игра YurecQuest) ?
+si.soft/m.c.g.(Madness Coders Group) (Илья?), Ижевск (Dizzy 7R) 95
+ madi/m.c.g.(Madness Coders Group) (Максим?), Ижевск (в Dizzy 7R непонятно, кто конкретно писал музыку в группе, но т.к. Илье нужно было подключить AY, видимо не он) 95
+SiSoft/X-Team/tetra russian gr.(trg) (Пологов Степан), Ижевск 00
+sister/megadate/antares (Абросимова Марианна Юрьевна), Москва (Transmit.pt2 написан EA [sb], есть ещё демка PESENKA! EA+Sister) 97
+sja/milytya(milq7, m7) (sjee, sti/x-team, steep, stip, did.jey.sti, stee, 57eep, sk, Копанев Сергей Владимирович 82), Ижевск (под ником sk в 2021 году найден на zxart.ee) 99,02-04,21
+s.j.soft/unlimited gr. (sev, Столяренко Евгений), Комсомольск-на-Амуре 95-97
+sk (736b, Кузнецов Сергей Владимирович 15.8.79), Ревда Сверд.обл(Екатеринбург) 98-00
+Скачек Андрей, Новосибирск (в его demo Drunk Hedgehogs или Пьяные ёжики автор музыки не указан) 93
+skiv, Москва 95
+skull chaser/thh (scull chaser(TrLords.psc), mak/mc deos, dweller, Китаев Максим Александрович=Aectaein/FSG 06.02.1983), Чебоксары 98-01
+sky/Parallax Hackers Group (Alex Chinkov, Чинков Алексей), Саранск (демка S.F.D.) 97
+sky worker, Семипалатинск (Render Gift 4 Oleg) 96
+slack den/flash (slacky, Суслин Денис Сергеевич), Новосибирск 96-98
+slam/uci(universal company incorporated), Москва (Coming Soon Paradox Megademo) 95
+slash/adg/atd/rpsg (den, Подольский Денис Викторович 12.9.77), Рязань 95-97,20-21
+slavan, Чебоксары (музыка в интро от Slavjack Soft к игре Bignose's USA Adventures) 96
+slayer/black diamond, Нижний Тагил (Chaos Megademo) 96
+slayer/eg (Станислав), Харьков [wanted]
+sleep/sliders (Плахотник Александр), Сочи (небольшая заставка к Gift For Ray) 97
+slender/ig(integral gr.) (mikosoft, Кожурин Михаил), Ковров 97
+slider/milytia/x-team ([dj.]sli, dj.sly, dee.jey.slee, Поздеев Игорь Анатольевич 85/86), Ижевск (Nevermind, ascii'03 info) 01-03
+slip/action (mary slip, Слободчиков Сергей Сергеевич 26.12.80), Хабаровск->СПб(06) 99-02,08-09
+smithcoder (Ковалевский Павел Евгеньевич), Нижневартовск (Sensation Megademo) 95-96
+smoke/clevers/triumph (likon, Лимонов Константин), Челябинск (Artcomp'98 + 2 трека в соавторстве) 98
+smoke [boy]/udg/u97/u98 (Бахтызин Павел), Омск (Presentation Of Unit Design Group U97) 97-98
+snake/ohg/licos/pzs (Хрыкин Сергей Александрович 4.7.79), Ростов-на-Дону (игра clocks) 98-00
+snatcho, Испания (after the war?)
+snow man (демка What) 91
+snowman/spectrum's world/coderaiserz(crz,krz)/poltergeyst/digital sliders (dj_snowman, Понкратов Павел), Челябинск 99-01
+so better (МИХАИЛ) (tikotiko of abreu by so better - итого 4 модуля)
+softstar (Губин Денис), Москва (1 ST модуль (найден также в King Valley Service by Maxsoft) подписан им, но его ли? В интрах 1993 года много ASC мелодий, в которых информация об авторах подменена на SOFTSTAR) 96 (кандидат в раздел плагиаторов)
+sonic graffiti (Gerrard Gourley), UK 89-90
+sonic projects, UK 92
+sophist/cpu, Рыбинск (moran & chasm)
+sopolimer/нагуаль (sinus zx/discipline, Мерзляков Игорь 85/86), Ижевск 01
+sound images (Smash TV ? Turtles ? Shadow of the Beast 2 ?) 89-92
+soundliner/nsg/ctl ([dj] sl, Гавриленко Кирилл), Апатиты (Scorpion gift) 96-02
+spaceman/acl (Ефремов Антон), Гродно (slog /the message/) 97
+space poison/laser dreams/volga soft (Игорь), Тольятти (project x) 95-97
+spark/syndrome(sdm) (sav corp., Севостьянов Александр 17.09.74), Пенза (Epicentre Of Rave demo) 97-00,22
+spawn/megamix creative gr.(mmcg) (alex stryker, stryker, neo, neofucker, ex-stryker, Павленко Александр), Великие Луки (ADV#7, газета BUGS, дема Angel Place) 97-00
+spawn overmind/fenomen/paragon/fantazm(ftz) (spawn om, spawn, crime sphere, Григорий), Могилёв 97
+mr.speaktr (Колотухин Александр), СПб 99
+Special Erase (игра Firefly) 88 [b]
+specman (Осипов Андрей), Йошкар-Ола (34 трека pt2 + TAD прислал 10 psc) 96-99,01
+spectec/spc(s.p.c.), Austria (Psycho Helix demo) 92-93
+*SpectrumNez, GB (sent by Adrien Pouleyn)
+spider/lmg/asm (Россоха Роман), Харьков (Amazing#2_Menu.stp сделан из Spec13_01.stc из Спектрофона) 97-98
+spider/olive-branch, Тула (музыка в игре Paganini Horror совместно с Int 51) 98
+spilberg/starfire hackers gr. (rayden/mkhg, Пудов Сергей), Москва (игра Tom&Jerry) 94-95,97
+spirit/virtual masters, Ковров 02
+[cj] splinter/3NC(3_nitro_code)/dl corp (lr, Лашков Роман Вадимович 76), Нижний Тагил (IG#8, lr-18 в FT 1.07 package, lr-19 на DiHalt19l) 03-16,18-21,23
+the spy, Польша (Egal and "mr incognito bye! bye!" demos) 91,93
+sq/skrju (screamer/jumble, alexlord/digital dreams gr., orc/lfg, Колногоров Александр 23.4.?), Глазов (CC'05 Realtime Music + 4 бредовых трека) 05
+sqirrel (Crossroads) ?
+squirrel (paul p., suirrel, Поскребышев Павел), Глазов (Crossroads, Dr.Codex gift) 98-99
+ss/speccy boyz (Miso Seliga=Anubis), Словакия (Demobit'95 graphics viewer) 95
+stack/green [fort]software (stk, Голынчик Леонид), СПб ("sunrise") 95-99
+stager/phf (Япаров Альберт), Чебоксары 96
+[alian] stanly/e.f.s.(excellent four software) (stenly) (игра Memory Blocks)
+Stano Hrda/sybilasoft, Словакия 87 [b]
+starsoft/pht (Соболёв Владислав), Таллинн ("holmes" E'97, "melbourny"Kap'00)
+star wiking/brothers [ltd]/phf (sany, Маймасов Александр Ал.), Чебоксары 96-97
+stas/dt (Stas Rukavishnikov, Рукавишников Станислав), Челябинск (mtv mix megademo, "ctac+ctac") 93-95
+stas/megaforce, Москва (Nomydemo)
+stas i. (найден в b1536M_calgary)
+Стегницкий Андрей/steel falcons/codemonsters hackers group, Львов (Optron) 95-01
+Степанов Евгений (игра Night Tetris) ?
+Stephane Picq 16.08.65, Франция (игра Captain Blood) 88-89
+steve/caig (Семёнов Игорь 25.12.77), Таганрог 95
+steve/total eclipse (Steve Anderson), Gloucester/England (2 конверсии в demo Toxic Elephant) 91
+Steve Corry (игра 1999 совместно с I.C.C.) 87 [b]
+stever [graphics]/centronics hackers group/megasystem (Малахов Олег), д. Мурзино Мос. обл. 95
+Steve Turner, UK (игра Zynaps) 84-88 [b]
+Steve Wetherill (игра Flimbo's Quest) 86 ?
+Stiffler/simbols (Ascii'08) 08
+Стратилатов А. (игра Куликовская Битва)
+STRIGE, Ижевск (Ultimatum #2, музыка пропала) [wanted]
+striker/atlantic (shadow, Воронцов Сергей), Ижевск (Dr. Virus gift) 96
+striker/megasoft creative gr. (Баглай Андрей), Минск (Brom Gift 2006) 05-06,09
+strobe/titan (strobeflux), Sweden (Battle of the Bits) 12-13
+Струнов Вячеслав Владимирович 29.5.78, Харьков (журнал Black Crow, из-за неверного подключения AY писал под 3.5 MHz!) 00-02
+stryker/profi club? (Денис..), Москва? ("some shitting notes special for serg/diamond group")
+sts/volga soft (Гальцев Владимир), СПб (pops demo, volga soft в журнале ZX Format #7 - он же по данным Newart) 96-99
+s.t.sam/smash/ssi(smash soft inc) (c.t.s.am, Журухин Александр), Нижний Новгород (robots demo, музыка в Batman Collection) 94
+subject (газета X-RAY) 96?
+sub-zero/mkhg (mt-soft, mt soft, Малышев Анатолий), Москва (игра Yogi Bear Great Escape) 94
+suha/dr (Суховский Александр), Новгород 95-98
+Sultan Paraiso (найден на zxart.ee) 15
+superfly/diamond soft, Москва ?
+supervisor (svr, Кондратюк Александр), Таганрог (Life демо-версия) 96
+surgeon/bit world(bwg)/entire (jungar, Луценко Алексей Владимирович), Киев 95-96
+svc soft[ware] (Chubby Chabik) (демка Mr. Shit)
+*Svipal (Battle of the Bits) 21
+svs/rbg(russian bear gr.) (Сердюк Виталий Сергеевич), Новокузнецк (найден на zxart.ee) 97
+swc (2 трека из игры Hamon IV) 96
+sweetbutt/thesuper, Барнаул 11,13
+swood/mshg(Megastars Hackers Group), Днепропетровск (ремикс музыки Коробейникова в Alien Storm intro) 95
+
+tad ([mr] t.a.d., rnR [t.a.d.]), Чебоксары 05-10,20,22-23
+talisman/tmg (Max Kirste), Германия (Ternimador demo) 92
+tan/unicum (Трофимов Алексей), Харьков 95-97
+tankard [soft]/phc/asphyxia (Абрамович Пётр), Минск (Blue Oyster demo) 95-97
+tanker/lavasofware (найден на zxart.ee) 00
+Танкевич Юрий, Минск? (SANDEMO) 94
+Tao (Seemann Frank), Germany (есть конверсия с Atari ST - Nostalgia Credits.ay)
+tape loader (интро от code busters к игре turbo the tortoise) 95
+Tarann Ltd (игра Afterburner) 88
+Тарасов Михаил, Калуга (ST Uncompiler) 98
+tash*key/the knights of ghosts and shadows inc. (Светашов Виталий), Донецк (Homer Simpson In Russia) 98
+Tau Zero (игра Stuntman Seymour совместно с Gerard Gourley) 92
+tayle/debris/team site (nix./site, Crash Nicker, Kurashi Nikkeru, brightentayle, Биличенко Алексей Владимирович), Кривой Рог 12-15
+*tdm/k3l (Tomáš Hauerland 78), Чехия (демо F.A.) 94-05,08-09,14,16,18,23
+TELUR, Ижевск (Ultimatum #2, музыка пропала) [wanted]
+terminator (Кашин Андрей), Горки Моск.обл ("ROAD" FT'98) 96-98
+th4 D34D, USA (Battle of the bits) 17
+*The Music Wizard (CoolDudeClem) (sent by Adrien Pouleyn) 19
+thinker/north gr. (Емельяненко Артём), Гомель 99-00
+thism/ls(lsk), Гродно (HT10AE Invitro) 10
+thorgal, Польша 91
+tiboh/debris (Hobbit, Ювженко Владислав Викторович 17.08.1982), Красноярск (Forever 9) 08-09,14
+tiden/fast gr./delirium tremens (Шелепов Максим 12.3.78), Барнаул 97
+tiger/mib/sliders [software makers team]/pritarians gr., Сочи ('2Slash' Gift, 97 год если MEGUS_BW.pt3 из rip архива его) 97-98
+tim/jvc (Вавилов Тимур 80), Сочи (Second Joke megademo) 94-95
+time keeper/mhcg/deMarche (tmk, timekeeper, Солодков Александр Вячеславович 79), Дзержинск (VW#1) 97-00,17-18
+tim follin, АНГЛИЯ (игра Gauntlet, geoff follin писал плейеры) 85-91
+timothy closs (tremor game) ?
+tiny williams, АНГЛИЯ (игра Shinobi) 89
+titan/komanchi gr./ohg (Lion Killer), Челябинск 95
+titus (Титов Андрей Александрович), Москва 93-96
+tkd ("i'm a muzaker, aren't i?") ?
+tms/another world software(aws)/visioners/anvy gr. (t.m.s./visiators, tsm, Кардаш Богдан), Харьков (игра mortal kombat) 95-97
+Tobikomi, USA (Battle of the bits) 17-18
+Tommy Gardh (игра Oriental Hero) 86 [b]
+Tosha (CC'10) 10
+tpm/topo soft, Испания? (la espada sagrada game) 88
+Transdacsoftware, Чехия 92
+trefi/debris (scarab/siberian gr., Blastorama, Червов Алексей 86), Красноярск (newpuzzle, "no/!eT ckapa6eQ" cс'4, "Сетевой Сокол" 4-5) 00-09,11,15-16
+tren [soft]/7gods (Zsolt Trencsényi), Словакия (Demobit'95) 93-97
+t-rex/pos (Спехов Григорий), Ижевск 97-99
+*TristEndo (Tristan Corrales), США 09
+troll/brothers (stalker, Трофимчук Владимир Викторович), Владивосток 99-03
+tsar/last hackers' hope group(lhh gr.), Харьков
+Туляков Василий?, СПб? (DRAGONSd)
+tv
+tvm (*T*V*M*/l.o.s.w.(losw), Вячеслав), Москва (Фрязино?) (NEW BBS demo) 95
+twin (Никитин Игорь Сергеевич), Краснодар (1 трек "Я сегодня трахнулся об пол" ;))
+twin s./codebusters (Близнюк Сергей), Харьков 95-96
+[mr.]twister/ct (Марков Александр), Искитим Новосиб.обл (игра Tet-block) 95-99
+twospaces (найден на zxart.ee) 22
+
+Ľubomír Ješko/Universal Systems (Relax music demo) 95
+UCom/rip(real imagines programmers) (H@lt, Титаренко Юрий Кузьмич), Новая Коховка Херс.обл (Overdemo) 95-96
+uk microsysmes(z) (AL Gift) 01
+mr.ulakhly (mr. ulakhly, Улахлы Евгений), Днепропетровск (Jump to future demo) 93-94
+ulterior (Семёнов Дмитрий), СПб (cc'4 offcompo) 99
+Uncle Art (Dave Lowe, David Lowe), England (игра Starglider) 86-88
+undertaker (Метлицкий Николай), Минск (Overlog, одногрупник Chainick'а, по его словам написал 2-3 музона, DDT "Autumn")
+unwinder/caig (hss(high style software), Николайчук Алексей), Таганрог 94-96
+uris (Шаповалов Юрий), Белгород (DiHalt'23) 23
+us5mtl (Дегтярёв Андрей), Луганск (1 трек) 04
+usagi, UK (Battle of the Bits) 14
+uzer de/vdp/freestyle(fs), Днепропетровск (3 трека совместно с Punisher) 00
+
+V*I*T/dt (Беляев Виталий), Челябинск 93
+v0yager/speccy.pl/zoo (voyager, Bartek Dramczyk), Варшава 13-19,22
+vad/unlimited land gr.(ulg) (Ивчин Вадим), Сарапул 98-03
+vadik/global pro gr. (lord vader, lvd, Акимов Вадим), Тула (Silk Worm intro) 96
+vadimatorik (Дерябкин Вадим), Красноярск (найден на zxart.ee) 17
+vadim vetyutnev (Rise out game) ?
+dj.valerch(ik) (Валерий), Тирасполь (есть ремикс by artur(ik)) 02
+val soft/mchg(mad code hacker group), Миллерово (Postman Intro)
+ val soft (Самоленко Валерий), Новополоцк - не он?
+van/karlo computer soft/add 257/add-257 (Витенко Алексей), Енакиево (ZX-Time) 99-02
+ alex (bdvv) - он же?
+van/reflect, Новгород (для Free demo писал с Joe/Reflect) 95-96 - демка 96 года, а одна из музык помечена 99-м (явно ошибка)
+vanya/supersoft (Chechna demo)
+v.a.s.y.a (vasya/fff, Романенко Дмитрий), Красноярск (GM-GIFT, Merry demo) 95
+[hacker] vbi/binary masters/DELIRIUM (freelancer vbi, fl vbi, Буренко Владимир И.), Канев Черкас.обл (СВОЯ ТЯГА RAVE demo (на Мультиматографе 2014 музыка 2014 года или более ранняя?)) 95-98
+Vedem (Медведев Сергей) (Artfield'09) 96-98,09
+vega/style gr. (Сотников Владислав Станиславович 8.12.77), СПб 97-98,04-06 [9.12.06]
+Величутин Анатолий Н., Челябинск (SPECCY 1-7, Polonez) 96-97
+Величутина Татьяна, Челябинск ("IAKIDA") 97
+vetal (Vitalik Kornienko, Корниенко Виталий Иванович 75/76), Днепропетровск (KB3demo(fault8), Izhnews#E) 97-98
+vfng/new gr. (vlad from new group, Якубович Владислав), Брест ("one minute of relax" ? по Кисляку музыку вряд ли писал) 96
+Viator/Avalon/RUSH I.S.P.A. (Онищенко Виктор) (трек совместно с Afina) 96
+vicsoft/systematic gr. (Ивакин Виктор), Киров ("children" from "holiday" gift) 95-96
+viking (Дёмин Виктор), Нижний Новгород (2 трека, интро к игре Terminator 2) 98-99
+viking/xtc gr.(xtatic) (vikin), Киев 99
+viktor (Петренко Виктор) (писал с Antony) 93
+Вильгельм Канн, Уфа? (Волшебная история: посвящение Фалькориса)
+vin/sliders (Натолочный Владислав 81), Сочи (Gift For Ray) 97
+dj viper, Чебоксары (интро Gold Graphic к игре Myth) 13
+viper/tl (snake/tl, Власенко Вадим), Краснодар 97-99
+visual/magic soft/xtm (asn, asnsoft, Агапов Сергей Николаевич), Москва 96-00
+-vital-, Таганрог? ("green peace")
+vitalik chursin ("Vitalik Chursin from 99'school")
+*vitaly system [productions]/desert gr. (Крюченко Виталий), Минск (музыка в интро к игре Dark Fusion) 93-95
+vodoley [soft]/excess/helloween hg (Халимоненко Артём Сергеевич), Миасс 97-00
+Vojislav Mihailovic (игра MindTrap совместно с Sanja & Sloba) 89 [b]
+voodoo (Tomas Partl), PRAHA/CZECH (Song In Lines 5, VooDoo test demos) 90-91
+voodoo/delirium tremens (voo/xtc(xtatic)/hoodlums, Дембик Дмитрий Юрьевич 10.1.85), Киев 99-00
+vovan product/millennuim group (d.j.vovan, Касьянов Владимир), Балабино Запорожской обл. (журнал Millennium#1) 01
+vox/alc(Alpha Centaur group) (Селютин Владимир), Киров ("it's timing" nuo'tm) 01
+voxel/triumph (shadow/r&s group, crying angel/sf group, darcman, Конов Андрей Алексеевич 25.4.80), Тихвин (Kidsoft'4) 96-07,09-10,22
+vvs/dgms/pchg(planet chaose hackers gr.) (g_soft?(GROB.asc, см. readme), [d.j.] ven, Своеволин Владимир), СПб (игра Magic of logic) 94-98
+vvs/scorpion soft/virtual creators/fff/krasnoyarsk software (Щербаков Вадим), Красноярск (игра Gravity Wars, интро к Dizzy7) 95
+vvt/stellar company inc.(s.c.i.) (Травкин В.), Кирово-Чепецк 94-95
+
+wakson/flash (MW, wakson michael, amadeus voxon, tnb soft, Белоусов Михаил), Новосибирск 92-97 [ум. 17.03.2019]
+*wally/XXI Century Tox/ccz(creative corporation zhuki) (volin, tarakan, Нилов Сергей Вячеславович), Харьков (мультфильм Matrix) 01-04,06-08,14-15,17-18,20-23
+wally beben (wal beban, hagar, Wallace Beben 05.09.53), Англия (R-Type) 89
+wanderer/lmg (Моталов Ярослав), Харьков (1 музон, и то вместе со Spider'ом) 97
+warewolf/mhcg (wwf, Тарасов Дмитрий) Дзержинск
+warlock/ig (Лагдовский Иван), Ростов-на-Дону (Paradox'00) 00
+warlord (Станкевич Александр), Рига (Тайна капитана Шелтона, SpecInfo) 97-99
+warlord/armagon (Juha Jaakkola), Финляндия (1 сонг на Exchipo, остальное здесь: http://www.armagon.org/mods/warlord/) 07,09,11-14,16
+wasquez/legion of steel warriors hackers&creative gr.(l.o.s.w., losw)/steel warriors legion(s.w.l.) (Морозов Максим), Фрязино - Москва? (эпилог sinusomania) 95-96
+wassily (Туляков Василий), СПб ("la comparsa") 95
+*wbc/b-state/lsa (wormsbiysk, wbcz7, Васильев Артем), Омск 13-19,21-23
+weirdo/licos/pzs (Гриценко Антон), Ростов-на-Дону 02-03
+werewolves/fatality (sprite/sphinx?, Лихач Денис), Минск (2 трека) 98
+wermi/lzw/joker, Poland (Demodulation'21) 21-22
+White Eagle (Вавуло Сергей), Кемерово (игра Калах) 97
+d.j.whiteman (TVM gift) 96
+white noise 15-16
+wild cat, Канев (1 трек совместно с Hacker RVA в Stastar demo)
+wildfire/warlocks group (Василий), Евпатория 95
+wild slyam (sliam, Слемзин Евгений), Тула 94-95
+willy (Великанов Алексей), Шуя (Lunatic demo)
+the winner/reception software, Мариуполь (Sore demo) 95
+wizard ("fuckin titanik" crap music)
+wizard/diamond software(dmd), Новосибирск 97
+W. Kapp (игра Magic Story) 94 [b]
+wlodek black (Булчукей Владимир Владимирович 24.10.63) (есть пара неподписанных ST-музонов из его демок, возможно писал не он) [xx.06.15]
+*wocen/triumph, Челябинск (Dizzy-1 intro by Wocen, но автор музыки не указан) 99
+[dj] wolf/accept corp(ac) ([dj] wlf, dj.wlf, Малышев Сергей), Армавир 96-99
+WoMo-Team, Германия (CIR-DEMO 3) 91
+w.o.t.w (X-RAY #4 E-Paper) 97
+wrecker/smokers/legion (Новицкий Павел Вячеславович), Минск 97,99
+wwm (1 module found in rip archive)
+
+*x-agon/naughty crew/pht (chrysagon, xa, Vit Hotarek=Vita 78), Чехия (демка Naughty Crew Info) 91(?)-04,17-18,23
+x-clone (Геннадий), Николаев (3 ST музона из демки Top Secret, и музон из интро Robocop 2 (исправлен Mad Max'ом)) 94
+x-man/virtual pirates(vpg) (Энгельгардт Юрий), Копейск [wanted]
+x-man-music (x-man/alliance, x-man-sound, Александр..), Екатеринбург (megaboom demo ver) 96-97
+x-mus/osf(oversun friendship) (wildclaus, Коваль Андрей Ростиславович), Северодвинск 98-02
+xmx2/musicsoft (Константин), Москва (БК-шник, знакомый Kent'а, 3drelax2.asc) 95
+xorder (Mil'02) 02
+xpeh/magic soft (Комиссаров Дмитрий), Москва (интро от seamans к "приключениям Винни-Пуха", ST disk ver by Magic Soft) 93-96
+x-rage (Путанс Андрис), Рига (SpecInfo #3) 97-98
+x-raizor/omg(omega hg) (lord [of shock], lord shockingberg, shockingberg, x-ray, Шапиро Андрей 30.04.xx), Челябинск 96-99
+xterminator(xtm)/the mad guys(tmg) (dmc, Kunta Kinte, Dirk Mayer), Германия (The Madness Remix demo, Mega Lo Mania demo) 92-95
+
+yakov/profsoft (Казаков Яков=PKM=ProfessionalKillMachine), Нижний Новгород ("Нижний Новгород" demo, "Kozlodoev" в Farewel2 demo) 94
+Яскович Юрий/TECHNOMAN GROUP, СПб (Softland 2 demo) 94-95
+yerzmyey/hprg/raww arse (Michałek Bukowski ?.1.75), Krakow/Poland 90-17,19
+y.s.corp (Klad game demo by raydac soft) 97 ?
+ysoft/accept corp.(ac) (yunior soft, y.soft, Габитбаев Равиль Р.), Армавир (игра Super Tetris, Charm demo) 93-95
+yuri/ay group (yurij, Костик Юрий), Ясногорск, Тульская область (интры от mayhem, cooldemo, см. https://www.zxaaa.net/AYGR.html [sb]) 94-95
+YuriL/over power soft/multisoft (Луговских Юрий), Сарапул->Ижевск 94
+yuta/triumph (Юдина Полина Дмитриевна(раньше Юдина Татьяна Вячеславовна, а сейчас сменила имя)), Челябинск (сильно обработана kyv'ом)
+*Yuzu, Mexico (Battle of the Bits) 21
+
+*z00m/total computer gang (Branislav Bekeš), Братислава ("pink sunset" Forever4) 01-13,17-18,20
+z23, Испания (найден на zxart.ee) 15,19
+Задорожный Роман, Череповец (демка FUCKEL) 95
+Zbigniew Niedźwiedź, Польша (Solidarność demo) 91
+zd/phf (Захаров Денис), Чебоксары (писал с AS (интро к играм Dizzy Y, Prince of Persia)) 96
+zdw (Зубарев Дмитрий 01.09.73), Киров (lastnews demo) 95-96
+zedOFF (Подивилов Николай) (CC'18) 18
+ZeroXor (Парфенов Андрей 02.07.1984), Бердск 18
+zeus/explosive team (Дёмин Павел), Екатеринбург ("ALIVE", DEEP demo) 00-01
+zhenya/we/zero (world eyes, Дальников Евгений 81), Вильнюс (ruff&reddy crack by zer0, Snack demo) 95-98 [x.06.22]
+Жмуренков Егор (CC 2021 Winter) 21
+Зиновьев Артём/sc(slider comp), Семипалатинск (Folly demo) 93-96
+ziutek/ethanol soft inc./Speccy.pl (Andrzej L. Siuda=sweng 9.12.70), Торунь, Польша (Shock megademo) 90-93,13-15
+ZJ Alex Clap (Очаковский Яков), Барнаул 10-11
+Zlew/All You Can Execute (AYCE)/gotoandzlew/joker, Poland (Battle of the Bits) 14,16-21
+z-man/united coders (zman, Краснолуцкий Евгений), Харьков ("contact","part of death") 96
+znahar/avalon/rush (Лиходед Александр Николаевич), Чернигов (журнал RU(s)H) 97-00,04
+Zorky/Vpered (2 музона на HT10SE) 10
+ZoundMakkr/TOGYAF (MUZIKMAKKR) (ZXAAA 2010) 10
+zxastafiew (Астафьев Александр), Москва (ZXAAA 2010) 10
+ZX Freeq (ZXFreeq), Poland 17,19
+zx-man (ШеркО Дмитрий), Брест (ремикс Heavy on the magic, Technodrom_ME, интры, Impulse)
+z-zero systems [inc.] (Меркулов Алексей), Северодвинск 99
+
+P.S.: Известные "плагиаторы", "перекомпиляторы", "корректировщики" - DIV, RACOON, PDW и:
+Громилов Александр - two modifications of Alex Filimonov's modules (not composer) [sb]
+max snake/msd gr. (Скворцов Максим), Уфа 99 - all MSD music are remakes of other authors modules (not composer) [sb]
+alexboy/alkiris/thd (Кулагин Александр), Москва (Best from THD, музыку экспроприировал у Андрея Сендеского и у наших поляцких товарищей [AAA], а также из игр, причем никогда не стеснялся подписываться своим именем [sb])
+Dmitry Pristromow, Луганск (Cheat#2.5, just recompiling of Smagli2 title by DIA [sb]))
+mafix, Ижевск (в Ultimatum#2 - простая перекомпиляция трека Authors\Shov\P.L.18.stp, о настоящем авторе - ни слова [sb])
+Некоторые треки подписаны Эльдаром Агаевом, но вроде не его (A.N.Other, Lenin3-ROYAL22.stc, Andrew Sendetski\BALLADE.asc). Справедливости ради, в интро к Mega Color Lines в скролле указан верный автор (IRON-SOFT), а в самом модуле - "SONG BY AGAEV E95". [sb]
+GOODLUCK.stc отмечено "(c)GEB-Soft 1995", по факту файл из более раннего демо Mat'а и Ziutek'а
+Кулёв Евгений, Сарапул (в Relax-1 demo есть музон "popcorn" Kicia, но подписан "EVGENY KULEV'1994", еще три музона у Newart'a - всё заимствовано) 94-95
+Dr.Simens пару чужих мелодий подписал как свои (Fan#20.pt3 is recompile of Mad Max\Xecutor Intro.stc, Plutonium#10.pt3 is recompile of Baz0FFt\Body#05.pt2)
+BIT WORLD в архиве Newart'а - это простая перекомпиляция Doc\PIRATOMANIA.stc и Ziutek\LyraII5.stc (not composer) [sb]
+Blaster в архиве Newart'а - небольшая модификация Davos\LIRIKA.pt2 (not composer) [sb]
+WRITEN-DISABLER FROM NASTY H.G (1996) - подпись есть, а музыка по факту из Satisfaction Megademo [sb]
+Monohrom/Ижевск - см. Monohrom\readme + ремикс Европы: Disabler, Monohrom, S.T.Sam - три модуля почти идентичны, похоже исходник в Dominator Intro (т.е. S.T.Sam) [sb]
+SiSoft/Ижевск - из двух модулей один - плагиат на Klim\R_Miles.pt2
+Сергей Каспутис/ssg, Калининград 97 - модуль подписанный его именем в DejaVU #05 de facto перекомпиляция Ksa\STRANGE 2.stc (с небольшой модификацией громкости) [sb]
+Пока непонятно, кто настоящий автор ULTRA.asc (1. ULTRAMARINE MUSIC    BY  L.P.V.  ON 25.11.93, 2. ULTRAMARINE MUSIC    BY MAGIC SOFT (XPEH) 07.93, 3. ULTRAMARINE MUSIC    BY PETER SDOBNOV) [sb]
+DRUUGE MUSIC BY ASC - есть и за подписью KOCMOC MUSIC BY ALEXEENKO ALEXEI
+Одна из мелодий Ziutek'a подписана как "SHADOWMAN'S SONG" в Xmas Ludo Intro
+Softstar - в интро к игре Professional Tennis вбил себя вместо Royal, о настоящем авторе ни слова [sb]
+На Enlight'97 многие композиторы были выставлены как другие члены своей группы (больше треков).
+Darkman/SMG в Baltik Press и DNK в Art Collection demo - кто у кого? Не отсюда у Newart'а пошла путаница? Или это всё же один человек замаскировался под двух разных? [sb]
+Серия модулей SINGL.XX FROM DIV... - простая перекомпиляция модулей других авторов (с удалением авторских тагов, изменением темпо и т.д.)
+Петров Макс (одна конверсия XMX2\VATMAN.stc, не композитор)
+poltergeyst (Алексей), Самара (1 трек в HARDWARE 2 demo оказался из Спектрофона №12, не композитор)
+sasha gowor (просто исказил модуль Nik-O в SERG'21 - не композитор)
+
+ 2. БК-0011, ATARI ST/E, ... все, кто не светился выше (97 пп.)
+
+Примечание. Информация взята с некоего HTML. Есть подозрение,
+что часть упомянутых композиторов не писала на AY/YM, а была
+сконверчена туда.
+Если кто-то найдёт AY/YM музыку этих же композиторов на ZX
+SPECTRUM, просьба дать знать. Если кто отыщет AY/YM композиторов
+с ещё более других платформ (например, YAMAHA MSX), просьба
+тоже.
+
+AJT/Hemoroids - Hemoroids Beachtro
+Alderton, Nic (Count Zero/Inner Circle) - Decade demo
+Almered, Pers (Excellence in Art) - Frosty (Chipdrims)
+Amidou, Loukouman (Deneb/ZAP creation) - Kidney Bean tunes
+Antichrist/Jedi - Oh no more froggies!
+Archimed/Equinox - Equinox demo tune
+
+Bad Error - Beach
+Barnabas, Andrew (Nightshade/XTC) - Silkworm 2
+Barthy (BARTi/Bugs) - Plasma Demo
+Berry, Simon - Backlash
+Bonnke, Tobias (Danny Oneway/Risk) - Eat this!
+Боровик Андрей - музыка в UFO на БК
+Brovolsky, Ladislav John - Hades Nebula
+BSC - Hyper pig (и др. 14 треков для Amstrad CPC)
+
+Chris Mad/Ghost - Overdrive demo
+Chrispy Noodle/TSC - Sapiens Conversion
+Connolly, Sean - Elvira Arcade tunes
+Convers, Bertrand (Atomic/Albedo) - Phaleon megademo:Last Hero (conv from C64 ?)
+Cuomo, Jim - SDI game 87
+
+Dalecki, Adrian - Clown'o'Mania music
+Danko, Thomas (Jr.) - ThomasDanko.ym
+De Man, Joris Maarten (Scavenger/Synergy) - Synergy megademo
+Demon X/Awesome - Demon_X.ym
+Denis, Frank (Jedi/Sector One) - Virtual Escape
+Dolby/Soundforce/Newline - Piece of shit
+
+Epic/Misfits - Hemoroids - Speedy Pak 3
+
+Forminolas - Titanic
+Franze'n, Andreas (Frazer/Syndicate) - If pigs could fly: End tune
+Frewin, Paul - special forces intro
+Furax/Equinox - Virtual Escape
+
+Gaubatz, Gunnar (Big Alec/Delta Force) - No second prize (Thalion), имеется конверсия Locomotion для ZX SID-плеера (Tr_Songs\Authors\Big Alec\) [sb]
+Gehring, H. - Terranova game 87
+Gerard, Jean Sebastien (Jess/Millenium Brothers/Overlanders)
+Grant, Malcolm (MSG/Reservoir Gods) - Maggie #24 Intro 98
+
+Havneskoeld, Frederik (Beast/Syndicate) - If pigs coult fly: main theme
+Hermans, Serve & Erik can Esch (ENS) - ENS1.ym
+Hippel, Jochen (Mad Max/The Exceptions) - Pablo&the Gold of Montezuma (всего 375 модулей!)
+Huelsbeck, Chris - Quick&Silva (конверсии с Amiga)
+
+Iso/Sentry - DBA Mag 8
+Iverson, Mak - Wolfchild
+
+Jarosch, Simon (NoMore/Animal Mine (aka Vivid)) - unknown Megatizer tune
+Jeworowski, Stefan - Spherical
+
+Kangaroo - Batman Journey (и др. - 17 треков для Amstrad CPC)
+Koernstadt, Leif (LTK/Mystik) - Maggie #7
+Кононенко Сергей - музыка в UFO на БК
+Kroter, Christopher (Tyan/Stax) - Revolution demo
+Kruse, Eckhard - Grusel (Animation demo)
+
+Lahann, Sven (Celtic/AURA) - Starworx
+Land, Michael - Indiana Jones: the last crusade (Adventure)
+Lary, Emmanuel (Lap/Next) - Phaleon demo
+Lautenbach, Frank (Dark Angel/AURA) - Oh je mi neeh!
+Lees, Ant - Viking Child
+Leipa, Peter - Boulder Dash
+Leonard/Oxygene - Wicked Polygons p.2, на ZX перевёл Scavenger (Deman Joris) demo DigiSID
+Lindeman, Tero - Megaman 3 (ремикс с Нинтендо)
+Loony/Admirables - Loony.ym
+Loraine, Paul - Huckleberry Hound
+Lotiaux, Pierre-Eric - Toki, Cabal
+Lowe, Al - Donald Duck's Playground
+Luebke/Paranoia - Reserse Pong 99
+
+Manwe/Sands (Мачуговский Александр Анатольевич), Москва (музыка для БК - не сохранилась?)
+Max/Chronicle - Big Rat
+Maxi GC - 2ndreal1.vtx с БК
+McGinty, Andy - McDonald Land
+McLean, Archer - Jimmy Whites Wirlwind Snooker
+Millson, Rick - Test Drive
+
+Newman, David (Rhino/Tornment) - Millenium Party competition tune (что за пати? 1999 год!)
+Nilson, Anders (AN Cool/The Carebears) - Cuddly Demos
+
+Payet, Cyril (Doclands/Overlanders) - Never Forget demo, Ventura
+Pennelin, V. (Crawdaddy/Chronicle) - Enigma Force
+Perdiaux, Richard (FFT/Next) - Phaleon demo: Shadow of the Beast
+Phelan, Patrick - Zool
+Philips, John M. (JMP) - Eliminator
+Piscol, Juergen (Tangens/Art Machine) - Mindbomb: Foxx - Startunnel demo
+
+Richter, Christoph (Titan/Xenex/Animal Mine) - Just Buggin
+Riff - Bomb Fusion 89
+Родионов Андрей 88 - музыка в играх для MSX
+
+SNK/Future Minds ? - OohYeah.ym
+Scharvona, Justin - Last Ninja 3
+Scudds, Chris - Chase HQ 2
+Seemann, Frank (Tao/ACF/Cream) - Just Buggin, Lin Wu's Challenge, имеется конверсия Nostalgia Credits для ZX SID-плеера (Tr_Songs\Authors\Tao\) [sb]
+Shaft/Extreme - Ninja Spirit 91
+Shields, Paul - Airball, Jug, Tetra Quest
+Siebenberg, Bob - Space Quest 3 (Sierra) (conv from pc)
+Skyline/Future Minds - Snork 2
+Source - Super Hang-on
+Stember, Rudolf - Dynablaster, Apprentice
+Stempell, Mathieu (Dma Sc/Sector One) - Mr Boomer
+
+Techno/Dune - Section One
+Tisdale, Mark - Super Sprint
+Tummers, Laurens (Lotus/Hotline/Eternal) - SynthDream1
+
+Ultima - Ultima1.ym
+Uwalaka, Benet (Powa Pixel/Mega Four) - Mega 4 Mag
+
+Van der Klis, Laurens (The Mind/Quartermass Experiment) - Chase 1&2, ST News, Disclusion
+Veggy (Dr.Beat)/Crusaders - NTM Megademo
+Void (Игонин Андрей), Самара (десяток треков для БК)
+
+Wheaton, Gary - Trotsky Crazy Soccermanager
+Wiegers, Michael (Jet/Avena) - A Grumbler in the rotting season
+Wilson, Mark - Bananza Brothers
+Wright, Melvyn - Druid loader
+
+ 3. Arcade AY composers (составил Shiru Otaku)
+
+Craig Beierwaltes 
+	Screw Loose от Mylstar Electronics, 1983 (не вышла, было 3 прототипа). 2xAY + 2xDAC (указан как Sound by)
+Robin Cartwright 
+	Check Man от Zilec-Zenitone, 1982. 1xAY
+Shigeru Fukutake
+	Twin Bee от Konami, 03/1985. 2xAY + K005289 + VLM5030 (указан вместе с Yoshinori Sasaki)
+Michiharu Hasutani
+	Solomon's Key - Solomon no Kagi от Tecmo, 1986. 3xAY
+Rick Hicaro 
+	Tapper (budweiser) от Bally Midway, 12/1983. 2xAY (указан как Sounds by)
+Miki Higashino 
+	Gradius (она же Nemesis) от Konami, 05/1985. 1xAY + K005289 + VLM5030 (непонятно, что за чипы, так что неточно)
+Yoshino Imamura 
+	Chack'n Pop от Taito, 1983. 2xAY
+	Elevator Action от Taito, 07/1983. 4xAY + DAC (музыка от силы на одном - жуткое пиликанье;)
+Mashahiro Inoue
+	Gyruss от Konami, 03/1983. 5xAY + DAC (указан как Sound by, в отличии от остальных, которые конкретно music by)
+	Mega Zone от Konami, 07/1983. 1xAY + DAC (указан в БД MAME как N.Inoue, я думаю, это он-же, т.к. фирма и год совпадают)
+	Time Pilot от Konami, 11/1982. 2xAY (указан как Sound by)
+Tamayo Kawamoto 
+	Exed Exes (она-же Savage Bees) от Capcom, 02/1985. 2xAY + 2xSN76496 (опять-же, музыка там такая, что одного AY много;)
+	Higemaru - Pirate Ship от Capcom, 09/1984. 2xAY (эта игра без дополнительных чипов в звуковой системе)
+	Son Son от Capcom, 07/1984. 2xAY (указан вместе с Ayako Mori)
+Tsukasa Masuko
+	Tehkan World Cup от Tehkan, 1985. 2xAY + MSM5205 (AY-музыка с цифровыми ударниками)
+Ayako Mori
+	Son Son от Capcom, 07/1984. 2xAY (указан вместе с Tamayo Kawamoto)
+Ryuichi Nishizawa
+	Swimmer от Tehkan, 1982. 2xAY
+Hisayoshi Ogura (OGR)
+	Arkanoid от Taito, 1986. 1xAY
+	Metal Soldier Isaac II от Taito, 1985. 2xAY
+Francisco Pflaum
+	The Amazing Adventures of Mr. F. Lea от Pacific Novelty, 02/1982. 3xAY
+Yoshinori Sasaki
+	Twin Bee от Konami, 03/1985. 2xAY + K005289 + VLM5030 (указан вместе с Shigeru Fukutake)
+T. Suzuki
+	Super Real Mahjong PII от Seta, 1987. 1xAY + MSM5205 (AY-музыка с цифровыми звуками на 'ударных')
+Tatsuya Uemura
+	Tiger-Heli от Taito, 1985. 2xAY
+N. Yoshida
+	Seiha от Nichibutsu, 07/1987. 1xAY + DAC (указан как Music & Sound, в игре я музыки что-то не заметил)
+Masahiro Yuge
+	Alcon (она же Slap Fight) от Toaplan, 12/1986. 2xAY
+Dave Zabriskie
+	The Three Stooges In Brides Is Brides от Mylstar Electronics, 07/1984. 2xAY + 2xDAC
+	Us vs Them от Mylstar Electronics, 06/1984. 2xAY + 2xDAC
+	
+ 4. ST composers list by Shiru Otaku
+
+На основе информации из архивов ST-шной музыки
+'ST synth musics.ym.zip' (*.ym) и 'all_lf.zip' (*.sndh)
+
+Информация в порядке: рилнейм (по возможности имя, фамилия),
+в скобках ник/группа, через тире - какого рода музыка (либо где звучит).
+Если имён, вариантов их написания, ников или групп, несколько -
+перечисляются через запятую. Первыми идут люди с неизвестным
+рилнеймом; а также люди, у которых нет ясности - рилнейм это,
+или ник. Под 'разной музыкой' подразумеваются просто отдельные
+треки и треки из непонятно чего (игр, дем, журналов).
+
+
+? (Acc) - разная музыка, в основном дубовые каверы известной музыки (без ударных, и т.п.)
+? (AiO/Toys) - компо-музыка, писал с Baggio (минимум один трек)
+? (Antichrist,Antechrist,Jedi/Sector One) - 
+? (Archimed) - интро, демо   
+? (Atomic/Albedo, может и не группа, а второй ник) - какая-то одна музычка, как минимум
+? (Baggio/Wildfire) - разная музыка, компо-музыка
+? (Big Alec, Matt Gray, Gunnar Gaubatz) - разная музыка, интро (см. выше [sb])
+? (Blindio, Blind-io) - компо-музыка
+? (Carbon) - нечто Remember (UCM 18)
+? (Chris Mad,Ghost/Phallanx) - демы Delirous Demo, Phalanx Overdrive Demo, ещ  какие-то
+? (Cube,Guyer/Aggression) - нечто AMOK (Cnf) & ADM #31
+? (D-Force/FUN) - компо-музыка
+? (Demon X) - просто музыка
+? (Deneb/ZAP) - Kidney Bean (неизвестно. что это, но куча треков)
+? (Dma Sc/Sector One) - разная музыка, компо-музыка
+? (Doclands/Overlanders) - демо The Never & Forever
+? (Dolby,Dolby Soundforce/Digital Vision) - разная музыка
+? (Doomsday Machine) - разная музыка
+? (Dune?,Sector One? неясно, ник-ли Dune, или группа, м.б. некто из этих двух групп) - трек Dune Mathematique Dentro и Dune1-3
+? (ENS, это некие Hermans и Van Esch) - разная музыка
+? (Epic/Misfits,/Hemoroids,HMD) - разная музыка
+? (Evil/DHS) - компо-музыка
+? (Frequent/Ephidrena) - компо-музыка
+? (Full FX) - нечто The Jetsons (игра?)
+? (Furax/Equinox) - разная музыка
+? (Hagar, вроде не тот, что Beben Wally) - разная музыка
+? (Hard N Soft) - нечто Steg The Slug, видимо игра (больше десятка треков)
+? (Havoc/FUN) - компо-музыка
+? (JB 007) - разная музыка
+? (Jetpower) - нечто Agitrs
+? (Jookie/Satantronic) - разная музыка
+? (Lewd/Vectronix) - разная музыка
+? (Loony/Admirables,ADM) - разная музыка
+? (Lord) - нечто Ambition
+? (Max Chronicle,Mad Max,Crawdaddy) - разная музыка
+? (MC Laser/tSCc,/iCEBiRD?) - разная музыка, компо-музыка
+? (Mephistow/Hysteria) - разная музыка
+? (Milhouse) - разная музыка, компо-музыка
+? (Misfits - это группа, предположительно включает Blue Bird, Epsilon & Epic)
+? (mOdmate/CheckPoint) - музыка в каком-то интро
+? (Mookie) - музыка на Digi Tallis screen in "Pete" (видимо. в демо)
+? (Nexus) - разная музыка
+? (No More,NoMore,Vivid /Animal Mine) - разная музыка
+? (Powa,Powapixel) - разная музыка
+? (Riff) - разная музыка
+? (Sally) - разная музыка
+? (Shaft/Xtreme, он-же Crawdaddy?) - разная музыка
+? (Skyline, Futur Minds (м.б. второе - группа)) - музыка в каком-то демо
+? (Sonic) - разная музыка
+? (Titan/Xenex, или наоборот? вроде не наоборот) - разная музыка
+? (Toodeloo/DHS) - разная музыка
+? (Ultima) - разная музыка
+? (Veggy/Crusaders, он-же Dr.Beat/Galtan 6) - разная музыка, интро и ещ  что-то
+? (Viking/Mind Design) - компо-музыка
+? (Vulcan/The Undead) - музыка на Legacy screen in Phaleon Gigademo
+? (Wolfgang) - музыка в интро
+
+Aaron Fothergill - нечто Sky Strike, возможно игра
+Adrian Dalecki - игры Rolling Ronny, Clown'O'Mania Sound, LEONARDO Sound, Table Tennis, и др.
+Al Lowe - игры Donald Duck's playground, Leisure Suit Larry, Police Quest (Sierra)
+Alastair Brimble - Big Nose the Caveman, Fantasy World Dizzy, Fast Food
+Alex Herbert - видимо, игры: Turbo, Guardian, Bombz, Delta, и т.д.
+Anders Nilson, Anders Nilsen (AN Cool/TCB) - O-Demo Loader, TCB Tracker intro, ещ  какие-то демки
+Andi McGinty - нечто MacDonald Land (игра?)
+Andreas FranzBn (Frazer/Syndicate) - разная музыка
+Andrew Barnabas (Nightshade) - игра SWIV
+Andrew Taylor - игра Double Dragon 3
+Andy McGinty - игра McDonald Land
+Andy Severn - игры Eco, Electraglide (эта-же музыка в Glider Rider на ZX, но там автором указан Whittaker!), Twin Turbos
+Anthony Lees, Ant Lees - игры Brat, Incredible Shrinking Sphere, Viking Child
+Archer Mc Lean - игры Archer McLean's Pool и Jimmy White's Wirlwind Snooker
+Ashley Hogg - нечто CJ in the USA, видимо игра (5 треков)
+Barret Steve - игры Adv. Fruit Machine Sim, Super Grand Prix, и другие игры.
+Barry Leitch (The Jackal) - игры Silk Worm (та музыка, что и на ZX/CPC), Gemini Wing, Lotus 2, Harlequin, Space Crusade, и т.д.
+Ben Daglish - игры 3D Galaxy, Blasteroids, Captain America, Chase HQ, и др.
+Bob Siebenberg - игра Space Quest III (Sierra)
+Brimble Allistair - игры Fastfood, Kwix Snax, Fantasy Land Dizzy, и т.д.
+Carsten Neubauer - разная музыка
+Chaplin Damon - нечто Last Trooper
+Chris Denman - игры Cool World, Tornado Ground Attack, Warriors of Releyne, и др.
+Chris Huelsbeck - игры Aprentice, Hollywood Poker Pro, Jim Power, Quick & Silva 
+Сhris Scudds - игры Chase HQ II, Hydra
+Chrispy Noodle - игры Jet Set Willy, Hybris, Commando, Captain America, и т.д.
+Christiaan Unck (Iso/Sentry) - разная музыка, DBA Magazine
+Christian Hellmanzik (Tangens/Art Machine) - разная музыка
+Christoph Richter (Tyan/Stax) - разная музыка, включая демо
+Christopher Guard - нечто Skate Tribe, видимо игра (23 трека)
+Cyril Payet (Doclands/OVR) - музыка в демках
+Dave Kelly - игра Dragon Spirits
+Dave Lowe,David Lowe (Uncle Art) - игры Afterburner 2, Elite 2 Frontier, IK+, Knightmare, Powerdrift и др.
+David Newman (Rhino/Torment) - разная музыка
+David Whittaker - огромная куча игр (именно ST-шных версий, включая по-видимому переносы чужой музыки)
+Doug Fulton - Immortal (неясно, что это - куча треков, возможно игра)
+Eckhard Kruse - какая-то демка и что-то ещ 
+Emmanuel Lary (Lap/Next) - разная музыка, включая демо
+Follin Bros (это братья Follin, всем известный Tim и некие Mike, Geoff)
+Frank Denis (Jedi/Sector One) - разная музыка
+Frank Lautenbach (Dark Angel) - разная музыка
+Frank Seemann, он-же Robert? (Tao,TAO,Hippel? /ACF,/Maniacs of Noise) - куча разной музыки, в рамках AtariST пожалуй лучший звук (см. выше [sb])
+Fred Gray (вроде имя) - нечто The Chronicles of Omega (несколько треков)
+Frederik HavneskФld (Beast/Syndicate) - разная музыка
+Gary Gilbertson - разная музыка
+Gary Wheaton (G.Wheaton) - разная музыка
+Geoff Follin - игры Sly Spy (только он), игра Gauntlet 3 (вместе с Tim Follin)
+Holger Gehrmann - игры Domination, Hollywood Poker, Space Port, и др.
+J.Dave Rogers - игры Exolon (не та музыка, что на ZX), Ranarama, Zynaps, и др.
+Janko Mrsic - игра Bomb Jack
+Jason Brooke, Jasone C. Brooke, Jas C Brooke - игры 1943, Buggy Boy, Flying Shark, и т.д.
+Jason Page - игры Fire&Ice, Off Road, Rainbow Island, и др.
+Jean Baudlot - игры Beach volley, Operation Wolf
+Jean-Sebastien Gerard (Jess/Overlanders) - разная музыка
+Jerome Angelot (AJT/Hemoroids) - нечто Beachtro Music, Colorz (Hemoroids trackmo)
+Jochen Hippel (Jeroen Tel,Mad Max) - игры 5th Gear, A Prehistoric Tale, Alloy Run, и огромная куча др.
+Joe Maarten de Man, Joris de Man (Scavenger/Synergy) - разная музыка, включая демо
+John M.Philips (Philips JM,JMP) - игры Eliminator, Nebulus.
+Jon Medek - разная музыка
+Jonathan Dunn (Choroid) - игры Batman the Movie, Darkman, Lethal Weapon, Puzznic, и др.
+Juan Irming (7an/Sync) - SSD 3.5p (что за софтина - неясно), демки
+Jurgen Piscol - игры Hard 'n Heavy, X-Out, и др.
+Justin Scharvona - игры Last Ninja 3, Lemmings, Kid Gloves, Predator и др.
+Karsten Obarski - нечто Dyter 7 (м.б. игра, 14 треков)
+Keith Tinman - игры Midnight Resistance, The Untouchables, Redheat, и др.
+Kevin Collier - игра Advanced Tactical Fighter 2
+Ladislav Brovosky, Ladislav John Brovosky - игра Hades Nebula
+Laurens Tummers (Lotus) - разная музыка
+Laurens VanderKlis, Laurens van der Klis (The Mind) - игра Dizzy Panic, разная музыка
+Leif Kornstadt (LTK) - разная музыка
+Luebke (а может это и ник, /Paranoia) - разная музыка
+Lundberg M. (M.Lundberg) - разная музыка
+Malcolm Grant (MSG/Reservoir Gods) - разная музыка
+Mark Cooksey - игры Commando, Forgotten Worlds, Ghost & Goblins, и др.
+Mark Davies - игры Alien Storm, Die Hard 2, Dynasty Wars, и др.
+Mark Tisdale - игра Super Sprint
+Mark Wilson - игры Bonanza Brothers, Cloud Kingdom Dizzy, Round the Bend
+Martin Iveson - нечто Wolfchild
+Martin Jose A - игра Risky Woods
+Martin Walker - игры Atomic Robokid, Dragon Breed, R-Type 2, Final Blow, Last Ninja 2 и др.
+Mat Furniss, Matt Furniss (Havoc???) - игры Badland, Botics, Klax, Outrun Europa, и др.
+Matthew Cannon - трек с названием elf
+Matthew Simmonds,Matt Simmonds (4-Mat) - Beastbusters, Bubble Dizzy, Chuck Rock, Dizzy Prince of Yolkfolk, и т.д
+Michael Land - игры Indiana Jones adventure, Secret of The Monkey Island
+Mike Chiltern - игры Everton Intelligensia, P-47
+Mike Follin - игра Bubble Booble (вместе с Tim Follin)
+Mirko Monninghoff (Nexus 6) - разная музыка
+Neil Crossly - игра Hunt for Red October
+Nic Alderton (Count Zero/E.I.) - Decade Demo, Maggie, Killing Game Show (музыка и эффекты)
+Nick Jones - игра First Samurai
+Nigel Pritchard - игры Netherworld, Thunderwings.
+Nils Feske (505/Checkpoint) - много разной музыки, разные демы-интры
+Patrick Phelan - игры Nighel Mansell's Grand Prix, Zool, и др.
+Paul Loraine - игры Huckleberry Hound, Scooby and Scrappy Doo
+Paul Rowbotham - нечто Whirlgig
+Paul Shields - игры Airball, Jug, ST Soccer, Tetra Quest
+Paul Summers - игры Fighting Soccer, Matrix Marauders
+Paul Tonge - игры Civilisation, B-17 Flying Fortress
+Per Almered (EIA,EiA, Exellence in Art/XIA) - разная музыка, включая демы
+Peter Johnson - игра Robocop
+Pierre-Eric Loriaux, Pierre Loriaux - игры Cabal, Elf, Ivanhoe, Toki, и др.
+Prince Donovan - разная музыка
+Ralph Rudzki - разная музыка
+Richard Joseph - игры Cannon Fodder, Chaos Engine, James Pond, Knightmare, и др.
+Richard Perdriaux (FLT) - Phaleon Giga Demo
+Rick Millson - игра Test Drive
+Rob Hubbard - игры Thundercats, Battleship, Goldrunner, и др.
+Rudolf Stember - видимо. игры, Apprentice, Dynablaster, Logical, Patrician
+Sean Connoly (/Sonic Systems?) - игры Elvira, Euro Soccer, Guy Spy, и др.
+Sean Conran - игры Defenders of the Earth, Megatwins, Videokid, и др.
+Simon Berry - нечто Backlash
+Stefan Jerowowski - игры Sarakon, Spherical, и др.
+Steve Howie - игры Ninja Spirits, The Punisher, Driving Force
+Steve Wetherill - игра Flimbo's Quest
+Sven Lahann (Celtic/Aura) - разная музыка, интро
+Thomas Danko Jr. - просто музыка
+Tim Follin - игры Bionic Commando, Ghouls, Led Storm, Renegade, и др.
+Tobias Bohnke (Danny Oneway/Risk) - дема Risk, разная музыка
+Tony Williams (/Sound Images) - игры Chuckie Egg, Espana '92, Nark, Ninja Warriors, Pang, и многие др. (похоже, он занимался переносом музыки на AY при портировании игр)
+Visa Pellinen (Crawdaddy) - просто разная музыка
+Wally Beben (Hagar) - игры CDS Chess, Circus Games, Do Run Run, и т.д.
+
+
+
+В архиве 'all_lf.zip' также есть конверсии музыки с C64, CPC, MSX, ZX на ST. В авторах оригиналов числятся таковые (исключая C64):
+
+Julian Breeze
+Jas C Brooke
+Mark Cooksey
+Ben Daglish
+Jonathan Dunn
+Tim Follin
+Forminolas
+Matt Furniss
+Martin Galway
+Gerard Gourley
+Matt Grey
+Rob Hubbard
+Richard Joseph
+Kangaroo
+Peter Leipa
+Michael John Phillips
+Mark Tait
+Jeroen Tel
+Steve Turner
+David Whittaker
+Melvyn Wright 

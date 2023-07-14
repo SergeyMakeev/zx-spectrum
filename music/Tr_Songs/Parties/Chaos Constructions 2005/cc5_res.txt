@@ -1,0 +1,299 @@
+
+                           Chaos Constructions 2005
+                         (Saint Petersburg 20- 21.08)
+
+                             illegal results v0.3
+
+
+legend:
+
+##.          place
+    #.###    collected points
+          ## shown
+             
+
+    ZX SPECTRUM GFX (01)
+
+01. 7.221 11 Mysterious                   Dm (ex-Dimidrol)
+02. 7.000 01 Forever                      Rion
+03. 6.540 03 Flash                        Rion
+04. 6.404 05 Ночной прибой                Liza
+05. 6.094 08 Одинокий волк                Liza
+06. 5.546 07 Рыба                         Saab
+07. 5.240 09 Love Fear                    Moran/CyberPunks Unity
+08. 5.188 10 Yes, it's me                 Pharcide/Nitrox
+09. 4.990 04 Автокросс                    Kasik/Sinclair Club
+10. 4.980 02 Afreekaanjoy                 Sand/Mayhem
+11. 3.918 06 Tetka                        Hobbit/Siberian Group
+
+
+    ZX SPECTRUM MUSIC (02)
+
+01. 6.097 01 Trank u. Takit money and run Rkluch
+02. 5.788 02 Tune-Final                   S. A. V.
+03. 5.759 05 Hi CC05 visitors             Mmcm/Sage
+04. 5.232 09 Elbymzk                      Asi
+05. 5.214 06 Party                        Scarab/Siberian Group
+06. 5.181 11 ParaCC05                     Moran/CyberPunks Unity
+07. 5.099 07 Scary Sheep (With Pointed Theeth)
+                                          Gasman/Hooy-program
+08. 5.053 03 Sinusoida (Demoversion)      Splinter/Trinitrocode
+09. 4.768 04 z0rg's steps                 Scalesmann/March Cats
+10. 4.550 08 Kkolor                       Jeffie/Brainwave
+11. 4.222 10 No Power                     Karbofos
+
+
+    8BIT: 512b INTRO (03)
+
+01. 6.300 02 E6/|auHc                     Hobbit/Siberian Group
+02. 5.298 01 Matr!x                       Hobbit/Siberian Group
+             Ircircle                     Bolek & Zubrik (*)
+
+
+    8BIT: 4k INTRO (04)
+ 
+             Why me?                      Сергей Рыбаков
+
+
+    PC/AMIGA: MUSIC - CHIP (05)
+
+01. 7.348 07 Smart admin saving the earth Tone/T-Rex
+02. 6.541 03 O, u wish 2 try me?          Technoiz/CornerCut
+03. 6.330 04 Sleepless wind               Polir & Rain/Sands
+04. 6.061 06 Old chip                     BiTL/7dUMP
+05. 5.861 05 Make your choice             Darkman007
+06. 5.478 01 Run and gun                  Paro
+07. 4.509 02 A little                     Aquarius
+
+
+    MOBILE/HANDHELD: 64kb INTRO (06)
+
+01. 7.096 02 Second reality               Rayer
+02. 5.183 01 In cannon space              Fayka (**)
+
+
+    MOBILE/HANDHELD: 1mb GAME (07)
+
+01. 6.165 02 Retro detonation             Dyn
+02. 5.311 01 Hamon IV PPC edition         Breeze/Fishbone Crew
+
+
+    PC/AMIGA: MUSIC - MULTICHANNEL TRADITIONAL (09)
+
+01. 6.088 09 Meadow                       BiTL/7dUMP
+02. 5.867 08 The fourth victory           Ik/Tiraspol Art Group
+03. 5.816 10 Infolife                     Rain/Sands
+04. 5.782 07 Sinkope                      Jeffie/Brainwave
+05. 5.631 03 For Deni                     Sergei Smirnov
+06. 5.433 05 The last days                Inarus/FMA
+07. 5.183 02 Flight of soul               Aquarius
+08. 5.182 06 The sounds of rain           CJ Vlam Newman (ex-Prog Master/SMCG)
+09. 4.943 01 Lightness                    Aquarius
+10. 4.432 04 Smile                        Voxel/Triumph
+
+
+    PC/AMIGA: MUSIC - MULTICHANNEL ALTERNATIVE (10)
+
+01. 6.577 04 Unknown-X                    Darkman007
+02. 6.041 07 Nova technology              Necrolyte Ulin/Aprilstudio
+03. 5.822 03 Leave me with my fear        Ctull/CornerCut
+04. 5.491 02 Sunshine decay               Inarus/FMA
+05. 5.422 05 Plasmother                   Paralaxeen
+06. 5.327 06 Momentum...                  Ik/Tiraspol Art Group
+07. 5.021 08 Back to the world            Himik's ZxZ/Power Of Sound - Web Team
+08. 4.145 01 Dub is bud                   Paro
+
+
+    ZX SPECTRUM REALTIME MUSIC COMPO (11)
+
+01. 6.941 03 Mind Overside                Moran/CyberPunks Unity
+02. 4.047 01 Objection                    Elfh/CyberPunks Unity
+03. 4.038 02 Artifical Breath             sq/skrju
+
+
+    ANIMATION/WILD DEMO (12)
+
+01. 7.425 07 3d busters                   Chip Cult
+02. 7.370 04 Ряба                         Avs/AVS Graphica
+03. 6.638 03 Бесцельная война             Avs/AVS Graphica
+04. 6.346 05 Иллюзия свободы              Avs/AVS Graphica
+05. 4.739 09 Yellow                       Simon/CyberPunks Unity
+06. 4.545 10 Руки                         Simon/CyberPunks Unity
+07. 4.250 01 Всё по Фрейду                hq9000/Зигмунд
+08. 4.236 02 Твой выбор                   Avs/AVS Graphica
+09. 4.063 08 Exe music in 32kb            Slash AtD/Vectronix
+10. 3.556 06 Видеоклип "Носки"            Em(022000)/IIPR
+
+
+    ZX SPECTRUM REALTIME CODERS COMPO (14)
+
+01. 6.011 02 No more                      Alff/CyberPunks Unity
+02. 5.841 05 Wonderful day                Newart/n-Discovery
+03. 5.702 03 3.5 mhz                      Sergei Smirnov
+04. 5.487 04 Circle                       Hedj
+05. 3.933 01 Sux                          MadCat!
+
+
+    8BIT: 640kb DEMO (15)
+
+01. 7.429 05 Kkolor                       Triebkraft & 4th Dimension
+02. 7.125 06 I am the seed                Inward/CyberPunks Unity
+03. 6.460 03 CPU loves you!               CyberPunks Unity
+04. 5.842 02 Waves                        CyberPunks Unity
+05. 5.353 04 USSR2185                     skrju
+06. 4.162 01 CC 2004 invitation           skrju
+
+
+    PC/AMIGA: GRAPHICS - ASCII (16)
+
+01. 6.348 05 shl-che                      _shl/Galza
+02. 5.900 04 shl-girl                     _shl/Galza
+03. 5.508 07 I'm running!                 Black Fox
+04. 5.314 02 e-racoon.asc                 (e)not
+05. 4.643 03 Digital puke                 Rkluch
+06. 3.687 06 Kkolor                       Diver/4th Dimension
+07. 3.543 01 Blowjob                      meph!sto/Smr
+
+
+    PC/AMIGA: GRAPHICS - FREESTYLE (17)
+
+01. 7.415 06 О двух половинках и судьбе   Будя
+02. 7.161 09 Lost all truth               Ray Noa
+03. 6.255 05 Игра                         Будя
+04. 5.779 04 The doomsday                 Yozhik
+05. 5.462 12 B&W                          Kpoxa
+06. 5.409 11 Evil                         Kpoxa
+07. 5.189 01 God is a robot               bpxF5Lae
+08. 5.168 02 Autumn enslaved              Kraviz/Abhorus
+09. 5.147 03 Constructions                Tonic/XGM
+10. 4.883 07 Sangreal                     Sam/Im
+11. 4.516 10 Hi-Tech                      bpxF5Lae
+12. 3.787 08 Хаос                         Soso
+
+
+    PC/AMIGA: GRAPHICS - RENDERED (18)
+
+01. 7.175 04 My old house                 Renko/VolgaSoft
+02. 6.175 02 Beer "chaosnoe"              Camor
+03. 6.071 01 Heart                        Ryzhaya/Crolyx
+04. 4.753 03 Unromanticism                Daedmen/DLC-Team
+
+
+    PC/AMIGA: GRAPHICS - HANDDRAWN (19)
+
+01. 7.755 10 Widow                        Lynx Vulgaris/Crolyx
+02. 7.152 04 Farina silver star           Ray Noa
+03. 6.241 01 Jahar fell asleep            Ray Noa & Lynx Vulgaris/Crolyx
+04. 6.098 05 Fallout onmemory             A. Pestryakov/Binarylife
+05. 5.874 09 Postpunkneosuprecuboprimitivism
+                                          Kraviz/Abhorus
+06. 5.768 07 Девушка с мечом              Darx/Brainwave
+07. 5.580 02 Leo                          LAV/The SandS
+08. 5.241 06 Gabbeihaardrenzh             Sand/Mayhem
+09. 4.938 08 3 Speculators                Fatzer/Storm Studios
+10. 4.845 12 Невеста                      Kpoxa
+11. 4.170 03 Sacrifice                    Kraviz/Abhorus
+12. 3.722 11 BBC                          Push
+
+
+    PC/AMIGA: MUSIC - MP3 INSTRUMENTAL (20)
+
+01. 6.770 15 Канзас                       Костян/Скретч
+02. 6.400 10 Birth of the night           Beaver/T-Rex
+03. 6.200 05 Spring so close              BiTL/7dUMP & OverDrive/7dUMP
+04. 6.155 14 Beatty                       Zeebr/deMarche & Leopart/deMarche
+05. 6.155 09 Dream                        Agent Orange/T-Rex
+06. 6.043 06 Music for CC2005             Vodoley
+07. 6.041 12 Subnuked                     preston/the sands
+08. 6.011 07 Invention for CC'05          deBUGger
+09. 5.961 11 Voicedation                  MmcM/Sage
+10. 5.681 13 Sea Giants                   Paralaxeen
+11. 5.620 04 Angel anger                  Xiod/Crolyx
+12. 5.618 08 Uncontrolled power           CJ Vlam Newman (ex-Prog Master/SMCG)
+13. 4.830 01 Fruity freaks                Rkulch
+14. 4.760 03 Nightmare                    JS Madcap
+15. 4.700 02 Striped umbrella             Exalot
+
+
+    PC/AMIGA: MUSIC - MP3 SONG (21)
+
+01. 6.721 10 Собака                       Agent Orange/T-Rex & Nuta
+02. 5.400 07 His dream                    Anestis
+03. 5.120 01 I listen a jazz              Voxel/Triumph
+04. 5.027 03 Крик души                    X-Ray/X-Tass
+05. 5.017 06 Славься Пиво!                YRW & Kосмос/Вселенский Ужас
+06. 4.981 08 Линия фронта (Frontline)     Inarus/FMA
+07. 4.944 04 Полёт снов                   Ветер
+08. 4.797 05 Girl                         Jukebox
+09. 4.627 02 Межгалактическая любовь      Nambavan
+10. 4.146 09 Май (Dance version)          Костян/Скрэтч
+
+
+    PC/AMIGA: 4k INTRO (22)
+
+01. 6.730 01 hm.hm.hm                     Zeux
+02. 5.511 03 Another solar system         Fayka
+03. 4.214 02 Night rain                   Minx
+
+
+    8mb GAME (23)
+
+01. 8.427 02 RBM                          Mayhem
+02. 4.246 01 Space trade 2: end of the days
+                                          NOFATE
+
+
+    PC REALTIME CODERS COMPO (24)
+
+01. 5.786 03 Untitled                     Dsiss/StArPeRs Crew
+02. 5.739 02 Autumn 2005                  Sergei Smirnov
+03. 4.489 01 Listo.bat                    Fayka
+
+
+    PC REALTIME MUSIC COMPO (25)
+
+01. 6.494 05 The gybrid melody            Sergei Smirnov
+02. 6.832 02 Jazzing final                LAV/The SandS
+03. 5.901 03 Konex must die               Paralaxeen
+04. 5.516 06 Noname                       DrPain
+05. 4.240 04 Start!                       Leopart/deMarche
+06. 4.029 01 Blacky's Suxx                Black Fox
+
+
+    PC/AMIGA: 64kb INTRO (26)
+
+01. 7.703 02 Jam                          fOx & Lost Soul (***)
+02. 5.373 03 Tiny                         San/Im
+03. 4.047 01 Wacko3                       Hardwave Crew & Mostly Harmless
+
+
+    FLASH: 4mb DEMO (27)
+
+01. 5.985 02 Propaganda (Break'em all!)   aGGreSSor/team Power Amiga
+02. 4.511 01 Lines                        Satim/Toondra
+
+
+    PC/AMIGA: 16mb DEMO (28)
+
+01. 6.986 01 Sleeping motion              Crolyx
+02. 6.547 03 deLoading                    deMarche
+03. 5.972 02 3 Funky Speculators          Storm Studios & The SandS
+
+
+    ADDITIONAL INFO
+
+  * Ircircle by Bolek & Zubrik (ZX Spectrum 512b intro) - disqualifed
+ ** In canon space by Fayka (Mobile/Handheld: 64kb intro) - special diploma
+*** Jam by fOx and Lost Soul (PC/Amiga: 64kb intro) - CC'05 winner
+
+    compo #08 (Mobile/Handheld 1mb demo compo) and #13 (8bit: 640kb game compo)
+    were failed, because of owning to 0 of works.
+
+    last compilation: 24.08.2005 16:00
+
+    results compiled by Jeffie/BW,
+    fixed by Diver/4D
+
+
+    http://cc5.org.ru
+    ftp://ftp.cc5.org.ru

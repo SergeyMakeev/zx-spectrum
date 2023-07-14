@@ -1,0 +1,92 @@
+Ğåçóëüòàòû
+Ğåçóëüòàòû ïğîâåäåíèÿ demoparty ParaDiGMus 2003:
+
+ìåñòî, àâòîğ, ğàáîòà, ñğåäíèé áàë
+==============================
+ZX MUSIC:
+1.EA,"I Want Be Back !", 6,2
+2.Sergey Bulba, "Zemfira's Macho", 4
+3.Risk, "êğóòî òû ïîïàë"
+(“kruto ty popal” - translate2eng.: “Abruptly you have got”), 3,8
+4.Alone Coder, “Hypno+”, 3,4
+5.C-Jeff, “letigan noise rain”, 3,4
+
+ZX GFX:
+1.ÊÀÑèê (eng.: KASik), "Ğóêà" (“Ruka” - translate2eng.: “Hand”), 6,5
+2.Breeze, "gonza", 4,9
+3.Breeze, "madonna", 4,5
+4.sebastian kinner, "blue", 4
+
+ZX DEMO:
+1.Alone Coder, “Dimon128”, 4
+
+PC DEMO:
+1.KCN, “Carbon: Vicious”, 9
+2.makheim, “todie3d”(pary version) (makheim-todie3d.zip fix version), 7,3
+3.New World Hacking, “Digital rules / NWH”, 5,9
+4.Yomoma, "yo09. raving horse", 5,6
+5.Joachim.Hofer (Chock), "Tentack", 4,3
+
+Rendered ANIMATION:
+1.[DLC] team inc., "Linux2.Win", 7,1
+2.DE_Facto, "ìóçûêà ñêîğîñòè"
+(“muzyka skorosti” - translate2eng.: “Music of speed”), 6,7
+3.DE_Facto, "Ultima ratio (Demo)", 6,2
+
+PC MUSIC:
+1.Lex Belove, "Happy People", 6,2
+2.Shurman, "Pulse", 6,1
+3.Lex Belove, "Madness of actions", 5,9
+4.Slash_AtD_, "Out of the Blue", 5,54
+5.LAS, "Death of the gods", 5,549
+6.Avator, "Ïğîñòèòóòêà", 5,548
+7.GenesiS, "Never Known (PDGMS version)", 5,543
+8.Butch, "Alone in infinity", 5,532
+9.DJ Save, "Bass sensation", 5,496
+10.Psycho Team, "waiting 4 a miracle", 5,467
+11.t32m^1o1_*.sus, "Silence", 5,467
+12.Butch, "Winter night", 5,397
+13.t32m^1o1_*.sus, "Rain+water", 5,343
+14.pr0mus, "Æèçíü", 5,117
+15.EA, "11 mounts", 5,108
+16.d-juice/Pyramid People, "FunkyS-One3 (party shot mix)", 5,097
+17.Subway, "Girl's Dream", 5,083
+18.Iv@nbl4, "G.P.L.", 5,078
+19.v0rteXz, "sleeping _satellite", 4,967
+20.Shturman, "gostiky (mechta hard drum mix, feat. fbs & gib)", 4,955
+21.tiamad, "super_star", 4,897
+22.Impulse, "A night at the computer", 4,756
+23.DJ I-Kick, "Tropicanka - I love you", 4,722
+24.Fishbone team., "My Kingdom", 4,626
+25.Iv@nbl4, "Inferno", 4,577
+26.neogen, "died", 4,500
+27.kex, "goa in two heads", 4,341
+28.DJ I-Kick, "Outro", 4,250
+29.decolder, "mental games", 4,143
+30.xiod ^ crolyx team, "shizoid funktion #61", 3,976
+31.Äóíàåâ Îëåã Hèêîëàåâè÷, "Searching For The Jah (Â ïîèñêàõ Äæà)", 3,857
+32.qYml, "Highway", 3,756
+33.Psycho Team, "G-Phobia", 3,594
+34.Slash/AtD, "slowgif", 3,491
+35.ygrek, "kitten", 3,286
+
+
+PC GFX:
+1.Nixelerator, "Nice_Day", 7,5
+2.Nos_S_Dest, "On pain of death", 7,4
+3.Nos_S_Dest, "ß òåáÿ âèæó" (“IA tebia vizhu” - translate2eng.: “I see you”), 6,7
+4.Melofaro, “Äåìîíû â íî÷è”
+(“Demony v nochi” - translate2eng.: “Demons in night”), 6,6
+5.Sly, “Èñêóññòâåííûé öâåòîê”
+(“Iskusctvennyj cvetok” - translate2eng.: “Artificial flower”), 5,6
+6.IDG, “stimulators”, 5,5
+7.Asf1r, “Aeris – 2”, 4,9
+8.Piefke – Nasta, “Äîáğàÿ ãîëîâà”
+(“Dobraia golova” - translate2eng.: “Kind head”), 4,815
+9.AiK, “Bottle”, 4,79
+10.Breeze, “AppleTree Girl”, 4,762
+11.AiK, “Ãîğû” (“Gory” - translate2eng.: “Mountains”), 4,6
+12.L-Graph, “don't cry”, 3,983
+13.Alex N, “Chopper”, 3,905
+14.Cheshire Cat, “Cheshire Cat”, 3,2
+15.Dimedroll, “BagPipe”, 3,1

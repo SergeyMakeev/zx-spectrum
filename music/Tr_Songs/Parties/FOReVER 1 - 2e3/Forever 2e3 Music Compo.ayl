@@ -1,0 +1,196 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Cobra of SB\Cobra Cares.sqt
+<
+Author=Cobra/Speccy Boys
+Name=Cobra Cares
+Time=15168
+Loop=0
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT32 - Tek.stc
+<
+Author=Yerzmyey/Hooy Program
+Name=Tek
+Time=10560
+Loop=0
+>
+..\..\Authors\Yerzmyey\Shit.stc
+<
+Author=Yerzmyey/Hooy Program
+Name=Shit
+Time=10368
+Loop=0
+>
+..\..\Authors\Gasman\CiudadDeSuenos.stc
+<
+Author=Gasman/Raww Arse
+Name=Ciudad de Suenos
+Time=8192
+Loop=0
+>
+..\..\Authors\L.A.Esq\New Generation.stp
+<
+Author=LaesQ/Raww Arse
+Name=New Generation
+Time=3840
+Loop=0
+>
+..\..\Authors\L.A.Esq\U'r-Anus.pt3
+<
+Author=LaesQ/Raww Arse
+Name=U'r-Anus
+Time=6144
+Loop=0
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Xagon-for-you.sqt
+<
+Author=X-Agon/Naughty Crew/PHT
+Name=2 Pieces In 1
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Dont-vote-for-this.sqt
+<
+Author=X-Agon/Naughty Crew/PHT
+Name=Do not vote for this!
+Time=9019
+Loop=0
+>
+..\..\Authors\Factor6\NN_World.sqt
+<
+Author=Factor6/K3L Corp.
+Name=NN WORLD
+Time=13056
+Loop=0
+>
+..\..\Authors\Factor6\Transform.sqt
+<
+Author=Factor6/K3L Corp.
+Name=TRANSFORM
+Time=11628
+Loop=0
+>
+..\..\Authors\Phantom Lord\2000.pt3
+<
+Author=Fantom Lord/Accept
+Name=2000
+Time=11520
+Loop=0
+>
+..\..\Authors\Mmcm\1996-2000\MadNess (FE1'2e3).pt3
+<
+Author=Mm<M/Sage Group
+Name=madfl
+Time=10380
+Loop=0
+>
+..\..\Authors\Ivan Roshin\My_First.ay
+<
+Author=Ivan Roshin
+Name=My First
+Offset=24
+Time=4091
+Loop=0
+>
+..\..\Authors\Key-Jee\reliz03\023-bg-primitive_of_time.pt3
+<
+Author=Black Groove/Future Group
+Name=Primitive of Time
+Time=9535
+Loop=0
+>
+..\..\Authors\Miguel\REALMS.pt3
+<
+Author=Miguel/CPU
+Name=REALMS
+Time=13278
+Loop=13248
+>
+..\..\Authors\Justinas\SEQUEL.pt3
+<
+Author=Justinas/Constellation
+Name=SEQUEL
+Time=14976
+Loop=14784
+>
+..\..\Authors\Darkman\TITANAS!.pt3
+<
+Author=Darkman&Justinas/Constellation
+Name=TITANAS!
+Time=12738
+Loop=12418
+>
+..\..\Authors\Siril\ViTaMiNC (Forever 1 version).pt3
+<
+Author=Siril/4th Dimension
+Name=Vitamin 'C'
+Time=6907
+Loop=5632
+>
+..\..\Authors\Serzhsoft\DreamCoding.pt3
+<
+Author=SerzhSoft
+Name=DreamCoding
+Time=3840
+Loop=3584
+>
+..\..\Authors\DX-69\Grumble Rave.pt3
+<
+Author=DX-69&Ravager/CRG
+Name=Grumble Rave
+Time=6144
+Loop=5888
+>
+..\..\Authors\Mitchell\We Love Hardwave.pt3
+<
+Author=Mitchell/HWC&SerzhSoft
+Name=We Love Hardwave
+Time=6720
+Loop=6400
+>
+..\..\Authors\TDM\AgentX2c64.sqt
+<
+Author=TDM/K3L Corp.
+Name=ayx2c64
+Time=8092
+Loop=0
+>
+..\..\Authors\TDM\4Ever2000.sqt
+<
+Author=TDM/K3L Corp.
+Name=4Ever2000
+Time=9586
+Loop=0
+>
+..\..\Authors\DX-69\Narco House.pt3
+<
+Author=DX-69/CRG
+Name=Narco House
+Time=6656
+Loop=6400
+>
+..\..\Authors\D-Juice\Pondlife at ze S. B..pt3
+<
+Author=DJ_Z (Mr.Z)/HWC
+Name=Pondlife at ze S. B.
+Time=9680
+Loop=9360
+>
+..\..\Authors\Ravager\Move Your Ass.pt3
+<
+Author=Ravager/CRG
+Name=Move Your Ass
+Time=8704
+Loop=8448
+>
+..\..\Authors\Baze\misc\dispazio.stc
+<
+Author=Baze/3SC
+Name=Dispazio
+Time=4480
+Loop=0
+>

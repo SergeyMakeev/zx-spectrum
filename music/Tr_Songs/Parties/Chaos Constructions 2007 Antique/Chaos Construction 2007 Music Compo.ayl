@@ -1,0 +1,61 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\EA\N_E_S.pt3
+<
+Name=Neverending Song
+Author=EA / Antares
+Date=30.07.2007 - 17.08.2007
+Tracker=Vortex Tracker 2
+>
+..\..\Authors\Scalesmann\nmb_flight.pt3
+<
+Author=scalesmann^march[ing]_cats
+Name=n-mb flight
+>
+..\..\Authors\A.S. EKB\blaze.pt3
+<
+Name=blaze
+Author=S.A.V.
+ChannelsAllocation=ACB
+>
+..\..\Authors\Voxel\Space Adventure - Sleeping star.pt3
+<
+Name=Space Adventure - Sleeping star
+Author=voxel/triumph
+>
+..\..\Authors\Ch41ns4w\kawaii_desu_YM.pt3
+<
+Name=kawaii_desu_YM
+Author=ch41ns4w
+>
+..\..\Authors\Riskej\osen'.pt3
+<
+Name=osen' na ladonyah
+Author=riskej / simbols
+>
+..\..\Authors\Gibson\deep music.pt3
+<
+Name=deep music
+Author=jibbz aka gibson
+>
+..\..\Authors\Ch41ns4w\something from beyond.pt3
+<
+Name=something from beyond
+Author=cha!nsaw and jibbz aka gibson
+>
+..\..\Authors\Splinter\last_hope.pt3
+<
+Name=Fall of last hore
+Author=Splinter / Trinitrocode
+Tracker=Vortex tracker 2
+>
+..\..\Authors\Darkman007\technodrive.pt3
+<
+Name=Technodrive
+Author=Darkman007
+ChipFrequency=1773400
+Length=3559
+>
+<
+Length=2830
+Offset=3559
+>

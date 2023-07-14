@@ -1,0 +1,30 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Mr.Beeper\Stalker title.pt2
+<
+Name=MUSIC BY(M-MAN) FOR "ALMANAC"
+Comment=Title
+Time=7680
+Loop=0
+>
+..\..\Authors\Dreamer\Chi-Mai (Stalker Version).asc
+<
+Author=DREAMER
+Name=CHI-MAI
+Comment=Novella
+Time=4992
+Loop=0
+>
+..\..\Authors\Alos\Adventurer08_21.pt2
+<
+Name=INTRIGA by ALOS(JNR)/SPARK'CG!
+Comment=Book
+Time=6912
+Loop=2304
+>
+..\..\Authors\Mr.Beeper\Stalker final.pt2
+<
+Name=Mr.BEEPER AND JACK PRESENTS:
+Comment=Final
+Time=10272
+Loop=0
+>

@@ -1,0 +1,26 @@
+Next Castle Party 2013 official results
+
+place - shown - name ---------------------------------- author ---- points
+
+-[ ZX-Spectrum Mini-Game (1k) ]-------------------------------------------
+
+01      01      ZXICHI1k                                trefi^debris    27
+02      02      PaRtY TiMe!                             sanchez         25
+
+-[ ZX-Spectrum Graphics ]-------------------------------------------------
+
+01      04      Little Puff                             MadMax          26
+02      01      Beast of the East                       nix./site       23
+03      02      Last Battle 2D                          JT137           22
+04      05      Sokoban                                 Ocican          20
+05      03      PixyAdventures                          kakos_nonos     16
+
+-[ ZX-Spectrum Music ]----------------------------------------------------
+
+01      05      stalker                                 kakos_nonos     15
+02      06      Zombaki                                 brightentayle   13
+03      01      Command and Conquer - Act on Instinct   brightentayle   12
+03      02      Kerbal space program                    kakos_nonos     12
+04      07      Warcraft II - Human Alliance Theme 4    nix./site       11
+05      04      Slenderman - the eight pages            John Norton Irr 10
+06      03      Prince of persia                        John Norton Irr  9

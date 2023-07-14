@@ -1,0 +1,174 @@
+DiHalt 2017 demoparty
+1-2 July
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+
+Official results v1.0
+
+
+
+[ HiEnd Tracker Music ]
+
+1.   7.45   Till sunrise by ejkot (aka kotsoft)
+2.   7.08   Coast of Hope by Даниил Люльчук
+3.   6.94   Last Entry by MotionRide
+4.   6.63   Waiting for sun by ejkot (aka kotsoft)
+5.   6.18   Colors of summer by Даниил Люльчук
+6.   5.27   Time by LIV ^ Dreamweb, Wanted Team
+
+
+
+[ HiEnd Chip Tune Music & 32k.exe ]
+
+1.   7.83   I will try by mr287cc
+2.   5.95   Gentle Introduction by nsmpr
+3.   4.92   break matrasi core by wbcbz7
+4.   3.00   Infrared by krotan
+
+
+
+[ HiEnd MP3/OGG Music ]
+
+1.   7.26   You & Me by MmcM ^ Sage
+2.   6.67   Demoparty by Alternative boy
+3.   6.46   Funky rain by mr287cc
+4.   6.15   Degradation by CJ Vlam Newman
+5.   5.90   KLIM_DH by Klim ^ Critical Mass
+6.   5.38   PreContinuum constant by LIV ^ Dreamweb, Wanted Team
+6.   5.38   Black Flag by CJ Vlam Newman
+7.   5.26   Leave the cage by kubikami
+
+
+
+[ HiEnd Gfx Handdrawn ]
+
+1.   8.14   Где-то рядом by Rainman ^ deMarche
+2.   7.39   33 seagulls by Vitos ^ ArtX
+3.   7.33   Nice Weather by Fakin Gerych ^ G'n'B
+4.   6.29   Море. Закат. by zedOFF
+
+
+
+[ HiEnd 256b Intro ]
+
+1.   7.06   2(56)unlimited by TomCat ^ Abaddon
+2.   5.77   el by Sh
+
+
+
+[ HiEnd Demo ]
+
+1.   8.18   VERVE 2017 Invitation by aturbidflow
+2.   6.88   Amiga Navsegda by Computer Bug ^ RAMPAGE
+
+
+
+[ Wild ]
+
+1.   7.82   ZXGate Visual Novel Engine by akasaka ^ Genjitsu Labs
+2.   7.05   DiHalt2014 by Lilka,Flast,Grigoryan
+3.   6.36   Tribute 2 CPU by Photoscener
+
+
+
+[ ZX Spectrum Beeper Music ]
+
+1.   7.26   The Last Summer on Earth by utz ^ irrlicht project
+2.   7.02   Faraway by AER
+3.   6.20   Drive by kubikami
+4.   5.79   The Temporal Beeper by Tufty ^ 1-bit Forum
+
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1.   7.63   Summer of Rain by MmcM ^ Sage
+2.   7.38   Cheshire Cat by Quiet
+3.   6.88   prove fatal by fatalsnipe
+4.   6.39   Sludge garden by kubikami
+5.   6.31   [strange ways] espiritu santo by scalesmann ^ march[ing]_cats
+6.   6.29   paraphernalia by scalesmann ^ march[ing]_cats
+
+
+
+[ LowEnd Graphics ]
+
+1.   9.05   silence by KASik
+2.   8.69   In search of the googloscreens to win the compo by dman ^ Placebo
+3.   8.10   Bluegirl by shuran33
+4.   7.82   Duality by aturbidflow
+5.   6.92   See Ya! by DenisGrachev
+6.   6.11   Yellow cat by sashapont
+7.   5.46   Hedgehog goes to a DiHalt by sashapont
+8.   5.24   Hello / Привет by pixelrat
+9.   5.21   Fox / Лис by pixelrat
+10.   4.78   Scetch 60p by pixelrat
+11.   4.59   Пейзаж by pixelrat
+12.   4.51   Cheshire Devil by sashapont
+13.   3.94   Dizzy Zombie by AER
+
+
+
+[ LowEnd 256b Intro ]
+
+1.   9.51   re:shape by bfox
+2.   7.63   RGB cube iso by Sh
+3.   6.80   Juist scroll by ShaMAN
+4.   5.32   Yet another star sky by apeape ^ Outsiders
+5.   4.97   petr by ovich
+
+
+
+[ LowEnd 1k Intro ]
+
+1.   7.25   1K by Sh
+
+
+
+[ LowEnd Demo ]
+
+1.   8.44   Very Party Demo by SibCrew
+2.   6.89   Ancient runes by Q-Bone
+
+
+
+[ Realtime LowEnd Coding ]
+
+1.   7.63   F*cking Beautiful Weather by Sh
+
+
+
+[ Realtime LowEnd Gfx ]
+
+1.   7.97   Выплывая из сна by moroz1999
+2.   6.26   Sleeping Kremlin by sashapont
+3.   6.24   A Midsummer Night's Dream by Vassa
+4.   5.47   В палатке by Hater ^ ArtX
+5.   4.91   И даже во сне дождь by pixelrat
+
+
+
+[ Realtime ZX Spectrum 53c Gfx ]
+
+1.   6.60   Легкий путь попробовать флэш by moroz1999
+2.   6.36   Как обманчива природа.. by FlashZX
+3.   5.93   Тёрка из тушенки Шурана by Marinova Aleksandra
+4.   5.92   Бэтмен не ищет лёгких путей by shuran33
+5.   5.60   Препятствия интереснее бонусов by pixelrat
+6.   5.50   Кирпичики (final) by CHRV
+7.   5.47   Дракон во время вечерной прогулки by Creonix
+8.   5.33   Dizzy goes the hard way!!! by zedOFF
+9.   3.90   Шишка by dovakin
+10.   3.72   Долгая поездка by Creonix
+11.   3.58   Вуду Пипол-Ватер Пипол by Flast
+
+
+
+[ Realtime Paint Over ]
+
+1.   6.65   хрень какая-то by zedOFF
+2.   6.08   Deliverance by moroz1999
+
+--

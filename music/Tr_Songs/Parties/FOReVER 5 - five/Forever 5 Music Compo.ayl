@@ -1,0 +1,168 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Factor6\Prazakum_je_hej.sqt
+<
+Author=factor6
+Name=prazakum je hej
+Comment=462 points
+Time=13464
+Loop=0
+>
+..\..\Authors\Megus\2004\Megus-Power Run (LD).pt3
+<
+Author=Megus / Brainwave
+Name=Power Run (Laser Dance)
+Comment=404 points
+Time=12768
+Loop=0
+>
+..\..\Authors\Fatal Snipe\pheelone.pt3
+<
+Author=fatal snipe & c-jeff
+Name=pheelone
+Comment=402 points
+Time=9984
+Loop=0
+>
+..\..\Authors\Gasman\Decadent Stardust.stc
+<
+Author=Gasman / Hooy-Program
+Name=Decadent Stardust
+Comment=399 points
+Time=9280
+Loop=0
+>
+..\..\Authors\Asi\lodeStar.pt3
+<
+Author=asi
+Name=lodeStar
+Comment=349 points
+Time=8192
+Loop=0
+>
+..\..\Authors\z00m\Odd Connection.pt3
+<
+Author=z00m^TCG
+Name=Odd Connection
+Comment=348 points
+Time=7120
+Loop=0
+>
+..\..\Authors\Siril\FeeMeeNee.pt3
+<
+Author=Siril / 4D
+Name=FeeMeeNee
+Comment=330 points
+Time=5888
+Loop=0
+>
+..\..\Authors\Silent\Take Da Scoop!.pt3
+<
+Author=Silent / Delta
+Name=Take Da Scoop!
+Comment=317 points
+Time=7680
+Loop=7424
+>
+..\..\Authors\Kyv\2004\kyv-dreamhouse.pt3
+<
+Author=kyv / triumph
+Name=dreamhouse
+Comment=291 points
+Time=5632
+Loop=0
+>
+..\..\Authors\Ivan Roshin\Improv17.ay
+<
+Author=Ivan Roshin
+Name=Improvisation #17
+Comment=289 points
+Offset=24
+Time=5760
+Loop=0
+>
+..\..\Authors\Key-Jee\Other\Firstlee.pt3
+<
+ChannelsAllocation=ABC
+Author=noo.N.E.
+Name=Firstlee
+Comment=268 points
+Time=6912
+Loop=768
+>
+..\..\Authors\C-jeff\Other\secondation.pt3
+<
+Author=nether
+Name=secondation
+Comment=261 points
+Time=5120
+Loop=0
+>
+..\..\Authors\Nik-O\olds_kul.pt3
+<
+Author=yozhe
+Name=olds_kul
+Comment=252 points
+Time=4416
+Loop=0
+>
+..\..\Authors\Riskej\2004\nokopy\2d.world.pt3
+<
+Author=riskej^oca&[v]arga
+Name=2d.world
+Comment=217 points
+Time=9072
+Loop=896
+>
+..\..\Authors\Cj Echo\2002\psychoz must sie.pt3
+<
+Author=cj.echo
+Name=psychoz must sie!
+Comment=211 points
+>
+..\..\Authors\Scalesmann\Crashed!.pt3
+<
+Author=Scl
+Name=Crashed!
+Comment=210 points
+Time=4720
+Loop=0
+>
+..\..\Authors\Sergey Bulba\VT\Oil.pt3
+<
+Author=Sergey Bulba
+Name=Maslo (Mumiy Troll)
+Comment=210 points
+Time=11742
+Loop=11734
+>
+..\..\Authors\Moran\LBTM.pt3
+<
+Author=Moran / Cyber Punks Unity
+Name=LBTM
+Comment=196 points
+Time=6336
+Loop=0
+>
+..\..\Authors\D-Juice\ee+.pt3
+<
+Author=d-juice and mitchell
+Name=ee+
+Comment=191 points
+Time=5760
+Loop=0
+>
+..\..\Authors\Glider\6e3DHa (ABYSS).pt3
+<
+Author=Glider / Energy Group
+Name=6e3DHa (ABYSS)
+Comment=189 points
+Time=13688
+Loop=0
+>

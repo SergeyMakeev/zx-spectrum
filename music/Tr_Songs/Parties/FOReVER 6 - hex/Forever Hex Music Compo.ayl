@@ -1,0 +1,68 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\TDM\neverstory.sqt
+<
+Author=TDM
+Name=neverstory
+Comment=279 points
+>
+..\..\Authors\z00m\chlast-a-station.pt3
+<
+Author=z00m/TCG
+Name=chlast-a-station
+Comment=254 points
+>
+..\..\Authors\Gasman\Out Of Neverland.stc
+<
+Author=Gasman/Ay Riders
+Name=Out Of Neverland
+Comment=252 points
+>
+..\..\Authors\Fatal Snipe\Nearly Perhaps.pt2
+<
+Author=Fatal Snipe/Fenomen
+Name=Nearly Perhaps
+Comment=252 points
+>
+..\..\Authors\Kyv\!2005\Synth4pop.pt3
+<
+Author=Kyv + Splinter
+Name=Synth4pop
+Comment=234 points
+>
+..\..\Authors\Asi\Weaponless mind.pt3
+<
+Author=asi
+Name=Weaponless mind
+Comment=231 points
+>
+..\..\Authors\A.S. EKB\Melodi-mini.pt3
+<
+Author=Alexander Smirnov
+Name=Melodi-mini
+Comment= points
+>
+..\..\Authors\Factor6\I Don't Care.sqt
+<
+Author=Factor6
+Name=I Don't Care
+Comment=224 points
+>
+..\..\Authors\Scalesmann\Forever Hex word.pt3
+<
+Author=Scale/March Cats
+Name=Forever Hex word
+Comment=189 points
+>
+..\..\Authors\C-jeff\2005\bbbbbbbb.pt3
+<
+Author=Jeffie & n1k-o
+Name=bbbbbbbbbbbbbbbbbbb
+Comment=181 points
+>

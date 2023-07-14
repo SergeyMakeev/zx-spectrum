@@ -1,0 +1,133 @@
+DiHalt 2018 demoparty
+7-8 July
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+Official results v1.0
+
+
+[ Wild ]
+
+1.   7.40   Видеообзор подставок для AY-кабеля by Модный Синклер
+2.   7.16   BeeperStack (MusicDisk) by MaLINOWKA PRODUKTIONS & MAYhEM
+3.   6.69   SPECCY.PL PARTY 2018.1 SLIDESHOW by speccy.pl
+4.   6.47   Ottifants by Hacker VBI ^ Enhancers team
+5.   6.38   Amiga Bar by Denis Grachev
+6.   6.18   Davy Jones by Rainman ^ deMarche
+
+
+[ ZX Spectrum Beeper Music ]
+
+1.   8.17   Electrostatic by Tufty ^ 1-bit forum
+2.   7.45   Catching Up by Shiru
+3.   7.07   PUSHAF by AER
+4.   6.91   Show Me 1bit Demo by MmcM ^ Sage
+5.   6.46   Bee Poor by MmcM ^ Sage
+6.   6.44   trifique by utz ^ irrlicht project
+7.   5.54   Cuper Marevo by Misha Pertsovsky
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1.   8.46   Roller Coaster by n1k-o
+2.   7.95   N0MUSIC by fatalsnipe
+3.   7.85   Warm days by MmcM ^ Sage
+4.   7.37   Proudly Loneliness by EA ^ Antares
+5.   7.20   SuperMegaHyperTrack :) by EA ^ Antares
+6.   6.68   Classic Songs: Leopold by Brandon
+7.   5.90   doorcallemubugizz by altro ^ The 7th Layer
+8.   4.88   Bandit Radio by zedOFF
+
+
+[ Realtime ZX Spectrum AY music ]
+
+1.   9.19   Fragment dh-2018 by MmcM ^ Sage
+2.   7.23   Hrenagment by AE ^ Antares
+3.   6.50   Da-Dum-Tss by n1k-o
+
+
+[ Realtime ZX Spectrum 53c Gfx ]
+
+1.   7.44   Vintage competition by Shiru
+2.   6.82   Demo or dacha??? by Sasha Marinova
+3.   6.76   И в старости не брошу Spectrum by shuran33
+4.   6.71   Bender back to DX ))) by Antibender
+5.   6.63   нслмлн by pixelrat
+6.   5.68   Пенсии не будет! by BlastOff
+7.   4.94   NeverDie by Sherhan
+8.   4.89   KACCETA by Hater ^ ArtX
+9.   4.62   Legend of `88 today by Creonix ^ Brain Wave
+10.   4.61   сценеры на пенсии за ловлей пакменов by Koshi ^ MGN
+11.   4.53   Последний Дихальт by zedOFF
+12.   4.29   ZX_oldfarts by Fakin_Gerych
+
+
+[ LowEnd Graphics ]
+
+1.   8.11   Vinil by dman ^ Placebo
+2.   8.02   En attente d'amoureux by shuran33
+3.   6.84   Quiet evening by Taziano Lorenzo
+4.   6.07   Fearless by Rei Ayanami
+5.   6.00   да придет спаситель by Antonius
+6.   5.98   Рыбка by pixelrat
+7.   5.86   Masterpiece [of art] by Borgee
+8.   5.79   Treepeople by Oliver West
+9.   5.74   Марево над домом by 8bit fan
+9.   5.74   One sad silly face by RocketGirl
+10.   5.71   Роза by sashapont
+11.   5.64   redskin by Zdenek
+12.   5.63   Поймал я, значит, рыбку... by pixelrat
+13.   5.45   Pandas by g0blinish
+14.   5.26   Baby Batman by Rei Ayanami
+15.   5.24   MUSEUM OF BAD ART by TruarT
+16.   5.15   subpixel by pixelrat
+17.   5.07   Bird by Petr Nguyen
+18.   4.93   Trump by Longshooter
+19.   4.80   Собака и бобер смотрят на белку на старом дереве by Ida Belova
+19.   4.80   Castle by Haked
+20.   4.76   joooo by Олег Копытов
+21.   4.64   Здоровенные арбузы! by Nurgo
+22.   4.52   Диарея с овощей by Vovka
+23.   4.51   Цветочек / Floret by pixelrat
+24.   4.49   Укус Анаконды by D.Ivan
+24.   4.49   Бурато by Vivan
+25.   4.44   Растекись поскорее by Владис
+26.   4.37   Welcome by John Marsh
+27.   4.20   песнь о настоящем индейце by PharaO
+27.   4.20   Некопия некопии копии by Абсолютный Мастер Всея Некопии
+28.   4.17   Дельфин by Chember
+29.   3.98   Морда-да-да by Vitalino
+29.   3.98   Пророки встали в очередь за водой by kolbasa-style
+30.   3.80   c demon by lordpxl
+30.   3.80   Я Работал by Автор Работы
+31.   3.73   mister madman by Miloslav
+32.   3.00   Звезды Сложились by Cosmic stranger of love
+
+
+[ LowEnd 1kb Procedural Graphics ]
+
+1.   8.95   1k_is_pretty_n!ce by bfox
+2.   8.58   Salvador by Dalthon ^ Joker
+3.   7.26   nogfx by nyuk
+4.   5.16   Escher by g0blinish
+
+
+[ LowEnd 256b Intro ]
+
+1.   9.29   Chimp-I-On by Kael & Fyrex ^ Mayhem
+2.   7.27   Grtz only to Diver !!! by aTs
+3.   6.70   invader by Denis Grachev
+4.   5.55   Mozaication by Doctor Max ^ Global Corporation
+5.   4.89   Cls32b by g0blinish
+6.   4.69   pp85 by g0blinish
+
+
+[ LowEnd 1k Intro ]
+
+1.   7.32   Cubeish Preview by Dalthon ^ Joker
+
+
+[ LowEnd Demo ]
+
+1.   8.90   dwot party version by sibKrew

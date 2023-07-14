@@ -1,0 +1,13 @@
+First Association music - indexed by Gasman / Raww Arse
+
+Filenames are constructed as follows:
+42b_beethoven-MoonlightSonata
+
+42 = the code block (in the original FA release) containing this music
+b  = songs in each block are given a,b,c,d... in order of appearance
+beethoven = composer. If this is given in brackets, I'm not certain.
+MoonlightSonata = Description of part, or music's name if known
+
+
+NB. In this release, some songs are missing - mostly in parts with
+several pieces of music, such as part 31.

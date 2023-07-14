@@ -1,0 +1,86 @@
+   3BM OpenAir 2014
+   11.07.2014-13.07.2014
+
+   Official results v1.00
+
+   ZX Spectrum realtime graphics compo
+
+ # title                   author                vts pts  avg
+
+ 1 The Sky Is Burning      tayle/debris           37 296 8,00
+ 2 Oh no!                  dman_pcb               37 235 6,35
+ 3 Choose of rain and mech John Norton Irr        36 188 5,22
+ 4 Meteorite weather       wormsbiysk|WBC^LSA     35 148 4,23
+ 5 Rain in my head         Kakos_nonos            36 121 3,36
+ 6 dont wayt summer        Kakos_nonos            36 103 2,86
+ 7 What is bad weather     Kakos_nonos            36 102 2,83
+
+	ZX Spectrum graphics compo
+
+ # title                   author                vts pts  avg
+
+ 1 Phantis                 MAC                    41 346 8,44
+ 2 Good morning            Dimidrol               40 337 8,43
+ 3 Wood                    prof4d                 39 328 8,41
+ 4 Fuck the color clash    Michael Assbender      38 271 7,13
+ 5 zee captain             mr.bungle              39 272 6,97
+ 6 Medieval Sunset         Shadow Maker           37 256 6,92
+ 7 спутаница               Moran/CPU              37 231 6,24
+ 8 b62                     Vassa                  37 219 5,92
+ 9 PartycAtE               Moran/CPU              37 201 5,43
+10 MVC 50 percents         Tutty                  37 199 5,38
+11 kung fu                 dman/PCB               37 182 4,92
+12 aRT iS fUN              mchanga                38 176 4,63
+13 Flying city             John Norton Irr        36 166 4,61
+14 Feelings                mchanga                39 173 4,44
+15 jackie                  dman/PCB               37 154 4,16
+16 Strange progress        John Norton Irr        36 145 4,03
+17 Black Adolf In Black Bunker Room
+                           mchanga                36 113 3,14
+18 Erosion                 Ellvis                 38 114 3,00
+19 Dudistor                Kakos_nonos            38 106 2,79
+
+   ZX Spectrum music compo
+
+ # title                   author                vts pts  avg
+
+ 1 Drink For Peace Drunk For ART
+                           Rob F. / Entire Group  23 186 8,09
+ 2 SuNny dAys              MmcM^Sa9e              28 213 7,61
+ 3 Synthmania11            tayle/debris           23 174 7,57
+ 4 will party for funk!    nq/skrju               28 198 7,07
+ 5 rythme                  scalesmann/march[ing]_cats
+                                                  28 177 6,32
+ 6 Funky Summer            gibson                 27 170 6,30
+ 7 Forest Path             tayle/debris           23 143 6,22
+ 8 Beyond The Road         wormsbiysk|WBC^LSA     28 170 6,07
+ 9 Ayakashi of a Foreign Land
+                           tayle/debris           23 129 5,61
+10 Medical Acceleration    Kakos_nonos            28 153 5,46
+11 GoTaY                   nodeus                 29 154 5,31
+12 Vortex of God           Moran/CPU              29 150 5,17
+13 City walking            John Norton Irr        25  87 3,48
+
+   ZX Spectrum intro/demo compo
+
+ # title                   author                vts pts  avg
+
+ 1 Andy W. 50%             Life on Mars           38 312 8,21
+ 2 3bmtb (party version)   tbk4d, fatal snipe & nodeus
+                                                  38 271 7,13
+ 3 ukulele                 tutty, brandon & trefi 38 252 6,63
+ 4 Dance Guide             g0blinish&denpopov     39 218 5,59
+ 5 Natasha                 kabardcomp             36 134 3,72
+
+   ZX Spectrum enhanced demo compo
+
+ # title                   author                vts pts  avg
+
+ 1 Rubicon                 Hacker VBI             33 284 8,61
+ 2 Modern Oldscool         Buyan                  33 261 7,91
+ 3 3bm outro (party version)
+                           Fishbone Crew          33 210 6,36
+ 4 Night Town              EARL                   34 183 5,38
+
+47 voters: 38 online + 9 at partyplace
+online party management system provided by nyuk

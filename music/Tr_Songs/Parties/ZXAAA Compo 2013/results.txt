@@ -1,0 +1,184 @@
+   ______ _ ___  ___  ___  ___     ______ _____  ____ _______
+  /_    /\ /  / /   \/   \/   \   /_    /|  _  |/_   |\_    /
+   /   /_/    \/ _   \_   \_   \   /   /_|  \  | |   | |_   \
+  /_____/__\___\/ \___\\___\\___\ /_____/|_____| |___|/______\
+   Z  X  A  A  A    D  E  M  O    C  O  M  P  O    2  0  1  3
+
+                       date: 22-28.04.2013
+                      status: virtual compo
+
+     final voting was held in the IT bar "KLЮTCH" 28.04.2013
+
+
+Graphics compo
+
+ #  shw title                    author         pts / vts = avg
+
+ 1.  4. HA_DHIWE                 rObat         1822 / 243 = 7.50
+ 2.  1. Fishing                  Dimidrol      1747 / 241 = 7.25
+ 3. 15. Exolon                   Diver         1701 / 241 = 7.06
+ 4.  9. Majokko                  Wizard        1527 / 238 = 6.42
+ 5. 13. The Legend Of Darkmoon   MadMax        1500 / 238 = 6.30
+ 6.  6. To Meet With White Stars nodeus        1418 / 240 = 5.91
+ 7.  2. Cats                     Razer         1398 / 239 = 5.85
+ 8. 10. SOUP                     Crazy Masters 1252 / 236 = 5.31
+ 9.  7. Cyber                    Alko          1255 / 237 = 5.30
+10. 14. Alarma                   Seth          1100 / 235 = 4.68
+11.  3. Survivisection II        Alex Clap     1059 / 232 = 4.56
+12. 12. Haosmen                  Moran         1014 / 236 = 4.30
+13. 16. My Little Pony           kakos_nonos   1007 / 236 = 4.27
+14. 11. Там где нас нет          Kostet         814 / 232 = 3.51
+15.  5. Gepard                   Alko           793 / 231 = 3.43
+16.  8. xyeTa                    D.R.Y.         721 / 235 = 3.07
+
+
+Music Compo
+
+ #  shw title                    author         pts / vts = avg
+
+ 1.  5. Mission Andromeda        Splinter      1351 / 176 = 7.68
+ 2.  8. Arcane Zone Part 2       Yerzmyey      1222 / 168 = 7.27
+ 3.  6. Minimoog r10             Husmann       1211 / 173 = 7.00
+ 4.  2. Anisotropy               Yerzmyey      1075 / 170 = 6.32
+ 5.  9. Strange Love DM Cover    nodeus        1042 / 171 = 6.09
+ 6.  4. Into My Head             Scalesmann    1006 / 168 = 5.99
+ 7.  1. When the smoke is going down
+                                 kakos_nonos    850 / 168 = 5.12
+ 8.  7. Beep Step                AER            812 / 165 = 4.92
+ 9. 11. Must Die For Life        Moran          814 / 166 = 4.90
+10.  3. Purple                   AER            769 / 168 = 4.58
+11. 10. Wham                     AER            560 / 163 = 3.44
+
+
+Demo Compo
+
+ #  shw title                    author         pts / vts = avg
+
+ 1.  6. OSCOSS                   Entire Group  1845 / 221 = 8.35
+ 2.  8. The Board II             Alone Coder   1830 / 222 = 8.24
+ 3.  1. DOZEN Megademo           Hacker VBI    1437 / 222 = 6.47
+ 4.  7. OSOM                     Goblinish     1047 / 210 = 4.99
+ 5.  3. Scrololo                 Mr.Scrololo    985 / 219 = 4.50
+ 6.  5. Preview                  AER            935 / 212 = 4.41
+ 7.  4. Satan                    Alko           928 / 215 = 4.32
+ 8.  2. First Demo               kakos_nonos    814 / 222 = 3.67
+
+
+"Guess who?" Compo
+
+ #  pts voter
+
+ 1. 15  Diver
+ 2.  7  introspec
+ 2.  7  HEX
+ 4.  6  Dimidrol
+ 4.  6  nix
+ 6.  5  Breeze
+ 7.  4  Klim
+ 8.  3  sq
+ 8.  3  c-jeff
+10.  2  mono
+11.  1  krt17
+11.  1  Keiss
+11.  1  aGGreSSor
+14.  0  Factor6
+14.  0  Branch^REN
+14.  0  Hacker KAY
+
+
+Overall 280 voters:
+
+9379992               John North            Optimus
+^m00h^                JS Madcap             organism
+AAA                   jt137                 osTman
+Abaduaber             JuLJuL                palsw
+ablent                JVgfx                 PERESTROiKA
+ace210                Kakos_nonos           Petrovich13
+aetrin                Kalantaj/MOBILux      phm/syndrome
+aGGreSSor             Karate/MBR            Piesiu
+Akshaal               kas29                 Point777
+Aleksandr             Keeper                Prox
+Alex                  keiss                 psb
+Alex Art              Khampton (KHz)(KRL)   psndcj//tbk
+Alex Clap             Khodyachi Zig-Heil    pxl
+Alex Rider            kirillkaification     Pyza^Illusion
+Alone Coder           Kitsune               qwerty
+Andry Smart           Klim_oHg              r0bat
+Annihilator           klu10                 random/cc
+anoubis               klu11                 Ray
+Ansy                  klu12                 RAZER
+Antiquar              klu13                 RCL
+ASTi                  klu14                 ReLoad
+Babay                 klu15                 restorer/tgt
+Backs                 klu16                 Rindex
+basil                 klu17                 Rob F.
+baxter                klu18                 rogerjowett
+bfox                  klu19                 rudyardkippling
+bittin                klu20                 Sabe
+Black Cat/Era CG      klu7                  SaNchez
+Black_Cat             klu8                  scalesmann
+blade                 klu9                  Schombi
+bonefish              klutch1               scooter
+Branch^REN            klutch1               screw
+breeze/FBN            klutch2               sect0r
+bugsy^hds             klutch3               Sergey Timonin
+Buyan                 klutch4               Sergio
+ByBy                  klutch5               serlordy
+Caroll                klutch6               sgt
+Chainick              kluthch#2             Shmid
+chema64               kluthch#3             Shnurkov
+Cizo2000              kluthch#4             shock__
+C-jeff                kluthch#5             Shuran33
+CkEsc                 kluthch#6             shx
+clapper               krt17                 sikor
+Cooper                kyv                   Silent
+creator               Larisa Vasilyakina    sinchuk
+daniel                Las                   sinnus
+de                    lena_perm             sknd & drgz
+demoded               Lexic                 Slash_AtD
+Destr                 Luca                  sn00p
+dGuy                  Lukasz                Softhouse
+Dimaz                 lvd                   SoftLight
+Dimidrol              M{}T/Accept Corp.     sola
+diver/4d              Mad Killer            Solar Flare
+DJ                    Magnetik              solegstar
+Djoni                 Maksagor              splin7er
+Dori                  mana                  sq
+Dreamoochy            Maria                 Stingrey
+drugon                marinad               SuperGuy
+drwho/thesuper        mary                  svpv
+Dx-69\\CRG            Master_of_bugs        Syntal
+EARL                  MaXiM                 syoma
+Elemental             MeGaSoFt              Tengo
+ellvis                Megus                 Tesla
+Enigmatic             Michelle              The Mutant
+Exalot                Mick                  the.sentinel
+Exocet                mike/zeroteam         tiboh
+Factor6               Misha Pertsovsky      Titus
+Fan                   mistervoodoo          tjahzi
+Felix                 mithmith              TK-313
+fixxar                molodcov_alex         tomoyo
+FlyFlint              mono                  trefi
+Flying/DR             Moran                 TS-Labs
+Frozzy                Moran                 ubuntuman
+g0blinish             moroz1999             VBI
+Gibson                Mr Atari              VELESOFT
+GM                    Mr. Scrololo          Victory
+GM_BiT                MrKalach              Viktor2312
+Golfareninsweden      MrW                   visy
+Graz                  n0nick                vitaminC
+great pretender       Nastya_cool           ViThor
+gurfunkel             newart                Vivid^Brainwave
+Hacker KAY            Night_fly             VNN_KCS
+hareSBG               NightRadio            Winstal
+haru                  nishtyak              Wlodek
+haywire               nix./site             Xentar
+HEX                   No voter              XP
+husmann               noby                  Yaranga
+introspec             Noby                  yaroslaw80
+ivan                  nodeus                Yuri Khlopushkin
+j.                    norman                yuriy
+jad                   nyuk                  z00m
+Jean 1                OldUser               ZOSYA
+jkud2                 Oleg
+Jocker/OHG            olga

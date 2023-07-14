@@ -1,0 +1,23 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\12Me21\M.U.L.E. title theme (30 Hz).pt3
+<
+PlayerFrequency=30000
+>
+..\..\Authors\Nik-O\brummkre.pt3
+<
+Author=n1k-o  orig. sid theme  611.3
+Name='brummkreisel...' by a.rotzsch
+Length=3983
+>
+..\..\Authors\C-jeff\2004\jf-hardt.pt3
+<
+Author=c-jeff for antikover o5-jun-oo4
+Name=hard track (c=64 theme by jeff)
+Length=3721
+>
+..\..\Authors\Nik-O\monty.pt3
+<
+Author=n1k-o orig. c-64 tune 2334
+Name=from monty on the run game
+Length=1268
+>

@@ -1,0 +1,180 @@
+Chaos Constructions'2008 official results
+
+1. Графика - Handdrawn
+
+1. [2] - keara_by_Himera
+2. [4] - we_r_cc_party_by_sw.I.sn
+3. [1] - Clouds
+4. [3] - Quakekills
+
+2. Freestyle
+
+1. [4] - Tesla 
+2. [2] - Блик 
+3. [3] - Girl with sphere
+4. [1] - Kuvalda
+
+3. ZX Graphics
+
+1. [4] - KASik - Crazy Love
+2. [1] - Dimidrol - Schloss Neuschwanstein
+3. [3] - Crazy Pixel - Nether Earth
+4. [2] - Mixer - Strong Hold
+
+4. Tiny MP3 Music
+
+1. [1] HopeToMeetYou by JeRrS
+2. [4] IDExpee 
+3. [2] Spectrum Infection by Vodoley
+4. [3] 24
+
+5. Combined Photo
+
+1. [11] helga IMGP0216 
+2. [10] srpspb_photo1_cp_1024x768.jpg
+3. [9] smdmitry_sacrifice
+4. [12] srpspb_photo2_cp_1024x768.jpg
+5. [8] the_pig_photo_by_frog
+
+6. Procedural Graphics
+
+1. [2] klava by unc, Ized
+2. [3] 4d quaternion butterbrot set by unc, Ized
+3. [4] opengl_render_test by xiod/crolyx
+4. [1] One way road by Степанов Андрей
+5. [5] Oil trader's nightmare by kraviz/abhorus 
+
+7. Wild
+
+1. [3] StarWars. Эпизод 48 - Возвращение к истокам. by n-Discovery
+2. [2] Vera by Perspective
+3. [1] Топливо: Демиург Химер by Slip/Otto Dix
+
+8. Hack video
+
+1. [4] Easy Hack 
+2. [1] SQL-инъекция 
+3. [2] Debian OpenSSL Bruteforce 
+4. [5] iPhone under knife 
+5. [3] SIM CLONING 
+
+9. ZX Demo
+
+1. [4] IMAGE MEGA DEMO by BioTech Software & n-Discovery
+2. [1] illusions by Screw/OHG
+3. [3] dreamers by skrju
+4. [2] flush by milytia+simbols
+
+10. 32k exe music
+
+1. [1] Nova by BiTL 
+2. [4] Dos by Preston
+3. [5] Narcin by Preston
+4. [2] Heavy by Darkman007/Quite
+5. [3] Stars by jandor
+
+11. Realtime coding
+
+1. [4] f1ufx
+2. [2] FL3
+3. [3] qeos
+4. [1] maos
+
+12. Realtime sunspot
+
+1. [3] Тимур "шагомер"
+2. [1] fzero "игрушка + муз. инструменты"
+3. [2] KostaPC "сохранить и передать"
+
+13. ZX Music
+
+1. [4] I'll be remember - Splinter
+2. [5] T-Means (Now pary! edit) - Splinter + Dj.Denson
+3. [3] contra-rock - Megabyte
+4. [2] fascinate - S.A.V.
+5. [1] neponatka2.pt3 - JeRrS
+
+14. 64k Intro
+
+1. [2] SPHR by Darkman007
+2. [3] Flat heroes by 7dUMP
+3. [1] First by Darkman007
+4. [4] Outdated by f0x
+5. [5] Moon mission by SandS
+
+15. Demo
+
+1. [3] Speedmachine by V-Nom
+2. [4] welovefox
+3. [2] Hyvasti by skrju
+4. [5] Kiitos by Vittu Girls  
+5. [1] everything was yesterday and it was too late ny skrju
+
+16. Realtime graphics
+
+1. [2] true
+2. [4] gleb
+3. [6] МаК
+4. [3] cyber_maniac
+5. [7] rest
+
+17. Realtime photo
+
+1. [1] 1_drpain_SS858007.JPG
+2. [5] 5_rizn_29082008467.jpg
+3. [4] 4_ilovecc_Tails.jpg
+4. [2] 2_takedo_IMG_7544_2.jpg
+5. [3] 3_dv_by_cyber_maniac_1.jpg
+
+Realtime Hardware Hack
+
+1.А.Гусаков 
+2.Dlinyi
+3.П.С.Захаров (voice.el)
+3.Arkamax (Артём)
+4.Андрей Матяшев
+5.Александр Алейников (deer)
+6.Константин Акмаров
+
+Mobile demo compo
+
+Dream Debris (Nokia 3100, S40) - одна работа, вне конкурса
+
+Invitation
+
+kraviz (kraviz) / abhorus - одна работа, вне конкурса
+
+Realtime ZX Graphics
+
+- часть участников отказались в процессе работы, часть работали свыше отведенного времени. 
+
+ZX Gigascreen graphics
+
+- не состоялся (не было ни одной работы)
+
+HackQuest
+
+1. kyprizel 2008-08-31 10:22:20 
+2. kot      2008-08-31 01:30:23
+2. Sunny    2008-08-31 01:33:01
+3. alexxy   2008-08-31 16:58:18
+
+Кибергородки
+
+- результатов нет (никто не попал :)
+
+Метание HDD
+
+1. Андрей Славин (Dr.Pain)
+
+Realtime ZX Coding
+
+- не было участников
+
+--------
+
+Победитель фестиваля - А.Гусаков (1-е место в Real-time Hardware Hack)
+
+--------
+
+Работы доступны на ftp://ftp.cc.org.ru/2008/

@@ -1,0 +1,27 @@
+AY Music Compo
+ 	Music Name	Author
+  1	Space	Ceeroy
+  2	KUBQKA	Slip
+  3	Sunday	D-Juice
+  4	ObOlEnSk	Mitchell / Hardwave
+  4	Что сравнится с юностью	JeRrS
+GFX Compo
+ 	Picture Name	Author
+  1	Gone with the wind	Vassa
+  2	6_12_08	Черных М.
+  3	It's show time	Илясов Е.
+  4	for you	One Man
+  5	ELEPHANT	Blaz & Shade
+  6	TV	SAG
+  7	Haskcat	@zon / Sinclair Club
+  8	Grib	Илясов Д.
+  9	Автомобиль	Руднёв Д.
+  9	Sea	Hawk
+  10	Nostalgy Logo	Юлия
+Realtime GFX Compo
+ 	Picture Name	Author
+  1	Homecomp	Илясов Е.
+  2	my life	Flast
+  3	binary	ex-mic / VVG
+  4	01	@zon / Sinclar Club
+  5	z80 fan	Путинцев Р.

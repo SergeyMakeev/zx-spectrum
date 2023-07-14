@@ -1,0 +1,490 @@
+[ Hackers Top 2010 Autumn Edition Results ]
+
+Online Graphics (Normal) (47)
+-----------------------------
+ 1 ( 1). boo dizzy (wizard/delirium tremens) : 200 (4.3)
+ 2 ( 2). Star of Halloween (Flower) : 158 (3.4)
+ 3 ( 3). Halloween (Shuran33) : 115 (2.4)
+
+Online Graphics (Attribute) (47)
+--------------------------------
+ 1 ( 5). magenta view (bfox) : 193 (4.1)
+ 2 ( 3). Termocop (Shiru) : 162 (3.4)
+ 3 ( 2). Чаки (vitaminC) : 137 (2.9)
+ 4 ( 6). id-30 (yeeeaahhh) : 126 (2.7)
+ 5 ( 4). fly ballon (Shuran33) : 123 (2.6)
+ 6 ( 7). ht2010 (pulsa) : 114 (2.4)
+ 7 ( 1). Калейдоскоп (ht) : 71 (1.5)
+
+Graphics (56)
+-------------
+ 1 ( 4). Rusalka (Piesiu) : 260 (4.6)
+ 2 ( 6). В тупике (SAMANASUKE) : 199 (3.6)
+ 3 ( 5). Не торопитесь (SAMANASUKE) : 197 (3.5)
+ 4 ( 1). Ах ты-ж ебаный ты нахуй!!! (wizard/DT) : 168 (3.0)
+ 5 ( 3). Forest Hunting (Kaz/Rohar) : 167 (3.0)
+ 6 ( 2). ZX4ever (FoX FluFFy^s/TgT) : 133 (2.4)
+
+16 Colors Graphics (49)
+-----------------------
+ 1 ( 1). ht_girl (breeze) : 159 (3.2)
+
+Demo (51)
+---------
+ 1 ( 1). Lamia (SAMANASUKE) : 176 (3.5)
+
+Music (55)
+----------
+ 1 ( 1). a-la-teameclipsw (MadMax/KnA) : 215 (3.9)
+ 2 ( 2). Under the Sun (Shiru) : 200 (3.6)
+
+Beeper (55)
+-----------
+ 1 ( 1). Time Attack (Shiru) : 198 (3.6)
+ 2 ( 2). stubdepp (irrlicht project/bhack) : 181 (3.3)
+
+C64 Music (55)
+--------------
+ 1 ( 1). Summer Vacation (Shiru) : 205 (3.7)
+ 2 ( 2). KINO - Summer Will End (BYTEMAN) : 172 (3.1)
+
+[ Votesheets ]
+
+ 1  2  3  Online Graphics (Normal)
+----------------------------------
+ 5  5  2  @2
+ 3  2  2  mmcm
+ 5  4  5  moroz1999
+ 5  3  2  Piesiu
+ 3  2  3  Sebaloz/Lepsi.De
+ 5  2  2  Cyclone
+ 5  2  1  Nitro/Black Sun
+ 4  2  1  riskej
+ 5  4  3  Shiru
+ 5  4  3  @3
+ 5  4  3  vitaminC
+ 4  3  2  fyrex
+ 4  5  3  Buyan
+ 5  4  4  andy_fer
+ 3  2  1  r0m
+ 2  3  1  max_sp3
+ 4  5  2  bfox
+ 5  5  4  Shuran33
+ 5  5  3  @4
+ 2  2  1  baxter
+ 5  3  3  ramtop
+ 4  2  1  ooz
+ 4  2  2  keeper
+ 5  4  4  VNN_KCS
+ 5  2  1  Sopolimer
+ 5  4  3  Wlodek
+ 5  3  3  ssmirnov
+ 2  4  5  ht
+ 4  2  1  psndcj
+ 5  3  2  nq/skrju
+ 3  5  2  @5
+ 5  3  3  Striker
+ 5  4  3  Rindex
+ 5  4  3  kto vsial nik?
+ 5  5  5  Kristina
+ 1  4  3  r0bat
+ 5  4  3  @6
+ 4  4  3  scooter
+ 4  3  3  Stingrey
+ 3  4  2  gorgh
+ 5  2  2  lovebeam
+ 5  5  3  @1
+ 4  2  1  GM BIT
+ 5  4  2  A-Graph
+ 3  2  1  irwin
+ 5  3  1  Gibson
+ 5  3  2  pulsa
+
+ 1  2  3  4  5  6  7  Online Graphics (Attribute)
+-------------------------------------------------
+ 2  3  3  2  5  3  1  @2
+ 1  3  3  2  4  4  3  mmcm
+ 1  4  5  4  5  3  3  Piesiu
+ 1  4  4  2  5  4  2  moroz1999
+ 1  1  1  1  1  1  1  Cyclone
+ 1  1  4  1  5  1  1  Nitro/Black Sun
+ 1  1  3  2  4  1  1  riskej
+ 1  4  0  3  5  3  2  Shiru
+ 1  3  4  2  5  2  3  @3
+ 5  4  4  4  4  5  4  vitaminC
+ 1  3  4  4  5  4  5  fyrex
+ 2  3  4  4  5  4  4  Buyan
+ 1  4  4  4  4  4  4  andy_fer
+ 1  1  2  1  5  2  1  r0m
+ 1  1  1  1  1  1  1  max_sp3
+ 1  2  4  2  4  4  3  bfox
+ 2  5  5  5  5  4  4  Shuran33
+ 1  4  4  3  5  2  4  @4
+ 1  2  2  1  3  1  1  baxter
+ 3  3  4  4  5  3  4  ramtop
+ 1  2  3  2  4  3  3  ooz
+ 2  2  4  2  4  2  2  keeper
+ 3  4  4  4  5  4  5  VNN_KCS
+ 2  5  5  3  5  3  2  Sopolimer
+ 3  3  4  3  4  1  2  ssmirnov
+ 1  4  3  2  2  1  1  psndcj
+ 1  2  4  3  5  2  2  nq/skrju
+ 1  3  3  3  4  3  4  Wlodek
+ 1  3  5  3  2  4  1  ht
+ 1  3  4  2  5  2  3  @5
+ 2  3  3  2  4  3  3  Striker
+ 1  2  2  3  5  2  2  Rindex
+ 2  3  3  4  5  4  4  kto vsial nik?
+ 1  3  4  5  5  3  3  Kristina
+ 2  5  4  3  2  4  3  r0bat
+ 1  3  4  3  5  3  4  @6
+ 1  1  1  1  1  1  1  scooter
+ 2  4  3  3  5  4  3  Stingrey
+ 2  2  4  3  5  2  1  gorgh
+ 4  4  4  3  5  3  3  lovebeam
+ 1  4  5  3  5  3  2  @1
+ 1  3  3  1  4  3  1  GM BIT
+ 1  2  5  2  3  2  2  A-Graph
+ 0  0  0  0  5  0  0  Flower
+ 1  3  4  3  1  3  2  irwin
+ 3  3  4  3  5  2  1  Gibson
+ 1  5  5  2  3  3  2  pulsa
+
+ 1  2  3  4  5  6  Graphics
+---------------------------
+ 2  2  3  5  4  5  @2
+ 3  2  4  5  4  3  mmcm
+ 3  1  2  5  3  2  Sebaloz/Lepsi.De
+ 3  2  4  5  4  4  Piesiu
+ 4  1  2  5  4  4  moroz1999
+ 3  2  2  4  3  2  Cyclone
+ 1  3  1  5  1  4  Nitro/Black Sun
+ 2  1  2  4  3  5  riskej
+ 3  1  3  5  3  3  Shiru
+ 4  2  4  5  5  4  @3
+ 4  2  3  5  4  4  vitaminC
+ 5  4  3  5  4  3  fyrex
+ 4  4  4  5  5  5  Buyan
+ 3  4  4  4  4  4  andy_fer
+ 3  5  4  4  4  5  Evgeny Muchkin
+ 1  1  1  5  2  2  r0m
+ 4  1  2  5  3  2  bfox
+ 1  1  1  4  2  5  max_sp3
+ 4  5  5  5  5  5  Shuran33
+ 4  3  4  5  4  4  @4
+ 1  2  2  4  2  3  baxter
+ 4  3  4  5  5  5  ramtop
+ 2  1  2  5  4  3  ooz
+ 4  3  3  5  4  3  keeper
+ 3  3  4  5  4  4  VNN_KCS
+ 3  2  1  5  2  1  unbeliever
+ 2  3  3  4  3  3  ZXSlaver
+ 4  4  5  5  4  5  Sopolimer
+ 3  5  3  5  4  2  ssmirnov
+ 3  2  1  5  2  2  psndcj
+ 5  3  2  5  3  2  nq/skrju
+ 3  4  2  3  3  5  crazy_bender
+ 1  1  5  1  1  1  Wlodek
+ 3  1  3  4  3  5  ht
+ 3  3  3  5  4  4  @5
+ 4  2  3  5  5  3  Striker
+ 2  2  3  4  5  5  Rindex
+ 5  5  4  5  4  4  kto vsial nik?
+ 1  1  1  4  2  2  KASik_KACuk
+ 3  4  3  4  5  4  yeeeaahhh
+ 5  2  5  5  5  5  Kristina
+ 5  3  4  5  4  5  ZXRulezzz
+ 1  1  2  5  4  3  r0bat
+ 4  4  4  5  4  4  scooter
+ 4  3  3  4  3  4  Stingrey
+ 3  3  2  5  3  4  gorgh
+ 3  2  3  5  3  3  lovebeam
+ 2  1  3  5  3  3  rajdee
+ 4  1  4  5  4  3  @1
+ 1  1  3  4  2  3  GM BIT
+ 3  2  4  5  5  4  A-Graph
+ 2  1  3  5  2  2  Dimidrol
+ 2  1  3  5  4  2  irwin
+ 2  1  2  5  3  3  pulsa
+ 2  1  2  4  3  5  Gibson
+ 5  5  5  5  5  5  Max Iwamoto
+
+ 1  16 Colors Graphics
+----------------------
+ 4  mmcm
+ 3  moroz1999
+ 3  Piesiu
+ 3  Cyclone
+ 5  Nitro/Black Sun
+ 1  riskej
+ 4  Shiru
+ 4  vitaminC
+ 3  fyrex
+ 5  Buyan
+ 3  andy_fer
+ 3  Evgeny Muchkin
+ 3  r0m
+ 3  bfox
+ 1  max_sp3
+ 5  Shuran33
+ 4  ramtop
+ 2  ooz
+ 5  VNN_KCS
+ 4  keeper
+ 1  unbeliever
+ 3  ZXSlaver
+ 4  Sopolimer
+ 3  Wlodek
+ 3  ssmirnov
+ 3  ht
+ 3  psndcj
+ 2  nq/skrju
+ 3  crazy_bender
+ 3  Striker
+ 4  Rindex
+ 3  kto vsial nik?
+ 1  KASik_KACuk
+ 4  yeeeaahhh
+ 5  Kristina
+ 2  r0bat
+ 3  ZXRulezzz
+ 5  scooter
+ 4  Stingrey
+ 4  gorgh
+ 3  lovebeam
+ 4  rajdee
+ 5  @1
+ 1  GM BIT
+ 2  A-Graph
+ 2  Dimidrol
+ 3  irwin
+ 5  Gibson
+ 3  pulsa
+
+ 1  Demo
+--------
+ 5  mmcm
+ 4  moroz1999
+ 3  Piesiu
+ 3  Cyclone
+ 5  Nitro/Black Sun
+ 2  riskej
+ 3  Shiru
+ 5  vitaminC
+ 2  fyrex
+ 2  Buyan
+ 3  andy_fer
+ 5  Evgeny Muchkin
+ 2  r0m
+ 1  bfox
+ 5  Shuran33
+ 2  max_sp3
+ 3  baxter
+ 5  ramtop
+ 3  ooz
+ 5  VNN_KCS
+ 2  keeper
+ 3  unbeliever
+ 4  ZXSlaver
+ 4  Sopolimer
+ 4  Wlodek
+ 5  ssmirnov
+ 1  ht
+ 2  psndcj
+ 3  nq/skrju
+ 2  crazy_bender
+ 4  Striker
+ 3  Rindex
+ 3  kto vsial nik?
+ 1  KASik_KACuk
+ 3  yeeeaahhh
+ 5  Kristina
+ 2  r0bat
+ 4  ZXRulezzz
+ 4  scooter
+ 4  Stingrey
+ 4  gorgh
+ 5  lovebeam
+ 3  rajdee
+ 5  @1
+ 5  GM BIT
+ 3  A-Graph
+ 3  Dimidrol
+ 3  irwin
+ 5  Gibson
+ 4  pulsa
+ 5  Max Iwamoto
+
+ 1  2  Music
+------------
+ 4  3  @2
+ 5  4  mmcm
+ 3  5  Piesiu
+ 5  2  moroz1999
+ 4  3  Cyclone
+ 5  1  Nitro/Black Sun
+ 3  4  riskej
+ 4  0  Shiru
+ 4  5  @3
+ 4  4  vitaminC
+ 3  4  fyrex
+ 4  5  Buyan
+ 3  4  andy_fer
+ 5  4  Evgeny Muchkin
+ 5  4  r0m
+ 4  3  bfox
+ 5  5  Shuran33
+ 2  2  max_sp3
+ 3  4  @4
+ 2  2  baxter
+ 5  4  ramtop
+ 4  3  ooz
+ 5  5  VNN_KCS
+ 5  3  keeper
+ 4  3  unbeliever
+ 4  3  ZXSlaver
+ 5  5  Sopolimer
+ 4  5  ssmirnov
+ 3  5  psndcj
+ 4  5  nq/skrju
+ 3  4  crazy_bender
+ 3  3  Wlodek
+ 3  5  ht
+ 3  2  @5
+ 3  4  Striker
+ 5  5  Rindex
+ 4  3  kto vsial nik?
+ 4  1  KASik_KACuk
+ 4  3  yeeeaahhh
+ 5  3  Kristina
+ 5  5  ZXRulezzz
+ 4  4  r0bat
+ 4  4  scooter
+ 4  4  Stingrey
+ 3  4  gorgh
+ 4  4  lovebeam
+ 4  3  rajdee
+ 4  4  @1
+ 5  3  GM BIT
+ 3  4  A-Graph
+ 2  3  Dimidrol
+ 3  3  irwin
+ 3  4  pulsa
+ 5  4  Gibson
+ 5  5  Max Iwamoto
+
+ 1  2  Beeper
+-------------
+ 4  4  @2
+ 4  3  mmcm
+ 3  5  moroz1999
+ 3  2  Piesiu
+ 3  3  Cyclone
+ 5  3  Nitro/Black Sun
+ 5  2  riskej
+ 0  3  Shiru
+ 5  5  @3
+ 4  4  vitaminC
+ 2  3  fyrex
+ 4  3  Buyan
+ 3  2  andy_fer
+ 4  3  Evgeny Muchkin
+ 5  3  r0m
+ 4  1  bfox
+ 1  4  max_sp3
+ 5  5  Shuran33
+ 3  4  @4
+ 3  2  baxter
+ 5  5  ramtop
+ 2  2  ooz
+ 5  4  VNN_KCS
+ 3  3  keeper
+ 4  5  unbeliever
+ 4  3  ZXSlaver
+ 4  3  Sopolimer
+ 1  1  Wlodek
+ 3  5  ssmirnov
+ 3  3  ht
+ 5  2  psndcj
+ 3  1  nq/skrju
+ 3  4  crazy_bender
+ 3  3  @5
+ 5  3  Striker
+ 4  4  Rindex
+ 3  3  kto vsial nik?
+ 2  1  KASik_KACuk
+ 4  3  yeeeaahhh
+ 4  4  Kristina
+ 4  3  r0bat
+ 5  5  ZXRulezzz
+ 4  3  scooter
+ 3  3  Stingrey
+ 4  5  gorgh
+ 5  5  lovebeam
+ 4  4  rajdee
+ 5  4  @1
+ 1  1  GM BIT
+ 4  3  A-Graph
+ 2  1  Dimidrol
+ 4  4  irwin
+ 5  5  Gibson
+ 3  4  pulsa
+ 5  5  Max Iwamoto
+
+ 1  2  C64 Music
+----------------
+ 4  3  @2
+ 4  3  mmcm
+ 4  4  Piesiu
+ 2  2  moroz1999
+ 4  4  Cyclone
+ 5  3  Nitro/Black Sun
+ 4  4  riskej
+ 0  2  Shiru
+ 4  3  @3
+ 5  4  vitaminC
+ 4  4  fyrex
+ 4  3  Buyan
+ 3  3  andy_fer
+ 5  2  Evgeny Muchkin
+ 3  2  r0m
+ 3  1  bfox
+ 5  4  Shuran33
+ 1  5  max_sp3
+ 4  3  @4
+ 1  3  baxter
+ 5  5  ramtop
+ 4  2  ooz
+ 3  3  keeper
+ 5  3  VNN_KCS
+ 5  5  unbeliever
+ 4  3  ZXSlaver
+ 3  1  Sopolimer
+ 4  1  ssmirnov
+ 5  1  psndcj
+ 5  2  nq/skrju
+ 4  5  crazy_bender
+ 1  3  Wlodek
+ 4  5  ht
+ 3  4  @5
+ 3  4  Striker
+ 4  4  Rindex
+ 4  5  kto vsial nik?
+ 4  1  KASik_KACuk
+ 4  3  yeeeaahhh
+ 4  5  Kristina
+ 5  5  ZXRulezzz
+ 5  2  r0bat
+ 3  3  scooter
+ 3  3  Stingrey
+ 4  2  gorgh
+ 5  5  lovebeam
+ 3  2  rajdee
+ 4  3  @1
+ 4  1  GM BIT
+ 5  3  A-Graph
+ 3  2  Dimidrol
+ 4  4  irwin
+ 4  4  pulsa
+ 1  1  Gibson
+ 5  5  Max Iwamoto

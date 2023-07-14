@@ -1,0 +1,263 @@
+... > Encoded in UTF-8 < ...
+
+CAFePARTY 2022
+21.10.2022-23.10.2022
+
+________Oldschool Pixel Art_________________________________________________
+
+ 1. ПNKCEVP АЬТ by Grongy [ZX Spectrum]                               8.21
+ 2. No Worries by pixelrat [Game Gear]                                7.43
+ 3. Shepherd by shuran33 [Amiga 500]                                  6.96
+ 4. Стакан by Art-top [ZX Spectrum]                                   6.94
+ 5. Dark Side by Lamer Pinky [ZX Spectrum]                            6.65
+ 6. НЕБО by Grongy [ZX Spectrum]                                      6.61
+ 7. Le Mans by Katoyama [ZX Spectrum]                                 6.39
+ 8. October 15 by René Coignard [ZX Spectrum]                         4.17
+ 9. October 8 by René Coignard [ZX Spectrum]                          4.02
+
+________Oldschool Wild Pixel Art____________________________________________
+
+ 1. DeLorean by dman [ZX Spectrum]                                    8.50
+ 2. Sunset Ride by Dimidrol [ZX Spectrum]                             8.40
+ 3. Big City by dman [ZX Spectrum]                                    8.19
+ 4. ＮＥＯ－ＴＯＫＹＯ by Grongy [ZX Spectrum]                           7.88
+ 5. Stay away from that TRAP DOOR by Grongy [ZX Spectrum]             7.69
+ 6. I'll be back... by Art-top [ZX Spectrum]                          7.36
+ 7. Girl in a dark room by UriS [ZX Spectrum]                         7.28
+ 8. The Simpsons by mike/zeroteam [ZX Spectrum]                       5.47
+ 9. Atari 50 Anniversary by Katoyama [Atari ST]                       4.64
+10. October 20 by René Coignard [Апогей БК-01]                        3.73
+
+________Modern Graphics_____________________________________________________
+
+ 1. Robot Queen by evele doze [PC]                                    7.96
+ 2. AMiGA by aGGreSSor [Amiga 1200]                                   5.69
+ 3. Blood Moon by Maller [PC]                                         5.21
+
+________Fake Game Screenshot (Combined)_____________________________________
+
+ 1. Monument Valley ZX by diver [ZX Spectrum]                         8.06
+ 2. VX-Dance 82 by pépé [Vectrex]                                     7.69
+ 3. Obi-Wan the Game by Katoyama [ZX Spectrum]                        7.08
+ 4. Conan - The Adventure Game by pépé [Nintendo Gameboy]             6.89
+ 5. Starscape by Александр "Sandro" Тишин [БК 0010]                   6.58
+ 6. Ringo by Denis Grachev [ZX Spectrum]                              6.48
+ 7. LodeRun Extreme by shiny [ZX Spectrum]                            5.67
+ 8. Amiga Twiinz by aGGreSSor [Amiga 1200]                            5.13
+
+________Oldschool Textmode Graphics (Combined)______________________________
+
+ 1. Kirby by dman [PC]                                                8.37
+ 2. The Golden Gate by tonelocc [PC]                                  8.30
+ 3. Monkey Biz BBS 2022 by CoaXCable / CoolPHat [MS-DOS]              7.60
+ 4. Лошадистывакаку! by UriS [ZX Spectrum]                            6.83
+ 5. Realm Of Illusion logo by frog [Commodore C64]                    6.39
+ 6. Friends by Dynamika / Brain Wave [MS-DOS]                         5.82
+ 7. Lenin Alive by aGGreSSor [ZX Spectrum]                            5.69
+ 8. гидра Хайпа by shiny [Commodore C64]                              5.38
+ 9. SO36 by ixxu [PC]                                                 4.85
+
+________Tracked music_______________________________________________________
+
+ 1. -Farbi- by Slash ^ AtD/RPSG [PC]                                  8.24
+ 2. Baltazar by fatalsnipe [Amiga]                                    6.28
+ 3. 4chn jungle by ejkot [Amiga 500]                                  5.73
+ 4. Bomb-iCloud by SkweeeRRL aka porno-UZI [IOS/Pixitracker]          5.69
+ 5. hope by noob [PC]                                                 5.38
+ 6. Cliff Range by litchh [PC]                                        5.21
+
+________Oldschool Music_____________________________________________________
+
+ 1. The Last Grunge by Seajeff [ZX Spectrum + AY]                     9.05
+ 2. Fall Changes by MmcM [ZX Spectrum + AY]                           8.56
+ 3. It will be summer again by n1k-o [ZX Spectrum + TS]               7.78
+ 4. CompoFiller#4 by EA [ZX Spectrum + AY]                            6.68
+ 5. Opening doors by KUVO [ZX Spectrum + TS]                          6.61
+ 6. [a cup of] nes-tea 
+    by scalesmann feat. j.liljedahl [ZX Spectrum + TS]                5.79
+ 7. For Xiaomi with love by lampovyï_ninja [NES]                      5.53
+ 8. Red Horse by aGGreSSor [ZX Spectrum + AY]                         4.90
+
+________30 Sec Ringtone Compo_______________________________________________
+
+ 1. rdy4kafe by DJ Save / Extremal Goup [PC]                          7.21
+ 2. mood melody by noob [PC]                                          6.53
+ 3. Guitar Ringtone by aGGreSSor [PC]                                 4.72
+ 4. Dance Ringtone by aGGreSSor [PC]                                  4.58
+ 5. Michael Ringtone by aGGreSSor [Windows]                           3.72
+
+________One Scene Compo (Combined)__________________________________________
+
+ 1. least minute by sibkrew [PC (MS-DOS/Windows)]                     7.83
+ 2. Flyby by RKGekk [Windows]                                         7.02
+ 3. Greta Statement by shiny [ZX Spectrum 128]                        5.50
+
+________Game Compo (Combined)_______________________________________________
+
+ 1. The Goonies for BK0011M by Pavel Sizykh [БК 0011М]                8.15
+ 2. MERGED! by Dimon [ZX Spectrum 128 + GS]                           7.97
+ 3. Spekku-man by Grongy, Art-top, AER [ZX Spectrum]                  6.95
+ 4. Adventures in the dungeon by Amirnasyri [Scratch]                 6.53
+
+________1k Procedural Graphics (Combined)___________________________________
+
+ 1. 1k Abstract by D-Art / FNM [Windows]                              7.90
+ 2. Как молча взбесить художника by shiny [ZX Spectrum]               6.69
+
+________HiEnd 32k Executable Music__________________________________________
+
+ 1. -HappY- by Slash ^ AtD/RPSG [Windows]                             8.14
+ 2. panic kernel by f0x [Windows]                                     7.57
+ 3. SinWave by shiny [Windows]                                        4.90
+
+________ZX Spectrum 256b Intro______________________________________________
+
+ 1. Spin by Gogin [ZX Spectrum]                                       8.90
+ 2. CAFE X.O. by fyrex [ZX Spectrum]                                  8.54
+ 3. Sure Xing by kael [ZX Spectrum]                                   7.84
+ 4. Tracery256b by tiboh/debris [ZX Spectrum 128]                     7.67
+ 5. Long Way to God by Tutty [ZX Spectrum]                            7.24
+ 6. Rowation 256b by Doctor Max^Global Corp^Phosphene [ZX Spectrum]   6.83
+ 7. Simple Filler 7b by shiny [ZX Spectrum]                           6.28
+ 8. Hello World! by ps [ZX Spectrum]                                  4.76
+
+________БК 0010-01, 0011м 512b intro________________________________________
+
+ 1. CSI world 256 by KUVO/CSI [БК 0011М]                              8.87
+ 2. 99 Stars by Manwe [БК 0010-01]                                    6.39
+ 3. TETR 512 by Sergey Pavlov [BK 0010-01]                            6.04
+ 4. Truche, jr by shiny [БК 0010-01]                                  5.68
+
+________LowEnd 256b Intro (Combined)________________________________________
+
+ 1. Brave New World by Marquee Design [Atari XL/XE]                   8.87
+ 2. pls by shiny [Commodore C64]                                      5.90
+ 3. Strokes by shiny [Atari XL/XE]                                    4.60
+
+________LowEnd 4k Intro (Combined)__________________________________________
+
+ 1. Chaos In My Mind by shiny [ZX Spectrum + AY]                      7.24
+
+________ZX Spectrum Demo____________________________________________________
+
+ 1. Elysium State by Stardust [ZX Spectrum 128]                       8.93
+ 2. hush by sibkrew [ZX Spectrum 128]                                 8.45
+ 3. asterisks by thesuper [ZX Spectrum 128]                           7.42
+ 4. Fischinger by nikhotmsk [ZX Spectrum + AY]                        5.84
+
+________БК 0010-01, 0011м Demo______________________________________________
+
+ 1. eCSIt DEMO 2022 by Caroline software [БК 0011М]                   9.20
+ 2. Machinery Robotic demo 
+    by Grogny, KUVO/CSI, Adam Bazaroff/Excess team [БК 0011М]         8.14
+
+________LowEnd Demo (Combined)______________________________________________
+
+ 1. BACK TO THE PET by shiru8bit [Commodore PET 4032]                 9.27
+ 2. Oblitterated by svofski [Вектор-06Ц+ AY]                          6.48
+ 3. vi53 second to none by svo [Вектор-06Ц]                           5.69
+
+________Amiga Demo/Intro (Combined)_________________________________________
+
+ 1. Substructure by V-Nom [Amiga 1200]                                7.80
+ 2. Mad Vibe by Outsiders [Amiga RTG]                                 6.65
+
+________Fantasy Console Demo/Intro (Combined)_______________________________
+
+ 1. Holes256 by dart / fnm [MicroW8]                                  8.51
+ 2. Gyza by Marquee Design [TIC-80]                                   7.61
+ 3. Eclipse by grz / The Orz [TIC-80]                                 5.28
+ 4. tri by shiny [TIC-80]                                             4.68
+
+________HiEnd 256b Intro____________________________________________________
+
+ 1. Peacock by Jin X [MS-DOS]                                         8.22
+ 2. Pentagram by Georgy Lomsadze [MS-DOS]                             7.29
+ 3. Aqua by bitl/7dump [MS-DOS]                                       7.27
+ 4. Hex Cream by bitl/7dump [MS-DOS]                                  7.27
+ 5. GBAgram by shiny [GameBoy Advance]                                5.38
+ 6. coma128b by shiny [Tandy 1000]                                    5.12
+
+________HiEnd Intro/Demo (Combined)_________________________________________
+
+ 1. just simple tube amplifier by f0x [Windows]                       9.10
+ 2. travalattor by Dart/FNM + wbcbz7 [Windows]                        6.94
+
+________Cafeparty 2022 Invitations Compo____________________________________
+
+ 1. CAFe2022 invitation 
+    by Adam Bazaroff / KUVO / A.Shestipaloff [БК 0011М]               7.52
+ 2. Undefined Cafeparty Invitation by nodeus & quiet [Windows]        7.15
+ 3. 4k of CAFe'2022 invitation by Jin X & Quiet [Windows]             6.84
+ 4. choleepa by totally not sibkrew [Windows]                         6.75
+ 5. Wake Up by Nihirashi [Amiga]                                      6.69
+ 6. LD HL,CAFE by RMDA [ZX Spectrum]                                  4.82
+ 7. tatar by ovich [ZX Spectrum]                                      4.54
+ 8. bugulmator by wbcbz7 [Amiga]                                      4.47
+
+________Wild/Animation/Video________________________________________________
+
+ 1. Bad ring by ejkot [PC]                                            9.00
+ 2. neneirodoroga by pixelrat [ZX Spectrum]                           7.05
+ 3. UPKR promo by RMDA [ZX Spectrum + AY]                             6.84
+ 4. OverSpecSCII by pixelrat [ZX Spectrum]                            6.35
+ 5. OverShaman by pixelrat [ZX Spectrum]                              6.12
+ 6. Wasted Years by RMDA [PC]                                         6.05
+ 7. Skeleton animation demo by Taimuraz Fardzinov [Windows]           5.21
+
+________Gravedigger_________________________________________________________
+
+ 1. Dice Legends Prototype by RetroSouls [ZX Spectrum 128 + AY]       8.18
+ 2. Dizzy Editor (demo версия) 
+    by Сергей Яковлев [ZX Spectrum 128 + AY]                          7.18
+
+________Realtime ZX 53с Graphics____________________________________________
+
+ 1. Демосценеры всех платформ, объединяйтесь! by UriS [ZX Spectrum]   7.43
+ 2. Демосцена нас связала by Grongy [ZX Spectrum]                     6.62
+ 3. Demo Scene Scene by Ipok [ZX Spectrum]                            6.53
+ 4. Demo-Scene-Demo by Logiker [ZX Spectrum]                          6.28
+ 5. Весь мир на экране by Privet [ZX Spectrum]                        6.22
+ 6. Demo Lovers by Logiker [ZX Spectrum]                              6.05
+ 7. Как перестать демокодить и начать жить by apeape [ZX Spectrum]    6.03
+ 8. united buttons of pentevo by wbcbz7 [ZX Spectrum]                 5.73
+ 9. Кролик в травке by Liza [ZX Spectrum]                             5.69
+10. The cat by Liza [ZX Spectrum]                                     5.30
+11. сплочённая команда демосценеров из лаборатории на деймосе 
+    by Grongy [ZX Spectrum]                                           4.72
+12. nyuk, вставай, мы все запилили by Мазилка [ZX Spectrum]           4.69
+
+________Shadershow Battle___________________________________________________
+
+Semi-finals
+
+Jin X----------.
+               +--- Ivan Dianov
+Ivan Dianov ---'
+
+Dart ----------.
+               +--- Dart
+f0x  ----------'
+
+
+3rd place match
+
+Jin X----------.
+               +--- Jin X (3rd)
+f0x  ----------'
+
+
+Final
+
+Ivan Dianov ---.
+               +--- Dart (1st)
+Dart ----------'    Ivan Dianov (2nd)
+
+________BBQ Compo___________________________________________________________
+
+1. Maria Yankovich
+2. Sherhan
+3. Kotsoft
+4. Basir Ahmedov
+5. mihhru
+6. bfox

@@ -1,0 +1,335 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1769658
+PlayerFrequency=51000
+ChipType=AY
+>
+..\..\Authors\Hacker KAY\divider1.vtx
+..\..\Authors\Hacker KAY\My _realy_ _first_ _module_!.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\My _second_ module.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\ISM No_2.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\ISM No_4.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\SuNy (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Life.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\KAY First Original Compose (Converted From BASIC Code) (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\To Sherlock Holmes.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Solnce (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Whisper (Remake from Wham! The music box by Hacker KAY & Nikita).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\To Radio of Russia.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Dima ShishKing(BAC) by Hacker KAY & Nikita.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\My first remix.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\My second remix.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\My Own Song! (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Nonamed (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Hacker Soft presents! (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Real Song.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Introz.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Nonamed 4 (originally composed in Wham! The Music Box).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\divider2.vtx
+..\..\Authors\Hacker KAY\Toska.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\First ZX-Waltz!.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\S Plus (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Mi zhelaem schastia vam!.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Fukken.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\1st KAY (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Katusha.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Stroke-4-Stroke!(BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Software Remix (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Sirba Druzhbi (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\8 of March 1 (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\8 of March 2 (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\8 of March 3 (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Quick Hold (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Digital Demo for Nikita Intro (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Platochek.stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Robocop Intro (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Vesna (Puzznic Intro) (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Cosmical (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Happy New 1997 (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Inspire Original (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\KAY Mix (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Part Null (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Ghroozd (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\New Style (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Technoweather (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\BalGaWQ (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Technoprobe (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Tears (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Illmusic (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\A N Fck (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\Reserved (01234) (BAC).stp
+<
+ChannelsAllocation=BAC
+>
+..\..\Authors\Hacker KAY\divider3.vtx
+..\..\Authors\Hacker KAY\A La De Hru High Jump.stp
+..\..\Authors\Hacker KAY\Short Disco.stp
+..\..\Authors\Hacker KAY\Crashed BS.stp
+..\..\Authors\Hacker KAY\A New Music.stp
+..\..\Authors\Hacker KAY\A New Song.stp
+..\..\Authors\Hacker KAY\Experiment One.stp
+..\..\Authors\Hacker KAY\TV On.stp
+..\..\Authors\Hacker KAY\Time for Relax.stp
+..\..\Authors\Hacker KAY\New Mix of my Old Song.stp
+..\..\Authors\Hacker KAY\Acid Shower.stp
+..\..\Authors\Hacker KAY\Izhevsk.stp
+..\..\Authors\Hacker KAY\Happy Mix.stp
+..\..\Authors\Hacker KAY\!!!!!!!!.stp
+..\..\Authors\Hacker KAY\Good-bye Izhevsk.stp
+..\..\Authors\Hacker KAY\Well Broken Symphony.stp
+..\..\Authors\Hacker KAY\Repeat_.stp
+..\..\Authors\Hacker KAY\Cosmical leave (ACB).stp
+..\..\Authors\Hacker KAY\My Dream.stp
+..\..\Authors\Hacker KAY\Alksa.stp
+..\..\Authors\Hacker KAY\Ressy is a Hot Dog.stp
+..\..\Authors\Hacker KAY\One Pattern.pt2
+..\..\Authors\Hacker KAY\Hot Mix Original.stp
+..\..\Authors\Hacker KAY\Hot Mix Advanced.stp
+..\..\Authors\Hacker KAY\This is a Hacker KAY!.stp
+..\..\Authors\Hacker KAY\ASM First Etude.asc
+..\..\Authors\Hacker KAY\Alone in the World.stp
+..\..\Authors\Hacker KAY\Tiny Guy.pt2
+..\..\Authors\Hacker KAY\ST First Etude.stc
+..\..\Authors\Hacker KAY\ASM Song 1.asc
+..\..\Authors\Hacker KAY\ASM Song 2.asc
+..\..\Authors\Hacker KAY\Techno 2.stp
+..\..\Authors\Hacker KAY\Zarisovka.stp
+..\..\Authors\Hacker KAY\Nicey Mix.stp
+..\..\Authors\Hacker KAY\As mad as hope.asc
+..\..\Authors\Hacker KAY\Rainy.asc
+..\..\Authors\Hacker KAY\Bred.stp
+..\..\Authors\Hacker KAY\Cool Intro.stp
+..\..\Authors\Hacker KAY\Mig.asc
+..\..\Authors\Hacker KAY\Intro II.stc
+..\..\Authors\Hacker KAY\Scorost nomer vosem.stp
+..\..\Authors\Hacker KAY\Ludi na lune.stp
+..\..\Authors\Hacker KAY\Rutina.stp
+..\..\Authors\Hacker KAY\Rutina 2.stp
+..\..\Authors\Hacker KAY\Crazy.stp
+..\..\Authors\Hacker KAY\Fire Themes.stp
+..\..\Authors\Hacker KAY\Rulez.stp
+..\..\Authors\Hacker KAY\Nothing to Say.stp
+..\..\Authors\Hacker KAY\Mortal vs Scooter Themes.stp
+..\..\Authors\Hacker KAY\FMixer.stp
+..\..\Authors\Hacker KAY\Atomic Branch.stp
+..\..\Authors\Hacker KAY\J_Insp (Original Julinspire!!).stp
+..\..\Authors\Hacker KAY\R_O_D_.stp
+..\..\Authors\Hacker KAY\F-e-e-l_.stp
+..\..\Authors\Hacker KAY\Nervous Song.stp
+..\..\Authors\Hacker KAY\Back to the Soundcrazying!.stp
+..\..\Authors\Hacker KAY\Chto stoish kachayas.stp
+..\..\Authors\Hacker KAY\LPD.stp
+..\..\Authors\Hacker KAY\The Love Story.stp
+..\..\Authors\Hacker KAY\Inspire Techno Remix (ACB!).stp
+..\..\Authors\Hacker KAY\Hacker KAY.pt2
+..\..\Authors\Hacker KAY\Pole Remix.stp
+..\..\Authors\Hacker KAY\Techno for Digital Maker.stp
+..\..\Authors\Hacker KAY\Ammytris Remix.stp
+..\..\Authors\Hacker KAY\Videnie.stp
+..\..\Authors\Hacker KAY\Program End.stp
+..\..\Authors\Hacker KAY\Dvigay telom (Ruki vverh) (module is unfinished).stp
+..\..\Authors\Hacker KAY\Genius Outside.stp
+..\..\Authors\Hacker KAY\ZX-World.pt2
+..\..\Authors\Hacker KAY\Akkord-15.stp
+..\..\Authors\Hacker KAY\Incbin Me!.stp
+..\..\Authors\Hacker KAY\KKF.stp
+..\..\Authors\Hacker KAY\Chas (original).stp
+..\..\Authors\Hacker KAY\Berioza.stp
+..\..\Authors\Hacker KAY\Electroshock.stp
+..\..\Authors\Hacker KAY\Bis!.stp
+..\..\Authors\Hacker KAY\EMS.stp
+..\..\Authors\Hacker KAY\Saltik!.stp
+..\..\Authors\Hacker KAY\It Must Be Techno.stp
+..\..\Authors\Hacker KAY\New Sux___.stp
+..\..\Authors\Hacker KAY\Short A La De Hru Remix.stp
+..\..\Authors\Hacker KAY\Pesenka 1.stp
+..\..\Authors\Hacker KAY\Sambo.stp
+..\..\Authors\Hacker KAY\UKV N1 Pesenka (Sector).stp
+..\..\Authors\Hacker KAY\Poliot.stp
+..\..\Authors\Hacker KAY\Life Examinations.stp
+..\..\Authors\Hacker KAY\Chocolate Rave.stp
+..\..\Authors\Hacker KAY\Xylos.stp
+..\..\Authors\Hacker KAY\Pentium 133 - Sux!.stp
+..\..\Authors\Hacker KAY\IzvrHlf8 Normalized Version.stp
+..\..\Authors\Hacker KAY\Chas (remix).stp
+..\..\Authors\Hacker KAY\Without Complexes.stp
+..\..\Authors\Hacker KAY\3 patterns.stp
+..\..\Authors\Hacker KAY\Let Me Speak by Telephone.stp
+..\..\Authors\Hacker KAY\divider4.vtx
+..\..\Authors\Hacker KAY\Gift for Illuminator.stp
+..\..\Authors\Hacker KAY\I Simply Crazy.stp
+..\..\Authors\Hacker KAY\divider5.vtx
+..\..\Authors\Hacker KAY\Speccy Rules by Hacker KAY.stp
+..\..\Authors\Hacker KAY\Hacker KAY came back!.stp
+..\..\Authors\Hacker KAY\Fatal Bug by Hacker KAY.stp
+..\..\Authors\Hacker KAY\How Music Born (YM, ACB or ABC, 1,8MHz).stp
+<
+ChipFrequency=1818285
+ChipType=YM
+>
+..\..\Authors\Hacker KAY\Mumiy Troll - Ehom gonga.stp
+..\..\Authors\Hacker KAY\divider6.vtx
+..\..\Authors\Hacker KAY\Yuriy Vizbor - Night road.stp
+..\..\Authors\Hacker KAY\divider7.vtx
+..\..\Authors\Hacker KAY\Sveta - Zolotoy rassvet.pt3
+<
+ChannelsAllocation=255,90,90,255,190,190
+>
+..\..\Authors\Hacker KAY\As I'm Copying the Music.stp
+..\..\Authors\Hacker KAY\Login GUEST.stp
+..\..\Authors\Hacker KAY\Roll.stp

@@ -1,0 +1,54 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+..\..\Authors\Klim\Fire&Ice\intro.pt3
+..\..\Authors\Klim\Fire&Ice\map.pt3
+..\..\Authors\C-jeff\2003\fire&ice.pt3
+<
+Author=<-jeff^gbg:for.newart:zi.oi.zoo3
+Name=Fire and ice (main theme)
+Comment=press start
+Time=2304
+Loop=768
+>
+..\..\Authors\Nik-O\f&i one.pt3
+..\..\Authors\Klim\Fire&Ice\boss begin.pt3
+..\..\Authors\Klim\Fire&Ice\boss end.pt3
+..\..\Authors\Riskej\2002\kopy\kuru6.-g.pt3
+..\..\Authors\Nik-O\f&i fiv.pt3
+..\..\Authors\Riskej\2002\kopy\kuru8.-g.pt3
+..\..\Authors\Nik-O\f&i fou.pt3
+..\..\Authors\Riskej\2003\kopy\kuru5.-g.pt3
+..\..\Authors\Nik-O\f&i eig.pt3
+..\..\Authors\Nik-O\f&i sev.pt3
+..\..\Authors\Klim\Fire&Ice\level 8 sister.pt3
+..\..\Authors\Nik-O\f&i six.pt3
+..\..\Authors\Klim\Fire&Ice\level 9 druidle.pt3
+..\..\Authors\Nik-O\f&i thr.pt3
+..\..\Authors\Nik-O\f&i two.pt3
+..\..\Authors\Klim\Fire&Ice\dridle dead.pt3
+..\..\Authors\Klim\Fire&Ice\kiss.pt3
+..\..\Authors\Dj Denson\Aurora.pt3
+<
+Author=DjDENSON@mail.ru  date:24.07.01
+Name=Aurora Borealis
+Comment=the end
+Time=9600
+Loop=640
+>
+..\..\Authors\Dj Denson\_s!_.pt3
+<
+Author=.dj.dens0N.
+Name=.s!.
+Comment=select options
+Time=11364
+Loop=0
+>
+..\..\Authors\Klim\Fire&Ice\coming soon.pt3
+..\..\Authors\Dj Denson\Air_beam.pt3
+<
+Author=djDens0N  @mail.ru        SR4eva
+Name=Air Beam.
+Comment=credits
+Time=15045
+Loop=7296
+>
+..\..\Authors\Nik-O\brummkre.pt3

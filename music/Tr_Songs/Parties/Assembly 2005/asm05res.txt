@@ -1,0 +1,150 @@
+                                                                      .
+   ____________   ______ __  _______            ._________._____.     .
+ __\___  /\    /  \    //_/ .\     / ____   ____|__      /|     |_____:
+.\   |/   |\   \___\   \____|   __/__\   \_/    _ / _   / |     |     |
+|    |    | \___   /\___   /:   _/  /|          //  /  /__|     |     |____.  
+|    |    |    |    |  |    |   |    |  _   _  //        /:     |     |    |  
+|    |    |    |    |  |    |   |    |   \_/   /.   ._    |     |     |    | 
+|    |    |    |    |  |    |   |    |    |     |   |/    |     |     |    |
+|    |    |    :    |  :    |   :    |    |     |   |     |     |\    |    |
+|    |    |         |       |        |    |     |   :     |     |_\        |
+|    |____|_____    |___    |____    |____|     |____     |______/ \___    |
+|____|      \_\\____|_\\____|\_\\____|    |_____|\_\\_____|H7/dS!    |    /:
+.                                                                    |___/
+.                                   .______                                :
+:                       __________. |     /                                .
+|                      .\         | |    /_______                          :
+|                      |    _.    |_|______     /_                         |
+|                      |    \|    |       |      |     ASSEMBLY 2005       |
+|                      |     |    |\_     |      |                         |
+|                      |     |    | |     |      | INTERMEDIATE RESULTS    |
+|_                     |         _| |     :      |                        _|
+|/____________________ |_________\: |______      | _______________________\|
+                                       \_\\______|
+
+
+Here are the INTERMEDIATE results for ASSEMBLY'05 held at
+Hartwall-Areena in Helsinki, Finland from July 28th to July 31st,
+2005.
+
+	*** The official FULL results file will be published
+	*** after second prize ceremony on Sunday 31th of July!
+
+For more information about ASSEMBLY demo parties, please visit
+www.assembly.org. To download competition entries and AssemblyTV
+video clips, visit www.scene.org.
+
+
+	*** FIRST PRIZE CEREMONY ***
+
+[ Oldskool music competition ]
+
+Total of 28 entries were submitted to this competition. Jury qualified 14
+entries for the big screen. Non-qualified entries are ranked according to
+average jury points. Points for qualified entries ranged from 2.6 to 3.8
+(out of maximum of 5.0).
+
+1	3715p	Dirty '64 by Reed / Fairlight
+2	2082p	Mushroom by SounDemoN / Dekadence
+3	2057p	Nebula by Britelite / Dekadence
+4	1948p	Loch Nes by Inphernic
+5	1468p	Locomotive Failure by Signal
+6	1165p	Hangover by Jammic
+7	1017p	Brain Debris by zabutom / beepdealers
+8	736p	Retry by  Nightbeat
+9	728p	Three Sisters Story by Jeffie / Brainwave
+10	658p	Up + Lift by Chapelier/www.C64hq.com
+11	542p	Jump & Run by KiWi/Piste Gamez
+12	527p	Oh Crap It's Almost The Deadline by Gasman / Hooy-Program / AY Riders
+13	388p	Zoids Hoolygunos by Moran / Cyberpunks Unity
+14	288p	Travelation by Nq / Skrju
+
+n/a	2.6	Kekkeruusi by Roz
+n/a	2.5	I Was The Saboteur by ferrara / phObos team
+n/a	2.5	Fizz by Roz
+n/a	2.5	Chipment Delayed by Taskman of Medieval
+n/a	2.5	chuck norris by tempest/fairlight
+n/a	2.5	Apocalipton Tea by ferrara / phObos team
+n/a	2.3	Way of The Exploding Wrist by ferrara / phObos team
+n/a	2.3	Beautiful Day by Prophecy
+n/a	2.3	Done Deal by el-bee
+n/a	2.3	Xenu's revenge! by Teel
+n/a	2.1	disqualified entry by sauli / jml
+n/a	2.0	That Lo-Fi Sound by Player One / Dekadence
+n/a	1.8	U Know Da Score by rm / RNO ^ Dekadence
+
+disq	Pulverland by Scanner of Dope
+	Reason: Previously released material.
+
+Compo organizer:
+Tommi Raulahti (Dr.Doom)
+
+Members of the jury:
+Tsvetelina Dimitrova
+Matthew Westcolt (Gasman / Hooy-Program)
+Ville Heikkilä (viznut / pwp)
+Kirmo Kivelä (kangastus.org)
+Niklas Sjösvärd (zabutom / beepdealers)
+Ville Nurmi (Chapelier / www.c64hq.com)
+
+
+
+[ Oldskool graphics competition ]
+
+Total of 12 entries were submitted to this competition. Jury qualified 10
+entries for the big screen. Non-qualified entries are ranked according to
+average jury points. Points for qualified entries ranged from 2.1 to 4.0
+(out of maximum of 5.0).
+
+1	4988p	me, myself and ma booty by phase1 of creators
+2	4201p	Heatwave by tempest/fairlight
+3	3763p	David H. loves the demoscene by DiamonDie/foobug^Numedia Cyclops
+4	3654p	Karaoke by Duce of Extend
+5	2946p	Nightanday by Helm
+6	1542p	WTF? by Reanimator
+7	1530p	Hangup by Ansichrist
+8	1503p	Vicus Flatus by Random/Gfxile
+9	909p	Entrapped by Moran / Cyberpunks Unity
+10	402p	pseudoart by liitin
+
+n/a	2.0	ViiNAPiRU [BooseDevil] by CoaXCable
+
+disq	Bored by Raynet
+	Reason: Scanned photograph, not created by the author himself.
+
+Compo organizer:
+Tommi Raulahti (Dr.Doom)
+
+Members of the jury:
+Tsvetelina Dimitrova
+Matthew Westcolt (Gasman / Hooy-Program)
+Ville Heikkilä (viznut / pwp)
+Kirmo Kivelä (kangastus.org)
+Niklas Sjösvärd (zabutom / beepdealers)
+Ville Nurmi (Chapelier / www.c64hq.com)
+
+
+
+[ Oldskool demo competition ]
+
+Total of 4 entries were submitted to this competition. Jury qualified all
+entries to be shown on the big screen.
+
+1	12323p	    Boogie Factor by Fairlight (Commodore 64)
+2	6982p	    BoomBoom by aspekt (Commodore 64)
+3	6207p	    Treble by RNO (Amiga 500)
+4	3330p	    nnn by Cyberpunks Unity (Sinclair Spectrum)
+
+Compo organizer:
+Tommi Raulahti (Dr.Doom)
+
+Members of the jury:
+Tsvetelina Dimitrova
+Matthew Westcolt (Gasman / Hooy-Program)
+Ville Heikkilä (viznut / pwp)
+Kirmo Kivelä (kangastus.org)
+Niklas Sjösvärd (zabutom / beepdealers)
+Ville Nurmi (Chapelier / www.c64hq.com)
+
+
+---

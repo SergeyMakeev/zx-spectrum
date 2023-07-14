@@ -1,0 +1,65 @@
+DiHalt 2014 Lite
+ZX Demo Compo
+ 	Demo Name	Author
+  1	NedoDemo 2	NedoPC
+  2	Heart Megademo	AAABand
+  3	Happy New Year 2014	FutureShock
+  4	Happy TOTOP	Kakos_nonos ^ [Kabardcomp]
+  5	Happy New Tear 2014	goblinish
+  6	TIRR	John Norton Irr ^ [Kabardcomp]
+ZX Spectrum 1024b Intro
+ 	Intro Name	Author
+  1	LavaLight'2014	SerzhSoft
+  2	Brix	goblinish
+  3	Keftale	goblinish
+ZX Spectrum Border Intro
+ 	Intro Name	Author
+  1	Chess	goblinish
+ZX Graphics Compo
+ 	Picture Name	Author
+  1	Vikings	Dimidrol
+  2	Screen come true	Trixs
+  3	Now Sing	Prof ^ [4D]
+  4	Koshmariki	Lilka
+  5	Joe Shmoe in Rio	Brink
+  6	Hummer Wishes You Happy DHL2014	nix./site
+  7	Dawn	Factor6 ^ [Gembaboyz & Hooy-Program]
+  8	Dream	Lilka
+  9	Admin with Plusomyot	John Norton Irr ^ [Kabardcomp]
+  10	Flying Dutchman	Kakos_nonos ^ [kabardcomp]
+  11	Make demos, not flame at zx-pk.ru	Kakos_nonos ^ [kabardcomp]
+  11	Derzhan ohnov	John Norton Irr ^ [Kabardcomp]
+  13	zema	John Norton Irr ^ [Kabardcomp]
+ZX Beeper Music Compo
+ 	Music Name	Author
+  1	Chromospheric Flares	MISTER BEEP
+  2	Battlefield Insanity	MISTER BEEP
+  3	robocop 3 title theme	nix./site & brightentayle
+  4	Joe Shmoe in Rio	Brink
+  5	SaveMyHeart	AER
+  6	Vaaardenduda	Kakos_nonos ^ [kabardcomp]
+  7	Kalama musi ike	Kakos_nonos ^ [kabardcomp]
+  8	machX?aka_this_is_not_tritone	utz / irrlicht project ^ [bhq]
+  9	qwer	John Norton Irr ^ [Kabardcomp]
+  10	zavihration	John Norton Irr ^ [Kabardcomp]
+ZX AY/ Turbo-AY Music Compo
+ 	Music Name	Author
+  1	Happy New Year Speccy	MmcM ^ [Sage]
+  2	Past	Moran ^ [CPU]
+  3	Dance	Hacker VBI
+  4	Bladin	brightentayle
+  5	TORUM2	Kakos_nonos ^ [kabardcomp]
+Realtime ZX Spectrum Code
+ 	Work Name	Author
+  1	Some Fucking Shit	Lisokryl ^ [Therac-25]
+  2	Pix3	alone coder ^ [NedoPC]
+  3	Fall of Snow	tiboh ^ [debris]
+Realtime ZX Spectrum Graphics
+ 	Picture Name	Author
+  1	Feast	Ansy ^ [NedoPC]
+  2	Ded Moroz1999 Doesn't Like You Being Drunk D=	nix./site
+  3	Holiday comes to us	John Norton Irr ^ [Kabardcomp]
+  4	Goblin	AAA ^ [AAABand]
+Realtime ZX Spectrum Music
+ 	Music Name	Author
+  1	Crescendolls	nix./site

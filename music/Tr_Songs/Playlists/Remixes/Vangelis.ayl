@@ -1,0 +1,27 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Imp\IMPR1.stp
+..\..\Authors\Ziutek\Shock3.stc
+..\..\Authors\Max of DMJ\Carminadle2 4 Blade Runner.stc
+..\..\Authors\IJK\Vangelis - To the Unknown Man.sqt
+..\..\Authors\Davos\Alpha.pt3
+<
+Author=DAVOS/HS/CPU, CHEREPOVETZ'1999
+Name=Vangelis theme "ALPHA" in remix
+Length=3860
+Time=8528
+Loop=0
+>
+..\..\Authors\Davos\Copy\VangeRMX.pt2
+<
+Name=VANGELIS-REMIX BY DAVOS*261296
+Length=5118
+Time=15344
+Loop=4032
+>
+..\..\Authors\Davos\Copy\Vangelis.pt2
+<
+Name=VANGELIS (REMIX) BY DAVOS
+Length=6029
+Time=11088
+Loop=0
+>

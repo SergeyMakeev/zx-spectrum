@@ -1,0 +1,42 @@
+ZX Demo Compo
+ 	Work Name	Author
+  1	MCMXCVII	thesuper
+  2	The Board	Alone Coder
+  3	8BIT Trashmo	AAA Band
+  4	Kilo Demo	AAA Band
+  5	THEMONST	AER
+  6	Mooncat	AER
+ZX AY/YM/Turbo-AYMusic Compo
+ 	Music Name	Author
+  1	Stellar one	Cj Spliner & Mmcm
+  2	End Time	Mmcm
+  3	Finder	Mmcm
+  4	Bit Dance	JeRrs
+  5	Cool Gfx	Klim
+  6	Summer Days	rnR T.A.D
+  7	Space	JeRrS
+  8	Pings over the era	riskej
+  9	Dancing with kaddafi	JeRrS
+  10	NES	AER
+ZX Beeper Music Compo
+ 	Music Name	Author
+  1	Unfunny Joke	Darkman007
+  2	Must blow your head	nq
+  3	Roll 'n' Balls	Darkman007
+  4	harder-better-faster-stronger	siril
+  5	Laura Palmer	Rene Sens
+  6	Beeps over the Era	riskej
+  7	This is your choice	AER
+  8	Gnampf	Irrlicht project
+ZX Gfx Compo
+ 	Picture Name	Author
+  1	Mountain river	r0m
+  2	Mr. Tree	pROF
+  3	Future	Trixs
+  4	Mosquito mooh!	sand / mhm
+  5	Samus	wizard / dt
+  6	Aitsu spectrumized	riskej
+  7	Chiptune ROCK	ALKO
+  8	Night in forest	Shuran33
+  9	Lifeless Spaces	Zelator
+  10	Be a Man!	jerkk

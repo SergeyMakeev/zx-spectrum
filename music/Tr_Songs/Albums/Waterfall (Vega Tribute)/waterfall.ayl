@@ -1,0 +1,25 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Scalesmann\waterfal.pt3
+<
+Author=scalesmann^mc. 2012
+Name=waterfall (vega's tribute)
+Length=5216
+Time=7714
+Loop=7712
+>
+..\..\Authors\Scalesmann\02_my bleep is inside (extended version).pt3
+<
+Author=scalesmann^mc. 2006-2012
+Name=my bleep is inside (ext version)
+Length=5798
+Time=8982
+Loop=8976
+>
+<
+Author=scalesmann^mc. 2006-2012
+Name=my bleep is inside (ext version)
+Length=2065
+Offset=5798
+Time=8982
+>
+..\..\Authors\Scalesmann\heroes.pt3

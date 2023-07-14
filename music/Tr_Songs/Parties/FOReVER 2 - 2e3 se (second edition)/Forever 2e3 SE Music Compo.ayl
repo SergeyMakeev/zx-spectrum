@@ -1,0 +1,201 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Gasman\Cybernoid's Revenge.stc
+<
+Author=Gasman/Raw Arse
+Name=Cybernoid's Revenge
+Program=Forever 2e3 Music Compo
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 1
+Time=10752
+Loop=0
+>
+..\..\Authors\Ravager\In Old KSA Style.pt3
+<
+Author=Ravager/CRG
+Name=In Old KSA Style
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 2
+Time=5120
+Loop=0
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT17 - 04-Nothing_Left.stc
+<
+Author=Yerzmey/Hooy Program
+Name=Cool
+Program=Forever 2e3 Music Compo
+Tracker=STC->Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 3
+Time=9600
+Loop=0
+>
+..\..\Authors\Factor6\Trainer.sqt
+<
+Author=Factor6/K3L/PhT
+Name=Trainer
+Program=Forever 2e3 Music Compo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 4
+Time=6416
+Loop=0
+>
+..\..\Authors\DX-69\Improvization Theme Mr. Credo.pt3
+<
+Author=DX-69/CRG
+Name=Improvization Theme Mr. Credo
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 5
+Time=6144
+Loop=1024
+>
+..\..\Authors\Davos\Welcome Home.pt3
+<
+Author=Davos/CPU
+Name=Welcome Home
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 6
+Time=4720
+Loop=720
+>
+..\..\Authors\Key-Jee\reliz03\047-bg-timeless.pt3
+<
+Author=key-jee.triebkraft - xx.dec.2000
+Name=Timeless - forever 2e3 se nocopy
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 7
+Time=14372
+Loop=0
+>
+..\..\Authors\Darkman\Mindwork DJ'ed.pt3
+<
+Author=Dj Darkm(e)n/Constellation i.a.
+Name=Mindwork DJ'ed
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 8
+Time=7385
+Loop=665
+>
+..\..\Authors\Baze\misc\ether.stc
+<
+Author=Baze/3SC
+Name=Ether
+Program=Forever 2e3 Music Compo
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 9
+Time=5440
+Loop=0
+>
+..\..\Authors\Phantom Lord\Spaces.pt3
+<
+Author=Phantom Lord
+Name=Spaces
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 10
+Time=7168
+Loop=0
+>
+..\..\Authors\Justinas\Monolithic flute (ay-relaxing).pt3
+<
+Author=Dj Justinas.SMG.CTL.i.a.2k1.feb.
+Name=Monolithic flute (ay-relaxing)
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 11
+Time=17610
+Loop=0
+>
+..\..\Authors\Andrew FER\andy_fer_sketchez\AndyFER.sketchez\Little Nastya's Theme NuoSketch.pt3
+<
+Author=Andy Fer/Phantom Family
+Name=Little Nastya's Theme: NuoSketch
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 12
+Time=5784
+Loop=5592
+>
+..\..\Authors\Serzhsoft\DOGMA ;).pt3
+<
+Author=SERZHSOFT
+Name=DOGMA ;)
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 13
+Time=5152
+Loop=0
+>
+..\..\Authors\Key-Jee\reliz03\048-trommler-infected_music_box.pt3
+<
+Author=Trommler ... 17.jan.2000 - 21:oo
+Name=Infected music box - Forever'ooi
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 14 Music by Black Groove (aka Key-Jee, aka MiB)
+Time=10040
+Loop=0
+>
+..\..\Authors\Siril\...olia iz lukoil'a... compo mix.pt3
+<
+ChannelsAllocation=BAC
+Author=siril.4d.perm.ru. o6.o3.2oo1.bac
+Name=...olia iz lukoil'a... compo mix
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 15
+Time=4608
+Loop=512
+>
+..\..\Authors\Moran\The Sacred Elevator.pt3
+<
+Author=Moran/CPU
+Name=The Sacred Elevator
+Program=Forever 2e3 Music Compo
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Date=2000
+Comment=Position: 16
+Time=6528
+Loop=6336
+>

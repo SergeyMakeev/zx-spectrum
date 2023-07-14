@@ -1,0 +1,57 @@
+ZX GFX Compo
+ 	Picture Name	Author
+  1	Shepherd's Outstanding Single	riskej / simbols
+  2	City	 ¿—ËÍ / Sinclair Club
+  3	Mercenary 2: Samus Aran Forever	Diver / 4d
+  4	Stripper	Dimidrol
+  5	F#ck off a$cii'08	bfox
+  6	New Old Frontier	Surfin Bird
+  7	Wing	Trixs
+  8	Ugly Face of Destiny	Vegas / simbols
+  9	Robotech	amigo
+  10	gotova	tiboh / debris
+  11	Read Me	halt
+  12	DV #0a	halera
+  13	Nine Lives	SCL / MC
+  14	Wizard	Yerzmyey / Hooy-Program
+  15	deffka	sg / mylitia
+  16	SCULL	CLA
+  17	Diablo1	falton
+  18	trup	SAG
+  19	Train	Honin Alexander
+  20	Vasia	blaze & shade
+1k Procedural GFX Compo
+ 	Picture Name	Author
+  1	City Storm	Shiru
+  2	Flounder	tiboh / debris
+  3	Red	fantom & tiboh
+AY Compo - No Copy Music
+ 	No Copy Music Name	Author
+  1	I will not End of this World	Splinter / DLCorp
+  2	S.P.2	S.A.V
+  3	In Game	karbofos
+  4	Rainy	rnR T.A.D
+  5	Toy in Your Hands	rnR T.A.D
+  6	Admirals of the Sun	c-jeff & riskej
+  7	Isabel la Fantasia (Bagdad)	Stiffler/ simblos
+  8	Nell Allocated	riskej / simbols
+  9	Past Time	morfy / simbols
+  10	Anekdot	trefi / debris
+  11	Nine Lives	SCL / MC
+  12	Heartbracker	nq / skrju
+  13	Ebalaika	karbofos
+  14	Pank-Haus	Mery Slip
+AY Compo - Copy Music
+ 	Copy Music Name	Author
+  1	CozmoBALIZ	d-juice
+  2	Mario	karbofos
+  3	Pink Spot	DDp
+  4	Ten years mix	riskej/simbols
+  5	Sleep Song	trefi / debris
+  6	Tihiy Omut Rmx	Mitchell
+  7	Sandra Remix	Dj Max / POS
+  8	Put your hands up for Detroit	JeRrS
+  9	Sobaka Blqdx	Mary Slip
+  10	Sweet November	riskej / simbols
+  11	Simens A35 from Bumer	morfy / simbols
+  12	Freddy Hardest	karbofos

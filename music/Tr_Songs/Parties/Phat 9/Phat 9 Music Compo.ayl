@@ -1,0 +1,213 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Alex Heather\AMOR.pt2
+<
+Author=Al/Phantasy
+Name=Phat 9 Results Viewer
+Time=2880
+Loop=640
+>
+..\..\Authors\Jaan\VRNotCh.pt2
+<
+Author=Jaan/Phantasy
+Name=We Are Not Children Anymore
+Program=Phat 9
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Comment=1st, EE, 253
+Time=8704
+Loop=1536
+>
+..\..\Authors\Jaan\ELEPHANT.pt2
+<
+Author=Jaan/Phantasy
+Name=Elephant
+Program=Phat 9
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Comment=2nd, EE, 238
+Time=7488
+Loop=0
+>
+..\..\Authors\Siril\WeLcOmE=.pt3
+<
+Author=Siril/Fourth Dimension
+Name=Welcome To The Looser's Land
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=3rd, RU, 219
+Time=6400
+Loop=0
+>
+..\..\Authors\Andrew FER\andy_fer_sketchez\AndyFER.sketchez\La Futuristic Grahemania.pt3
+<
+Author=Andrew Fer/Intentions Matrix
+Name=La Futuristic Grahemania
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=4th, RU, 215
+Time=7928
+Loop=0
+>
+..\..\Authors\Noize\freeACID.pt2
+<
+Author=Noize/Phantasy
+Name=Free Flight
+Program=Phat 9
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Comment=5th, UA, 213
+Time=14556
+Loop=14236
+>
+..\..\Authors\Andrew FER\andy_fer_sketchez\AndyFER.sketchez\Anothers Glare.pt3
+<
+Author=Sketch Of Air Andrew Fer/Intentions Matrix
+Name=Anothers Glare
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=6th, RU, 209
+Time=10344
+Loop=128
+>
+..\..\Authors\Mmcm\1996-2000\MoMeNt.pt3
+<
+Author=Mmcm/Sage Production
+Name=Moment...
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=7th, RU, 199
+Time=8092
+Loop=8072
+>
+..\..\Authors\Noize\2AWORLD Party Version.pt3
+<
+Author=Noize/Phantasy
+Name=Fly With Me, To Another World
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=8th, UA, 186
+Time=8770
+Loop=8514
+>
+..\..\Authors\Mast\Lullaby.pt3
+<
+Author=Mast/Fatality
+Name=Lullaby
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=9th, BY, 173
+Time=9296
+Loop=3152
+>
+..\..\Authors\L.A.Esq\Monday Massacre.pt3
+<
+Author=LA Esq/Raww Arse
+Name=Monday Massacre
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=10th, UK, 172
+Time=5632
+Loop=0
+>
+..\..\Authors\Phantom Lord\Runaway.pt2
+<
+Author=Phantom Lord/Accept Corp
+Name=Runaway
+Program=Phat 9
+Tracker=PT2->Pro Tracker 3
+Computer=ZX Spectrum
+Comment=11th, RU, 171
+Time=7680
+Loop=1536
+>
+..\..\Authors\Dj Wolf\Wlf Part One.pt3
+<
+Author=DJ Wlf/Accept Corp
+Name=Wlf Part One
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=12th, RU, 159
+Time=8160
+Loop=1760
+>
+..\..\Authors\Phantom Lord\Progulky Po Wode.pt3
+<
+Author=Phantom Lord/Accept Corp
+Name=Progulky Po Wode
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=13th, RU, 156
+Time=6912
+Loop=0
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT12 - Crapmo2.stc
+<
+Author=Yerzmyey/Hooy-Program/Raww Arse
+Name=Tek
+Program=Phat 9
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Comment=14th, PL, 151
+Time=14720
+Loop=0
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Flimbo-quest2-C64.sqt
+<
+Author=X-Agon/Phantasy
+Name=Flimbo
+Program=Phat 9
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=15th, CZ, 150
+Time=5949
+Loop=0
+>
+..\..\Authors\Hazard\PHT Rock.pt3
+<
+Author=Hazard/Phantasy
+Name=PHT Rock
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=16th, LV, 147
+Time=4800
+Loop=0
+>
+..\..\Authors\Alex Heather\SNOW.pt2
+<
+Author=Al/Phantasy
+Name=Snowblind
+Program=Phat 9
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Comment=17th, RU, 143
+Time=4480
+Loop=0
+>
+..\..\Authors\Hazard\Onion Eats Himself.pt3
+<
+Author=Hazard/Phantasy
+Name=Onion Eats Himself
+Program=Phat 9
+Tracker=Pro Tracker 3
+Computer=ZX Spectrum
+Comment=18th, LV, 142
+Time=6912
+Loop=768
+>

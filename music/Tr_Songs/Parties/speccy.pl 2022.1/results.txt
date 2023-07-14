@@ -1,0 +1,87 @@
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::                                                _           ::
+::                                               | |          ::
+::          ___ _ __   ___  ___ ___ _   _   _ __ | |          ::
+::         / __| '_ \ / _ \/ __/ __| | | | | '_ \| |          ::
+::         \__ \ |_) |  __/ (_| (__| |_| |_| |_) | |          ::
+::         |___/ .__/ \___|\___\___|\__, (_) .__/|_|          ::
+::             | |                   __/ | | |                ::
+::             |_|                  |___/  |_| PARTY 2022.1   ::
+::                                              23.04.2022    ::
+::                                            Warsaw, Poland  ::
+::                                                            ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::  Results (place/points/prod) :                             ::
+::                                                            ::
+::  ZX SPECTRUM AY MUSIC                                      ::
+::  ----                                                      ::
+::    1.  #04   206 pts    pator tiktokowiec - MCH/Joker      ::
+::    2.  #01   203 pts    Scrollercoaster - AceMan /         ::
+::                           Resistance^Agenda^Dreamweb       ::
+::    3.  #02   201 pts    Whispers - Pator/Joker             ::
+::    4.  #03   200 pts    Koty na ploty - Dakti              ::
+::    5.  #06   182 pts    compofiller SUPREME - wermi        ::
+::    6.  #05   162 pts    Replacement Label - V0yager/Zoo    ::
+::                                                            ::
+::                                                            ::
+::  ZX SPECTRUM TS MUSIC                                      ::
+::  ----                                                      ::
+::    1.  #04   231 pts    Soothing Lullaby - Pator/Joker     ::
+::    2.  #02   202 pts    Toadstool Prince - AceMan /        ::
+::                           Resistance^Agenda^Dreamweb       ::
+::    3.  #03   199 pts    i know how to make 1 (one) song    ::
+::                                                    - wermi ::
+::    4.  #01   178 pts    Calm day - Lamer Pinky             ::
+::                                                            ::
+::                                                            ::
+::  ZX SPECTRUM GFX                                           ::
+::  ----                                                      ::
+::    1.  #08   226 pts    I am your god                      ::
+::                             - DARKLIGHT'GHOSTOWN+SPECCY.PL ::
+::    2.  #14   216 pts    soundattack                        ::
+::                                 - atom / Joker & speccy.pl ::
+::    3.  #05   213 pts    Keith - dman_pcb                   ::
+::    4.  #12   211 pts    Vivid view through dirty window    ::
+::                                             - Joe Vondayl  ::
+::    5.  #06   202 pts    Flying Cat - Catman/speccy.pl      ::
+::    6.  #07   193 pts    ROM 2.0 ( Rom 2 kropka zero )      ::
+::                         - Rogal | PIXEL NATION | CrapTeam  ::
+::    7.  #11   151 pts    HalfCar - ZX Freeq                 ::
+::        #15   151 pts    deadninja - kya                    ::
+::    9.  #02   143 pts    City Car - dman_pcb                ::
+::   10.  #04   141 pts    Melody of seasons - mike/zeroteam  ::
+::   11.  #01   136 pts    zajezdnia autobusowa - Grongy      ::
+::   12.  #10   126 pts    IG11 - ZX Freeq                    ::
+::   13.  #03   122 pts    C.T. - Grongy                      ::
+::   14.  #09   115 pts    MOCKBA-MEME - zoon                 ::
+::   15.  #13    82 pts    Weapon Of Mess Destruction - LiSU  ::
+::                                                            ::
+::                                                            ::
+::  ZX SPECTRUM INTRO 256B                                    ::
+::  ----                                                      ::
+::    1.  #03   191 pts    Trip To a Party - gorgh/Agenda     ::
+::    2.  #02   150 pts    ZX40 - Aki                         ::
+::    3.  #04   140 pts    MOCKBA - TOOLOUD                   ::
+::    4.  #01   139 pts    Colour rain - mike/zeroteam        ::
+::    5.  #05   124 pts    Crazy C-64 oneliner - MoNsTeR/GDC  ::
+::    6.  #06    87 pts    Borderland - MoNsTeR/GDC::         ::
+::                                                            ::
+::                                                            ::
+::  ZX SPECTRUM INTRO 4KB                                     ::
+::  ----                                                      ::
+::    1.  #03   240 pts    Impact - Joker                     ::
+::    2.  #01   172 pts    Speccy2022.1 - CrapTeam            ::
+::    3.  #02   155 pts    LAME1 - MoNsTeR/GDC                ::
+::                                                            ::
+::                                                            ::
+::  ZX SPECTRUM DEMO                                          ::
+::  ----                                                      ::
+::    1.  #02   224 pts    Attributica - speccy.pl            ::
+::    2.  #03   204 pts    OF CAT, MEN AND ABSTRACT FIGURES   ::
+::                                                 - Stardust ::
+::    3.  #01   130 pts    CottonFiller SP2022 - Lamers       ::
+::                                                            ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::

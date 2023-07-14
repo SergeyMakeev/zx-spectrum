@@ -1,0 +1,89 @@
+                _
+ _ ___ _      ______              _ ____ _       _ __ _     _ ___ _
+__________    ______  __        ____________   __________  __________
+___________ _|      |____    _   ___________  _____________ __________
+\       ___\\_           \  ____ \___       ||             |\       __\ \
+ \      \    |     \      \ _________|      ||c  h  a  o  s| \      \
+\ \      \   |      \      \\       _       ||constructions|  \      \ \
+ \ \      \  |      |\      \\      \       ||2 - 0 - 2 - 1|   \      \ \ \
+\ \ \      \ |      | \      \\      \      || s u m m e r |    \      \ \
+   \ \______\|______|  \______\\____________||_____________|_dvr_\      \ \ \
+       ______ ______       __    ___________   _  __  ____               \ \
+_____  ____  ____   _____ |  |_ ____ __ __ _____ |  |_ __  ____  ____   __\__
+\   _\| __ ||    \ _\   _\|  _/|  _/|  \  |\   _\|  _/|  || __ ||    \ _\   _\
+ \__\ |____||__\__|\____\ |__| |__|  \____| \__\ |__| |__||____||__\__|\____\
+   _    __    _  _   ____  _    _      ___    _   _    _____  ____  _____  __ 
+                                                      /_   /_| __ |/_   /_|  |
+                                                       /____/|____| /____/|__|
+
+  Oldskool Demo (combined)
+- -------------------------------------------------------------------------- -
+       01  149 devolver by stardust ( shown 3, 32 votes, avg=4.656, med=5.0 )
+       02  121 dushevnoe by realtime demosquad ( shown 2, 32 votes, avg=3.781, med=4.0 )
+       03  120 Bad Apple MSX by Pyhesty/Pyhesty ( shown 1, 33 votes, avg=3.636, med=4.0 )
+
+  Oldskool Tiny Intro
+- -------------------------------------------------------------------------- -
+       01  160 Twisterization by Doctor Max/Global Corp/Phosphene ( shown 6, 33 votes, avg=4.848, med=5.0 )
+       02  133 Tiny intro for tiny CC by nihirash ( shown 5, 33 votes, avg=4.030, med=4.0 )
+       03  122 CCkAkAlo4kA by tiboh/debris ( shown 3, 32 votes, avg=3.813, med=4.0 )
+       04  118 Marge by Doctor Max/Global Corp/Phosphene ( shown 4, 32 votes, avg=3.688, med=4.0 )
+       05   90 tatar by ovich ( shown 2, 29 votes, avg=3.103, med=3.0 )
+       06   87 No More Living Tiles by g0blinish/ ( shown 1, 28 votes, avg=3.107, med=3.0 )
+
+  One Scene demo compo (combined)
+- -------------------------------------------------------------------------- -
+       01  146 Hypnotoad Intro by norduk / n1k-o ( shown 6, 33 votes, avg=4.424, med=5.0 )
+       01  146 Retrogram by Sergey Stepanov AKA Xintrea ( shown 4, 36 votes, avg=4.056, med=4.0 )
+       03  130 w1 by RKGekk2/349604 ( shown 3, 33 votes, avg=3.939, med=4.0 )
+       04  104 The prncss by moronizzz/buchaos ( shown 5, 35 votes, avg=2.971, med=3.0 )
+       05  101 Liquid Cool by ps ( shown 1, 33 votes, avg=3.061, med=3.0 )
+       06   96 In thin lines by DimGan  ( shown 2, 32 votes, avg=3.000, med=3.0 )
+
+  Chiptune Music
+- -------------------------------------------------------------------------- -
+       01   86 Neoclassic experiment by kotsoft/no ( shown 6, 21 votes, avg=4.095, med=4.0 )
+       02   80 CompoFiller#3 by EA/Antares ( shown 4, 20 votes, avg=4.000, med=4.0 )
+       02   80 DirDel by AER ( shown 2, 22 votes, avg=3.636, med=4.0 )
+       04   75 Heed Me Now by MmcM ( shown 5, 18 votes, avg=4.167, med=4.5 )
+       05   71 Heritage by aGGreSSor/CPU ( shown 3, 20 votes, avg=3.550, med=3.5 )
+       06   67 Our Summer by aGGreSSor/CPU ( shown 1, 21 votes, avg=3.190, med=3.0 )
+
+  Oldskool Graphics
+- -------------------------------------------------------------------------- -
+       01  172 MK by dman/pcb ( shown 10, 38 votes, avg=4.526, med=5.0 )
+       02  157 S.W.A.T. by Grongy ( shown 3, 38 votes, avg=4.132, med=5.0 )
+       03  156 Tree branches at sunset by diver4d/stardust ( shown 12, 36 votes, avg=4.333, med=5.0 )
+       04  150 Control by dman/pcb ( shown 5, 36 votes, avg=4.167, med=4.0 )
+       05  146 ZXMacumba by Fabs ( shown 9, 37 votes, avg=3.946, med=4.0 )
+       05  146 Cover by Schafft ( shown 7, 36 votes, avg=4.056, med=5.0 )
+       07  141 Around Balloons by Tutty/Kpacku ( shown 11, 33 votes, avg=4.273, med=5.0 )
+       08  137 FATE by aGGreSSor/CPU ( shown 4, 36 votes, avg=3.806, med=4.0 )
+       09  136 Artificial Sight by Tutty/Kpacku ( shown 13, 33 votes, avg=4.121, med=4.0 )
+       10  119 Spaces by pixelrat ( shown 6, 35 votes, avg=3.400, med=4.0 )
+       11  118 Upgrade Time by Grongy ( shown 1, 36 votes, avg=3.278, med=3.0 )
+       12  111 Flashes by pixelrat ( shown 2, 33 votes, avg=3.364, med=4.0 )
+       13  110 Kamila by shuran33/Outsiders ( shown 8, 35 votes, avg=3.143, med=3.0 )
+
+  Realtime Graphics
+- -------------------------------------------------------------------------- -
+       01  188 Лиса в лесу, завтра на завтрак  by nihirashka/nihirashi ( shown 5, 42 votes, avg=4.476, med=5.0 )
+       02  174 Kostyor Error by MokiNeko ( shown 6, 39 votes, avg=4.462, med=5.0 )
+       03  135 Sin by razvedchik/ ( shown 2, 38 votes, avg=3.553, med=4.0 )
+       04  132 pereval by Error/Errorsoft ( shown 1, 38 votes, avg=3.474, med=4.0 )
+       05  120 Peknic gribnika by LuzuVeceby ( shown 4, 38 votes, avg=3.158, med=3.0 )
+       06  103 The sun by The Girl ( shown 3, 38 votes, avg=2.711, med=3.0 )
+
+  Realtime Music
+- -------------------------------------------------------------------------- -
+       01  125 Forest Realtime by Gogin ( shown 2, 28 votes, avg=4.464, med=5.0 )
+       02  101 doshik v lesu by AER ( shown 1, 27 votes, avg=3.741, med=4.0 )
+
+  Textmode Art Graphics
+- -------------------------------------------------------------------------- -
+       01  124 Night by pixelrat ( shown 2, 30 votes, avg=4.133, med=4.0 )
+       02  123 party by pixelrat ( shown 1, 30 votes, avg=4.100, med=5.0 )
+
+  Grave Digger
+- -------------------------------------------------------------------------- -
+       01  135 GOA 3000 by SerzhSoft ( shown 1, 28 votes, avg=4.821, med=5.0 )

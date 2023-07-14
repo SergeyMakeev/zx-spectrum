@@ -1,0 +1,97 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\JK\Dolphins.pt3
+<
+Author=JK/ICE GROUP'99
+Name=DOLPHINS,for FANAT2
+Length=4296
+Time=14218
+Loop=0
+>
+..\..\Authors\Sergey Bulba\VT\Oil.pt3
+<
+Author=Sergey Bulba, 12-16 March 2004
+Name=Maslo (MT) /Forever5/AY/ACB
+Length=8061
+Time=11742
+Loop=11734
+>
+..\..\Authors\Sergey Bulba\VT\Kroshka.pt3
+<
+Author=Sergey Bulba, 24 May 2003
+Name='S novim godom, kroshka' (MT)
+Length=4320
+Time=13699
+Loop=13692
+>
+..\..\Authors\Dj Max\RANETKA.pt3
+<
+Author=DJ MAX
+Name=RANETKA (MT) BAD VERSION
+Length=2506
+Time=10752
+Loop=0
+>
+..\..\Authors\Dj Max\GIRL.pt3
+<
+Author=DJ MAX RULEZ FOREVER
+Name="GIRL" (MT) PROTRACK VERSION
+Length=3993
+Time=10560
+Loop=0
+>
+..\..\Authors\Macros\RANETKA.pt3
+<
+Author=Macros,12.01.2001,Kotlas,Russia
+Name=Ranetka/Take my snickers
+Length=1963
+Time=8496
+Loop=0
+>
+..\..\Authors\Macros\Far_too.pt3
+<
+Author=MS,July'2000,Kotlas
+Name=She is far away too
+Length=2726
+Time=8320
+Loop=1280
+>
+..\..\Authors\Macros\MORSKAYA.pt3
+<
+Author=Macros,feb'2001,Kotlas,Russia
+Name=He4To TaKoe... HenoHqTHoe...
+Length=3915
+Time=6144
+Loop=0
+>
+..\..\Authors\Hacker KAY\Mumiy Troll - Ehom gonga.stp
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1769658
+PlayerFrequency=51000
+ChipType=AY
+Author=Hacker KAY
+Name=Mumiy Troll - Ehom gonga
+Length=2158
+Time=3840
+Loop=0
+>
+..\..\Authors\Hacker KAY\Login GUEST.stp
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1769658
+PlayerFrequency=51000
+ChipType=AY
+Author=Hacker KAY
+Name=Login GUEST (MT)
+Length=2608
+Time=3936
+Loop=0
+>
+..\..\Authors\O&f\Utekaj.stp
+<
+Length=3104
+Time=7200
+Loop=0
+>

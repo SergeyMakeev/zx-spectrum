@@ -1,0 +1,87 @@
+Chaos Constructions 2015 results
+                      ___ ___
+                 _____\  \\_/_____  ___ _  ____ __ _
+ ___ __ _______ _\  __/\__   /\__ \|\_/ /_/  _//_//_\
+ \_/__/________/_\\___/_||__/|_____\ __/|___/   _  __  
+_____ ___ __ ___  \_/   __    /_\       __ __  /_|/_//\       
+\  __|\_/  /__  \ __ __|_ |_ ___ _ ____|  |_/ ___ _ __ \_|)\\/=_
+ \___/____//__\  \_// __/__/ __/\ \  __| __/ |\_/ /__ \ __ ____
+    \_\_/___|  \_|___/ |__|\_\|____\___/__|__|___//__\ \_//  _/  
+      __                                           __ \_|___/
+      \_ chaos constructions 2015 official results _/
+
+- ------------------------------------------------------------ -
+  ZX Spectrum 640K Demo
+- ------------------------------------------------------------ -
+       01  167 Краски Deluxe by Kpacku
+       02  140 PRECALCULATED by skrju
+       03  131 eihwaz by hedj/shafft/nq/diver
+       04  118 Voices by DenisGrachev/RetroSouls
+       05  102 respect minidemo by DenisGrachev/RetroSouls
+       06  100 Party Version by Misha_Pertsovsky
+       07   94 За грибы by Дибилики
+
+  ZX Spectrum Enhanced Demo
+- ------------------------------------------------------------ -
+       01  134 Space Invaders vs Mario by VBI/Consciousness
+       02  107 Carousel by g0blinish
+       03   88 ldi by wbc \\ b-state
+
+  ZX Spectrum 1K Intro
+- ------------------------------------------------------------ -
+       01  180 less than three squared by kowalski
+       02  141 A Chaos Construction by introspec
+       03  111 Cells by goblinish
+
+  ZX Spectrum Tiny Intro (256b)
+- ------------------------------------------------------------ -
+       01  168 CALL256NOW! by SerzhSoft
+       02  108 Blo by g0blinish
+       03  103 CCeTo4kA by tiboh/debris
+
+  ZX Spectrum Game
+- ------------------------------------------------------------ -
+       01  128 Lirus by DenisGrachev/RetroSouls
+       02  119 Батискаф by Jerri/Red Triangle
+       03  109 Замок by Destr
+       04   92 mazegame by DenPopov
+
+  ZX Spectrum Graphics
+- ------------------------------------------------------------ -
+       01  167 Blue Surf by mr_r0ckers
+       02  164 Владимир Маяковский by moroz1999
+       03  157 Singer by dman/Placebo and Blocktronics
+       04  142 Armageddon by Tzerra/ERA Creative Group
+       05  136 Unity by Lamer Pinky/Gemba Boys
+       06  117 All Glorious Lady B by Vassa
+       07   99 silent soldiers by scalesmann/march[ing] cats
+
+  ZX Spectrum AY-Music
+- ------------------------------------------------------------ -
+       01   95 Farewell Summer by MmcM^Sage
+       02   90 flying around: building the chaos by wbc/b-state
+       03   89 to beep or not to beep by kotsoft/no
+       04   84 jamaica by scalesmann/march[ing]cats ft. unaware
+       05   82 Way To Unity by Lamer Pinky/Gemba Boys
+       06   81 Meskalite by aGGreSSor/CPU
+       07   75 auricom by scalesmann/march[ing]cats ft. frolic&f
+       08   68 saving progress..........done by gotoandplay/botb
+       09   64 Le droit chemin by garvalf
+
+  ZX Spectrum Beeper Music
+- ------------------------------------------------------------ -
+       01  122 Tritone Techno by Zlew/BotB
+       02   88 Showdown by utz/irrlicht project
+       03   66 Clouds and... by garvalf
+
+  Realtime Graphics
+- ------------------------------------------------------------ -
+[PC]   01  160 White Nights by prince/the Obsessed Maniacs/TRSi
+       02  122 Императоръ Пётръ Первый by Kakos_nonos
+       03  121 Вечер by moroz1999, Vassa
+       04   83 Петербург 2345 by John Norton Irr
+
+  Realtime Music
+- ------------------------------------------------------------ -
+[PC]   01   73 Leningrad by krotan
+       02   67 nonamed spb by scalesmann/march[ing] cats

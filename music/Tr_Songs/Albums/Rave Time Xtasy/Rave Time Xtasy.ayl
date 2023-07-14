@@ -1,0 +1,418 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=YM
+>
+..\..\Authors\Ironman\Rave Time Xtasy\A.C.I.R.pt2
+<
+Author=Ironman
+Name=Agata Cristey In Rave
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3810
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ACID-GEN.pt2
+<
+Author=Ironman
+Name=Acid Generation
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=8610
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\APHEX T.pt2
+<
+Author=Ironman
+Name=Aphex Twin Variationz
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=5640
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\C.ACID1.pt2
+<
+Author=Ironman
+Name=Crazy Acid (Part 1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=8064
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\C.ACID2.pt2
+<
+Author=Ironman
+Name=Crazy Acid-2 (Trance)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3840
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\C.ACID3.pt2
+<
+Author=Ironman
+Name=Crazy Acid-3 (4 Acid)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=8928
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\C.ACID4.pt2
+<
+Author=Ironman
+Name=Crazy Acid-4 (Trance)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3064
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\C.TRANSM.pt2
+<
+Author=Ironman
+Name=Control Transmission
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=16976
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\DR.HOUSE.pt2
+<
+Author=Ironman
+Name=Dr. House (T.TRAX #14)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=7700
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ELITE1.pt2
+<
+Author=Ironman
+Name=Elite Warrior (part 1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3840
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ELITE2.pt2
+<
+Author=Ironman
+Name=Elite Warrior (part 2)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6940
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\EMOTION.pt2
+<
+Author=Ironman
+Name=Emotion Forever (Acid)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=5073
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\EMOTRAVE.pt2
+<
+Author=Ironman
+Name=Emotion Rave For Mr. Key
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=7695
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ENERGY.pt2
+<
+Author=Ironman
+Name=Energy Rave
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6858
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\IMPACT.pt2
+<
+Author=Ironman
+Name=Impact Of Techno
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6400
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\JAM.LAST.pt2
+<
+Author=Ironman
+Name=James Last In The Ravez
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6400
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\KOM.HOM3.pt2
+<
+Author=Ironman
+Name=Komanchi Home - 3
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=4608
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\MK.(MIX).pt2
+<
+Author=Ironman
+Name=Mortal Kombat (remix)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=16369
+Loop=1280
+>
+..\..\Authors\Ironman\Rave Time Xtasy\NARCOM.1.pt2
+<
+Author=Ironman
+Name=Narcomania (vol.1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=10143
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\NARCOM.2.pt2
+<
+Author=Ironman
+Name=Narcomania (vol.2)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6912
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\OUR H.HC.pt2
+<
+Author=Ironman
+Name=Our Happy Hardcore
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=5632
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\PL.HARDC.pt2
+<
+Author=Ironman
+Name=Planet of Hardcore
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6528
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\PRO.RAVE.pt2
+<
+Author=Ironman
+Name=Professional Rave
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=18432
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\PR.RAV2.pt2
+<
+Author=Ironman
+Name=Professional Rave - 2
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6667
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\R.SPECY1.pt2
+<
+Author=Ironman
+Name=Revolution on Speccy
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=15115
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\R.SPECY2.pt2
+<
+Author=Ironman
+Name=Revolution on Speccy - 2
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6536
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\RAVEMAUZ.pt2
+<
+Author=Ironman
+Name=Rave Mauz (Agression)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=9095
+Loop=0
+>
+..\..\Authors\Key\RAVE'OK.pt2
+<
+Author=Mr. Key
+Name=Funny RAVE'OK To Future
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6144
+Loop=512
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ROCKROLL.pt2
+<
+Author=Ironman
+Name=This Is Rock n' Roll!
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3584
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ROV.HOM1.pt2
+<
+Author=Ironman
+Name=Rover Home (part 1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=9317
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ROV.HOM2.pt2
+<
+Author=Ironman
+Name=Rover Home (part 2)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=5632
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\RUSSIAN.pt2
+<
+Author=Ironman
+Name=Russian Rave (vol.1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=7680
+Loop=1536
+>
+..\..\Authors\Ironman\Rave Time Xtasy\SCOOTER.pt2
+<
+Author=Ironman
+Name=Scooter'95 (Hyper...)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=4904
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\SPECIAL.pt2
+<
+Author=Ironman
+Name=Special For Fanz
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6052
+Loop=0
+>
+..\..\Authors\Key\SPRING.pt2
+<
+Author=Mr. Key
+Name=Spring (Funny Tune)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=3312
+Loop=752
+>
+..\..\Authors\Ironman\Rave Time Xtasy\THUNDER1.pt2
+<
+Author=Ironman
+Name=Thunder Muzak (part 1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=9683
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\THUNDER2.pt2
+<
+Author=Ironman
+Name=Thunder Muzak (vol. 2)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=4864
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\TOXICOM1.pt2
+<
+Author=Ironman
+Name=Toxicomania (vol. 1)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=10467
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\TOXICOM2.pt2
+<
+Author=Ironman
+Name=Toxicomania (vol. 2)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=6734
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\U-F-O.pt2
+<
+Author=Ironman
+Name=U-F-O (Enemy Unknown)
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=13181
+Loop=0
+>
+..\..\Authors\Ironman\Rave Time Xtasy\ZOMBI.pt2
+<
+Author=Ironman
+Name=Soundtrack For "ZOMBI"
+Program=Rave Time Xtasy
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Time=11921
+Loop=1024
+>

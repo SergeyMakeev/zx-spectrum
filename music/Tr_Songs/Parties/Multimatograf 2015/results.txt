@@ -1,0 +1,122 @@
+                _______________________                 __________ _
+           _ __/                       \_______________/         |
+          ___|___________________________________________________|__ _
+         \\_     | | | |:    |\_     | _ |:    |   | _ | _ | _ |   :::
+         ::| _ _ | | | |__ __|_| _ _ | | |__ __| | | | | | | | | __|:
+          :| | | | | | | | | | : | |_| | : | | | | : | : |_| | | |_
+           | | | : | | |_| | | | | |\__| | | | | | |_|_| |\__| |   |
+           | | | | | | | | | | | | | | _ | | : | | |\_ | | | _ : __|
+           : | | | | : | | | : | | |_|_|_|_| | | | | | | _ ( | | |
+           | |\| |   |   | | | | |\|\__\__ | | : | | | | | : | | | dmn
+         __|_| |_|___|___|_| |_|_| |_||_|| |_| |___|___|_|_|___|_|____
+        \\_                     _ __  | || :  __ _                  _//
+         _|______________________/\_\_: || |_/_/\___________________|_
+          :  |::                _\/_/ | || | \_\/_             ::|  :
+             |:                       | :| |                    :|
+             :.                       | || |                    .:
+             :                        |_||_|                     :
+             .                        :  .                       .
+
+25.04.2015-26.04.2015
+
+Official results
+
+________8bit music______________________________________________________________
+
+ 1. Man of Art by MmcM [ZX Spectrum]                                  243 4.26
+ 2. Move your ass, Move your scener's ass! by d.j.kot [ZX Spectrum]   223 4.13
+ 3. Ping by AER [ZX Spectrum]                                         226 3.96
+ 4. Comely Rosette (lounge vers.) by nq/skrju [ZX Spectrum]           222 3.96
+ 5. Napalm Loadertune by wbc ^ b-state [ZX Spectrum]                  214 3.82
+ 6. someday by scalesmann/march[ing]_cats [ZX Spectrum]               217 3.81
+ 7. shining by scalesmann/march[ing] cats feat mel o'dee [ZX Spectrum]214 3.75
+ 8. User by AER [NES]                                                 198 3.60
+ 8. Barbarian by tayle/debris [NES]                                   198 3.60
+ 9. trashmatic by wbc ^ b-state [ZX Spectrum]                         190 3.45
+10. Электричка by white noise [ZX Spectrum]                           164 3.04
+
+________ASCII/ANSI______________________________________________________________
+
+ 1. Biomechanic Dreams by sk!n / deZign                               233 4.76
+ 2. 3BM by dman                                                       224 4.67
+ 3. The END? by breeze/fishbone crew                                  226 4.61
+ 4. Hype by dman                                                      199 4.15
+ 5. Photoshoot by mr_r0ckers                                          168 3.43
+ 6. Strange games by Kakos_nonos                                      138 2.94
+
+________8Bit Graphics___________________________________________________________
+
+ 1. Disco by Dimidrol [ZX Spectrum]                                   262 4.60
+ 2. Dragon by tzerra^ERA CG [ZX Spectrum]                             246 4.10
+ 3. Wild West by Buddy^Era CG [ZX Spectrum]                           249 4.08
+ 4. flyer by bender64 [C64]                                           216 3.93
+ 5. Party Sprinter by TmK ^ deMarche [ZX Spectrum]                    225 3.88
+ 6. Moto by tzerra^ERA CG [ZX Spectrum]                               232 3.87
+ 7. Кот и солнце by Andrew Curds [ZX Spectrum]                        231 3.79
+ 8. Batman — Arkham legend by nodeus^light future [ZX Spectrum]       199 3.37
+ 9. Shagoferma goes to portal by John Norton Irr [ZX Spectrum]        178 3.18
+10. Love is lamp by Kakos_nonos [ZX Spectrum]                         157 2.75
+11. After forest by John Norton Irr [ZX Spectrum]                     150 2.68
+12. ANSI Hype by dman [ZX Spectrum]                                   137 2.58
+
+________8bit intro 256b_________________________________________________________
+
+ 1. James Cox Fractals by tiboh [ZX Spectrum]                         246 4.24
+ 2. Color Waves by kotsoft aka d.j. kot [ZX Spectrum]                 239 4.12
+ 3. mmf by Buyan [TS-Conf]                                            223 3.91
+ 4. RASTRBRS by diver4d [ZX Spectrum]                                 208 3.59
+ 5. qr by lvd^mhm [ts*-config]                                        180 2.95
+
+________Enhanced Demo___________________________________________________________
+
+ 1. Mustang by Banana Brothers [TS-Conf]                              212 4.16
+ 2. TS Game Pack! by Hacker VBI [ZX Spectrum]                         202 3.96
+ 3. M11Intro by Fishbone Crew [TS-Conf]                               191 3.82
+
+________8Bit Demo_______________________________________________________________
+
+ 1. ALIEN DEMO by Kabardcomp & Team Site [Партнёр 01.01]              234 4.33
+ 2. Stellar by kpacku [ZX Spectrum]                                   226 4.19
+ 3. Back to Basics by bay 6 [ZX Spectrum]                             213 4.02
+ 4. The Last Star Byter by Misha Pertsovsky [ZX Spectrum]             195 3.68
+
+________Fast & Wild_________________________________________________________
+
+ 1. Вологда через 256 лет by Misha Pertsovsky [ZX Spectrum]           154 4.28
+ 2. #vologda8df by wbc ^ b-state [MS DOS]                             118 4.07
+ 3. Vologda by dman                                                   130 3.71
+ 4. ZXV by shuran33                                                   110 3.33
+
+________Paintover_______________________________________________________________
+
+ 1. Toads by Vassa                                                    195 4.64
+ 2. Tribute to Y by moroz1999                                         165 4.02
+ 3. Датчик природы by John Norton Irr                                 149 3.63
+ 4. Stone age by Kakos_nonos                                          142 3.55
+ 5. Рыбная ловля by Misha Pertsovsky                                  143 3.49
+
+________53c gfx_________________________________________________________________
+
+ 1. Страх и ненависть на севере by Marinova Aleksandra                165 4.34
+ 2. Surf's up! by mr_r0ckers                                          156 4.00
+ 3. edaaaa by Flast                                                   127 3.34
+ 4. Mopas at north eat earch by John Norton Irr                       118 3.28
+ 5. Pingvin-Dreams by Flast                                           121 3.27
+ 6. cold nose by Kakos_nonos                                          121 3.18
+ 7. Olene Holyday! by Kakos_nonos                                     112 3.03
+ 7. Над океаном между льдин на турнике вишу один.. 
+	by Misha Pertsovsky												  112 3.03
+ -  Rose by Buddy^Era CG
+
+________Realtime ZX Graphics____________________________________________________
+
+ 1. No post for Harry by moroz1999                                    186 4.33
+ 2. flash delivery by Buddy^ERA CG                                    188 4.09
+ 3. Почта Российского Хогвартса by tzerra^ERA_CG                      177 3.85
+ 4. Почта России доставляет письма из Хогвартса by Vassa              162 3.77
+ 5. Marka by shuran33                                                 160 3.72
+ 6. Hogvpost by nodeus                                                157 3.57
+ 7. Винни-Почта-России by Misha Pertsovsky                            150 3.49
+ 8. Harry Potter receives his prizes from DiHalt 1999 by tayle/debris 145 3.37
+ 9. Harry inside the box by Kakos_nonos                                92 3.29
+ -  Под водой by Мариам Эллауи                                          

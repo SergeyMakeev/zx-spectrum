@@ -1,0 +1,119 @@
+Multimatograf 2017
+29.04.2017-30.04.2017
+
+Official results
+
+________8bit music______________________________________________________________
+
+ 1. deadline funk by n1k-o                                            406 7.96
+ 2. Time Wake Up by MmcM                                              361 7.52
+ 3. Summer Steps by ejkot (aka kotsoft)                               373 7.31
+ 4. Dizziness by Quiet                                                364 7.14
+ 5. Chucky the Unlucky by C-jeff (feat. n1k-o)                        355 7.10
+ 6. Twist of Fate by Ysyry (PVM)                                      404 7.09
+ 7. run without scissors! by wbcbz7 \\ b-state^sibCrew                344 7.02
+ 8. the fork in the bus goes crazy by scalesmann/march[ing]_cats      336 6.72
+ 9. Avril by MotionRide                                               327 6.67
+10. let them get back safe to home by scalesmann/march[ing] cats      324 6.48
+11. Pull The Rubber by MmcM                                           306 6.38
+12. Rasputin by Ysyry (PVM)                                           363 6.37
+13. Banshee by kubikami                                               292 6.08
+14. E3M1 by kubikami                                                  250 5.43
+14. Mighty Little Soul by Solid Nitrogen                              250 5.43
+15. Gephest by AER                                                    253 4.96
+
+________ASCII/ANSI______________________________________________________________
+
+ 1. Earthworm Jim by sk!n                                             380 8.64
+ 2. The Simpsons by dman                                              374 8.50
+ 3. Wick by dman                                                      357 7.93
+ 4. in:boxed by wbcbz7 \\ b-state^sibCrew                             328 7.29
+ 5. downgrade magazine logo by eug!                                   258 6.00
+ 6. bay6 by diver                                                     229 5.33
+ 7. Bobik by Creonix / Brain Wave ^ Mistigris                         224 5.09
+
+________8Bit Graphics___________________________________________________________
+
+ 1. Cat by dman                                                       464 8.29
+ 2. Hyperborean Witch by KloyanA, bfox, TmK                           455 8.13
+ 3. Demoscener by dman                                                458 8.04
+ 4. C for Cyberpunk by aturbidflow                                    441 8.02
+ 5. Fondness by Dimidrol                                              377 6.85
+ 6. mmGirl by DenisGrachev                                            385 6.75
+ 7. Gomer Runs To MM by Denis Grachev                                 377 6.73
+ 8. Tyrael by Lamer Pinky ^ Gemba Boys                                381 6.68
+ 9. None of them knew they were robots by moroz1999                   327 6.06
+10. h3r371k by Adam Bazaroff                                          344 6.04
+11. undersea world by Buddy^Era CG                                    334 5.96
+12. Selfie by Шынни                                                   295 5.27
+13. Bilball by shuran33                                               276 5.11
+
+________8bit intro 256b_________________________________________________________
+
+ 1. rastafiller by kowalski^tl                                        355 9.34
+ 2. MAKE_it_LOUDER! by bfox                                           349 9.18
+ 3. SnakeRun by g0blinish                                             258 7.82
+ 4. Impetus Roll by tiboh/debris                                      230 7.19
+ 5. Le cube spherique dans un vide by shuran33 & bfox                 231 7.00
+ 6. sidor by ovich                                                    224 6.79
+ 7. pxor by wbcbz7 \\ b-state^sibCrew                                 207 6.68
+ 8. pl by Shiny                                                       217 6.38
+ 9. RK Kefrens bars by DDp                                            222 6.34
+10. ATTR Music by Bay 6                                               201 6.28
+11. void by lovebeam                                                  181 5.66
+12. Meteobytes: Treasures from Space by Tutty/Paradise                169 5.12
+13. ptnless by Tutty/Paradise                                         146 4.42
+14. Pure Basic Intro 256b by Misha Pertsovsky                         144 4.36
+
+________8Bit Demo_______________________________________________________________
+
+ 1. multiLove by deMarche                                             440 9.17
+ 2. Definitely Number One aka DNO by SibCrew                          437 8.92
+ 3. Ethereal by rook, nq                                              392 8.17
+ 4. zeitwerk by bay6                                                  330 6.88
+ 5. Sorrow by Шынни                                                   294 6.26
+ 6. Fly 2 Vologda )))) by Bender64                                    181 3.93
+ 7. 128 by Wishers                                                    161 3.66
+
+________Realtime ZX 53c_________________________________________________________
+
+ 1. MatrixPunk by wbr                                                 212 7.31
+ 2. Ultraviolet by KASik_KACuk                                        210 6.77
+ 3. To kill or not to kill? by Alexandra Marinova                     193 6.66
+ 4. VR-reality by Dovakin                                             199 6.63
+ 5. Happiness is here by misha_pertsovsky                             194 6.47
+ 5. Сквидванатор в Матрице by BlastOff                                194 6.47
+ 6. Мечтают ли овцы об электроандроидах? by mr_r0ckers                191 6.37
+ 7. Ожидание vs. Реальность by mr_r0ckers                             184 6.13
+ 8. 3 эффекта by shuran33                                             171 5.90
+ 9. город на топливе by John Norton Irr                               171 5.70
+10. radiohead by xak45                                                168 5.42
+11. Dreamed of cyberspace, got a smartphone instead by echo2          156 5.20
+12. Бессердечная by Ramierlle                                         144 5.14
+13. My style, my business by Creonix / Brain Wave ^ Mistigris         155 5.00
+14. аля ZX by Dikiy                                                   135 4.82
+15. Emotions by Kakos_nonos                                           137 4.57
+16. неофицальная покупка by John Norton Irr                           134 4.47
+17. Not by Kakos_nonos                                                128 4.13
+18. правда о киберпанке by Dikiy                                      111 3.96
+19. cyberscope by nepnep                                              110 3.67
+
+________Fast & Wild_________________________________________________________
+
+ 1. Flast and Wild by Flast                                           237 9.12
+ 2. Очень сложный тест by Kakos_nonos                                 215 7.68
+ 3. Bulb by Shiny                                                     185 6.61
+
+________Realtime ZX Paintover___________________________________________________
+
+ 1. Don`t smoke with banana in tunnel by TmK / Alexander Solodkov     219 7.06
+ 2. Sorceress by moroz1999                                            213 6.87
+ 3. Come to DiHalt'2017 by Vinnny                                     204 6.80
+ 4. Как я сюда попал by Ramierlle                                     204 6.58
+ 5. Eggs by shuran33                                                  189 6.30
+
+________Realtime 8Bit Music Cover_______________________________________________
+
+ 1. okay, i'm ready now by n1k-o                                      305 8.97
+ 2. MF Music Realtime... by MmcM                                      280 8.48
+ 3. who needs a fork without the spoon anyway? by scalesmann/march[ing]_cats213 6.45

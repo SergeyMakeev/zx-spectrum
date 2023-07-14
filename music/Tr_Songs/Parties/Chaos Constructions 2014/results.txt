@@ -1,0 +1,79 @@
+                            ____ ___
+                      ______\   \\_/______  ___ ___   _______ __ _
+ ___ __ ____________ _\  ___/\__    /\__  \|\_/   /__/   ___//_//_\
+ \_/__/_____________/_\\____/_||___/|______\ ____/|_____/ __ ____ __ 
+______ ___ ___ ____  \_/    ___       /_\       ___ ___  /_|/___//__\       
+\  ___|\_/   /__   \ __ ___|_  |_ ____ __ _____|   |_ / ___ ___ ____ \_|)\\/=_
+ \____/_____//__\   \_//  __/_ _/  __/\  \  ___| _ _/  |\_/   /__   \ __ _____
+     \_\__/___|  \__|____/ |___|\__\|_____\____/___|___|_____//__\   \_//  __/  
+       __ _                                          ______ __    \__|____/
+       \_\ chaos constructions 2014 official results ______\_/
+
+- -------------------------------------------------------------------------- -
+
+  ZX Spectrum 640K Demo
+- -------------------------------------------------------------------------- -
+01  128 Kpacku by kpacku
+02  101 PAST by denpopov
+03   78 Cat Haiku by g0blinish
+04   67 Greetings From A Stormy Beach  by Crash Nicker 
+
+  Wild Demo
+- -------------------------------------------------------------------------- -
+01  155 Forth DemoTool by Ivanq & Manwe
+02  142 ducks not forgive by Kabardcomp
+03   83 Jacque Fresco: Science and War by nitrofurano/no
+
+  ZX Spectrum 1K Intro
+- -------------------------------------------------------------------------- -
+01   74 Sinofrenia by kotsoft/no
+
+  ZX Spectrum Tiny Intro (256b)
+- -------------------------------------------------------------------------- -
+01   89 Plasma is possible! by denpopov
+02   86 DisXORtid by g0blinish
+
+  ZX Spectrum Graphics
+- -------------------------------------------------------------------------- -
+01  230 Flame and blood by nodeus
+02  194 Our Life... by aGGreSSor/tPA^CPU
+03  185 anything is possible by Dubmaster
+04  180 My world by trixs/
+05  169 Into the Forest by Vassa
+06  168 Bender by dman/Placebo
+07  165 fisher by dimidrol
+08  138 My Name Is Mud by fakie/speccy
+09  110 return by John Norton Irr
+10   98 increased soil by energy by John Norton Irr
+
+  ZX Spectrum AY-Music
+- -------------------------------------------------------------------------- -
+01   85 misfire by scalesmann/march[in]_cats
+02   83 Ashes of Dreams by MmcM/Sage
+02   83 calling by scalesmann/march[in]_cats feat. Olga Y.
+04   69 Ending by Darkman007/Quite
+05   68 Buzzing Brazzing by wormsbiysk | WBC / LSA
+06   63 Sid and Nancy by aGGreSSor/tPA^CPU
+07   49 Arabian swim by Kakos_nonos
+
+  ZX Spectrum Beeper Music
+- -------------------------------------------------------------------------- -
+01   97 Heavy Phaser by Darkman007/Quite
+02   86 go away stupid flamers by Kakos_nonos
+03   78 reasonably accurate by irrlicht project
+04   72 Bit_Energy by AER
+05   46 Waking up in mountain by John Norton Irr
+05   46 night with castle and roof by John Norton Irr
+
+  ASCII/ANSI Graphics
+- -------------------------------------------------------------------------- -
+01  174 Dogma by dman/Placebo
+02  154 Code Red by prince/the Obsessed Maniacs / TRSi
+03  136 Diskoschlampenhausen by prince/the Obsessed Maniacs / TRSi
+04  129 BornDead by dman/Placebo
+
+  Realtime Graphics
+- -------------------------------------------------------------------------- -
+01  127 Eye congratulate by prince/the Obsessed Maniacs / TRSi
+02   82 CC is 15. People go to celebration by John Norton Irr
+03   78 15000 years CC by Kakos_nonos

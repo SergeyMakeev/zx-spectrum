@@ -1,0 +1,128 @@
+DiHalt 2016 demoparty
+2-3 July
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+Official results v1.0
+
+
+[ Wild ]
+
+1   5.39   Mihip - Катюша
+2   4.98   Epic Rpg - Outsiders
+
+
+[ ZX Spectrum Beeper Music ]
+
+1   8.06   Brink - Just the Tip
+2   6.38   AER - SecondMoon
+3   6.23   Misha Pertsovsky - Waltz of Ice
+4   6.03   Tufty ^ 1-bit forum - Mechanoid
+5   5.77   utz ^ irrlicht project - fnk dz
+6   5.57   Kakos_nonos - Все идет по плану (ГО кавер)
+7   4.84   Abrimaal - Teddybear's Funeral
+8   4.67   Lis O'Kryl ^ Therac-25 - Brexit
+9   4.29   Garvalf - Horned gods
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1   7.77   MmcM ^ Sage - Iteration
+1   7.60   MmcM ^ Sage - How are you?
+2   7.50   Quiet - Adventures of a Big Red Rabbit
+3   7.45   kotsoft - A little tunes near the lake
+4   6.72   scalesmann ^ march[ing]_cats - unsigned letters
+5   5.71   nodeus - Emphasis
+6   5.20   AER - StepStep
+7   4.40   Kakos_nonos - Все идет по плану (ГО кавер)
+
+
+[ Realtime ZX Spectrum AY music ]
+
+1   7.07   Quiet - Out of Fuel
+2   6.86   wbc ^ b-state - summerain
+3   6.81   n1k-o ^ skrju - Sofasticated
+4   6.43   bfox - Sorrow on DiHalt
+5   3.84   Misha Pertsovsky - Ded Laine 2016
+
+
+[ LowEnd Graphics ]
+
+1   8.59   VoLodya & bfox - the two of us
+2   7.67   Hater ^ ArtX - Come With Me
+3   7.63   TmK ^ deMarche - when you're in love / когда влюблён
+4   7.10   TmK ^ deMarche - live is beautiful / жизнь прекрасна
+5   7.08   DenisGrachev - ForestDude
+6   6.75   YERZMYEY ^ HOOY-PROGRAM - Putieshiestwije k Demopati / A travel to demoparty
+7   6.67   ALKO ^ alko-art - ZOID
+8   6.59   Shuran33 - Stormy Daniels
+9   6.53   KloyanA - Bear
+10   6.39   pixelrat - Вторженец / Invader
+11   6.25   pixelrat - Volk Kuchemal
+12   5.81   ALKO ^ alko-art - Knight in Mushroom Valley
+13   5.50   ALKO ^ alko-art - Gunner
+14   5.43   ALKO ^ alko-art - Hitman
+15   4.65   sashapont - Swing
+16   4.47   ALKO ^ alko-art - Tujad II
+17   4.04   Dovakin - MyPhone
+18   3.98   sashapont - Сastle
+19   3.60   sashapont - Kremlin
+20   2.81   g0blinish - My Best Friend
+
+
+[ Realtime LowEnd Gfx ]
+
+1   7.09   Yerzmyey - Sofa Scener
+2   6.87   Denis Grachev - Sofka
+3   5.90   ШиншилБог - Один день сова-сценера
+4   5.26   Baragoz ^ Kadarka - Sleep off
+5   4.66   Kakos_nonos - Sofacoder
+6   3.29   Misha Pertsovsky - Любой день софа-сценера
+
+
+[ Realtime ZX Spectrum 53c Gfx ]
+
+1   7.93   zedOFF - Mammoth
+2   7.03   Marinova Aleksandra - loneliness in the north
+3   6.65   Krysolir - Hungry Sabretooth
+4   5.88   ShaMan - Манящий орех
+5   5.75   Kakos_nonos - Mamonth
+6   4.93   g0blinish - блядниковый период
+7   4.90   Dovakin - Hunting on mamont
+8   4.55   Kakos_nonos - Ice Age Dihalt
+9   2.98   Misha Pertsovsky - Температурные периоды на планете Земля
+
+
+[ LowEnd 256b Intro ]
+
+1   9.43   bfox - flyshapes
+2   8.51   SerzhSoft - Solar Disco
+3   6.63   Noby Noblnoch - Vychr
+4   4.63   g0blinish - Repair Jalousie
+
+
+[ LowEnd 1k Intro ]
+
+1   6.86   Frog ^ Realm Of Illusion - Speechtro
+2   6.48   GembaBoys - 8volution
+3   6.44   g0blinish - twister
+
+
+[ Realtime LowEnd Coding ]
+
+1   5.52   g0blinish - Luv Message
+2   4.45   Misha Pertsovsky - Рото-Зуммер :-)
+
+
+[ LowEnd Demo ]
+
+1   5.19   Misha_Pertsovsky - Happy Conversion Demo
+2   4.08   Noby & TDM - Lord Hoven
+3   4.00   DenPopov - ААА не играет в хоккей!
+
+
+[ LowEnd Enhanced Demo ]
+
+1   7.08   Techno Lab & Light Future Group - 200
+2   6.16   ALKO ^ alko-art - Ufo micro-demo

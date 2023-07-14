@@ -1,0 +1,56 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Quiet\Dancing Robots Planet.pt3
+<
+Author=Quiet (ABC YM 09032016)
+Name=Dancing Robots Planet
+Length=3801
+Time=8064
+Loop=7872
+>
+..\..\Authors\Nik-O\chrome farming.pt3
+<
+Author=nq/skrju
+Name=chrome farming
+Length=9591
+Time=4608
+Loop=1536
+>
+..\..\Authors\Scalesmann\drumatic01.pt3
+<
+Author=scalesmann/march[ing]_cats
+Name=drumatic [in space]
+Length=1853
+Time=6815
+Loop=6808
+>
+<
+Author=scalesmann^mc
+Name=drumatic [in space]
+Length=2559
+Offset=1853
+Time=6814
+>
+..\..\Authors\gd638sh\Space New Year is Over.pt3
+<
+Author=gd638sh
+Name=Space New Year is Over...
+Length=4415
+Time=4864
+Loop=0
+>
+..\..\Authors\Trefi\my dream in space.pt3
+<
+Author=trefi
+Name=my dream in space
+Length=1148
+Time=8448
+Loop=3072
+>
+..\..\Authors\Misha Pertsovsky\Ufo Space Dancing.pt3
+<
+Author=Misha Pertsovsky
+Name=Ufo Space Dancing
+Length=432
+Time=2880
+Loop=0
+>

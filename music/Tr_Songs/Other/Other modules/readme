@@ -1,0 +1,51 @@
+ZX-Stag48_1.stc aka UNKNOWN AUTHOR: BLACK CAT
+UNKNOWN2.stc from Codebusters' Boot (info from MPS demo)
+ZXPK_RIP.pt3 from DLCorp site
+MadAxeII.stc from MadAxe II demo where written: "Sorry about the music (it's ripped off again)".
+SABATBLA.stc aka PHYSICAL.stc
+KATIUSHA.stc found in 230.TRD and in ATEWS.ZIP of 118.TRD of Nomy collection
+128_16.stc found in free area of 128.TRD of Nomy collection
+ROZY.stc found in 230.TRD of Nomy collection
+
+---------------5channel.nfo--------------
+Hi,
+
+this is an infofile for the 5channel(*) replaying routine
+used in the Chase HQ game. I tried to rip and hack it
+for it to use my own 3 channel tune in combination with
+those brilliant beep drums. Wow, sounds great but it needs a
+bit of fiddling with it, as the drums are slightly slowing
+down the AY tune - maybe it's just only my opinion. Check for
+yourself.
+
+
+(*) 3x AY + 2!x BEEP drums
+
+
+Here are the most important addresses to be used for further
+hacking and for running this:
+
+-start replaying 			- 30000 (simple call-keypress-jump routine)
+ 
+  A-reg has to be set to 0 - use SS+N and CURSOR to set the register to zero
+			     and SS+H for execution
+
+-tempo of the beep drums 		- 64164
+-beginning of the patterns for drums	- 64165 (mail me for the info on the pattern struc.) 
+-IM2 jump				- 48573 (JP 63661)
+-AY tune				- 32768-INIT, 32774-PLAY (std. SoundTracker player)
+63535 - call PLAY (originally there was CALL 60529 (ChaseHQ AY tune)
+
+Replaying is somehow synchronized via IM2 (see code at 63661, it stores 255 to 63656),
+dunno how it really works. Used AY tune is unknown, not mine :-)
+
+If you make the BEEP routine not to slow down the AY tune, please contact me,
+or publish it on my board (http://xagon.webz.cz/board/board.php) or at
+http://www.raww.org. Thank you!
+
+
+
+X-agon/AY Riders
+
+xagon@volny.cz
+http://xagon.webz.cz

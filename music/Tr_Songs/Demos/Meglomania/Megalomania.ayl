@@ -1,0 +1,45 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Xterminator\MegaLoMania1.stc
+<
+Time=8064
+Loop=0
+>
+..\..\Authors\Xterminator\MegaLoMania2.stc
+<
+Time=6144
+Loop=0
+>
+..\..\Authors\BSC\MegaLoMania3.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+Author=BSC
+Name=Mega Lo Mania part 3
+Program=Mega Lo Mania Demo
+Tracker=Conversion from Atari ST
+Date=1995
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=3771
+Original=185486
+Offset=138
+Time=13249
+Loop=0
+>
+..\..\Authors\Xterminator\MegaLoMania4.stc
+<
+Time=7680
+Loop=0
+>
+..\..\Authors\Xterminator\MegaLoMania5.stc
+<
+Time=13824
+Loop=0
+>
+..\..\Authors\Xterminator\MegaLoMania6.stc
+<
+Time=15360
+Loop=0
+>

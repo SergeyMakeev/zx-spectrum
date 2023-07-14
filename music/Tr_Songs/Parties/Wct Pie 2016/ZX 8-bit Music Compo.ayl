@@ -1,0 +1,25 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\MAD_DEL\Dune2_cover.pt3
+<
+Author=LaserStone(c)
+Name=DuneII - Turbulence (cover)
+Length=4215
+Time=7872
+Loop=0
+>
+..\..\Authors\MAD_DEL\morning.pt3
+<
+Author=MAD_DEL - LaserStone(c)
+Name=morning in the Dracula's mansion
+Length=1814
+Time=6400
+Loop=0
+>
+..\..\Authors\MAD_DEL\Weekend.pt3
+<
+Author=MAD_DEL - LaserStone(c)
+Name=Weekend
+Length=2535
+Time=6144
+Loop=1536
+>

@@ -1,0 +1,105 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Factor6\good_mood.sqt
+<
+Author=Factor6/K3L&Pht
+Name=Good Mood
+Comment=397
+Time=8640
+Loop=0
+>
+..\..\Authors\Hood\Xlarge.sqt
+<
+Author=Hood of KISS
+Name=Xlarge
+Comment=354
+Time=10789
+Loop=0
+>
+..\..\Authors\Yerzmyey\Oldschool.stc
+<
+Author=Yerzmyey/Hooy Program
+Name=Oldschool
+Comment=348
+Time=7680
+Loop=0
+>
+..\..\Authors\Ivan Roshin\Improv16.ay
+<
+Author=Ivan Roshin
+Name=Improvization #16
+Comment=325
+Offset=24
+Time=5414
+Loop=0
+>
+..\..\Authors\z00m\z00m - Pink Sunset.pt3
+<
+Author=ZOOM
+Name=Pink sunset
+Comment=319
+Time=7104
+Loop=192
+>
+..\..\Authors\Gasman\hopespringseternal.stc
+<
+Author=Gasman/Hooy Program
+Name=hopespringseternal
+Comment=308
+Time=9472
+Loop=0
+>
+..\..\Authors\Moran\Displace.pt3
+<
+Author=Moran/CPU
+Name=Displace
+Comment=287
+Time=6144
+Loop=0
+>
+..\..\Authors\Riskej\2001\kopy\class09.pt3
+<
+Author=risk/lsg & oca
+Name=class 09 remix
+Comment=283
+Time=6144
+Loop=192
+>
+..\..\Authors\Rob F\Deadron.pt3
+<
+Author=Rob. F.
+Name=Deadron
+Comment=276
+Time=3072
+Loop=512
+>
+..\..\Authors\Miguel\that flows within the.pt3
+<
+Author=Miguel/CPU
+Name=that flows within the
+Comment=253
+Time=2688
+Loop=0
+>
+..\..\Authors\C-jeff\2003\deaf_dmp.pt3
+<
+Author=C-Jeff
+Name=Deaf_dmp
+Comment=245
+Time=6878
+Loop=0
+>
+..\..\Authors\Key-Jee\reliz03\099-trommler-mayday.pt3
+<
+Author=key-jee//triebkraft
+Name=.m.a.y.d.a.y.
+Comment=238
+Time=9536
+Loop=0
+>

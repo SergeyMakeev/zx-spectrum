@@ -1,0 +1,31 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Jerrs\FastTrac.pt3
+<
+Author=JeRrS - ''FAST TRACK''
+Name=written for CC'11 (TS/Spectrum)
+Length=1931
+Time=4320
+Loop=0
+>
+<
+Name=written for CC'11 (TS/Spectrum)
+Length=3885
+Offset=1931
+Time=4320
+>
+..\..\Authors\Moran\sss.pt3
+<
+Author=Moran/CPU
+Name=SPEEDASIVASTASTEPPA
+Length=3465
+Time=8448
+Loop=8320
+>
+..\..\Authors\AER\DubMiniS.pt3
+<
+Author=AER
+Name=DubMiniStep
+Length=1977
+Time=3840
+Loop=1280
+>

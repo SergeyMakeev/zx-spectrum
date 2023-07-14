@@ -1,0 +1,71 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Mono
+ChannelsAllocation=Mono
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=AY
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT23 - 01-Mirages.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=MIRAGES
+Program=BIG CHUJ DEMO
+Tracker=SOUND TRACKER 1.1
+Date=2000
+>
+..\..\Authors\Yerzmyey\02-my_trax.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=MY TRAX
+Tracker=Sound Tracker 1.1
+Date=2002
+>
+..\..\Authors\Yerzmyey\03-baroque.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=BAROQUE
+Tracker=Sound Tracker 1.1
+Date=2002
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT17 - 04-Nothing_Left.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=NOTHING LEFT...
+Program=TOTAL HOOY DEMO
+Tracker=SOUND TRACKER 1.1
+Date=2001
+>
+..\..\Authors\Yerzmyey\05-stuff_like_that.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=STUFF LIKE THAT
+Program=-
+Tracker=SOUND TRACKER 1.1
+Time=10885
+Loop=0
+Date=2002
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT35 - 07-Watchin_Clouds.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=WATCHIN' CLOUDS
+Program=HOOY MAG #2
+Tracker=SOUND TRACKER 1.1
+Date=2000
+>
+..\..\Authors\Yerzmyey\08-mirages2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=MIRAGES 2
+Tracker=SOUND TRACKER 1.1
+Date=2001
+>
+..\..\Authors\Yerzmyey\09-voyage.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=VOYAGE
+Program="Droga do Duplandu" - a game
+Tracker=SOUND TRACKER 1.1
+Date=2002
+>

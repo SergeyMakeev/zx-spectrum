@@ -1,0 +1,709 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Agent-X\Other\Agent-X - Film Music 001.stc
+<
+Author=Agent-X
+Name=Film Music 001
+>
+..\..\Authors\Agent-X\Other\Agent-X - Multiorn.stc
+<
+Author=Agent-X
+Name=Multiorn
+>
+..\..\Authors\Agent-X\Other\Agent-X - The Funky Strut.stc
+<
+Author=Agent-X
+Name=The Funky Strut
+>
+..\..\Authors\Agent-X\Other\Agent-X - What A Rumble.stc
+..\..\Authors\Ahim\a-bomb_ablazed.pt3
+<
+Author=Ahim
+Name=A-Bomb Ablazed
+>
+..\..\Authors\Ahim\TEN_ZONE (caprize version).pt3
+<
+Author=Ahim
+Name=Ten Zone
+>
+..\..\Authors\And\Seven Up.pt3
+<
+Author=And
+Name=Seven Up
+>
+..\..\Authors\Andrew FER\FREESTYL.pt3
+<
+Author=Andrew Fer
+Name=Roll'em All 2
+>
+..\..\Authors\Andrew FER\andy_fer_sketchez\AndyFER.sketchez\000_0008EED1.pt3
+<
+Author=Andrew Fer
+Name=The White Road
+>
+..\..\Authors\Titus\1995\Karakuli.pt2
+<
+Author=Andrey Titov
+Name=Karakuli
+>
+..\..\Authors\Baze\laya\laya.stc
+<
+Author=Baze
+Name=Laya
+>
+..\..\Authors\Baz0FFt\AN_BASE!.pt2
+<
+Author=BazOft
+Name=Call Another Base
+>
+..\..\Authors\Bell\Bell - No Good.sqt
+..\..\Authors\BFA'ce\BFA'ce - Geography Intro.stc
+..\..\Authors\BFA'ce\BFA'ce - Geography CZ&SK.stc
+..\..\Authors\Key-Jee\reliz03\044-bg-childs_party.pt3
+<
+Author=Blagroove
+Name=Childs Party
+>
+..\..\Authors\Key-Jee\reliz03\085-bg-sensless_moles.pt3
+<
+Author=Blagroove
+Name=Sensless Moles
+>
+..\..\Authors\Key-Jee\reliz03\022-bg-remix_of_terminator_theme.pt3
+<
+Author=Blagroove
+Name=T2
+>
+..\..\Authors\Kicia\axel.stc
+<
+Author=Kicia
+Name=Axel F
+>
+..\..\Authors\Kicia\popcorn.stc
+<
+Author=Kicia
+Name=Popcorn
+>
+..\..\Authors\Cat-Man\Catman - Lazarus (Out Of Time 1).stc
+<
+Author=CAT-MAN
+Name=Lazarus
+>
+..\..\Authors\XPEH\Sokomix.stc
+<
+Author=XPEH
+Name=Sokomix
+>
+..\..\Authors\C-jeff\2003\feel_mix.pt3
+<
+Author=C-jeff
+Name=Feel
+>
+..\..\Authors\C-jeff\2003\krack_me.pt3
+<
+Author=C-jeff
+Name=Krack Me Tonight
+>
+..\..\Authors\C-jeff\2003\aroundjf.pt3
+<
+Author=C-jeff
+Name=Magicians Are Laughing Around Jeffie
+>
+..\..\Authors\C-jeff\2003\peculiar.pt3
+<
+Author=C-jeff
+Name=Peculiar Peace
+>
+..\..\Authors\D-Juice\D-JUICE.pt3
+<
+Author=D-Juice
+Name=Sector Themos
+>
+..\..\Authors\Davos\TO_STAR.pt3
+<
+Author=Davos
+Name=To Star
+>
+..\..\Authors\Criminal\HellRaisers1.pt3
+<
+Author=Criminal
+Name=Hell Raisers
+>
+..\..\Authors\Dj Denson\Air_beam.pt3
+<
+Author=DJ Denson
+Name=Air Beam
+>
+..\..\Authors\Dj Mel\DON'T.pt3
+<
+Author=DJ Mel
+Name=Don't Stop
+>
+..\..\Authors\Sergant\L_FUT-1 (Millenium'00).pt3
+<
+Author=DJ Serg
+Name=Light Future
+>
+..\..\Authors\EA\EA2003\04 - Old SKooL 4ever! (4 MLN'03).pt3
+<
+Author=EA
+Name=Oldskool 4ever
+>
+..\..\Authors\Factor6\Navstevnici Theme.sqt
+<
+Author=Factor6
+Name=Navstevnici
+>
+..\..\Authors\Factor6\Prazakum_je_hej.sqt
+<
+Author=Factor6
+Name=Prazakum Je Hej
+>
+..\..\Authors\Factor6\Through_Poland.sqt
+<
+Author=Factor6
+Name=Through Poland
+>
+..\..\Authors\Factor6\Trainer.sqt
+<
+Author=Factor6
+Name=Trainer
+>
+..\..\Authors\Fatal Snipe\Raves\HennxxW2.pt2
+<
+Author=Fatal Snipe
+Name=Hennxx Wear II
+>
+..\..\Authors\Fatal Snipe\Pops\X-Files!.pt2
+<
+Author=Fatal Snipe
+Name=X-Files
+>
+..\..\Authors\Fatal Snipe\pheelone.pt3
+<
+Author=Fatal Snipe and C-Jeff
+Name=Pheelone
+>
+..\..\Authors\Hood\Xlarge.sqt
+<
+Author=Hood
+Name=Xlarge
+>
+..\..\Authors\Imp\IMP29.stc
+<
+Author=Imp
+Name=29
+>
+..\..\Authors\Imp\IMPR1.stp
+<
+Author=Imp
+Name=Bladerunner
+>
+..\..\Authors\Imp\IMP46.stp
+<
+Author=Imp
+Name=Catch Me Sucker
+>
+..\..\Authors\Random\InterModePlayer1.2.stp
+<
+Author=Random
+Name=Fast Rave
+>
+..\..\Authors\Imp\IMP48.stp
+<
+Author=Imp
+Name=Fatality
+>
+..\..\Authors\Imp\IMP51.stp
+<
+Author=Imp
+Name=She Betrayed Me
+>
+..\..\Authors\Imp\IMP38.stp
+<
+Author=Imp
+Name=Sommit Odd
+>
+..\..\Authors\Imp\IMP64.stp
+<
+Author=Imp
+Name=Unfreezing
+>
+..\..\Authors\Imp\Vibrations #1.stc
+<
+Author=Imp
+Name=Vibrations
+>
+..\..\Authors\Imp\XTC03ST.stc
+<
+Author=Imp
+Name=xtc03st
+>
+..\..\Authors\Joe of DR\7th Reality 1.pt2
+<
+Author=Joe & Sauron
+Name=Mortal Kombat remix
+>
+..\..\Authors\Kenotron\FromDeep\KENO1_1.pt3
+<
+Author=Kenotron
+Name=Jarre
+>
+..\..\Authors\Kenotron\ABYSSICE\BOOM_ST.pt3
+<
+Author=Kenotron
+Name=Nightly Delirium
+>
+..\..\Authors\Kenotron\FromDeep\KENO22.pt3
+<
+Author=Kenotron
+Name=Rendez-Vous 4
+>
+..\..\Authors\Lasoft\Vida.pt3
+<
+Author=Lasoft
+Name=Vida
+>
+..\..\Authors\Megus\2004\Megus-Power Run (LD).pt3
+<
+Author=Megus
+Name=Power Run
+>
+..\..\Authors\Megus\2001\Megus-Stellar Contour Soundtrack part 1.pt3
+<
+Author=Megus
+Name=Stellar Contour
+>
+..\..\Authors\Megus\2001\Megus-Stellar Contour Soundtrack part 2.pt3
+<
+Author=Megus
+Name=Stellar Contour
+>
+..\..\Authors\Megus\2000\Megus-Technogen Invitation Soundtrack.pt3
+<
+Author=Megus
+Name=Tecnogen
+>
+..\..\Authors\Megus\2000\Megus-Tryptomine Dream Soundtrack (version).pt3
+<
+Author=Megus
+Name=Tryptomine Dream
+>
+..\..\Authors\Midisoft\N_FANT_3.pt3
+<
+Author=Midisoft
+Name=Midnight Fantasy III
+>
+..\..\Authors\Midisoft\Darkness.pt3
+<
+Author=Midisoft
+Name=The Warrior of Darkness
+>
+..\..\Authors\Mmcm\1996-2000\aLyaTrAn.pt3
+<
+Author=MMcM
+Name=Al-Ya Trance
+>
+..\..\Authors\Mmcm\1996-2000\ApoCalyp.pt3
+<
+Author=MMcM
+Name=Apocalypse
+>
+..\..\Authors\Mmcm\2001\BitFants.pt3
+<
+Author=MMcM
+Name=Bit Of Fantasy
+>
+..\..\Authors\Mmcm\1996-2000\FbYtErmx.pt3
+<
+Author=MMcM
+Name=Frost Byte
+>
+..\..\Authors\Mmcm\2001\!ndiffer.pt3
+<
+Author=MMcM
+Name=Indifference
+>
+..\..\Authors\Mmcm\2003\its_life.pt3
+<
+Author=MMcM
+Name=It's Life
+>
+..\..\Authors\Mmcm\2001\JB!t+pOp.pt3
+<
+Author=MMcM
+Name=Jungle Bit & Pops Acid
+>
+..\..\Authors\Mmcm\2001\mAdmEn;).pt3
+<
+Author=MMcM
+Name=Mad Men
+>
+..\..\Authors\Mmcm\1996-2000\MeLaNchO.pt3
+<
+Author=MMcM
+Name=Melancholy
+>
+..\..\Authors\Mmcm\1996-2000\MonIntro.pt3
+<
+Author=MMcM
+Name=Monster Intro
+>
+..\..\Authors\Mmcm\1996-2000\Solution.pt3
+<
+Author=MMcM
+Name=Solution
+>
+..\..\Authors\Mmcm\2001\SoUlOmAt.pt3
+<
+Author=MMcM
+Name=Soulomatic
+>
+..\..\Authors\Mmcm\2001\yOuLiFe.pt3
+<
+Author=MMcM
+Name=You Life
+>
+..\..\Authors\D-Juice\35a_mrz-BloodyAndCrazy.pt2
+<
+Author=Mr Z
+Name=Bloody and Crazy
+>
+..\..\Authors\Royal Software\SAXSOLO.asc
+<
+Author=Royal Software
+Name=Sax Solo
+>
+..\..\Authors\Nik-O\Amigdea.pt3
+<
+Author=Nik-O
+Name=Amigdea
+>
+..\..\Authors\Nik-O\BuGs.pt3
+<
+Author=Nik-O
+Name=Bugs
+>
+..\..\Authors\Nik-O\d!570r7.pt3
+<
+Author=Nik-O
+Name=Distortion Of Myself
+>
+..\..\Authors\Nik-O\dolphin.pt3
+<
+Author=Nik-O
+Name=Dolphin's themes
+>
+..\..\Authors\Nik-O\E_techno.pt3
+<
+Author=Nik-O
+Name=Easy Techno
+>
+..\..\Authors\Nik-O\editing.pt3
+<
+Author=Nik-O
+Name=Editing Metal Sun Noize Sound
+>
+..\..\Authors\Nik-O\Future.pt3
+<
+Author=Nik-O
+Name=Impossible Future
+>
+..\..\Authors\Nik-O\LaCRimAs.pt3
+<
+Author=Nik-O
+Name=Lacrimas Profundere
+>
+..\..\Authors\Nik-O\simple+.pt3
+<
+Author=Nik-O
+Name=On The Top Of The Nop
+>
+..\..\Authors\Nik-O\spleen (TrafOfD).pt3
+<
+Author=Nik-O
+Name=Spleen
+>
+..\..\Authors\Key-Jee\Other\Firstlee.pt3
+<
+Author=Key-Jee
+Name=Firstlee
+>
+..\..\Authors\Panda\csc3.pt2
+<
+Author=Panda
+Name=Crystal Rain
+>
+..\..\Authors\Panda\RUSH.pt2
+<
+Author=Panda
+Name=Don't Be Late I Promise
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Fenomena.sqt
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_2.sqt
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Popcorn.sqt
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Turrican 1 v2.sqt
+..\..\Authors\Ravager\BACK2SPC.pt3
+<
+Author=Ravager
+Name=Back 2 Speccy
+>
+..\..\Authors\Averin Roman\Emergency.vtx
+<
+ChannelsAllocation=ABC
+Author=Roma of Real Masters
+Name=Emergency Soundtrack
+Length=5775
+Original=219548
+Offset=142
+Time=10000
+Loop=0
+>
+..\..\Authors\Kvs\MAZGA.stc
+<
+Author=Rex
+Name=SD15 Info
+>
+..\..\Authors\Klav\Insult8m.stc
+<
+Author=Klav
+Name=Insult Walls
+>
+..\..\Authors\Sairoos\Buzz#16_1.psc
+<
+Author=Sairoos
+Name=Anim Must Die
+>
+..\..\Authors\Sairoos\inbetween.psc
+<
+Author=Sairoos
+Name=Inbeatween
+>
+..\..\Authors\Sauron of DR\PA-PA-PA.pt2
+<
+Author=Sauron
+Name=Doom Intro
+>
+..\..\Authors\Scalex\Scalex - Ziutkiada.sqt
+..\..\Authors\Sergant\ocean.pt3
+<
+Author=Sergant
+Name=Ocean
+>
+..\..\Authors\Seth\CybInOur.pt3
+<
+Author=Seth
+Name=Cyberworld In Our Heads
+>
+..\..\Authors\Siril\...olia iz lukoil'a... compo mix.pt3
+<
+Author=Siril
+Name=Olia Iz Lukoila
+>
+..\..\Authors\Spawn\FANTASY.pt3
+<
+Author=Stryker
+Name=Fantasy
+>
+..\..\Authors\Spawn\FTRANCE-.pt3
+<
+Author=Stryker
+Name=Fast Trance
+>
+..\..\Authors\TDM\Electric city.sqt
+<
+Author=TDM
+Name=Electricity
+>
+..\..\Authors\TDM\00a_tdm-Turrican16.sqt
+<
+Author=TDM
+Name=Turrican16
+>
+..\..\Authors\TDM\Unexceptable.sqt
+<
+Author=TDM
+Name=Unexceptable
+>
+..\..\Authors\TDM\59a_tdm-XFiles.sqt
+<
+Author=TDM
+Name=X-Files
+>
+..\..\Authors\Time Keeper\DUST #1.psc
+<
+Author=Time Keeper
+Name=Dust
+>
+..\..\Authors\Joe of DR\Forever (Final Version) 2.pt2
+<
+Author=Bloody Joseph
+Name=Forever 2
+>
+..\..\Authors\Key-Jee\reliz03\104-nkj-hart_kinderheit_inpheed.pt3
+<
+Author=Key-Jee
+Name=Weed Soundtrack
+>
+..\..\Authors\Voxon\Iris\Iris UD - Setup.fls
+<
+Author=Voxon
+Name=Iris Setup
+>
+..\..\Authors\Ace\Over The Top (last part).asc
+<
+Author=Ace
+Name=Over The Top (last part)
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\COSMIX.pt2
+<
+Author=Visual
+Name=Cosmix
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\CRUSAD-2.pt2
+<
+Author=Visual
+Name=Crusade ][
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\GALAXION.pt2
+<
+Author=Visual
+Name=Galaxion
+>
+..\..\Authors\Visual\Explosion\EXP_M-2.pt2
+<
+Author=Visual
+Name=Koto Mix
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\LIVE&DIE.pt2
+<
+Author=Visual
+Name=Live And Die
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\MADDOG.stp
+<
+Author=Visual
+Name=Mad Dog
+>
+..\..\Authors\Visual\Way To the heaven gate\TRACK-1-memstime.pt3
+<
+Author=Visual
+Name=Memories Of Time
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\Mystical.pt3
+<
+Author=Visual
+Name=Mystical Shade
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\NAR-TRNS.stp
+<
+Author=Visual
+Name=Narcotic Trance
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\NOBODY.pt2
+<
+Author=Visual
+Name=Nobody Except_U
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\SUMEA_FN (Refresh #2).stp
+<
+ChannelsAllocation=ABC
+Author=Visual
+Name=ReFresh
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\SOULKEEP.pt3
+<
+Author=Visual
+Name=Soul Keeper
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\SoUrZe.pt3
+<
+Author=Visual
+Name=Source Of Energy
+>
+..\..\Authors\Visual\My-Best-Music\NewMusic\SUMEA_FN (fixed).pt3
+<
+Author=Visual
+Name=Sumea
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Blossom.sqt
+<
+Author=X-agon
+Name=Blossom
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Breath-of-air-MOD.sqt
+<
+Author=X-agon
+Name=Breath-of-air-MOD
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Check-it.sqt
+<
+Author=X-agon
+Name=Check-it
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Dont-vote-for-this.sqt
+<
+Author=X-agon
+Name=Dont-vote-for-this
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Paperboy-ZXS48-beeper.sqt
+<
+Author=X-agon
+Name=Paperboy-ZXS48-beeper
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Ptakovina.sqt
+<
+Author=X-agon
+Name=Ptakovina
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Razor-AmigaCD32.sqt
+<
+Author=X-agon
+Name=Razor-AmigaCD32
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Turrican-C64(Huelsbeck-Vaca).sqt
+<
+Author=X-agon
+Name=Turrican-C64(Huelsbeck-Vaca)
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-X-e-b4-mtr.sqt
+<
+Author=X-agon
+Name=X-e-b4-mtr
+>
+..\..\Authors\z00m\Odd Connection.pt3
+<
+Author=z00m
+Name=Odd Connection
+>
+..\..\Authors\z00m\z00m - Oh - AY Sexy Thing.pt3
+<
+Author=z00m
+Name=Oh - AY Sexy Thing
+>
+..\..\Authors\z00m\z00m - Sonya vtx.pt3
+<
+Author=z00m
+Name=Sonya vtx
+>
+..\..\Authors\z00m\z00m - Step Into Darkness.pt3
+<
+Author=z00m
+Name=Step Into Darkness
+>
+..\..\Authors\z00m\z00m - Unreal 2_complete.pt3
+<
+Author=z00m
+Name=Unreal 2_complete
+>
+..\..\Authors\z00m\z00m - Wings Of Death.pt3
+<
+Author=z00m
+Name=Wings Of Death
+>

@@ -1,0 +1,75 @@
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::                                                _           ::
+::                                               | |          ::
+::          ___ _ __   ___  ___ ___ _   _   _ __ | |          ::
+::         / __| '_ \ / _ \/ __/ __| | | | | '_ \| |          ::
+::         \__ \ |_) |  __/ (_| (__| |_| |_| |_) | |          ::
+::         |___/ .__/ \___|\___\___|\__, (_) .__/|_|          ::
+::             | |                   __/ | | |                ::
+::             |_|                  |___/  |_| PARTY 2018.1   ::
+::                                              14.04.2018    ::
+::                                            Warsaw, Poland  ::
+::                                                            ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::  Results (place/points/prod) :                             ::
+::                                                            ::
+::  ZX Spectrum Demo Compo                                    ::
+::  ----------------------                                    ::
+::  1.  404   THX ZX! by Resistance and RKLE Team             ::
+::  2.  361   Slideshow by Monster / GDC                      ::
+::  3.  270   Riverwash 2018 invitro by Riverwash Team        ::
+::                                                            ::
+::  ZX Spectrum Intro 4kb Compo                               ::
+::  ---------------------------                               ::
+::  1.  398   Pyramids Cube by Dalthon / Joker                ::
+::  2.  342   GDC!4Kb by Monster / GDC                        ::
+::  3.  177   dawaj swierzaka! by tooloudtoowide              ::
+::                                                            ::
+::  ZX Spectrum Music Compo                                   ::
+::  -----------------------                                   ::
+::  1.  294   Send To Far Away by EA / Antares                ::
+::  2.  265   At The Last Minute by Catman / speccy.pl        ::
+::  3.  259   Jasmine by MotionRide                           ::
+::  4.  244   Amber Potion by Voyager / speccy.pl             ::
+::                                                            ::
+::  ZX Spectrum Game Compo                                    ::
+::  ----------------------                                    ::
+::  1.  378   Gem Slider by Monster / GDC                     ::
+::  2.  306   Frogger 511b by dox / DC-S                      ::
+::                                                            ::
+::  ZX Spectrum Graphics Compo                                ::
+::  --------------------------                                ::
+::  1.  411   xenoform by Piesiu / speccy.pl                  ::
+::  2.  387   Let Me Dream by DKL / Ghostown ^ speccy.pl      ::
+::  3.  377   Birdbrain by atom / speccy.pl                   ::
+::  4.  370   Rainbow Cat by Catman / speccy.pl               ::
+::  5.  366   Springtime by Slayer / Ghostown ^ speccy.pl     ::
+::  6.  324   In Glitch We Trust by Slayer/Ghostown^speccy.pl ::
+::  7.  323   Puppy by Ziutek / ESI ^ speccy.pl               ::
+::  8.  320   Out There by Pan Nexus                          ::
+::  9.  314   Funky Robot by MotionRide                       ::
+:: 10.  311   Data Sapiens by Pan Nexus                       ::
+:: 11.  277   Happy Boy by Rogal / Pixel Nation               ::
+:: 12.  273   Bad Dreams by kya / lamers                      ::
+:: 13.  272   Wannaplay by tooloudtoowide                     ::
+:: 14.  270   2001 anniversary by ZX Freeq                    ::
+:: 15.  224   Cybermind by Monster / GDC                      ::
+:: 16.  144   Rainbow Dragon by Monster / GDC                 ::
+::                                                            ::
+::  Wild Compo                                                ::
+::  ----------                                                ::
+::  1.  426   HighColor (Sam Coupe) by speccy.pl              ::
+::  2.  395   Spectrominacja VOL1 (video) by PixelNation      ::
+::  3.  302   AmiParty invitation (Amiga) by Crap Team        ::
+::  4.  293   SirClive by Monster / GDC                       ::
+::  5.  286   Antarctica (stream music) by Dakti              ::
+::  6.  265   Overlay (ZX128) by Abrimaal                     ::
+::  7.  257   Overlay bonus (ZX48) by Abrimaal                ::
+::  8.  250   Androids Do Dream by Monster / GDC              ::
+::  9.  176   memory transfer:knight lore by chicadii         ::
+:: 10.  164   memory transfer: the way of the exploading      ::
+::                                      fist by chicadii      ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::

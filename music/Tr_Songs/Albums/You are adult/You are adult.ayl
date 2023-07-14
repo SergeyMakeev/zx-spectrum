@@ -1,0 +1,113 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.2
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Yerzmyey\Why.stc
+<
+Author=Yerzmyey
+Name=Why?
+>
+..\..\Authors\Factor6\Beetle.sqt
+<
+Author=Factor 6
+Name=Beetle
+>
+..\..\Authors\Megus\2001\Megus-Autumn is calling.pt3
+<
+Author=Megus
+Name=Autumn is calling...
+>
+..\..\Authors\Gasman\PixyFluff.stc
+<
+Author=Gasman
+Name=PixyFluff
+>
+..\..\Authors\TDM\Peace.sqt
+<
+Author=TDM
+Name=Peace
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-I-am-fine.sqt
+<
+Author=X-agon
+Name=I am fine
+>
+..\..\Authors\Factor6\Bits_main.sqt
+<
+Author=Factor 6
+Name=Bits main
+>
+..\..\Authors\Yerzmyey\08-mirages2.stc
+<
+Author=Yerzmyey
+Name=Mirages 2
+>
+..\..\Authors\TDM\Electric city.sqt
+<
+Author=TDM
+Name=Electric city
+>
+..\..\Authors\Gasman\Primality.stc
+<
+Author=Gasman
+Name=Primality
+>
+..\..\Authors\Megus\2000\Megus-Tryptomine Dream Soundtrack (version).pt3
+<
+Author=Megus
+Name=Tryptomine dream
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Wretched.sqt
+<
+Author=X-agon
+Name=Wretched
+>
+..\..\Authors\TDM\uradult.sqt
+<
+Author=TDM
+Name=You are adult
+>
+..\..\Authors\Yerzmyey\03-baroque.stc
+<
+Author=Yerzmyey
+Name=Baroque
+>
+..\..\Authors\Megus\2001\Megus-Stellar Contour Soundtrack part 1.pt3
+<
+Author=Megus
+Name=Stellar Contour
+>
+..\..\Authors\Megus\2001\Megus-Stellar Contour Soundtrack part 2.pt3
+<
+Author=Megus
+Name=Stellar Contour
+>
+..\..\Authors\Factor6\Bonba.sqt
+<
+Author=Factor 6
+Name=Bonba
+>
+..\..\Authors\Gasman\Losing Victoria.stc
+<
+Author=Gasman
+Name=Losing Victoria
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-X-e-b4-mtr.sqt
+<
+Author=X-agon
+Name=X-e-b4-mtr
+>
+..\..\Authors\TDM\Startrash.sqt
+<
+Author=TDM
+Name=Startrash
+>
+..\..\Authors\Yerzmyey\09-voyage.stc
+<
+Author=Yerzmyey
+Name=Voyage to Doopland
+>

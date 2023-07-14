@@ -1,0 +1,88 @@
+/----------- raww.orgy 2010 result -----------\
+|                     v.1                     |
+| ------------------------------------------- |
+|                                             |
+| The following are the results of the compos |
+| at raww.orgy 2010, which took place from    |
+| 5th to 7th February 2010 in Yeovil, England |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| The voters at the party were:               |
+|       icabod      laesq       mikezt        |
+|       gasman       jojo       equinox       |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| The voting was done by assigning each entry |
+| a score from 0..10 depending on how rubbish |
+| or great the entry was. These votes were    |
+| then added up to decide the winners.        |
+| However, there was a joint first-place in   |
+| the Intro compo, and a three-entry tie for  |
+| first place in the Graphics compo.          |
+|                                             |
+| To solve this problem, the votes were       |
+| normalised...                               |
+| So each vote was converted to a score from  |
+| 0..1 - meaning that even if someone thought |
+| the entry was great, if they voted it lower |
+| than the others, it scores 0.               |
+| These normalised values were added up, so   |
+| each entry scored up to 6.                  |
+|                                             |
+| Only the joint first places were normalised |
+| to see who actually came first.             |
+|                                             |
+| Does that make sense? I hope so. I can give |
+| more detail if it's needed.                 |
+|                                             |
+| Note that this normalisation wasn't needed  |
+| for the music competition.                  |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| AY Music Compo                              |
+|                                         Tot |
+| 1. Winter Show 4L /riskej                43 |
+| 2. The Paninoja Near by the Pokimonos       |
+|    Village /Rolemusic                    37 |
+| 3. pioneer.boy /riskej                   32 |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| Screen$ Compo                               |
+|                                  (Norm) Tot |
+| 1. Abbey Road /Equinox           (4.57)  47 |
+| 2. Back to The Roots /riskej     (4.37)  47 |
+| 3. o2 /pROF/4D                   (4.31)  47 |
+| 4. Blue Only Mode /gasman                36 |
+| 5. Tribute to Bob Marley /newart         35 |
+| 6. It Happens (( /Olly.bfox              29 |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| 256b Intro Compo                            |
+|                                  (Norm) Tot |
+| 1. And Don't Say Anything /Olly  (3.50)  41 |
+| 2. Plankton /tiboh               (2.70)  41 |
+| 3. Shining Planet Of Crying                 |
+|    Kittens /Alff/CPU                     40 |
+| 4. A True Story from the Life of            |
+|    a Lonely Cell /Skrju/TBK              37 |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| If you have any questions or arguments...   |
+| well, you can email icabod@raww.org and I   |
+| will see what can be done.                  |
+|                                             |
+| If need be I can provide the actual voting  |
+| for the joint first places, and people can  |
+| try to work out another way to get winners! |
+|                                             |
+| ------------------------------------------- |
+|                                             |
+| v.1 First version of results                |
+|                                             |
+\---------------------------------------------/

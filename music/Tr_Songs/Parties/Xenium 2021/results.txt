@@ -1,0 +1,44 @@
+        ____  .____._______.______  .___.____     ._____.___
+        \   \/    /: .____/:      \ : __|    |___ :         |
+         \       / | : _/\ |       || : |    |   ||   \  /  |
+         /       \ |   /  \|   |   ||   |    :   ||   |\/   |
+        /    /\___\|_.: __/|___|   ||   |        ||___| |   |
+       /    /         :/       |___||___._ _____/       |___|
+      /____/                            :/          presents
+                                        :Xenium 2021 results
+
+Oldschool Demo
+- ---------------------------------------------------------------------------- -
+  01  225 Dalthonizm by Joker
+  02  189 Modernation by DKW
+  03  144 Landscape of Hope by uN aMOr [REMOTE]
+  04  127 Mega Syf 4 by UAB
+  05  114 Xenium 2021 by CrapTeam [REMOTE]
+  06  106 Rubber Soul by Faith Design
+  07   80 CatYa's Birthday by Dream & Boom! [REMOTE]
+
+256b Intro
+- ---------------------------------------------------------------------------- -
+  01  151 Picology by Marquee Design [REMOTE]
+  02  141 wiggle 256b by Agenda
+  02  141 Hypnotizing by gorgh/Agenda [REMOTE]
+  04  131 JUMP!256 by speccy.pl
+  05  128 blasma by Agenda [REMOTE]
+  06  126 pterophyllum altum by Agenda [REMOTE]
+  07   85 Xenium 256b by ps [REMOTE]
+
+Chip MSX
+- ---------------------------------------------------------------------------- -
+  01  214 Deorbitation by Malfunction/Altair
+  02  201 AY Machine by Pator/Joker
+  03  191 Goombastic! by AceMan / Resistance^Agenda^Dreamweb
+  04  183 Melbourne Shuffle by Jammer / MultiStyle Labs
+  05  180 Do nothing for 3 minutes by Shogoon
+  06  164 Acid Storm by MCH/Genesis Project^MultiStyle Labs
+  07  157 N.O.I.R. (Nie Ogolilem Intencjonalnie Rowa) by Hoffmann &
+          Radziejewski Quartet (feat. Hornee Horns)
+  08  121 BASSMINER (8580) by w4rp8 / Phantasy [REMOTE]
+  09   98 500 Minus by TZX / Roughness
+
+- -------------------------------------------------------- logo: figlet+arabek -
+                                                    results: partymeister

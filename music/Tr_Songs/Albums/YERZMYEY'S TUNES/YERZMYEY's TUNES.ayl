@@ -1,0 +1,242 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=AY
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT06 - Ballad.stc
+<
+Author=Yerzmyey/HOOY-PROGRAM
+Name=BALLAD - from "1998 DEMO"
+Program="1998 DEMO"
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT18 - BOA Theme.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=BOA THEME - from "BOA" demo ('99)
+Program="BOA" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT11 - Core.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=CORE (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT28 - Core2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=CORE 2 (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT13 - Crapmo.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TRANCE 2 - from "CRAPMO" demo ('99)
+Program="CRAPMO" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT12 - Crapmo2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TECHNO - from "CRAPMO 2" demo ('99)
+Program="CRAPMO 2" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT21 - Funk.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=FUNK (2000)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=2000
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Hooyoza.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=HOOYOZA - from "HOOYOZA" demo ('93)
+Program="HOOYOZA" demo
+Tracker=Sound Tracker 1.1
+Date=1993
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT24 - Jazzrock.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=JAZZROCK - from "CANNONBALL" demo ('99)
+Program="CANNONBALL" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT25 - Jazzrok2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=JAZZROCK 2 (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT_Intro - Koopa.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=KOOPA (1997)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1997
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT27 - Light.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=LIGHT (1998)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT14 - Pop_Tune.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=POP TUNE (1997)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1997
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT03 - Rockin'.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=ROCKIN' - from "1998 DEMO part 2"
+Program="1998 DEMO part 2"
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT30 - Russkaya.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=RUSSKAYA - from "CANNONBALL" demo ('99)
+Program="CANNONBALL" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT26 - Sad_Tune.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=SAD TUNE (1999) - 3rd place on COMPLEX COMPO party
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT20 - SadTune2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=SAD TUNE 2 (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT01 - Space.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=SPACE - from "1998 DEMO part 2"
+Program="1998 DEMO part 2"
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT09 - Strange.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=STRANGE - from "DOLITTLE" demo ('98)
+Program="DOLITTLE" demo
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT32 - Tek.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TEK (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT19 - TekTranz.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TEKNOTRANZZZ (1998)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT05 - Trance.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TRANCE - from "1998 DEMO part 2"
+Program="1998 DEMO part 2"
+Tracker=Sound Tracker 1.1
+Date=1998
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT33 - Trance2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=TRANCE 2 (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT34 - Yerz_Mix.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=YERZ MIX - from "CANNONBALL" demo ('99)
+Program="CANNONBALL" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT36 - YerzMix2.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=YERZ MIX 2 (1999)
+Program=-
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT10 - YerzSong.stc
+<
+Author=YERZMYEY/HOOY-PROGRAM
+Name=Yerz's song - from "CANNONBALL" demo ('99)
+Program="CANNONBALL" demo
+Tracker=Sound Tracker 1.1
+Date=1999
+Comment=Created with ZX SPECTRUM
+>

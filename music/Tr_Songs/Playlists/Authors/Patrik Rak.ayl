@@ -1,0 +1,41 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+..\..\Authors\Patrik Rak\Aztec.fxm
+<
+Author=Patrik Rak
+Name=Aztec
+Time=8400
+Loop=0
+Address=50000
+>
+..\..\Authors\Patrik Rak\ExplodingAtoms.fxm
+<
+Author=Patrik Rak
+Name=Exploding Atoms (unreleased)
+Time=3840
+Loop=0
+Address=50000
+>
+..\..\Authors\Patrik Rak\Falcon.fxm
+<
+Author=Patrik Rak
+Name=Falcon
+Time=3100
+Loop=0
+Address=50000
+>
+..\..\Authors\Patrik Rak\SpaceCrusade.fxm
+<
+Author=Patrik Rak
+Name=Space Crusade (unreleased)
+Time=2550
+Loop=0
+Address=50000
+>
+..\..\Authors\Patrik Rak\TerraCresta.fxm
+<
+Author=Patrik Rak
+Name=Terra Cresta
+Time=5120
+Loop=0
+Address=50000
+>

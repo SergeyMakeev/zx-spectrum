@@ -1,0 +1,58 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Crazy Michaell\T_M_W.pt2
+<
+Name="T.M.W." BY C.MICHAELL/23.3.97
+Comment=Intro1
+Time=7154
+Loop=864
+>
+..\..\Authors\Crazy Michaell\Turboxyl.pt2
+<
+Name=*C.MICHAELL'S TURBO-XYLOPHONE*
+Comment=Intro2
+Time=8960
+Loop=256
+>
+..\..\Authors\Crazy Michaell\Smagli3 intro story.pt2
+<
+Name="BOL" BY C.MICHAELL 4 SMAGLY-3
+Comment=Intro story
+Time=1248
+Loop=0
+>
+..\..\Authors\Crazy Michaell\Smagli3 intro4.pt2
+<
+Name=MUS 4 TITRS 2 "S-3"/C.MICHAELL
+Comment=Intro4
+Time=4605
+Loop=4550
+>
+..\..\Authors\Crazy Michaell\Smagli3 intro5-movie.pt2
+<
+Name=PROLOG 2 S3/C.MICHAELL/D-MIXED
+Comment=Intro5-movie
+Time=8970
+Loop=0
+>
+..\..\Authors\Crazy Michaell\Smagli3 begin.pt2
+<
+Name='GO !' - 4 BEGIN LEVEL
+Comment=Begin
+Time=465
+Loop=440
+>
+..\..\Authors\Crazy Michaell\Smagli3 title.pt2
+<
+Name=TITLE-MUSAK/C.MICHAELL/C-STYLE
+Comment=Title
+Time=12160
+Loop=320
+>
+..\..\Authors\Crazy Michaell\Smagli3 game over.pt2
+<
+Name='GAMEOVER OF S3' BY C.MICHAELL
+Comment=Game over
+Time=3305
+Loop=0
+>
+..\..\Authors\Crazy Michaell\Final.pt2

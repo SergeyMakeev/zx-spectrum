@@ -1,0 +1,29 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Sauron of DR\Megatech.pt2
+<
+Name=MEGATECH BY SAURON/DR/RPSG '96
+Comment=Intro
+Time=3840
+Loop=0
+>
+..\..\Authors\Sauron of DR\MBALLmen.pt2
+<
+Name=MEGABALL DEMO MUSIC BY SAURON!
+Comment=Title
+Time=7040
+Loop=1280
+>
+..\..\Authors\Suha\MEGABAL1.pt2
+<
+Name=WATER-WORLD.MO-DO.SUHA/DR/PSG!
+Comment=In-Game
+Time=11264
+Loop=2048
+>
+..\..\Authors\Sauron of DR\BeQuick.pt2
+<
+Name=BE QUICK OR BE DEAD/for P.LOST
+Comment=Boss
+Time=3456
+Loop=0
+>

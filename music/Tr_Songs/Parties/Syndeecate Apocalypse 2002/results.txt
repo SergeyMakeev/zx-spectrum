@@ -1,0 +1,131 @@
+                       Syndeecate 2002: results
+
+      ( rating is average of votes, ranged from 1(best) to 5(worst))
+
+wild
+  1.  1.706   BB Voodoo                             Syky Pictures + Elfo Shity Animations
+  2.  1.920   Digitus Infamis                       Elfo Shity Animations
+  3.  2.000   Nebe na zemi                          Beskydska muzika junior
+  4.  2.902   goon                                  satori + poo
+  5.  3.313   words                                 eL
+  6.  3.521   Desatero pro tvorbu                   Black_DS
+  7.  3.896   PovodnoGula                           Huge
+
+pc picture
+  1.  1.881   He's Happy!                           Dogha
+  2.  2.295   Hlad me po hlave,o hladu a na hladine Efka
+  3.  2.619   Pred dopadem                          Black_DS
+  4.  3.146   Lightning!                            Napalm
+  5.  3.268   fake_city~fake_people                 huge
+  6.  3.628   An Illusion                           sHTiF
+  7.  3.659   Audi TT                               TiMMy
+
+amiga picture
+  1.  1.341   117 Raverie                           wade
+  2.  2.125   113 Egg of Darkness                   darklight
+  3.  2.150   116 The Velvet Fear                   slayer
+  4.  3.050   114 Nowa Scena                        depress
+  5.  3.525   115 MushRoom Madness                  mice
+
+amiga raytrace
+  1.  1.952   120 Ford Mustang (DivX anim)          jack3d
+  2.  2.143   118 Shark                             biter
+  3.  2.302   121 Somewhere in the Future           snail
+  4.  2.476   119 Catacombs                         campo
+
+pc raytrace
+  1.  2.286   Spirit of the Warrior                 sHTiF
+  2.  2.500   Lowpoly Domcurik                      Elfo Shtity Animations
+  3.  2.561   Audi TT                               TiMMy
+  4.  3.310   Monastery                             Cha-OTIC
+
+zx music
+  1.  1.892   129 kumball                           xa
+  2.  2.366   133 ejkus                             bezl
+  3.  2.385   131 gasman
+  4.  2.385   135 angel dust                        Factor 6
+  5.  2.447   127 Baroque                           Yerzmyey
+  6.  2.462   126 Trax                              Yerzmyey
+  7.  2.538   134 bozdka sear                       Factor 6
+  8.  2.694   130 buggatti                          mcjak
+  9.  2.732   132 Agent X1                          TDM
+ 10.  2.763   128 hneez                             xa
+
+amiga chiptune
+  1.  3.139   136 nordic light                      mice
+  2.  3.275   137 override                          slam
+
+amiga 4channel
+  1.  2.564   139 elephantism                       reed
+  2.  3.575   138 sa2002                            blakkhar
+      3.784?  140 Jazzberry Juice                   reed
+
+amiga multichannel
+  1.  2.436   142 F-Matrix                          kopernik
+  2.  2.641   146 Made in Japan                     robin
+  3.  2.650   144 Awful & boring                    mice
+  4.  2.921   141 Vimata                            avantis
+  5.  3.211   145 Apoplex City 48                   otton
+  6.  3.351   143 Svatebni noc                      Cyril
+
+pc chiptune
+  1.  2.282   dul's Ghutar                          Santik
+  2.  3.784   Jazzberry Juice                       Reed
+  3.  4.053   Quarry                                Dogha
+  ?.  ?????   Field Theory                          carlos
+  ?.  ?????   ? <was not played>                    gameover
+
+pc module
+  1.  2.205   Elephantism                           Reed
+  2.  2.368   Radioactive                           Santik
+  3.  3.000   Pressent                              Norbert Grellneth
+  4.  3.108   Outro / Brightest Darkness            carlos
+  5.  3.289   Panzerfaust                           Dogha
+  6.  3.342   nvyo                                  kakan
+  7.  4.075   daily global                          boop
+
+pc music
+  1.  2.500   Virtuetto                             m+
+  2.  2.622   Dewy world 2721                       Raster
+  3.  2.711   Pixel                                 Norbert Grellneth
+  4.  2.842   i can't believe                       baze
+  5.  3.132   Monkey                                mata
+  6.  3.243   -=Human Hunter=-                      Dogha
+  7.  3.568   syndeecate 2002                       frohikey
+  8.  3.605   qubism                                flam
+
+amiga intro
+  1.  3.658   automa				    mad doctors
+
+i256
+  1.  1.488   radiosa                               baze / 3sc
+  2.  2.907   EQUISETUM (preslicka)                 thorm / DDT
+  3.  3.415   Partycoding is in stars               carlos / Downtown
+
+i64
+  1.  1.733   57l7                                  dairos + nula
+  2.  2.188   the.grid                              lithe.lewd.leyman
+  3.  2.786   SouL                                  k3^^y+wessan+nula
+
+demo
+  1.  1.500   Movement                              Peon
+  2.  1.625   Vyjebane demo                         Kosicky vyber
+  3.  2.098   Solitude                              iNSOMNia
+  4.  2.271   Zemeplaz                              Broncs
+  5.  2.283   Tangle                                Suspend
+  6.  2.417   Monte Carlo                           Downtown
+  7.  2.511   konsju                                tb2
+  8.  2.617   POSLEDNI                              crs + b73
+  9.  2.733   Therapy                               Marshals
+ 10.  2.875   Nosense Of The Art                    ClrSrc
+ 11.  3.354   white                                 eL + prook
+
+
+http://www.scene.cz/
+IN CASE OF MISTAKES OR MISUNDERSTANDINGS YOU MAY CONTACT ORGANIZERS 
+AT dee@mail.cz, carlos2@email.cz OR bass@centrum.sk
+
+
+
+------------------------------------------------------------------------------
+Party archive @ ftp.scene.org

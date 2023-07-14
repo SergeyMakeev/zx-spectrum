@@ -1,0 +1,30 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Mast\Crandber.pt3
+<
+Author=Mast/FtL 5.04.99
+Name=Crandberries
+Length=5135
+Time=11433
+Loop=33
+>
+..\..\Authors\Davos\Copy\Zombie.pt2
+<
+Name="ZOMBI ON THE STICK!" BY DAVOS
+Length=7410
+Time=12800
+Loop=0
+>
+..\..\Authors\Davos\ZOMBImus.pt2
+<
+Name='ZOMBItxt'(TLW2msFILE)by Davos
+Length=6790
+Time=7160
+Loop=640
+>
+..\..\Authors\Phantom Lord\traditional\Zombie.pt2
+<
+Name=REMIX OF ZOMBIE:PHANTOM LORD96
+Length=1067
+Time=2048
+Loop=0
+>

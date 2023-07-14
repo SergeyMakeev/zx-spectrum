@@ -1,0 +1,139 @@
+     .______.   ._____.  .___      ____.     .__________________________|\
+  ._\|_     |__\|_    |_\|_ /___._/    |/___\|_                           \
+  |   /     |    /    |  _/     |       _/    /  partymeister v2.00        \
+  |_ /______|   _     |  \      |       |        -------------------- -    /
+ _ /_______\____\_____|___\_____|_______|___    ________________________  /
+ \/- --_ __---------------------------------\___\--------------------- -|/
+     .__  /__    __.         ._     ___.      ____.  __.         .___
+  ._\|__\/__/_._/  |/_____._\|_)_._/  _|/__._/    |_/  |/_____._\|_ /______
+  |     \/    |    _/     |      |__       |      _/   _/     |  _/       /
+  |_    ||    |    \      |      | /       |      |    \      |  \        \_
+   /____||____|_____\_____|______|_________|______|_____\_____|___\________/
+- -diP------------------------------------------------------------------aSL- -
+
+  Combined Demo
+- -------------------------------------------------------------------------- -
+       01  213 Search by error/errorsoft
+       02  207 ARTIFICIAL by nodeus, quiet
+       03  204 HAL 4000 by SandS
+       04  177 rubby by wbcbz7
+       05  174 cube by partyplaceproducers
+       06  173 crypton by unknown
+       06  173 prcptrn by sibCrew
+       08  168 SERVERSIDE DEMO by romax9lahin
+       09  163 Oscillator by Baragoz Production
+
+  ZX Spectrum 640K Demo
+- -------------------------------------------------------------------------- -
+       01  203 Over Relaxed by sibCrew
+       02  164 ASTERISK by skrju
+       03  131 DiHalt 2018 WINTER EDITION invitro by rasmer/q-bone
+
+  Tiny Intro
+- -------------------------------------------------------------------------- -
+       01  166 northern sunset s!lence by bfox
+       02  161 Springs are going to the party by frog/Realm Of illusion
+       03  138 city 256b by riddle
+       04  133 Animated Hat3D by xmen
+       05  119 spaceship 256b by riddle
+       06  116 POKEBALL by TomCat/Abaddon
+       07  101 mikrowave by wbcbz7
+
+  ZX Spectrum Graphics
+- -------------------------------------------------------------------------- -
+       01  122 Gone with blastwave (Kimmo Lemetti tribute) by moroz1999/dibiliki
+       02  113 Rage by dman/pcb
+       03  108 Battle City by Joe Vondayl
+       04   94 The Illustrator by Matej 'Retro' Jan
+       05   73 Moment of Fear by vassa/
+       05   73 Wild West by dman/pcb
+       07   64 Drinker by Dimidrol
+
+  ZX Spectrum AY-Music
+- -------------------------------------------------------------------------- -
+       01  140 Chin Up by Quiet
+       02  125 Fight 4 the lite by fatalsnipe/
+       03  118 Not Yet Time by MmcM^Sage
+       04  113 kugelblitz by n1k-o
+       05  110 neverland by scalesmann/march[ing]_cats
+       05  110 in utero we live by scalesmann/march[ing]_cats
+       07  109 Some Small CompoFiller by TmK/deMarche
+       08   86 Tale of the lone Fairy by garvalf/
+       09   84 Des-pa-cito by aGGreSSor/CPU
+
+  ZX Spectrum Beeper Music
+- -------------------------------------------------------------------------- -
+       01  106 Stick Work by Darkman007/Quite
+       02  100 Valse de la sorcière by garvalf/
+
+  Animation/Video
+- -------------------------------------------------------------------------- -
+       01  140 Не вернуть by ZS & Co
+       02  128 The SUPERshort interview by Nuts_
+       03   75 4T0 DA/\bWe ? by -=ORION=-/Orionsoft
+
+  Combined Photo
+- -------------------------------------------------------------------------- -
+       01   87 Flashminator by Darkman007/Quite
+       02   85 Thunsee by draugven / TRBL ^ Concern Chaos
+       03   70 White Bat by Lucy
+       03   70 COPYRIGHT OF BINARY INDEX SYSTEMS by -=ORION=-   
+               (C)1986-2017.Orionsoft
+       05   68 p0rt by error/errorsoft
+       06   65 UP! by error/errorsoft
+       07   61 Tessa and Luna by Lucy
+
+  Aerial Photo
+- -------------------------------------------------------------------------- -
+       01  106 Coast by D.Fox
+       02  105 kamchatka by error/errorsoft
+       03   95 Hills by D.Fox
+       04   77 To London by draugven / TRBL ^ Concern Chaos
+       05   46 glow by error/errorsoft
+
+  HandDrawn Graphics
+- -------------------------------------------------------------------------- -
+       01  113 Wolf by Darkman007/Quite
+       02   75 � етип Азиза Еинендован by Atiragram/-
+
+  ASCII/ANSI Graphics
+- -------------------------------------------------------------------------- -
+       01   91 Cospaly on CC by dman/pcb
+       02   87 Planet Express by dman/pcb
+       03   64 HYPE LOGO  by eug! 
+       04   42 СРЕДИ НАС ХЛЮПИКОВ НЕТ by eug! 
+
+  Tiny MP3 Music
+- -------------------------------------------------------------------------- -
+       01  101 Chaos by ALTERNATIVE BOY
+       02  100 Exclusion Zone by Quiet
+       03   95 No Other Way by Darkman007/Quite
+       04   88 Up Me Down by MmcM^Sage
+       05   87 Super Drive by Darkman007/Quite
+       06   86 Struggle(схватка) by kas29/Алексей Кашкаров
+       07   79 Oh hai! by Draggs Connor
+       08   75 butterflies by astat
+       09   73 Like that by Draggs Connor
+       10   70 Elegy by aGGreSSor/CPU
+       11   61 burden by krotan
+       12   53 chrysoprase by krotan
+
+  Multichannel Traditional Music
+- -------------------------------------------------------------------------- -
+       01  119 Now What? by MotionRide
+       02  104 Nipple Break by Darkman007/Quite
+       03   89 Comeback by Darkman007/Quite
+       04   86 Night Musican by kotsoft/no
+       05   80 ozero by krotan
+
+  32K EXE Music
+- -------------------------------------------------------------------------- -
+       01  108 Cool by Mikle
+       02   96 The Right Way by MotionRide
+
+  Realtime ZX Graphics
+- -------------------------------------------------------------------------- -
+       01  125 ZX SPECTRUM REALTIME GRAPHICS: City by moroz1999/dibiliki
+       02  116 SailorFuture by BlastOff/NOT-Soft
+       03   98 close_town by shuran33
+       04   97 no_fuel by shuran33

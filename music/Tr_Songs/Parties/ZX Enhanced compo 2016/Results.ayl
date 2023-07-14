@@ -1,0 +1,67 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Splinter\Neuromechanics 2MHz.pt3
+<
+ChipFrequency=2000000
+Author=Cj Splinter
+Name=Neuromechanics
+Length=10739
+Time=11397
+Loop=0
+>
+<
+Author=Cj Splinter
+Name=Neuromechanics
+Length=11489
+Offset=10739
+Time=11013
+>
+..\..\Authors\Nik-O\nq-frontiers (200Hz).pt3
+<
+PlayerFrequency=200000
+Author=n1k-o (orig. by Omnium Gatherum)
+Name='Frontiers'         12.02.2016
+Length=8860
+Time=36200
+Loop=35624
+>
+<
+Author=n1k-o (orig. by Omnium Gatherum)
+Name='Frontiers'         12.02.2016
+Length=9137
+Offset=8860
+Time=36200
+>
+..\..\Authors\kubikami\godnote-jeernote_sign (1KHz).pt3
+<
+PlayerFrequency=1000000
+Author=kubikami
+Name=Godnote & Jeernote
+Length=4716
+Time=169984
+Loop=0
+>
+<
+Author=kubikami
+Name=Godnote & Jeernote
+Length=4999
+Offset=4716
+Time=178176
+>
+..\..\Authors\Rubedo\phayses.pt3
+<
+ChipFrequency=1750000
+PlayerFrequency=48828
+Author=rubedo^lapis_ph
+Name=phayses
+Length=349
+Time=6120
+Loop=0
+>
+<
+Author=rubedo^lapis_ph
+Name=phayses
+Length=352
+Offset=349
+Time=6120
+Loop=0
+>

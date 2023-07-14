@@ -1,0 +1,151 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=AY
+>
+..\..\Authors\Factor6\Doxy Player.sqt
+<
+Author=Factor 6 of E.S.A.
+Name=From Offical Doxy'98 Results Viewer
+Program=Doxy'98 Results Viewer
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=1920
+Loop=0
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Selfmade-executable-C64.sqt
+<
+Author=X-Agon of NC
+Name=SELF EXE
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=8640
+Loop=640
+>
+..\..\Authors\Bell\Genetic Error.sqt
+<
+Author=Bell of K3L Corp
+Name=Genetic Error
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=11392
+Loop=0
+>
+..\..\Authors\TDM\Renegade.sqt
+<
+Author=TDM of K3L Corp.
+Name=Renegade
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=16001
+Loop=0
+>
+..\..\Authors\Bell\RAZOR.sqt
+<
+Author=Bell of K3L Corp.
+Name=RAZOR
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=18650
+Loop=0
+>
+..\..\Authors\Cobra of SB\He's Coming.stc
+<
+Author=Cobra of SB
+Name=He's Coming
+Program=Doxy98 MusCompo
+Tracker=Sound Tracker 1.xx
+Computer=ZX Spectrum
+Date=1998
+Time=15232
+Loop=0
+>
+..\..\Authors\Factor6\PersonalFairlights.sqt
+<
+Author=Factor 6 of E.S.A.
+Name=Personal F...
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=2880
+Loop=0
+>
+..\..\Authors\Johny-X\Hnus.sqt
+<
+Author=Johny X of NC
+Name=HNUS
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=3840
+Loop=2304
+>
+..\..\Authors\X-agon\X-agon_of_Phantasy-Old-skool-C64(Cube).sqt
+<
+Author=X-Agon of NC
+Name=Old Skool
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=6528
+Loop=768
+>
+..\..\Authors\TDM\Robocop 2.sqt
+<
+Author=TDM of K3L Corp.
+Name=Robocop 2
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=4992
+Loop=384
+>
+..\..\Authors\Hood\Hood for Doxy.sqt
+<
+Author=Hood
+Name=Hood for Doxy
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=18432
+Loop=0
+>
+..\..\Authors\Factor6\Follin2B.sqt
+<
+Author=Factor 6 of E.S.A.
+Name=Follin 2B
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=1728
+Loop=0
+>
+..\..\Authors\MGSak\Lupruz.sqt
+<
+Author=MGsak
+Name=LUPRUZ
+Program=Doxy98 MusCompo
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Date=1998
+Time=8712
+Loop=0
+>

@@ -1,0 +1,60 @@
+Chaos Constructions'2009 results for ZX Spectrum
+
+### Combined Game
+
+ 1.  93 ( #1) Preliminary Monty         - Andrew Zhiglov
+ 2.  77 ( #2) System                    - Trion [PC]
+ 
+### Combined 4k Procedural Graphics
+
+ 1. 170 ( #4) i felt the earth breathing- quite [PC]
+ 2. 163 ( #3) jinn                      - quite [PC]
+ 3.  80 ( #1) Life is good              - vasya [PC]
+ 4.  70 ( #2) Carry                     - vasya [PC]
+ 5.  68 ( #5) Cyku CC                   - newart/n-discovery
+
+### ZX 640k Demo
+
+ 1. 100 ( #3) The Link                  - Alone Coder/Invaders8
+ 2.  79 ( #4) Leaving                   - skrju
+ 3.  73 ( #2) CRAPMO part 3             - HOOY-PROGRAM
+ 4.  55 ( #1) 8 bit snail               - svo [Vector-06C]
+ 
+### ZX Graphics  
+
+ 1. 315 (#13) Chaos Engine              - pROF/4D
+ 2. 144 ( #5) Medieval                  - Dimidrol
+ 3. 143 ( #8) Guardian                  - newart/n-discovery
+ 4. 115 ( #4) IESUS CC                  - aGGreSSor/CPU
+ 5. 114 ( #6) MC Duck                   - JV Graphics
+ 6. 112 ( #2) Blair                     - breeze/fishbone crew
+ 7. 107 (#14) warmonger                 - KACuk
+ 8. 105 ( #3) Highlanders               - Dimidrol
+ 9. 102 ( #9) Commando                  - MyKat
+10.  87 (#15) Oldschool mastery         - sl and riskej/simbols
+11.  80 ( #1) Nether Earth game over    - Alone Coder/Invaders8
+12.  78 (#11) Друг (friend)             - Moran/CPU
+13.  71 ( #7) Megamozg                  - MadMax/KnA
+14.  65 (#10) Paracels                  - Paracels/Placebo
+15.  48 (#12) желание (desire)          - Moran/CPU
+
+### ZX AY-Music  
+
+ 1. 121 (#5) Fast Creature              - MmcM/Sage
+ 2.  71 (#9) Turboman                   - Voxel/Triumph
+ 3.  67 (#1) Timedrops (for CC'09)      - Vedem
+ 4.  61 (#8) Poslednij den              - S.A.V.
+ 5.  59 (#3) Wooden Toy                 - rnR T.A.D. 7D9
+ 6.  56 (#6) Indian Tonky Ponky         - Megabyte
+ 7.  53 (#7) watch my emotions      - scalesmann^march[ing] cats
+ 8.  40 (#2) Mechanic Hi-Tech II        - MadMax/KnA
+ 9.  31 (#4) TechNObiT                  - Moran/CPU
+
+### Real-time ZX Coding  
+
+01.  33 (#4) Tape loading error         - FK0
+02.  32 (#6) 3CDRLT                     - newart/n-discovery
+03.  22 (#3) 1                          - FL3
+04.  20 (#5) Sl!deshow                  - bfox
+05.  12 (#2) Blame                      - Vitamin
+06.  10 (#1) Go                         - budder/MGN

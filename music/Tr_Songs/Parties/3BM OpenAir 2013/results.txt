@@ -1,0 +1,61 @@
+3BM OpenAir 2013 official results
+a zx spectrum tbk4d party | 12-14|july | perm|russia
+
+pl/sh/pts/avrg/title - author
+
+               graphics:
+
+ 1 14 176 8,80 Going to the exploits - Samanasuke
+ 2  4 165 8,25 master - hydrogen
+ 3 16 144 7,20 Return to Aegna - Vassa
+ 4 15 142 7,10 Bat0Con 70 Percents Repixelled Conversion - Tutty
+ 5 13 136 6,80 Seventeen Seconds - nix
+ 6 12 121 6,05 Don't cry - Samanasuke
+ 7 11 114 5,70 Founded Robot - John Norton Irr
+ 8  5 105 5,25 Win is coming - nodeus
+ 9  6 104 5,20 Bender is watching you - Vinnny
+10 10  96 4,80 partywinner - dman/pcb
+11  7  93 4,65 blank - ellvis/zt
+12  8  78 3,90 logo 199x - biomax
+13  9  75 3,75 tetris - ellvis/zt
+14  2  73 3,65 Car sounds like skyscraper - John Norton Irr
+15  3  59 2,95 Flying Asphalt - John Norton Irr
+16  1  48 2,40 teapot - Kakos_nonos
+
+               music:
+
+ 1  9 163 8,15 FLY...R U READY? - Mike&JtN/4D
+ 2  5 139 6,95 Shatterhand - Gibson
+ 3  7 136 6,80 Game of Mind - MmcM/Sage
+ 4  1 123 6,15 Dizzy the Adventurer Overworld 1 - nix
+ 5  8 119 5,95 Shoes Restorer - VBI
+ 6  2 114 5,70 Terrible spring - Kakos_nonos
+ 7  3  94 4,70 ManDmz Rescue - WhoIs Hero
+ 7  4  94 4,70 Streets of the Unknown - Factor6
+ 9  6  82 4,10 no tears, no fears, no hopes... - scalesmann^mc
+
+               realtime graphics:
+
+ 1  9 141 7,05 katy - dman/pcb
+ 2  6 126 6,30 Look, my boobs is bigger than yours! - diver/4d
+ 3  7 125 6,25 Guess What, It's A Fucking Gundam! - nix
+ 4  4 121 6,05 Real Time - Vassa
+ 5  8 119 5,95 lasertits - moroz1999
+ 6  1  93 4,65 they are coming - hydrogen
+ 7  2  84 4,20 Katya Stepler - Kakos_nonos
+ 8  3  82 4,10 Robot near the sea - John Norton Irr
+ 8  5  82 4,10 Nasha Nyasha - Samanasuke
+
+               demo:
+
+ 1  5 149 7,45 Sumprematism Loop - introspec
+ 2  3 116 5,80 happy birthday psndcj - goblinish
+ 3  4 112 5,60 Alien - robus
+ 4  1  80 4,00 Fakel demo - Kakos_nonos
+ 5  2  74 3,70 3BM 2013 minidemo - mike/zeroteam
+
+there was 1-10 points system. zero votes was replaced with average ones.
+
+voters: nodeus, pROF, lena, xam, muwok, jtn, sunny, rollerbob, psndcj,
+keyjee, nix, goblin, introspec, kakos_nonos, unbeliever, tutty, vbi,
+moroz1999, vampirka, diver

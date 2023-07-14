@@ -1,0 +1,77 @@
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::                                                _           ::
+::                                               | |          ::
+::          ___ _ __   ___  ___ ___ _   _   _ __ | |          ::
+::         / __| '_ \ / _ \/ __/ __| | | | | '_ \| |          ::
+::         \__ \ |_) |  __/ (_| (__| |_| |_| |_) | |          ::
+::         |___/ .__/ \___|\___\___|\__, (_) .__/|_|          ::
+::             | |                   __/ | | |                ::
+::             |_|                  |___/  |_| PARTY 2019.1   ::
+::                                              06.04.2019    ::
+::                                            Warsaw, Poland  ::
+::                                                            ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::
+::  Results (place/points/prod) :                             ::
+::                                                            ::
+::  WILD                                                      ::
+::  ----                                                      ::
+::  1.  116   Restless Rains by A. Walacinski                 ::
+::                                      - Catman/speccy.pl    ::
+::  2.  109   SpeccyCityStories - Ziutek/ESI /speccy.pl       ::
+::  3.  105   FlashMix images - MoNsTeR/GDC                   ::
+::  4.  101   Let You Down by Woodkid - ZXFreeq               ::
+::  5.   97   Obsession - Antony/DTA                          ::
+::  6.   94   What If - Sir David/speccy.pl                   ::
+::  7.   93   AmiParty XXV Invitro - CrapTeam                 ::
+::  8.   91   Sentencye - chicadii / Piotr Borys Sikora       ::
+::  9.   73   Yellow is the Best - Mandi/CrapTeam             ::
+:: 10.   59   Sailing_ship - Rasti                            ::
+::                                                            ::
+::  ZX SPECTRUM AY MUSIC                                      ::
+::  --------------------                                      ::
+::  1.  126   Empty Island - Lamer Pinky^Krap Gang            ::
+::  2.  105   Shakin' Nibbles - V0yager                       ::
+::  3.   98   Tygrysy na lace - Muuuuu                        ::
+::  4.   93   Eleventy - MotionRide                           ::
+::                                                            ::
+::  ZX SPECTRUM GFX                                           ::
+::  ---------------                                           ::
+::  1.  148   THE EYEBALL COLLECTOR - Piesiu/speccy.pl        ::
+::  2.  144   Imaginary dragons - Darklight/GTN^Speccy.pl     ::
+::  3.  132   demonek - at0m/speccy.pl                        ::
+::  4.  127   Space Inquisition - at0m/speccy.pl              ::
+::  5.  125   Speccy Heroes - MotionRide                      ::
+::  6.  118   I don't have time - Kya/Lamers                  ::
+::  7.   99   The Speccy night - Rogal                        ::
+::  8.   91   Discovery - ZXFreeq                             ::
+::  9.   80   Ogon - Dakti                                    ::
+:: 10.   63   Demo - MoNsTeR/GDC                              ::
+::                                                            ::
+::  ZX SPECTRUM INTRO 256B                                    ::
+::  ----------------------                                    ::
+::  1.  164   Brain Waves - Dox/Joker                         ::
+::  2.  125   Fourmulas - Dalthon/Joker                       ::
+::  3.  123   Waka Waka - Dox/Joker                           ::
+::  4.  121   Hypnosis - MoNsTeR/GDC                          ::
+::  5.  100   Voodoo Pink - Phonex                            ::
+::  6.   86   Let's SIN - MoNsTeR/GDC                         ::
+::  7.   84   Stripes - MoNsTeR/GDC                           ::
+::  8.   79   Life - MoNsTeR/GDC                              ::
+::       79   Colormesh - MoNsTeR/GDC                         ::
+:: 10.   76   PI - MoNsTeR/GDC                                ::
+::                                                            ::
+::  ZX SPECTRUM INTRO 4KB                                     ::
+::  ---------------------                                     ::
+::  1.  159   ERZAC - speccy.pl                               ::
+::  2.  102   CrapTeam4k - Mandi/CrapTeam                     ::
+::  3.   49   MAGintro - ZXFreeq                              ::
+::                                                            ::
+::  ZX SPECTRUM DEMO                                          ::
+::  ----------------                                          ::
+::  1.  135   Oxygene 7 - Stardust                            ::
+::  2.  134   Yet Another RoToZoomer - r-type/GDC             ::
+::                                                            ::
+::. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-. ,-::
+::`-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' `-' ::

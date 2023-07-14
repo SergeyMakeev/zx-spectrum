@@ -1,0 +1,373 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\ant1\MK9915 covering letter (you used to be different).pt3
+..\..\Authors\ant1\pasta salad.pt3
+..\..\Authors\ant1\TNe.pt3
+..\..\Authors\ant1\VTIIModule4.pt3
+..\..\Authors\ant1\alarmcall.pt3
+..\..\Authors\Dippy\Still Alive (aym_groove 56Hz 2MHz).pt3
+<
+ChipFrequency=2000000
+PlayerFrequency=56000
+>
+..\..\Authors\Dippy\cold weather (60Hz 2MHz).pt3
+<
+ChipFrequency=2000000
+PlayerFrequency=60000
+>
+..\..\Authors\kfaraday\gimme some more formats!!!!!.pt3
+..\..\Authors\Tobikomi\Winter Knight.pt3
+..\..\Authors\th4 D34D\w1nt32.pt3
+..\..\Authors\funute\The Inn at Snoweville.pt3
+..\..\Authors\Bloobop\Frozen Body, Burning Spirit.pt3
+..\..\Authors\Quiet\Frozen Heart.pt3
+..\..\Authors\Pigu\AYystep.pt3
+..\..\Authors\Robyn\Summer Spring.pt3
+..\..\Authors\gotoandplay\saving_p.pt3
+..\..\Authors\gotoandplay\Lacking Polish.pt3
+..\..\Authors\gotoandplay\Groove Blaster '96.pt3
+..\..\Authors\Tobikomi\AY Baby (Daydreamer).pt3
+..\..\Authors\Dippy\Jakks pacific and their AY chips.pt3
+..\..\Authors\Warlord of Armagon\Future Disruption.pt3
+<
+Author=Warlord
+Name=Future Disruption
+Length=6013
+Time=7264
+Loop=0
+>
+..\..\Authors\Warlord of Armagon\In Soviet Russia The Tracker Makes You.vtx
+..\..\Authors\Warlord of Armagon\Rally.pt3
+<
+Author=Warlord
+Name=Rally
+Length=3017
+Time=3840
+Loop=0
+>
+..\..\Authors\Warlord of Armagon\robotalk.pt3
+<
+Author=armagon@mbnet.fi
+Name=Warlord - robotalk
+Length=1423
+Time=3840
+Loop=0
+>
+..\..\Authors\Warlord of Armagon\Sliding and Gliding.vtx
+..\..\Authors\Warlord of Armagon\Space Cruising.vtx
+..\..\Authors\Warlord of Armagon\Street Runner.vtx
+..\..\Authors\Warlord of Armagon\Sunrise Paradox.vtx
+..\..\Authors\Warlord of Armagon\There's yogurt on my keyboard_!_.vtx
+..\..\Authors\Warlord of Armagon\Vertex Zeta.vtx
+..\..\Authors\Warlord of Armagon\Winter Flashback.vtx
+..\..\Authors\Strobe\Bionic Bitch III.ym
+..\..\Authors\Strobe\Bionic Revolt.ym
+..\..\Authors\Strobe\Resonance Avenger III.vtx
+..\..\Authors\Chip Champion\Androida Maid Service_1.pt3
+<
+Author=Chip Champion
+Name=Androida Maid Service
+Length=5211
+Time=5952
+Loop=0
+>
+..\..\Authors\Chip Champion\dissiDencE.pt3
+<
+Author=chip champion
+Name=dissiDencE
+Length=5476
+Time=7824
+Loop=0
+>
+..\..\Authors\Chip Champion\magic carpet burn_3.pt3
+<
+Author=chip champion
+Name=magic carpet burn
+Length=4153
+Time=6768
+Loop=6640
+>
+..\..\Authors\Chip Champion\pharaoh trims his beard.pt3
+<
+Author=chip champion
+Name=pharaoh trims his beard
+Length=6296
+Time=5952
+Loop=0
+>
+..\..\Authors\Chip Champion\Strobe Fuckers Inc__4.pt3
+<
+Author=chip champion
+Name=strobe fuckers inc.
+Length=5212
+Time=8840
+Loop=0
+>
+..\..\Authors\Chip Champion\Ultimate_Sceneballz_FinalRelease_5.pt3
+<
+Author=Chip Champion
+Name=Ultimate_Sceneballz_FinalRelease
+Length=5468
+Time=6504
+Loop=0
+>
+..\..\Authors\rainwarrior\Escape the Ice Caves of Botberia.pt3
+<
+Author=rainwarrior
+Name=Escape the Ice Caves of Botberia
+Length=2980
+Time=3776
+Loop=3648
+>
+..\..\Authors\rainwarrior\keep your lizard feet off the hot sand.vtx
+..\..\Authors\rainwarrior\War Crime II (2MHz).pt3
+<
+ChipFrequency=2000000
+Author=rainwarrior
+Name=War Crime II
+Length=2266
+Time=2688
+Loop=0
+>
+..\..\Authors\rainwarrior\why_man.vtx
+..\..\Authors\m9m\boxing in china.pt3
+<
+Author=m9m
+Name=boxing in china
+Length=2049
+Time=1989
+Loop=1984
+>
+..\..\Authors\m9m\fartbassv.pt3
+<
+Author=m9m
+Name=fartbassv
+Length=2296
+Time=2144
+Loop=2016
+>
+..\..\Authors\m9m\generic fucking shit i will get below 20 for.pt3
+<
+Author=m9m
+Name=generic fucking shit i will get below 20 for.pt3
+Length=1910
+Time=3185
+Loop=3180
+>
+..\..\Authors\m9m\Procastination kidnapping adventure.pt3
+<
+Author=m9m
+Name=Procastination kidnapping adventure
+Length=3211
+Time=5760
+Loop=5568
+>
+..\..\Authors\m9m\The Inferno Wackers (2MHz).pt3
+<
+ChipFrequency=2000000
+Author=mega9man
+Name=The Inferno Wackers
+Length=5397
+Time=5034
+Loop=5031
+>
+..\..\Authors\m9m\Yama Hana.pt3
+<
+Author=m9m
+Name=Yama Hana
+Length=4286
+Time=6888
+Loop=6876
+>
+..\..\Authors\Kulor\Winter4f.pt3
+<
+Author=Kulor 2oo9
+Name=Lipsdog Christmas Boogie
+Length=6479
+Time=5376
+Loop=0
+>
+..\..\Authors\Nik-O\RAWR.pt3
+<
+Author=nq/skrju  27.01.2017
+Name=RAWR   (BotB: Winter Chip XII)
+Length=11523
+Time=6096
+Loop=0
+>
+..\..\Authors\MovieMovies1\box box box.pt3
+<
+Author=MovieMovies1
+Name=box box box
+Length=1707
+Time=4096
+Loop=0
+>
+..\..\Authors\MovieMovies1\Sunny Day in November.pt3
+<
+Author=MovieMovies1
+Name=Sunny Day in November
+Length=1577
+Time=3072
+Loop=0
+>
+..\..\Authors\MovieMovies1\Up in the Clouds.pt3
+<
+Author=MovieMovies1
+Name=Up in the Clouds
+Length=2333
+Time=9027
+Loop=9024
+>
+..\..\Authors\MovieMovies1\whoa what is this omg lol.pt3
+<
+Author=MovieMovies1
+Name=whoa what is this omg lol
+Length=1242
+Time=1792
+Loop=0
+>
+..\..\Authors\DoctorGentleman\Molten.pt3
+<
+Author=Doctor Gentleman
+Name=Molten (Use ABC Stereo)
+Length=6207
+Time=3840
+Loop=0
+>
+..\..\Authors\Zlew\ode to n00bz.pt3
+<
+Author=Zlev
+Name=ode to n00bz
+Length=2396
+Time=4356
+Loop=4352
+>
+..\..\Authors\Zlew\ayy hande hoch.pt3
+<
+Author=Zlev
+Name=ayy hande hoch
+Length=4186
+Time=4976
+Loop=4848
+>
+..\..\Authors\Zlew\very sexy operating computer.pt3
+<
+Author=zlew
+Name=very sexy operating computer
+Length=3605
+Time=3072
+Loop=0
+>
+..\..\Authors\Zlew\Sexy Chicay Grind.pt3
+<
+Author=Zlew
+Name=Sexy Chicay Grind
+Length=5001
+Time=8454
+Loop=8448
+>
+..\..\Authors\kfaraday\return of the MEGA SUPER definitive ja it is gut rave (MPV core 2012 styleez mix).pt3
+<
+Author=kfaraday
+Name=return of the MEGA SUPER definitive ja it is gut rave (MPV core 2012 styleez mix)
+Length=1944
+Time=4608
+Loop=0
+>
+..\..\Authors\kfaraday\Tinker Factory.pt3
+<
+Author=kfaraday
+Name=Tinker Factory
+Length=3681
+Time=2432
+Loop=0
+>
+..\..\Authors\kfaraday\Haruka's Spear (Uranus).pt3
+<
+Author=kfaraday
+Name=Haruka's Spear (Uranus)
+Length=12583
+Time=12216
+Loop=0
+>
+..\..\Authors\kfaraday\painus.pt3
+<
+Author=kfaraday
+Name=painus
+Length=3380
+Time=3174
+Loop=2982
+>
+..\..\Authors\kfaraday\the patchwork frog.pt3
+<
+Author=kfaraday
+Name=the patchwork frog
+Length=1244
+Time=1497
+Loop=0
+>
+..\..\Authors\jrlepage\steakmittens.pt3
+<
+Author=jrlepage
+Name=steakmittens
+Length=2588
+Time=1536
+Loop=0
+>
+..\..\Authors\jrlepage\The Last Hour of Winter.pt3
+<
+Author=2013 jrlepage WC8
+Name=The Last Hour of Winter
+Length=2834
+Time=2304
+Loop=768
+>
+..\..\Authors\Jangler\Hextile Jinxed Fabrics Factory.pt3
+<
+Author=Jangler
+Name=Hextile Jinxed Fabrics Factory
+Length=3768
+Time=4136
+Loop=0
+>
+..\..\Authors\Jangler\beltbattle.pt3
+<
+Author=Jangler
+Name=beltbattle
+Length=1798
+Time=1854
+Loop=0
+>
+..\..\Authors\Jangler\fireplace.pt3
+<
+Author=Jangler
+Name=fireplace
+Length=1153
+Time=2100
+Loop=0
+>
+..\..\Authors\Yerzmyey\Mission Highly Improbable (ZX).pt3
+<
+Author=Yerzmyey
+Name=Mission Highly Improbable (ZX)
+Length=5455
+Time=4080
+Loop=0
+>
+..\..\Authors\usagi\quartzcrystal.pt3
+<
+Author=usagi
+Name=quartzcrystal
+Length=1918
+Time=2837
+Loop=2171
+>
+..\..\Authors\gyms\she left me stranded on an island without trees (2MHz).pt3
+<
+ChipFrequency=2000000
+Author=gyms
+Name=she left me stranded...
+Length=3850
+Time=4608
+Loop=0
+>

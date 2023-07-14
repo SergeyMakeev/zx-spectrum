@@ -1,0 +1,235 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+>
+..\..\Authors\Joe of DR\Likemya.pt2
+<
+Author=Joe of DR/RPSG
+Name=Likemya
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 1. Votes: 108.
+Time=9280
+Loop=8960
+>
+..\..\Authors\Dnk\Dnk-1.pt2
+<
+Author=DNK of Virt Group
+Name=Dnk-1
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 2. Votes: 99.
+Time=8862
+Loop=8832
+>
+..\..\Authors\Ksa\KSA INS.stp
+<
+Author=KSA
+Name=KSA IN NORO'S STYLE ...
+Program=Enlight'96 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 3. Votes: 96.
+Time=13056
+Loop=2304
+>
+..\..\Authors\Evolver\KRYTEXHO.stc
+<
+Author=Evolver of RUSH
+Name=KRYTEXHO
+Program=Enlight'96 Music Compo
+Tracker=STC->Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 4. Votes: 73.
+Time=13760
+Loop=0
+>
+..\..\Authors\Ksa\19 MNG.W.stp
+<
+Author=KSA
+Name=19 MGNOWENIY WESNY
+Program=Enlight'96 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 6. Votes: 62.
+Time=7680
+Loop=0
+>
+..\..\Authors\Slash\Molodoy (Party Version).pt2
+<
+Author=Slash of ADG/RPSG
+Name=Malikov
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 7. Votes: 60.
+Time=8000
+Loop=0
+>
+..\..\Authors\Arno\Larel_e.pt2
+<
+Author=A. Mihaylov of Scorpion & K.H.G.
+Name=Larel_e
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 10. Votes: 49.
+Time=8832
+Loop=0
+>
+..\..\Authors\Alien\Intro 1.pt2
+<
+Author=Alien of Virt Group
+Name=Intro 1
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 11. Votes: 45.
+Time=2045
+Loop=2020
+>
+..\..\Authors\Sauron of DR\Doom-1 (Myst).pt2
+<
+Author=Sauron of DR/RPSG
+Name=Myst
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 11. Votes: 45.
+Time=6252
+Loop=6232
+>
+..\..\Authors\Slash\Love'96.pt2
+<
+Author=Slash of ADG/RPSG
+Name=Love'96
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 12. Votes: 37.
+>
+..\..\Authors\Visual\My-Best-Music\BONUS\Noth.Forever.stp
+<
+Author=Magic Soft
+Name=Noth.Forever
+Program=Enlight'96 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 13. Votes: 31.
+Time=9440
+Loop=0
+>
+..\..\Authors\Dexter\Enlight.pt2
+<
+Author=Dexter of Galaxy Group
+Name=Enlight
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 16. Votes: 25.
+Time=10240
+Loop=9920
+>
+..\..\Authors\Arno\Cr2.pt2
+<
+Author=A. Mihaylov of Scorpion & K.H.G.
+Name=Cr2
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 16. Votes: 25.
+Time=9280
+Loop=0
+>
+..\..\Authors\Push\Steam.pt2
+<
+Author=Ivan Bobov
+Name=Steam-2
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 16. Votes: 25.
+Time=10350
+Loop=9966
+>
+..\..\Authors\Mas\Cube.stc
+<
+Author=World Eyes
+Name=Cube
+Program=Enlight'96 Music Compo
+Tracker=STC->Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 18. Votes: 22.
+Time=12160
+Loop=0
+>
+..\..\Authors\Alien\Never.pt2
+<
+Author=Alien of Virt Group
+Name=Never
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 18. Votes: 22.
+Time=8345
+Loop=8320
+>
+..\..\Authors\Evolver\Tn2.stc
+<
+Author=Evolver of RUSH
+Name=Tn2
+Program=Enlight'96 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 19. Votes: 10.
+Time=10560
+Loop=0
+>
+..\..\Authors\Pahomov Sergey\Grave 3.0.pt2
+<
+Author=Sergey Pahomov
+Name=Grave 3.0
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 20. Votes: 8.
+Time=6080
+Loop=0
+>
+..\..\Authors\Pahomov Sergey\Improviz.One.pt2
+<
+Author=Sergey Pahomov
+Name=Improviz.One
+Program=Enlight'96 Music Compo
+Tracker=Pro Tracker 2
+Computer=ZX Spectrum
+Date=1996
+Comment=Position: 21. Votes: 5.
+Time=9792
+Loop=0
+>
+..\..\Authors\Mic of MPS\STOP.stp

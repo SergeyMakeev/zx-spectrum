@@ -1,0 +1,36 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Noro\press.vtx
+..\..\Authors\Fuxoft\Monty On The Run.fxm
+..\..\Authors\Fuxoft\Master of Magic.fxm
+..\..\Authors\Fuxoft\Magnetic Fields V.fxm
+..\..\Authors\Fuxoft\Terra Cresta.fxm
+..\..\Authors\Fuxoft\ZUB.fxm
+..\..\Authors\Fuxoft\Crazy Comets and Penetrator.fxm
+..\..\Authors\Fuxoft\Fugue.fxm
+..\..\Authors\Fuxoft\Feud.fxm
+..\..\Authors\Fuxoft\The Last V8.fxm
+..\..\Authors\Fuxoft\Chimera.fxm
+..\..\Authors\Fuxoft\Commando.fxm
+..\..\Authors\Fuxoft\Ghostbusters.fxm
+..\..\Authors\Fuxoft\Axel F. Theme.fxm
+..\..\Authors\Fuxoft\E.T. Flying.fxm
+..\..\Authors\Fuxoft\Eqinoxe V.fxm
+..\..\Authors\Fuxoft\Jet Story.fxm
+..\..\Authors\Fuxoft\Alla Turca.fxm
+..\..\Authors\Fuxoft\FIRE.fxm
+..\..\Authors\Fuxoft\Where Time Dropped Dead.fxm
+..\..\Authors\Fuxoft\Land Of Confusion.fxm
+..\..\Authors\Fuxoft\RendezVous IV.fxm
+..\..\Authors\Fuxoft\View to a Kill.fxm
+..\..\Authors\Fuxoft\Belegost.fxm
+..\..\Authors\Fuxoft\Golden Triangle Anthem.fxm
+..\..\Authors\Fuxoft\Indiana Jones 3.fxm
+..\..\Authors\Fuxoft\Magnetic Fields IV.fxm
+..\..\Authors\Voodoo\SongInLines5.ay

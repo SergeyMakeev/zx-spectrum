@@ -1,0 +1,1363 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Factor6\2Unlimited1.sqt
+<
+Name=2 unlimited #1.sqt ... from 2 unlimited minidemo
+Author=Factor6
+>
+..\..\Authors\Factor6\2Unlimited2.sqt
+<
+Name=2 unlimited #2.sqt ... from 2 unlimited minidemo
+Author=Factor6
+>
+..\..\Authors\Factor6\2Unlimited3.sqt
+<
+Name=2 unlimited #3.sqt ... from 2 unlimited minidemo
+Author=Factor6
+>
+..\..\Authors\Factor6\Agony_loading.sqt
+<
+Name=agony loading.sqt ... loading tune from agony on amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Apidya.sqt
+<
+Name=apidya.sqt ... from apidya ii on amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Beast3End.sqt
+<
+Name=beast 3 - end.sqt ... shadow of the beast 3 - game over
+Author=Factor6
+>
+..\..\Authors\Factor6\BeMyLover.sqt
+<
+Name=by my lover.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\DervishD.sqt
+<
+Name=dervish d.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\DesertDream1.sqt
+<
+Name=desert dream #1.sqt ... from desert dream demo
+Author=Factor6
+>
+..\..\Authors\Factor6\DesertDream2.sqt
+<
+Name=desert dream #2.sqt ... from desert dream demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Dice.sqt
+<
+Name=dice.sqt ... from game called dice
+Author=Factor6
+>
+..\..\Authors\Factor6\ESAIntro.sqt
+<
+Name=fa part #1 ... esa's part in the f.a.megademo #1
+Author=Factor6
+>
+..\..\Authors\Factor6\GreetinxFromESA.sqt
+<
+Name=fa part #3 ... esa's part in the f.a.megademo #3
+Author=Factor6
+>
+..\..\Authors\Factor6\ThirdPartByESA.sqt
+<
+Name=fa part #4 ... esa's part in the f.a.megademo #4
+Author=Factor6
+>
+..\..\Authors\Factor6\Slideshow.sqt
+<
+Name=fa part #5 ... esa's part in the f.a.megademo #5
+Author=Factor6
+>
+..\..\Authors\Factor6\Excess.sqt
+<
+Name=fa part #6 ... esa's part in the f.a.megademo #6
+Author=Factor6
+>
+..\..\Authors\Factor6\ESAPart5Colours.sqt
+<
+Name=fa part #7 ... esa's part in the f.a.megademo #7
+Author=Factor6
+>
+..\..\Authors\Factor6\Flaska_demo.sqt
+<
+Name=flaska demo.sqt ... from flaska demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Gianna.sqt
+<
+Name=gianna.sqt ... gianna sisters theme (from smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\Hammer.sqt
+<
+Name=jan hammer.sqt ... jan hammer's theme (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\ChineseDream.sqt
+<
+Name=chinese dream.sqt ... by tip/phenomena (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\Jokes1-No Gravity.sqt
+<
+Name=jokes demo #1 ... my very first ay music ever!
+Author=Factor6
+>
+..\..\Authors\Factor6\Kilimanzaro.sqt
+<
+Name=kilimanzaro.sqt ... by fleshbrain/crusaders (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\Koto.sqt
+<
+Name=koto.sqt ... another music from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Laudable.sqt
+<
+Name=laudable.sqt ... cover of amiga intro tune
+Author=Factor6
+>
+..\..\Authors\Factor6\MASH.sqt
+<
+Name=mash.sqt ... theme from m.a.s.h. (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\PiggyEnd.sqt
+<
+Name=piggy - end.sqt ... from game piggy by e.s.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\PiggyMain.sqt
+<
+Name=piggy - main.sqt ... from game piggy by e.s.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash16-PinkFloyd.sqt
+<
+Name=pink floyd.sqt ... the wall theme (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\RainDemo.sqt
+<
+Name=rain demo.sqt ... from the rain minidemo
+Author=Factor6
+>
+..\..\Authors\Factor6\Razor_old_version.sqt
+<
+Name=razor (old version #1).sqt ... a bad try to cover good tune
+Author=Factor6
+>
+..\..\Authors\Factor6\Razor_old_version_2.sqt
+<
+Name=razor (old version #2).sqt ... it didn't fit into one sqt!
+Author=Factor6
+>
+..\..\Authors\Factor6\RocknAY.sqt
+<
+Name=rock'n'ay.sqt ... a music from smash
+Author=Factor6
+>
+..\..\Authors\Factor6\SaisoftCrack.sqt
+<
+Name=saisoft cracktro.sqt ... for saisoft's (tuleby) cracktro
+Author=Factor6
+>
+..\..\Authors\Factor6\Satellite_old_version.sqt
+<
+Name=satellite one.sqt ... the 1st try to cover this 8chn s3m
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash01.sqt
+<
+Name=smash #01.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash02.sqt
+<
+Name=smash #02.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash03.sqt
+<
+Name=smash #03.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash04.sqt
+<
+Name=smash #04.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash05.sqt
+<
+Name=smash #05.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash06.sqt
+<
+Name=smash #06.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash07.sqt
+<
+Name=smash #07.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash08.sqt
+<
+Name=smash #08.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash09.sqt
+<
+Name=smash #09.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash10_WC.sqt
+<
+Name=smash #10.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash11.sqt
+<
+Name=smash #11.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash12.sqt
+<
+Name=smash #12.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash13.sqt
+<
+Name=smash #13.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash14.sqt
+<
+Name=smash #14.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash15-Uridium2_loading.sqt
+<
+Name=smash #15.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash16-PinkFloyd.sqt
+<
+Name=smash #16.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash17.sqt
+<
+Name=smash #17.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash18.sqt
+<
+Name=smash #18.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash19.sqt
+<
+Name=smash #19.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash20.sqt
+<
+Name=smash #20.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash21.sqt
+<
+Name=smash #21.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash22.sqt
+<
+Name=smash #22.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\SmashEndTitles.sqt
+<
+Name=smash end titles.sqt ... end tune from smash
+Author=Factor6
+>
+..\..\Authors\Factor6\Technopart.sqt
+<
+Name=technopart.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Toccata.sqt
+<
+Name=toccata.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Toccata2.sqt
+<
+Name=toccata #2.sqt ... yet another version
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo1.sqt
+<
+Name=turrican demo #1 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo2.sqt
+<
+Name=turrican demo #2 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo3.sqt
+<
+Name=turrican demo #3 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo4.sqt
+<
+Name=turrican demo #4 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo5.sqt
+<
+Name=turrican demo #5 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\TurricanDemo6.sqt
+<
+Name=turrican demo #6 ... from turrican demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Smash15-Uridium2_loading.sqt
+<
+Name=uridium 2 loading.sqt ... from amiga (smash)
+Author=Factor6
+>
+..\..\Authors\Factor6\Vangelis.sqt
+<
+Name=vangelis.sqt ... from smash megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\2ndReality.sqt
+<
+Name=2nd reality.sqt ... a try to cover well-known music
+Author=Factor6
+>
+..\..\Authors\Factor6\70s_Shake.sqt
+<
+Name=70's shake.sqt ... from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\AcidFunk.sqt
+<
+Name=acid funk.sqt ... too much acid
+Author=Factor6
+>
+..\..\Authors\Factor6\AfternoonVoyage2.sqt
+<
+Name=afternoon voyage 2.sqt ... original by pink/abyss on amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\AfterXe.sqt
+<
+Name=after xe.sqt ... music made after momental psychic crisis
+Author=Factor6
+>
+..\..\Authors\Factor6\AlloyRun.sqt
+<
+Name=alloy run.sqt ... from commodore 64 game
+Author=Factor6
+>
+..\..\Authors\Factor6\AmigaIntro.sqt
+<
+Name=amiga intro.sqt ... from some amiga intro (i forgot which 1)
+Author=Factor6
+>
+..\..\Authors\Factor6\angeldust.sqt
+<
+Name=angeldust.sqt ... 1st place at phat1 (i think)
+Author=Factor6
+>
+..\..\Authors\Factor6\Anthill.sqt
+<
+Name=anthill.sqt ... is full of ants!
+Author=Factor6
+>
+..\..\Authors\Factor6\AtariSelftest.sqt
+<
+Name=atari self test.sqt ... taaa daaa daaa dee dee daaa!
+Author=Factor6
+>
+..\..\Authors\Factor6\Atlantis.sqt
+<
+Name=atlantis.sqt ... for game axis by e.s.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\AxelDance.sqt
+<
+Name=axel dance.sqt ... dance remix of axel f. (amiga)
+Author=Factor6
+>
+..\..\Authors\Factor6\AxelFunk.sqt
+<
+Name=axelfunk.sqt ... funky remix of axel f. (amiga)
+Author=Factor6
+>
+..\..\Authors\Factor6\BackInTime.sqt
+<
+Name=back in time.sqt ... from amiga. used in f.a. +gama's part
+Author=Factor6
+>
+..\..\Authors\Factor6\BackInTime2.sqt
+<
+Name=back in time 2.sqt ... better version, used in boovie 2 game
+Author=Factor6
+>
+..\..\Authors\Factor6\Bastila.sqt
+<
+Name=bastila.sqt ... cover of czech punk band znouzectnost
+Author=Factor6
+>
+..\..\Authors\Factor6\Beetle.sqt
+<
+Name=beetle.sqt ... by j. liljedahl (amiga). used in chocoholica
+Author=Factor6
+>
+..\..\Authors\Factor6\Belegost.sqt
+<
+Name=belegost.sqt ... for +gama, cover of 48k beeper song
+Author=Factor6
+>
+..\..\Authors\Factor6\Bits_intro.sqt
+<
+Name=bits intro.sqt ... intro for bits demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Bits_main.sqt
+<
+Name=bits main.sqt ... this has been used on a bigmac promo cd!
+Author=Factor6
+>
+..\..\Authors\Factor6\BlahBlahGal.sqt
+<
+Name=blah blah gal.sqt ... from amiga (pink/abyss)
+Author=Factor6
+>
+..\..\Authors\Factor6\Blbost1.sqt
+<
+Name=blbost 1.sqt ... stupid tune?
+Author=Factor6
+>
+..\..\Authors\Factor6\Bonba.sqt
+<
+Name=bonba.sqt ... for no work demo
+Author=Factor6
+>
+..\..\Authors\Factor6\BoneyM.sqt
+<
+Name=boney m.sqt ... happy song by boney m.
+Author=Factor6
+>
+..\..\Authors\Factor6\BorderStars.sqt
+<
+Name=border stars.sqt ... imagine dot starfield in border area
+Author=Factor6
+>
+..\..\Authors\Factor6\Brambory.sqt
+<
+Name=brambory.sqt ... potatoes. they are boiling in a hot water
+Author=Factor6
+>
+..\..\Authors\Factor6\Brutal.sqt
+<
+Name=brutal.sqt ... this is not so brutal song as it could be
+Author=Factor6
+>
+..\..\Authors\Factor6\BrutalTrackmo.sqt
+<
+Name=brutal trackmo.sqt ... music for demo by 5samyc
+Author=Factor6
+>
+..\..\Authors\Factor6\Cloud9.sqt
+<
+Name=cloud 9.sqt ... used in twister fruit machine game by e.s.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\Choco3.sqt
+<
+Name=co3.sqt ... song made in a cooperation with x-agon and tdm
+Author=Factor6
+>
+..\..\Authors\Factor6\CoJe.sqt
+<
+Name=co je?.sqt ... what?
+Author=Factor6
+>
+..\..\Authors\Factor6\CommandoRemix.sqt
+<
+Name=commando remix.sqt ... remix of hiscore zak from c64 commando
+Author=Factor6
+>
+..\..\Authors\Factor6\CountryRoad.sqt
+<
+Name=country road.sqt ... country on the speccy
+Author=Factor6
+>
+..\..\Authors\Factor6\Crap.sqt
+<
+Name=crap.sqt ... slightly crappy song
+Author=Factor6
+>
+..\..\Authors\Factor6\Debil1.sqt
+<
+Name=debil 1.sqt ... music with hw envelope effects
+Author=Factor6
+>
+..\..\Authors\Factor6\Debil2.sqt
+<
+Name=debil 2.sqt ... better debil 1. used in doxycon'99 invitro
+Author=Factor6
+>
+..\..\Authors\Factor6\Deflection.sqt
+<
+Name=deflection.sqt ... ay version of my amiga mod
+Author=Factor6
+>
+..\..\Authors\Factor6\Deflektor.sqt
+<
+Name=deflektor.sqt ... based on beeper song, not finished
+Author=Factor6
+>
+..\..\Authors\Factor6\Delete.sqt
+<
+Name=delete.sqt ... this song supposed to be deleted immediately
+Author=Factor6
+>
+..\..\Authors\Factor6\Demosong12.sqt
+<
+Name=demosong 12.sqt ... song for an unreleased demo with no name
+Author=Factor6
+>
+..\..\Authors\Factor6\DigiDream.sqt
+<
+Name=digidream.sqt ... enhanced ver of x-agon's zak called kokot
+Author=Factor6
+>
+..\..\Authors\Factor6\Disco87.sqt
+<
+Name=disco'87.sqt ... song from a czech oldschool movie
+Author=Factor6
+>
+..\..\Authors\Factor6\DJ_Factor6.sqt
+<
+Name=dj factor6.sqt ... tekkno. used in a new year demo by 5samyc
+Author=Factor6
+>
+..\..\Authors\Factor6\Dodelat.sqt
+<
+Name=dodelat.sqt ... it means 'to finish' - not finished song
+Author=Factor6
+>
+..\..\Authors\Factor6\Dope.sqt
+<
+Name=dope.sqt ... from a pc demo by complex. not finished
+Author=Factor6
+>
+..\..\Authors\Factor6\Drax.sqt
+<
+Name=drax.sqt ... song by drax from c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Dron2.sqt
+<
+Name=dron 2.sqt ... from gift4dron. i think it's a coop with tdm
+Author=Factor6
+>
+..\..\Authors\Factor6\Economy.sqt
+<
+Name=economy.sqt ... a short song from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Eliminator.sqt
+<
+Name=eliminator.sqt ... menu music from c64 game by jeroen tel
+Author=Factor6
+>
+..\..\Authors\Factor6\Enigma.sqt
+<
+Name=enigma.sqt ... not good try to cover well known amiga mod
+Author=Factor6
+>
+..\..\Authors\Factor6\Epilogue.sqt
+<
+Name=epilogue.sqt ... an epilogue song
+Author=Factor6
+>
+..\..\Authors\Factor6\Epilogue2.sqt
+<
+Name=epilogue 2.sqt ... another one, this time from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Excess.sqt
+<
+Name=excess.sqt ... used in esa's part of f.a. megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\Exinoque.sqt
+<
+Name=exinoque.sqt ... made for exin. i think he never used it
+Author=Factor6
+>
+..\..\Authors\Factor6\Express.sqt
+<
+Name=express.sqt ... orient express by jarre. not too good cover
+Author=Factor6
+>
+..\..\Authors\Factor6\Extremes.sqt
+<
+Name=extremes.sqt ... from a demo on c64. this cover is quite good
+Author=Factor6
+>
+..\..\Authors\Factor6\StarsoftPartAlternative.sqt
+<
+Name=fa k3l.sqt ... music for k3l but used by +gama
+Author=Factor6
+>
+..\..\Authors\Factor6\Fantomas.sqt
+<
+Name=fantomas.sqt ... title music from french films about fantomas
+Author=Factor6
+>
+..\..\Authors\Factor6\Flimbo'sQuest1.sqt
+<
+Name=flimbo's quest 1.sqt ... used in boovie 2. orig from c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Flimbo'sQuest2.sqt
+<
+Name=flimbo's quest 2.sqt ... same like above
+Author=Factor6
+>
+..\..\Authors\Factor6\Follin2B.sqt
+<
+Name=follin 2b.sqt ... in timothy follin's style
+Author=Factor6
+>
+..\..\Authors\Factor6\Follin3B.sqt
+<
+Name=follin 3b.sqt ... how the hell to call a follin-like song?
+Author=Factor6
+>
+..\..\Authors\Factor6\Follinoxe.sqt
+<
+Name=follinoxe.sqt ... and another one with sounds like follin
+Author=Factor6
+>
+..\..\Authors\Factor6\ForAllFcr.sqt
+<
+Name=for all (fcr).sqt ... x-agon's 'for all' a little enhanced
+Author=Factor6
+>
+..\..\Authors\Factor6\ForJks.sqt
+<
+Name=for jks.sqt ... made for jan_k soft
+Author=Factor6
+>
+..\..\Authors\Factor6\MotorAnimation.sqt
+<
+Name=for schiva.sqt ... and this one was for schiva. used in f.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\GeneralSound.sqt
+<
+Name=general sound.sqt ... ay version of my amiga mod
+Author=Factor6
+>
+..\..\Authors\Factor6\GiannaCracktro.sqt
+<
+Name=gianna cracktro.sqt ... cool song from amiga.
+Author=Factor6
+>
+..\..\Authors\Factor6\GiftIntro.sqt
+<
+Name=gift intro.sqt ... intro zak for some gift
+Author=Factor6
+>
+..\..\Authors\Factor6\good_mood.sqt
+<
+Name=good mood.sqt ... ay winner music from forever party
+Author=Factor6
+>
+..\..\Authors\Factor6\HappySong.sqt
+<
+Name=happy song.sqt ... an older song
+Author=Factor6
+>
+..\..\Authors\Factor6\HATE.sqt
+<
+Name=h.a.t.e.sqt ... from h.a.t.e. on c64. viva benn daglish!
+Author=Factor6
+>
+..\..\Authors\Factor6\Healthy.sqt
+<
+Name=healthy.sqt ... health is better than innless
+Author=Factor6
+>
+..\..\Authors\Factor6\HongKong.sqt
+<
+Name=hong kong.sqt ... unfinished cover of pc xm module
+Author=Factor6
+>
+..\..\Authors\Factor6\House.sqt
+<
+Name=house.sqt ... a house song
+Author=Factor6
+>
+..\..\Authors\Factor6\House3.sqt
+<
+Name=house 3.sqt ... and another one
+Author=Factor6
+>
+..\..\Authors\Factor6\House4.sqt
+<
+Name=house 4.sqt ... next one
+Author=Factor6
+>
+..\..\Authors\Factor6\Howno.sqt
+<
+Name=howno.sqt ... shit
+Author=Factor6
+>
+..\..\Authors\Factor6\HWChaos.sqt
+<
+Name=hw chaos.sqt ... weird hw envelope based song
+Author=Factor6
+>
+..\..\Authors\Factor6\Champolion est un PD.sqt
+<
+Name=champolion est un pd.sqt ... winner at raww.orgy!
+Author=Factor6
+>
+..\..\Authors\Factor6\IkariIntro.sqt
+<
+Name=ikari intro.sqt ... from c64 by j. kristensen aka msk
+Author=Factor6
+>
+..\..\Authors\Factor6\Imped.sqt
+<
+Name=imped.sqt ... influenced by imp/rush. but the song is crap
+Author=Factor6
+>
+..\..\Authors\Factor6\In_Xe.sqt
+<
+Name=in xe.sqt ... in crisis (check out 'after xe.sqt' ;)
+Author=Factor6
+>
+..\..\Authors\Factor6\Infect.sqt
+<
+Name=infect.sqt ... for e.s.a.'s unreleased demo 'infection'
+Author=Factor6
+>
+..\..\Authors\Factor6\Inside.sqt
+<
+Name=inside.sqt ... orig by pink/abyss on amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Ivan.sqt
+<
+Name=ivan.sqt ... based on a film music from a russian fairy tale
+Author=Factor6
+>
+..\..\Authors\Factor6\Jammalade.sqt
+<
+Name=jammalade.sqt ... jam+marmalade=jammalade! from c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Jarre.sqt
+<
+Name=jarre.sqt ... some jarre's cover
+Author=Factor6
+>
+..\..\Authors\Factor6\Jazzy.sqt
+<
+Name=jazzy.sqt ... jazzy zak made using switching tempo
+Author=Factor6
+>
+..\..\Authors\Factor6\JCH.sqt
+<
+Name=jch.sqt ... music from c64 - but not by jch
+Author=Factor6
+>
+..\..\Authors\Factor6\JohnyXdemo.sqt
+<
+Name=johny-x demo.sqt ... for johny-x's unreleased demo
+Author=Factor6
+>
+..\..\Authors\Factor6\JumpyDog.sqt
+<
+Name=jumpy dog.sqt ... made for zilogator for his crazy demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Kawai.sqt
+<
+Name=kawai.sqt ... legendary song made online at xatacon'98
+Author=Factor6
+>
+..\..\Authors\Factor6\klobbased.sqt
+<
+Name=klobbased.sqt ... who wanna a currywurst?
+Author=Factor6
+>
+..\..\Authors\Factor6\Kokosh2.sqt
+<
+Name=kokosh 2.sqt ... by me and x-agon
+Author=Factor6
+>
+..\..\Authors\Factor6\Kokosh3.sqt
+<
+Name=kokosh 3.sqt ... another version
+Author=Factor6
+>
+..\..\Authors\Factor6\Kolohneez.sqt
+<
+Name=kolohneez.sqt ... used in 'the last 48' demo by e.s.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\Koptchem.sqt
+<
+Name=koptchem.sqt ... probably made by x-agon (and me)
+Author=Factor6
+>
+..\..\Authors\Factor6\Krakout4.sqt
+<
+Name=krakout 4.sqt ... cover from c64 game music (very bad)
+Author=Factor6
+>
+..\..\Authors\Factor6\Kravina2.sqt
+<
+Name=kravina 2.sqt ... nonsense 2/stupid 2/crap 2
+Author=Factor6
+>
+..\..\Authors\Factor6\KuaNevim.sqt
+<
+Name=kua nevim.sqt ... made with no inspiration
+Author=Factor6
+>
+..\..\Authors\Factor6\LadyBird.sqt
+<
+Name=lady bird.sqt ... old song. probably used somewhere
+Author=Factor6
+>
+..\..\Authors\Factor6\Laserdance.sqt
+<
+Name=laserdance.sqt ... cover of laserdance. used in some gift
+Author=Factor6
+>
+..\..\Authors\Factor6\Last48_2.sqt
+<
+Name=last 48 #2.sqt ... for the demo
+Author=Factor6
+>
+..\..\Authors\Factor6\LastIn1997.sqt
+<
+Name=last in 1997.sqt ... also used in 'the last 48'
+Author=Factor6
+>
+..\..\Authors\Factor6\Laudable99remix.sqt
+<
+Name=laudable '99 remix.sqt ... remix of my older song
+Author=Factor6
+>
+..\..\Authors\Factor6\LikeNoro.sqt
+<
+Name=like noro.sqt ... it sounds like it was done by norosoft
+Author=Factor6
+>
+..\..\Authors\Factor6\Lomothomy1.sqt
+<
+Name=lobothomy.sqt ... deeply dark&bizzare d'n'b variations
+Author=Factor6
+>
+..\..\Authors\Factor6\LoonyIsland.sqt
+<
+Name=loony island.sqt ... nice epilogue song from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\MadMax.sqt
+<
+Name=mad max.sqt ... from atari st demo 'virtual'
+Author=Factor6
+>
+..\..\Authors\Factor6\Masterblaster1.sqt
+<
+Name=masterblaster #1 ... for a never released game
+Author=Factor6
+>
+..\..\Authors\Factor6\Masterblaster2.sqt
+<
+Name=masterblaster #2 ... same but in 2 channels only
+Author=Factor6
+>
+..\..\Authors\Factor6\MaximumTaste.sqt
+<
+Name=maximum taste.sqt ... a cover, original from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\MentalStress.sqt
+<
+Name=mental stress.sqt ... made under a life-pressure
+Author=Factor6
+>
+..\..\Authors\Factor6\Micro.sqt
+<
+Name=micro.sqt ... from amiga cracktro by melon
+Author=Factor6
+>
+..\..\Authors\Factor6\Mindtime.sqt
+<
+Name=mindtime.sqt ... for subliminal extacy diskmag
+Author=Factor6
+>
+..\..\Authors\Factor6\MoonPatrol.sqt
+<
+Name=moon patrol.sqt ... wild remix of moon patrol
+Author=Factor6
+>
+..\..\Authors\Factor6\MoreFish.sqt
+<
+Name=more fish ... ay version of my amiga mod
+Author=Factor6
+>
+..\..\Authors\Factor6\MostCoolTune.sqt
+<
+Name=most cool tune.sqt ... song from c64 intro
+Author=Factor6
+>
+..\..\Authors\Factor6\Mozall2.sqt
+<
+Name=mozall 2.sqt ... a song
+Author=Factor6
+>
+..\..\Authors\Factor6\MyWonderland.sqt
+<
+Name=my wonderland.sqt ... amiga mod. for game 'axis'
+Author=Factor6
+>
+..\..\Authors\Factor6\NagualDance.sqt
+<
+Name=nagual dance.sqt ... from amiga mod 'nagual dance 2'
+Author=Factor6
+>
+..\..\Authors\Factor6\Narez.sqt
+<
+Name=narez.sqt ... brutal song remixing russian zaks
+Author=Factor6
+>
+..\..\Authors\Factor6\NaSmazani.sqt
+<
+Name=na smazani.sqt ... another song supposed to delete
+Author=Factor6
+>
+..\..\Authors\Factor6\Nedodelat.sqt
+<
+Name=nedodelat.sqt ... do not finish it!
+Author=Factor6
+>
+..\..\Authors\Factor6\NeedForSpeed3.sqt
+<
+Name=need for speed 3.sqt ... covered music from pc game
+Author=Factor6
+>
+..\..\Authors\Factor6\Nepovedlo.sqt
+<
+Name=nepovedlo.sqt ... this song was not well done
+Author=Factor6
+>
+..\..\Authors\Factor6\Nesmysl.sqt
+<
+Name=nesmysl.sqt ... nonsense
+Author=Factor6
+>
+..\..\Authors\Factor6\Nic.sqt
+<
+Name=nic.sqt ... nothing
+Author=Factor6
+>
+..\..\Authors\Factor6\NN_World.sqt
+<
+Name=nn world.sqt ... from c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Nuda.sqt
+<
+Name=nuda.sqt ... boring
+Author=Factor6
+>
+..\..\Authors\Factor6\Omegift.sqt
+<
+Name=omegift.sqt ... made for gift for omega
+Author=Factor6
+>
+..\..\Authors\Factor6\OnTheTop.sqt
+<
+Name=on the top.sqt ... older song - cover of something
+Author=Factor6
+>
+..\..\Authors\Factor6\Oskar.sqt
+<
+Name=oskar.sqt ... from amiga chiptune
+Author=Factor6
+>
+..\..\Authors\Factor6\OutsideWorld.sqt
+<
+Name=outside world.sqt ... from amiga chiptune
+Author=Factor6
+>
+..\..\Authors\Factor6\Oxygene7.sqt
+<
+Name=oxygene 7.sqt ... cover of jarre
+Author=Factor6
+>
+..\..\Authors\Factor6\PersonalFairlights.sqt
+<
+Name=personal fairlights.sqt ... amiga chiptune cover
+Author=Factor6
+>
+..\..\Authors\Factor6\Pharaon.sqt
+<
+Name=pharaon.sqt ... used in f.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\Photographic.sqt
+<
+Name=photographic.sqt ... cover of depeche mode. used in f.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\Plasma.sqt
+<
+Name=plasma.sqt ... i think this one was used in 'the last 48'
+Author=Factor6
+>
+..\..\Authors\Factor6\PointOfDeparture1.sqt
+<
+Name=point of departure 1 ... cover of s3m module by necros
+Author=Factor6
+>
+..\..\Authors\Factor6\PointOfDeparture2.sqt
+<
+Name=point of departure 2 ... modifyed version
+Author=Factor6
+>
+..\..\Authors\Factor6\PopcornShortVersion.sqt
+<
+Name=popcorn short version.sqt ... from amiga chiptune
+Author=Factor6
+>
+..\..\Authors\Factor6\Prazakum_je_hej.sqt
+<
+Name=prazakum je hej.sqt ... one of my best covers. won at 4ever
+Author=Factor6
+>
+..\..\Authors\Factor6\Punpa.sqt
+<
+Name=punpa.sqt ... used in 'no work' demo by me
+Author=Factor6
+>
+..\..\Authors\Factor6\PushOver.sqt
+<
+Name=pushover.sqt ... from amiga game. used in game 'piggy'
+Author=Factor6
+>
+..\..\Authors\Factor6\Que.sqt
+<
+Name=que.sqt ... from amiga demo. not finished
+Author=Factor6
+>
+..\..\Authors\Factor6\RavedZone.sqt
+<
+Name=raved zone.sqt ... for k3l's part in f.a. megademo
+Author=Factor6
+>
+..\..\Authors\Factor6\RaveRaven.sqt
+<
+Name=rave raven.sqt ... another rave song
+Author=Factor6
+>
+..\..\Authors\Factor6\Razor2002.sqt
+<
+Name=razor 2002.sqt ... modified verson of my old razor
+Author=Factor6
+>
+..\..\Authors\Factor6\Realshit.sqt
+<
+Name=real shit.sqt ... what should i write here?
+Author=Factor6
+>
+..\..\Authors\Factor6\ROTR.sqt
+<
+Name=r.o.t.r. #1.sqt ... from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\ROTR2.sqt
+<
+Name=r.o.t.r. #2.sqt ... dtto
+Author=Factor6
+>
+..\..\Authors\Factor6\Sample.sqt
+<
+Name=sample.sqt ... set of ay samples for use in mods
+Author=Factor6
+>
+..\..\Authors\Factor6\Satellite_1st_three_channels.sqt
+<
+Name=satellite (1st 3 channels).sqt ... and the others by tdm
+Author=Factor6
+>
+..\..\Authors\Factor6\S-Express.sqt
+<
+Name=s-express.sqt ... for guest part of hooy-prg demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Shier.sqt
+<
+Name=shier.sqt ... shitty song
+Author=Factor6
+>
+..\..\Authors\Factor6\Shitka.sqt
+<
+Name=shitka.sqt ... another shitty music
+Author=Factor6
+>
+..\..\Authors\Factor6\SchivaPart2.sqt
+<
+Name=schiva part 2.sqt ... for schiva's part of f.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\SkogensDjur11.sqt
+<
+Name=skogen's djur #11.sqt ... from amiga. used in f.a.
+Author=Factor6
+>
+..\..\Authors\Factor6\SlamTilt.sqt
+<
+Name=slam tilt.sqt ... from amiga, made for marwin/k3l
+Author=Factor6
+>
+..\..\Authors\Factor6\SlapIt.sqt
+<
+Name=slap it.sqt ... another not important song
+Author=Factor6
+>
+..\..\Authors\Factor6\Snake.sqt
+<
+Name=snake.sqt ... from snake by esi on sam coupe
+Author=Factor6
+>
+..\..\Authors\Factor6\Sokallizm.sqt
+<
+Name=Sokallizm
+Author=Factor6
+>
+..\..\Authors\Factor6\SomethingLikeDaftPunk.sqt
+<
+Name=something like daft punk.sqt ... or something
+Author=Factor6
+>
+..\..\Authors\Factor6\Spring.sqt
+<
+Name=spring.sqt ... the spring is here!
+Author=Factor6
+>
+..\..\Authors\Factor6\StarsoftPart.sqt
+<
+Name=starsoft's part.sqt ... i think this song was 'house 2'
+Author=Factor6
+>
+..\..\Authors\Factor6\Stevie.sqt
+<
+Name=stevie.sqt ... stevie wonder would never believe this!
+Author=Factor6
+>
+..\..\Authors\Factor6\StormLord.sqt
+<
+Name=stormlord.sqt ... from stormlord on c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Strupped.sqt
+<
+Name=strupped.sqt ... weird name
+Author=Factor6
+>
+..\..\Authors\Factor6\SuperFrogAdvert.sqt
+<
+Name=superfrog advert.sqt ... from amiga mod
+Author=Factor6
+>
+..\..\Authors\Factor6\SuperMarioland.sqt
+<
+Name=super mario land.sqt ... from gameboy i think
+Author=Factor6
+>
+..\..\Authors\Factor6\SuperStardust_loading.sqt
+<
+Name=super stardust loading.sqt ... from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Sux.sqt
+<
+Name=sux.sqt ... ladies & gentlemen, this song simply sux!
+Author=Factor6
+>
+..\..\Authors\Factor6\SweetSeduction.sqt
+<
+Name=sweet seduction.sqt ... orig by pink/abyss
+Author=Factor6
+>
+..\..\Authors\Factor6\Tangerinesque.sqt
+<
+Name=tangerinesque.sqt ... not finished song from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Teddy.sqt
+<
+Name=teddy.sqt ... from amiga chiptune
+Author=Factor6
+>
+..\..\Authors\Factor6\Tech.sqt
+<
+Name=tech.sqt ... never used, could fit to a demo
+Author=Factor6
+>
+..\..\Authors\Factor6\Tempest2k.sqt
+<
+Name=tempest 2000.sqt ... song from a pc game by atari
+Author=Factor6
+>
+..\..\Authors\Factor6\That'sLife.sqt
+<
+Name=that's life.sqt ... easy jazzy song from amiga
+Author=Factor6
+>
+..\..\Authors\Factor6\Trainer.sqt
+<
+Name=trainer.sqt ... from amiga. great one!
+Author=Factor6
+>
+..\..\Authors\Factor6\Transform.sqt
+<
+Name=transform.sqt ... for forever 2e3 compo
+Author=Factor6
+>
+..\..\Authors\Factor6\Trip14.sqt
+<
+Name=trip #14.sqt ... song made at dron's place in zabreh
+Author=Factor6
+>
+..\..\Authors\Factor6\Tritol1.sqt
+<
+Name=tritol #1.sqt ... for tritol 1
+Author=Factor6
+>
+..\..\Authors\Factor6\Tritol2.sqt
+<
+Name=tritol #2.sqt ... for tritol 2
+Author=Factor6
+>
+..\..\Authors\Factor6\Tritol3.sqt
+<
+Name=tritol #3.sqt ... for tritol 3
+Author=Factor6
+>
+..\..\Authors\Factor6\Through_Poland.sqt
+<
+Name=trough poland.sqt ... winner from raww.orgy 2005!
+Author=Factor6
+>
+..\..\Authors\Factor6\TubularBells.sqt
+<
+Name=tubular bells.sqt ... a known oldfield's theme
+Author=Factor6
+>
+..\..\Authors\Factor6\Turrican1_C64_Endtune.sqt
+<
+Name=turrican 1 c64.sqt ... end music from turrican on c64
+Author=Factor6
+>
+..\..\Authors\Factor6\Ulanbatar.sqt
+<
+Name=ulanbatar.sqt ... what is the capital of mongolia?
+Author=Factor6
+>
+..\..\Authors\Factor6\UncleFakka.sqt
+<
+Name=uncle fakka.sqt ... song from the southpark tv series
+Author=Factor6
+>
+..\..\Authors\Factor6\Unused1JT.sqt
+<
+Name=unused 1.sqt ... original by jeroen tel on c64
+Author=Factor6
+>
+..\..\Authors\Factor6\UzVim.sqt
+<
+Name=uz vim.sqt ... similar to x-agon's 'co ja vim'
+Author=Factor6
+>
+..\..\Authors\Factor6\Various.sqt
+<
+Name=various.sqt ... very old song
+Author=Factor6
+>
+..\..\Authors\Factor6\X-Ray.sqt
+<
+Name=x-ray.sqt ... original by x-ray on atari 800
+Author=Factor6
+>
+..\..\Authors\Factor6\XtnEga.sqt
+<
+Name=xtn ega.sqt ... !XtnegA=AgentX!
+Author=Factor6
+>
+..\..\Authors\Factor6\YourLove.sqt
+<
+Name=your love.sqt ... unfinished cover of prodigy
+Author=Factor6
+>
+..\..\Authors\Factor6\z_nudy.sqt
+<
+Name=z nudy.sqt ... another boring song
+Author=Factor6
+>
+..\..\Authors\Factor6\Zabreh.sqt
+<
+Name=zabreh.sqt ... made in zabreh at schiva's place
+Author=Factor6
+>
+..\..\Authors\Factor6\Zabreh2.sqt
+<
+Name=zabreh 2.sqt ... and the next one
+Author=Factor6
+>
+..\..\Authors\Factor6\ZitraVstanuAOparimSeCajem.sqt
+<
+Name=zitra vstanu a oparim se cajem.sqt ... from czech film
+Author=Factor6
+>
+..\..\Authors\Factor6\Zlincon1.sqt
+<
+Name=zlincon 1.sqt ... made at zlincon party
+Author=Factor6
+>

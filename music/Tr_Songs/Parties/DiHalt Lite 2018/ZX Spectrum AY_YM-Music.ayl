@@ -1,0 +1,35 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Shiru\we'll_be_alright.pt3
+<
+Author=Shiru 04.01.2018
+Name=We'll Be Alright
+Length=7777
+Time=7160
+Loop=7140
+>
+..\..\Authors\Time Keeper\lost_madness.vtx
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+Author=TmK, n1k-o
+Name=lost madness
+Program=DiHalt2018 Winter Edition
+Date=2018
+Comment=Created by Sergey Bulba's AY-3-8910/12 Emulator v2.9
+Length=4038
+Original=131698
+Offset=120
+Time=9407
+Loop=0
+>
+..\..\Authors\EA\ENF.pt3
+<
+Author=EA/Antares 2017 (YM+ABC)
+Name=Experience number five
+Length=1892
+Time=7488
+Loop=0
+>

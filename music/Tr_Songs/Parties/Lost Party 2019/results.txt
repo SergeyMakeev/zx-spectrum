@@ -1,0 +1,41 @@
+    Atari XL/XE
+        256 B:
+            1. z-bars 256b - Koala/Agenda
+            2. la parala - Xeen/Agenda
+            3. olej 256b - Koala/Agenda
+        Graphics:
+            Captain Pork - Piesiu/Agenda
+            Lost in Licheń - Odyn1ec/Lamers
+            Reddrag - Tiger/New Generation
+            Misaki - Tiger/New Generation
+            Historik - Rocky/MadTeam
+            Grotan - Rocky/MadTeam
+            Port Alistair - Broniu, MADRAFi
+            Arthas - Tiger/New Generation
+            Biegnij, Lis, biegnij - PG
+            Invasion - Rocky/MadTeam
+            Wanderer - Tiger/New Generation
+            Europa - Tiger/New Generation
+            Medical Machine - Irata4
+        Music:
+            Skyride - PG
+            I forgot the melody. Again - LiSU/Tristesse
+            Ojczeojcze - Arson/UAB/GGS
+    Spectrum
+        AY Music:
+            Dance All Night - Gasman/Hooy-Program
+            swinski ptasznik - zlew
+            So you want to be a pirate, eh? - V0yager/speccy.pl
+    Commodore 64 & Spectrum Graphics:
+        Flat Country (C64) - Piesiu/Agenda
+        Burning Tail (Spectrum) - Piesiu/Speccy.pl
+        astrodeath (Spectrum) - At0m/Joker
+    Wild
+        GGA2 - Daniel Koźmiński, Olek Koźmiński, Jakub Machnio
+        Karateka - Joker
+        H2K - Brothers in ATRs
+        Reunion - V0yager/Nah-Kolor
+        Low Gear - Fancy Rats
+        Star Vagrant Intro - MADRAFi, Broniu, Kaz/Rohar, Caruso
+        AutariIntro - Bocianu/Tristesse, Miker/Blowjobb/New Generation, kris3d/anticSHOP/P.H.A.T./LMS
+        atarimat - pgru

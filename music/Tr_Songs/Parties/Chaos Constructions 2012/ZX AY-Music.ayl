@@ -1,0 +1,108 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\C-jeff\changYES.pt3
+<
+Author=C-jeff, 1.1.2010, 18.8.2012, ACB
+Name=ChangYES (Party version)
+Length=11482
+Time=8104
+Loop=0
+>
+..\..\Authors\mborik\alive_ab.pt3
+<
+Author=mborik/RM-TEAM
+Name=2019 [It's Alive]
+Length=8697
+Time=8976
+Loop=0
+>
+<
+Length=8026
+Offset=8697
+Time=8976
+>
+..\..\Authors\Scalesmann\waterfal.pt3
+<
+Author=scalesmann^mc. 2012
+Name=waterfall (vega's tribute)
+Length=5216
+Time=7714
+Loop=7712
+>
+..\..\Authors\tayle\Mint.pt3
+<
+Author=12'nix./site
+Name=Mint
+Length=13959
+Time=9425
+Loop=9422
+>
+..\..\Authors\Klim\ChaosInM.pt3
+<
+Author=_Klim_omegaHACKERSgroup_17.8.12_
+Name=-------Chaos in music----------
+Length=8084
+Time=8448
+Loop=0
+>
+..\..\Authors\Bugsy\2012\Somebody.pt3
+<
+Author=BUGSY/HDS   17.08.012
+Name=GOTYE:SOMEBODY THAT I USED 2KNOW
+Length=1938
+Time=9792
+Loop=9600
+>
+<
+Author=BUGSY/HDS   17.08.012
+Name=GOTYE:SOMEBODY THAT I USED 2KNOW
+Length=968
+Offset=1938
+Time=9792
+>
+..\..\Authors\Siril\scrolleq.pt3
+<
+Author=siril^4d 17.08.2012
+Name=scrolleqs
+Length=7963
+Time=9152
+Loop=0
+>
+..\..\Authors\Moran\tilitili.pt3
+<
+Author=Moran/CPU
+Name=tili tili
+Length=4134
+Time=6144
+Loop=0
+>
+..\..\Authors\Splinter\star_tra.pt3
+<
+Author=Cj Splinter ay mix
+Name=Star travel (by Digicult)
+Length=5675
+Time=8325
+Loop=8320
+>
+<
+Author=Cj Splinter ay mix
+Name=Star travel (by Digicult)
+Length=4719
+Offset=5675
+Time=8325
+>
+..\..\Authors\AER\AERmusic.pt3
+<
+Author=AER
+Name=AERmusicCC
+Length=3100
+Time=5760
+Loop=1008
+>
+..\..\Authors\Moran\SUBTRASH.pt3
+<
+Author=Moran/CPU
+Name=subtrash
+Length=2834
+Time=10944
+Loop=1536
+>

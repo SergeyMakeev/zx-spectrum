@@ -1,0 +1,289 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Ksa\CTRN1.stc
+<
+Time=12672
+Loop=0
+>
+..\..\Authors\Agaev Eldar\Lenin2.stc
+<
+Author=AGAEV ELDAR
+Name=NONAME
+Time=8960
+Loop=0
+>
+..\..\Authors\Agaev Eldar\AGAEVE2.stc
+<
+Time=3584
+Loop=0
+>
+..\..\Authors\Agaev Eldar\AGAEVE3.stc
+<
+Time=5760
+Loop=0
+>
+..\..\Authors\Agaev Eldar\AGAEVE5.stc
+<
+Time=4096
+Loop=0
+>
+..\..\Authors\Agaev Eldar\ANDALTAN.stc
+<
+Time=2048
+Loop=0
+>
+..\..\Authors\Booster\ANECK-1-FAN.stc
+<
+Time=9600
+Loop=0
+>
+..\..\Authors\Booster\XAWES.stc
+<
+Time=14720
+Loop=0
+>
+..\..\Other\3A Soft\ANSWER.stc
+<
+Time=8640
+Loop=0
+>
+..\..\Authors\Ksa\ANSWER II.stc
+<
+Time=5376
+Loop=0
+>
+..\..\Authors\Booster\RUBBER.stc
+<
+Time=19968
+Loop=0
+>
+..\..\Authors\Voxon\Battle City 1.stc
+<
+Time=11904
+Loop=0
+>
+..\..\Authors\Voxon\Battle City 2.stc
+..\..\Authors\Ksa\KSA-BION.stc
+<
+Time=2304
+Loop=0
+>
+..\..\Other\3A Soft\BIS2.stc
+<
+Time=4608
+Loop=0
+>
+..\..\Authors\XMX2\VATMAN.stc
+<
+Author=KSA SOFTWARE
+Name=INTRO BLAD
+Time=10560
+Loop=0
+>
+..\..\Authors\Rumatisoft\BLAVA1.stc
+<
+Time=3840
+Loop=0
+>
+..\..\Authors\Ksa\BOOM.stc
+<
+Time=11520
+Loop=0
+>
+..\..\Authors\Kent\DESIRE_1.stc
+<
+Time=7360
+Loop=0
+>
+..\..\Authors\Skiv\CIRCUIT.stc
+<
+Time=13824
+Loop=0
+>
+..\..\Authors\Fuxoft\Commando.fxm
+<
+Time=11808
+Loop=0
+Address=62010
+>
+..\..\Authors\Shadow\COMMODORE (AYMD2 version).stc
+<
+Time=17664
+Loop=0
+>
+..\..\Authors\Ksa\Desire&Cosmozone (Coming Soon).stc
+<
+Time=7040
+Loop=0
+>
+..\..\Authors\Imp\DEPECHE MODE 2.stc
+<
+Name=MUSIC BY IMP '94
+Time=16480
+Loop=0
+>
+..\..\Authors\Imp\DEPECHE MODE 1.stc
+..\..\Authors\Ksa\DESIRE.stc
+<
+Author=KSA SOFTWARE
+Name=DESREMIX
+>
+..\..\Authors\Ksa\DISKO.stc
+<
+Author=KSA SOFTWARE
+Name=DISKO
+>
+..\..\Authors\Doc\Dizzy 2 Intro.stc
+..\..\Authors\Ksa\DIZZY.stc
+..\..\Authors\(R)Soft\Drink'em all.stc
+..\..\Authors\Ksa\EASY TO REMEMBER BY ICE MC REMIX BY KSA SOFT.stc
+..\..\Authors\Ksa\EMPIRE.stc
+..\..\Other\3A Soft\EXMUSIC2.stc
+..\..\Authors\Booster\OJAJ2-EXPLOIT.stc
+..\..\Authors\Kent\FEUD Intro.stc
+..\..\Authors\Fuxoft\Feud.fxm
+<
+Address=59540
+>
+..\..\Authors\Ksa\FLASH-2.stc
+..\..\Authors\Demon of ZXPro\MY FIRST.stc
+..\..\Authors\Ksa\FOR YOU!!!.stc
+<
+Author=KSA SOFTWARE
+Name='FOR YOU'
+>
+..\..\Authors\Doc\FUC22ST.stc
+<
+Author=KSA SOFTWARE
+Name=FUCKBACK 2
+>
+..\..\Authors\3A Soft\FUTMIX.stc
+<
+Author=(C) S K I V
+Name=FUTURE
+>
+..\..\Authors\Kostik Alexander\GAMEMUS.stc
+..\..\Authors\Evolver\COMPOS1.asc
+..\..\Authors\Ksa\GLUK1.stc
+..\..\Authors\Ksa\GOLDEN AXE.stc
+..\..\Authors\Karp\Hardcore.stc
+<
+Author=KSA SOFT
+Name=HARDCORE
+>
+..\..\Authors\Karp\THUNDERD2.stc
+..\..\Authors\Ksa\ICY_DEMO.stc
+..\..\Authors\Dj Aleck\LOFT.stc
+..\..\Authors\Booster\OJAJ3-JAMP.stc
+..\..\Authors\Fuxoft\Magnetic Fields IV.fxm
+<
+Address=36395
+>
+..\..\Authors\Booster\JDDEMO1.stc
+..\..\Authors\Booster\JDDEMO2.stc
+..\..\Authors\Booster\JDDEMO3.stc
+..\..\Authors\Karp\KARPRMX-YOU & ME.stc
+..\..\Authors\Royal Software\ST\ROYAL6-KICK2.stc
+..\..\Authors\Dangerous\REVO2.stc
+..\..\Authors\Imp\assorty5.stc
+..\..\Authors\S.T.Sam\Discomania\KRAFTWERK (MODEL).stc
+..\..\Authors\Ksa\CTRN2.stc
+<
+Author=KSA SOFTWARE
+Name=KRUTNIAK
+>
+..\..\Authors\Ksa\KSA 11.stc
+..\..\Authors\Ksa\KSA 14.stc
+..\..\Authors\Ksa\KSAGLUK3.stc
+..\..\Authors\Ksa\LAMBADA.stc
+..\..\Authors\Dron of GDC\CSRBM1_1.stc
+..\..\Authors\Agaev Eldar\Lenin1.stc
+<
+Author=AGAEV ELDAR
+Name=NONAME
+>
+..\..\Authors\Royal Software\ST\Lenin3-ROYAL22.stc
+<
+Author=AGAEV ELDAR
+Name=NONAME
+>
+..\..\Authors\Imp\Logic1_2.stc
+..\..\Authors\Imp\MASKASHW-LOGIC-2.stc
+..\..\Authors\Imp\LOGIC_1.stc
+..\..\Authors\Ksa\LOOP.stc
+..\..\Authors\Booster\LORD II.stc
+..\..\Authors\Ksa\LOX.stc
+..\..\Authors\Demon of ZXPro\DARK.stc
+..\..\Authors\Ksa\FUN FACTOR.stc
+..\..\Authors\Ksa\MNS.stc
+..\..\Authors\Ksa\KSA-MTV.stc
+<
+Author=KSA SOFTWARE
+Name=MTV128
+>
+..\..\Authors\Booster\MUSII.stc
+..\..\Authors\Lsd\TUnfuck.stc
+..\..\Authors\Agent-X\Narcopol.stc
+..\..\Authors\Doc\NEON1-COOL.stc
+..\..\Authors\Doc\NEON3-PRIGODA.stc
+..\..\Authors\Ksa\NEWMUSIC2.stc
+<
+Author=KSA SOFTWARE
+Name=NEWMUSIC.2
+>
+..\..\Authors\Ksa\NO MORE.stc
+..\..\Authors\Kent\Fuck.em3-NS35.stc
+..\..\Authors\Karp\ONFIRST.stc
+..\..\Authors\Disa\Simplemento Maria 2.stc
+..\..\Authors\Doc\FREEZED.stc
+..\..\Authors\Ksa\RAVE-2.stc
+..\..\Authors\Ksa\REALTHIN.stc
+..\..\Authors\Imp\HATE.stc
+..\..\Authors\Imp\NOU-NOU (RELAX).stc
+..\..\Authors\Dangerous\REVOI.stc
+..\..\Authors\Dangerous\REVO8.stc
+..\..\Authors\Karp\ROBEND.stc
+..\..\Authors\Kicia\stracker.stc
+..\..\Authors\Ksa\P_tennis-ROTEX3.stc
+..\..\Other\3A Soft\SAM.stc
+..\..\Authors\Klav\Sat04.stc
+..\..\Authors\Klav\Sat07.stc
+..\..\Authors\S.T.Sam\Scream Tracker.stc
+..\..\Authors\Booster\SGOI.stc
+..\..\Authors\Agaev Eldar\SHERLOCK.stc
+<
+Author=AGAEV ELDAR
+Name=SHERLOCK
+>
+..\..\Authors\Lob\FLY.stc
+..\..\Authors\Lsd\SHELBURG.stc
+..\..\Authors\Lob\SOBAKA.stc
+..\..\Authors\Lob\BEST.stc
+..\..\Authors\Lsd\AMERICAN B.stc
+..\..\Authors\Booster\SOUNDKIL.stc
+..\..\Authors\Kostik Alexander\SPACE-1.stc
+..\..\Demos\Space\SPACE3!.stc
+..\..\Authors\Booster\STALKER.stc
+..\..\Authors\Spilberg\CSIGTTMD.stc
+..\..\Authors\Bonysoft\instrmus.stc
+..\..\Authors\Kostik Alexander\SPACE WORLD.stc
+..\..\Authors\Imp\TECHROP.stc
+..\..\Authors\Karp\TERORDOM.stc
+..\..\Authors\Karp\THUNDERD.stc
+..\..\Authors\Ksa\TRANCE.stc
+..\..\Authors\Ksa\TUTUTU.stc
+<
+Author=KSA SOFTWARE
+Name=TUTUTU
+>
+..\..\Authors\Wasquez\UNTIMELY.stc
+<
+Author=KSA SOFTWARE
+Name=UNTIMELY
+>
+..\..\Authors\Evolver\U_S.stc
+..\..\Authors\Agaev Eldar\XOPOSHO.stc
+..\..\Authors\Ksa\YES!.stc
+..\..\Authors\Fuxoft\ZUB.fxm
+<
+Address=55765
+>

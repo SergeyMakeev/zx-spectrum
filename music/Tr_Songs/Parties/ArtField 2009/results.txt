@@ -1,0 +1,21 @@
+AY Music Compo
+ 	Music Name	Author
+  1	Epilogue	Vedem
+  2	Dusty Dream	mR T.A.D. 7D9
+  3	Wings of Death	MadMax/KNA
+  4	Посмотри мне в глаза	JeRrS
+GFX Compo
+ 	Picture Name	Author
+  1	Girl & Sea	Liza
+  2	Eclipse	Trixs
+  3	doom'er	SAG
+  4	no_name	Черных М.
+  5	Canabis	AZON / Sinclair Club
+  6	Цветы	Руднев Д.
+  7	Парус	Илясов Е.
+  8	Ученик	Alone Coder / Invaders
+Realtime GFX Compo
+ 	Picture Name	Author
+  1	Кот	Lord Grey
+  2	Матрёшки	Flast
+  3	Колобок	Иванаускас А.

@@ -1,0 +1,100 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.5
+..\..\Authors\Karbofos\TS\DncDick.pt3
+<
+Author=karbofos
+Name=Dancing dick
+Comment=6,10
+Time=6336
+Loop=0
+Length=2998
+>
+<
+Offset=2998
+Length=3039
+Time=6336
+Loop=0
+>
+..\..\Authors\Voxel\long_day.pt3
+<
+Author=voxel
+Name=long...long...day chip
+Comment=5,81
+Time=5760
+Loop=0
+Length=1420
+>
+<
+Offset=1420
+Length=788
+Time=5760
+Loop=0
+>
+..\..\Authors\Karbofos\TS\Minik.pt3
+<
+Author=krb+kyv+ryurik 2k6
+Name=Minik %)
+Comment=5,50
+Time=5280
+Loop=0
+Length=4431
+>
+<
+Offset=4431
+Length=3573
+Time=5280
+Loop=0
+>
+..\..\Authors\Alone Coder\GOSTI!TS.pt3
+<
+Author=Alone Coder
+Name=K BaM rOCTu!
+Comment=5,32
+Time=7552
+Loop=7360
+>
+..\..\Authors\Riskej\TS\p_apostl.pt3
+<
+Author=riskej
+Name=persevering apostle
+Comment=4,94
+Time=5452
+Loop=0
+>
+..\..\Authors\Scalesmann\panic.pt3
+<
+Author=Scalesmann
+Name=panic!
+Comment=4,71
+Time=8643
+Loop=8640
+Length=2343
+>
+<
+Offset=2343
+Length=1959
+Time=8643
+Loop=8640
+>
+..\..\Authors\Riskej\TS\sayYeah!.pt3
+<
+Author=riskej
+Name=say "Yeah!" to our friendship, bro
+Comment=4,42
+Time=3136
+Loop=896
+>
+..\..\Authors\Scalesmann\onestp.pt3
+<
+Author=Scalesmann
+Name=one step left
+Comment=Out of compo
+Time=5186
+Loop=1024
+Length=934
+>
+<
+Offset=934
+Length=1359
+Time=5186
+Loop=5184
+>

@@ -1,0 +1,164 @@
+﻿ZX Spectrum Tracker Music Archive v6.0
+Release date: 04.06.2023
+
+1. Introduction
+
+The archive contains only ZX Spectrum musical editors’ modules in original
+formats. Say 'No' to any AY, YM, VTX, WAV, MP3, OGG and so on ;)
+
+See 'readme', 'file_id.diz' and so on in each folder for more info.
+Full info about some songs is stored in 'Playlists' folder.
+
+Take place in this project - send me links, files, information and so on.
+
+Thanks to all men, who send me music, info, playlists, comments and links.
+
+Sergey Bulba (svbulba@gmail.com)
+
+2. Additional information
+
+Files in this archive are music modules for "AY-3-8910/12 Emulator" (also known
+as 'AY Emulator' and 'Ay_Emul') by S.V. Bulba and for real ZX Spectrum computer.
+These files were got from different games and demos of ZX Spectrum and can be
+playing or importing in various ZX Spectrum and not only ZX Spectrum players
+and music editors (trackers).
+
+Some music is interesting, but cannot be ripped in original format, so
+AY-3-8910 register dumps was recorded to VTX-format (see Vortex Project by
+V_Soft) or YM-format (see ST-Sound Project by Leonard), and ZX Spectrum memory
+dumps was placed to AY-format (see ProjectAY by bcass).
+
+Archive is generated from Tr_Songs Base, the program for working with huge
+music collection and musician data base. Here some statistics for this version:
+
+- total number of music files: 28527
+- number of new music files (comparing with previous version): 253
+- total number of playlist files: 6754
+- total number of text files: 710
+
+The most music is sorted into Authors folder, so you can find many AYL-files
+in other folders. AYL is playlist format of Ay_Emul and is used in the archive
+to simulate just link to corresponding music. Of course, it’s used as usual
+playlist too (mostly in Playlists folder, where I've placed also original
+playlists of some other men).
+
+3. Some Internet links
+
+If you want to download official Tr_Songs archive, check AY-3-8910/12 Emulator
+Home Page (http://bulba.untergrund.net/).
+
+Also check these links:
+
+   1) "ZXAAA Demo"
+      https://zxaaa.net/
+   2) "Virtual TR-DOS"
+      https://vtrd.in/
+   3) "ProjectAY"
+      http://www.worldofspectrum.org/projectay/
+   4) "Other links"
+      http://bulba.untergrund.net/links_e.htm
+
+4. Credits
+
+These men sent me music, playlists, bug-reports, archives, DVDs or information
+for Tr_Songs archive:
+
+Midi aka Roman Tutckevich
+Himik's ZxZ aka Ilya Kudryavcev
+TAN aka Alexey Trofimov
+Hacker KAY aka Konstantin Yeliseyev
+Shiru Otaku
+Macros
+Lt. Columbo
+Key-Jee aka Ivan Petuhov
+Newart aka Slavka Kalinin
+Roman Morozov
+Mitchell aka Vladimir Anshukov
+EA aka Ilya Abrosimov
+Alexander Groholsky
+Alone Coder aka Dima Bystrov
+Nikolai from St. Petersburg
+Fuxoft aka Frantisek Fuka
+Ironfist
+V_Soft aka Roman Scherbakov
+vBv aka Vladimir Bogdanovitch
+X-agon aka Vit Hotarek
+Aleksey Senilov
+Kurleson aka Alexey Kravchenko
+George aka Georgiy Terentiev
+Bzyk aka Yarek Burczynski
+kq\\skrju
+Polaris
+Mew aka Evgeniy Malyshkin
+rk
+Ivan Yuskin
+Zaza
+Alexandre Chmidt
+zHenYa/zERo aka Zhenya Dalnikov
+TDM aka Tomas Hauerland
+Gasman aka Matthew Westcott
+Patrik Rak
+Bohus Kral
+Alex Nikiforov
+Demiurge Ash
+Tash aka Vitalic Svetashov
+Evgeny Barsky
+Moroz
+Martin Demsky
+Skull Chaser aka Maxim Kitaev
+C-jeff aka Dmitriy Zhemkov
+Jawser
+z00m^TCG
+asi
+bugsy\hds
+T.A.D.
+Maxsoft/Speed Co/XTM
+k0l0b0k
+Firestarter
+PheeL
+Alexey Alexeyenko aka 3A Soft aka aaa
+Klopov Yuri aka KYV
+Denis/Kevin/CC
+Surv!v0r^POS-WT
+MadCat!
+Kurt
+Karbofos aka Harkonnen
+Dexus aka Denis Dratov
+Pyza of Illusion / ZyReX
+Nikolai Amosov
+Igneous
+Vetal aka Vitalik Korniyenko
+Cardy/Accept Corp.
+Jaan
+Mast
+Andry
+Wlodek Black
+Alexey Nicolaychuk aka Unwinder
+Agent Smit aka Petr
+Alex Oganesov
+Megus
+Cj Echo
+Icabod
+JeRrS
+ch41ns4w
+sja/m7
+Andrew Fer
+Znahar
+Eugene
+Voxel
+ZZ Wave
+Nik-o
+Factor6
+Rebel
+Karo
+Wizard aka Rodionov Sergey
+dj.maxx
+Crazy Doctor
+Titus
+DW
+Goblin
+Pavel Zegelman
+Adrien Pouleyn
+
+Sorry and write me, if I'd forgot to include you into credits list or you do not
+want to be shown in credits list.

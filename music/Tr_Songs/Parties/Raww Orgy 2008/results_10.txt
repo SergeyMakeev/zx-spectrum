@@ -1,0 +1,112 @@
+                        ---+=- raww.orgy :: 2008 -=+---
+                       ---+ 15/02/2008 - 17/02/2008 +---
+                         ----=+=- results 1.0 -=+=----
+
+:: Information
+:: Party People
+:: Results
+:: Comments
+
+
+.: Information :.
+
+The following are the results of the competitions held at the 2008 raww.orgy4
+in Yeovil, England. The party took place on the weekend of 15th February 2008,
+and the voting for the competitions took place at around 23:59 on Saturday 16th
+February 2008. Yes it was late. These things happen.
+
+The voting was carried out by all of the people at the party, who are listed
+below. The voting was "blind" - the names of the creators of the entries were
+not disclosed to the voters until after the the event, with the exception of
+the Intro's which were shown "as provided", and any graphics which had
+signatures. Marks were given out of 10 for each entry.
+
+
+.: Party People :.
+
+The following people were at the party an participated in the voting:
+  :: icabod :: Gasman :: Equinox  ::
+  :: LaesQ  :: Jojo   :: Justinas ::
+  :: Ellvis :: Mikezt :: Mrs.Mike ::
+
+
+.: Results :.
+
+   : votes
+place   : title                                     : creator
+
+256b Intro Competition
+-====================-
+01 : 75 : Chess-Board of Madness                    : tiboh / debris
+02 : 62 : kkapret                                   : triebkraft
+03 : 59 : asme                                      : olly_bfox
+== : 59 : Copper L!nes                              : trefi / debris
+05 : 58 : Russia Riot!                              : alff/Fat Bastards/tmsm/CPU
+06 : 57 : blister sisters                           : dox
+== : 57 : icabodlovessheep                          : mikezt / zeroteam
+08 : 50 : we are watching for you since you were 16 : skrju
+09 : 46 : tRUSHE.MOSAIc                             : rasmer/ICG
+10 : 45 : BLAZE                                     : rasmer/ICG
+11 : 39 : AlonePixel                                : Tygrys/AYLand
+
+ZX Graphics
+-=========-
+01 : 75 : female injection: from russia with love   : riskej / simbols
+02 : 62 : k!ll your brain                           : olly_bfox
+03 : 60 : icaboddoesn'tlovesheep                    : mikezt / zeroteam
+04 : 51 : death at the dev                          : Equinox
+== : 51 : protection                                : d0k / RA
+06 : 50 : suck!                                     : LaesQ / RA
+07 : 34 : fly up speccy                             : Virtual Arts
+08 : 33 : read me                                   : Halt
+
+AY Music
+-======-
+01 : 65 : yeovil junction                           : Factor6 / AYR/etc.
+02 : 60 : strangled mind                            : MadMax / -=K-N-A=-
+03 : 57 : youko                                     : ch41ns4w / DLCorp
+04 : 55 : triptik                                   : Gasman / AYR/H-Prg/RA/...
+05 : 53 : orgYsm                                    : Ellvis / Zeroteam
+06 : 51 : hallospekko!                              : Nik-O / 
+07 : 50 : sync!                                     : siril / 4D
+08 : 49 : abruptly beats                            : Justinas
+09 : 48 : through polonium                          : Karbofos
+== : 48 : final chapter                             : riskej / simbols
+11 : 46 : oxygene8                                  : JeRrS
+12 : 43 : enikoplootcooler                          : Kyv / Triumph
+13 : 39 : world of dizzy                            : CJ Splinter / Trinitrocode
+
+
+.: Comments :.
+
+This was quite an unprecented competition for the simple fact that, until
+Gasman, Justinas and Ellvis decided to write tunes for the competitions (which
+they all did quite last-minute) we actually had more 256b Intros than anything
+else. I think it's because writing something in that amount of space is a good
+test of the coders skills.
+
+The voting was quite fair - a couple surprising results further down the lists
+perhaps, but none of the winners were at the party this year so we can't claim
+that there was any favouritism with who gets the prizes. All of the work was of
+a high standard, and it was good to see that so many people are interested in
+such a small UK party - maybe I'm just foolish, but it seems that each year we
+bring new talent out of the woodwork... or at least people who have not been on
+the scene for a loooong time.
+
+Through Polonium was the only "through" song this year, tho' it hasn't broken
+the trend of having a "through" song in each competition. If we do this again we
+should maybe have a "songs-called-through..." compo just for them. Hmm.
+
+I should also note that a couple of the entries weren't included in the main
+player, so you'll need to look at/listen to them separately... the winning graf
+was an interlaced piece by Riskej, and my custom-coded player was custom-coded
+enough to view it :) If you have a DivIDE you can just select the file to view
+it. And also we had a really hard time getting Ellvis' music to compile, so we
+ended up using a snapshot of SQ-Tracker... but it worked ok. Maybe I'll try to
+get it into the player at some point.
+
+So. That's it. Enjoy the works. We did.
+
+
+18/o2/2oo8
+.:icabod:.

@@ -1,0 +1,307 @@
+
+                ÛÛÛÛ           Ü                      ÛÛÛİ
+             Ü  ŞÛÛÛ  °ÜÜÛÛÛÛÜÛİÜÜÛß  Ü     ÜÜÛß ÜÜ   ŞÛÛÛ ÜÜÛÛÛÛÜÜ
+         ÜÜÛß   ŞÛÛÛİÜÛÛÛß° ßÛÛ²²Û   ßÛÛÜ°ÜÛÛÛ    ÛÛÜ°Ş²ÛÛÛÛß°° ßÛÛÛÜ
+        ÛÛÛİ     ²ÛÛÛÛÛÛİ°   Û²²Ûİ    Ş²Ûİ²ÛÛİ    ŞÛÛİ°²ÛÛÛİ°    Ş²ÛÛİ
+       ŞÛÛÛ°     ÛÛÛÛ²ÛÛ°°   ²²ÛÛ°ÜÜÛßßßßÛ²Û²°ÜÜÛßßßßß°²²ÛÛ°      ²²ÛÛ
+       ²Û²Û°°    Ş²ÛÛ²ÛÛ°    ²ÛÛÛÛß   ²ÛÛÛ²²Ûß   °²²ÛÛİŞ²ÛÛ°      ±²ÛÛ
+       ±²ÛÛ°°    Ş²ÛÛİ²Û°   ÜÛ²ÛÛİ    Ş²ÛÛÛ²Ûİ    Ş²²ÛÛ²²ÛÛ      Ş²ÛÛİ
+       Ş²²Ûİ°°    ²²ÛÛ²Ûİ  ß  ßÛÛÛÜ°  ÜÛÛÛÛİ²ÛÜ   ÜÛÛÛÛÛ²²Ûİ     ²²ÛÛ
+        ß²²ÛÜ°°°ÜÜ²ÛÛÛ²²Û       ßßÛÛÛÛÛß°   ßßÛÛÛÛÛßß°  ²²ÛÛks  Ş²ÛÛ
+          ßßÛÛÛÛßßÛÛÛİ               ßÛÛÜ                     ÜÛÛÛÛİ
+         Ü      ÜÛÛßßß    ŞÛÛÛİ°      ŞÛÛÛ²²Ûİ°   //green bit   ßÛÛÛ
+          ÛÜÜ ÜÛß    °    Ş²ÛÛİ°      ÜÛß Ş²ÛÛ°° Ü   group//   °  ßÛÛ
+           ßÛÛÛİ  Ü²ÛÛÜ    ²ÛÛÛ°°     ŞÛÛÛ°²²ÛİÜÛÛ°°       ÜÜÛÛ²Ü  ŞÛİ
+             Û²  ²²Ûß°ßÛÜ  ²ÛÛÛ°ÜÜÛÛÜÜ ²ÛÛ°²²ÛÛÛßÛİ°°    ÜÛß° ßÛ²İ  ÛÛ
+             ²İ  ŞÛİ    Ûİ ²²ÛÛÛß  ß²ÛÛ²ÛÛİŞ²ÛÛİ °ß     ŞÛİ   ÜÛß   Ûİ
+             Ş²   ÛÛ    ŞÛ Ş²ÛÛİ°   ²²ÛÛ²Ûİ ²²ÛÛ°° ²²ÛÛ ÛÛ  Üßß    ŞÛ
+              ßÜ   ßßÜ  ÛÛİŞ²ÛÛ°   Ş²ÛÛİ²ÛÛ Ş²ÛÛİ°°Ş²ÛÛİÛÛİ        Û
+                ßÛÜÜÜ ÜÛÛÛ Ş²²Û°  ÜÛÛßß²²ÛÛ  ß²ÛÛÜ°°Û²ÛÛ²ÛÛÜÜ   ÜÜß
+                   ßßÛÛßß°  ²²Ûİ ß     Ş²²Ûİ   ßßÛÛÛÛßÛÛİ°ßßÛÛÛßß
+                            ßßßß       Ş²²²İ           ßßÜ
+
+                              . .. group  news .. .
+
+           green bit group (gbg) - this  is a  zx-spectrum creative
+           group. gbg was founded  on july-august  of 2oo1 by three
+           guys, who  wanted to make  an arcade game for cc'o1 game
+           compo. main group  specialisation  is gamemaking  on zx.
+                                                 ...we love speccy!
+
+                              . .. members list.. .
+
+           arhon (oleg groskow) ......... coordinating, net support
+           starling (eugene skvortsov) ....................... code
+           dimidrol (dmitriy bahtin) ................. pixel artist
+           iron lord (sergey bahtin) ................. pixel artist
+           c-jeff (dmitriy zhemkov) ........... music, ascii artist
+
+                              . .. contact  us .. .
+
+           arhon ...... arholet@mail.ru, 2:5052/30.22, 500:8362/1.9
+           starling ................................ nop@rambler.ru
+           dimidrol .................... 2:5052/30.28, 500:8362/1.7
+           iron lord ............................. mail to dimidrol
+           c-jeff ............... cjflexo@rambler.ru, 500:8362/1.12
+
+                             . .. software list .. .
+
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+       nxx ³       release name         ³       author       ³ status
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+           :                            :                    :
+       001 | hunt on sparrows part 1:   | arhon, starling,   | game
+           ³ born to kill               ³ dimidrol, +specman ³
+       002 ³ death valley:              ³ arhon, starling,   ³ game
+           ³ motion on death bodies     ³ dimidrol, c-jeff   ³
+       003 ³ gift 2oo3                  ³ c-jeff, +vortex/bw ³ gift
+           ³                            ³ +klown/dt          ³
+       004 ³ virtue da dirty soul       ³ c-jeff, dimidrol,  ³ game
+           ³                            ³ +alx/bw            ³
+       005 ³ syndeecate apocalypse      ³ c-jeff             ³ rlz
+           ³ invitation intro           ³                    ³
+           ³ (hooy-programm, omega)     ³                    ³
+       006 ³ wizard's lair              ³ c-jeff, +alx/bw    ³ rlz
+           ³ (bubble bus'1985)          ³                    ³
+       007 ³ death valley:              ³ arhon, starling,   ³ game
+           ³ cafe pre-release           ³ dimidrol, c-jeff   ³
+       008 ³ still flying:              ³ c-jeff, +vortex/bw ³ music
+           ³ liricmusicnovels           ³ +schafft/coma,     ³ disk
+           ³                            ³ +psndcj/tbk        ³
+           |                            |                    |
+           :                            :                    :
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+       + - out of "green bit"
+
+                            . .. pixel  art list .. .
+
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä-----
+       nxx ³   picture name  ³  file name ³  author   ³ release  place
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä-----
+           :                 :            :           :
+       001 ³ lover           ³ Lover   .c ³ dimidrol  ³ cc'o1 zx gfx
+           ³                 ³            ³           ³ (19th place)
+       002 ³ hunt on         ³ nZastwka.c ³ dimidrol  ³ hunt on
+           ³ sparrows        ³            ³           ³ sparrows part 1
+           ³                 ³            ³           ³ born to kill
+       003 ³ oxothnk         ³ OXOTHNK .c ³ dimidrol  ³ hunt on
+           ³                 ³            ³           ³ sparrows part 1
+           ³                 ³            ³           ³ born to kill
+       004 ³ temple of the   ³ HRAmMAYA.C ³ dimidrol  ³ adventurer#13
+           ³ maya            ³            ³           ³ (gallery)
+       005 ³ castle of the   ³ FdlCastl.C ³ dimidrol  ³ adventurer#13
+           ³ feudal lord     ³            ³           ³ (gallery)
+       006 ³ soli            ³ Soli    .C ³ iron lord ³ adventurer#13
+           ³                 ³            ³           ³ (gallery)
+       007 ³ wario           ³ Wario   .C ³ iron lord ³ adventurer#13
+           ³                 ³            ³           ³ (gallery)
+       008 ³ karlshteyn      ³ Karlstyn.c ³ dimidrol  ³ cafe'o2 zx gfx
+           ³ castle on Czech ³            ³           ³ (7th place),
+           ³ republic        ³            ³           ³ body#3d
+       009 ³ past            ³ Past    .c ³ dimidrol  ³ cafe'o2 zx gfx
+           ³                 ³            ³           ³ (10th place)
+       010 ³ mope            ³ Mope    .c ³ iron lord ³ cafe'o2 zx gfx
+           ³                 ³            ³           ³ (17th place)
+       011 ³ Log             ³ Log     .c ³ iron lord ³ don news#18
+       012 ³ enemys          ³ enemys  .c ³ dimidrol  ³ virtue da dirty
+           ³                 ³            ³           ³ soul
+       013 ³ snow man        ³ Snowman .c ³ dimidrol  ³ forever quattro
+           ³                 ³            ³           ³ zx gfx
+           ³                 ³            ³           ³ (3rd place)
+       014 ³ thoughtf        ³ Thoughtf.c ³ dimidrol  ³ cafe'o3 zx gfx
+           ³ (thoughtful)    ³            ³           ³ (8th place)
+       015 ³ rix             ³ Rix     .c ³ iron lord ³ cafe'o3 zx gfx
+           ³                 ³            ³           ³ (16th place)
+       016 ³ death valley    ³ Zastava .c ³ dimidrol  ³ death valley:
+           ³                 ³            ³           ³ cafe
+           ³                 ³            ³           ³ pre-release
+       017 ³ game over       ³ Gameov  .c ³ dimidrol  ³ death valley:
+           ³                 ³            ³           ³ cafe
+           ³                 ³            ³           ³ pre-release
+       018 ³ soldier lv2     ³ SoldLv2 .c ³ dimidrol  ³ death valley:
+           ³                 ³            ³           ³ cafe
+           |                 |            |           | pre-release
+           :                 :            :           :
+       --Ä-ÄÄ-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä-----
+
+                           . .. ay/ym music  list .. .
+
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+       nxx ³    music name     ³   file name  ³      release  place
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+           :                   :              :
+           |                   |              |
+       001 ³ summer season     ³ Flexo06 .m   ³ 8-otdel help
+           ³ (by ATB)          ³              ³
+       002 ³ zx-forever,       ³ Flexo09 .m   ³ screen to font 2x2
+           ³ zx-for ever       ³              ³ converter ver.1.o5
+       003 ³ deep factory      ³ Flexo40 .m   ³ death valley:
+           ³                   ³              ³ motion on death bodies
+       004 ³ >+<ona c py4kou   ³ Flexo39 .m   ³ body#39
+       005 ³ one more time     ³ Flexo49 .m   ³ body#39
+       006 ³ my mind is free   ³ Flexo71 .m   ³ cafe'o2 zx ay music
+           ³                   ³              ³ (13th place),
+           ³                   ³              ³ still flying
+       007 ³ lonely soul       ³ Flexo96 .m   ³ paradox'o2 zx ay music
+           ³                   ³              ³ (2nd place)
+       008 ³ convulsion        ³ Flexo75 .m   ³ body#3b
+       009 ³ sky morphing      ³ s_morfin.mjf ³ genz#3
+       010 ³ only dreams       ³ on_dream.mjf ³ genz#3
+       011 ³ old dark castle   ³ oldacast.mjf ³ zx time#10
+       012 ³ illumination      ³ Flexo110.m   ³ body#3c
+       013 ³ death erotic      ³ Flexo80 .m   ³ body#3c
+       014 ³ children games    ³ ch!ldren.mjf ³ body#3c#
+       015 ³ daBujLka          ³ daBujLka.mjf ³ body#3c#
+       016 ³ fatal condition   ³ fatal_cd.mjf ³ body#3d
+       017 ³ tech me!          ³ tech_me!.mjf ³ body#3d
+       018 ³ creative brain    ³ cratbart.mjf ³ don news#18
+           ³ art               ³              ³
+       019 ³ see into yaself   ³ Flexo52 .m   ³ promised land#3
+       020 ³ klub-bi           ³ Flexo91 .m   ³ promised land#3
+       021 ³ night jungle      ³ Flexo93 .m   ³ promised land#3
+           ³ traveller         ³              ³
+       022 ³ cnomanu tabypetky ³ Flexo26 .m   ³ promised land#3
+       023 ³ hystory of alone  ³ Flexo27 .m   ³ promised land#3
+           ³ dark star         ³              ³
+       024 ³ gravtation        ³ Flexo28 .m   ³ promised land#3
+       025 ³ happy new 2oo3    ³ happy'o3.mjf ³ gift 2oo3
+           ³ year              ³              ³
+       026 ³ abstraction sound ³ abstract.mjf ³ peaceda gonez (xpehb)
+       027 ³ get it all        ³ getitall.mjf ³ peaceda gonez (xpehb)
+       028 ³ midnight streets  ³ Flexo102.m   ³ last 128#3
+       029 ³ damage!           ³ damage! .mjf ³ body#3e
+       030 ³ blow master       ³ blowmast.mjf ³ body#3e
+       031 ³ krizalis fataller ³ krizalis.mjf ³ body#3e#
+       032 ³ sqreamin' foul    ³ sqreamin.mjf ³ body#3e#
+       033 ³ infinite          ³ infinite.mjf ³ virtue da dirty soul
+       034 ³ fresh news        ³ fresh_ns.mjf ³ virtue da dirty soul
+       035 ³ beside            ³ beside_i.mjf ³ antique toy'o2-o3
+           ³ impressions       ³              ³ zx ay music mainstream
+           ³                   ³              ³ (2nd place)
+       036 ³ antique toyz      ³ aen'ti:k.mjf ³ antique toy'o2-o3
+           ³ present           ³              ³ zx ay music
+           ³ (c-jeff, n1k-o)   ³              ³ progressive
+           ³                   ³              ³ (1st place)
+       037 ³ transplontation   ³ trance_p.mjf ³ antique toy'o2-o3
+           ³                   ³              ³ zx ay music
+           ³                   ³              ³ progressive
+           ³                   ³              ³ (8th place)
+       038 ³ amadeus voxon     ³ a_voxon .mjf ³ antique toy'o2-o3
+           ³                   ³              ³ zx ay music cover
+           ³                   ³              ³ (1th place)
+       039 ³ epic saga         ³ epicsaga.mjf ³ izh news#od
+       040 ³ klub legion       ³ klub_lg .mjf ³ izh news#od
+       041 ³ my acid mind!     ³ my_acid!.mjf ³ izh news#od
+       042 ³ smilin' funky     ³ smilin'f.mjf ³ izh news#od
+       043 ³ kuru five remix 2 ³ kuru5mx2.mjf ³ astemex for gs
+       044 ³ one hundred       ³ Flexo100.m   ³ last 128#3.5
+           ³ trackz ago        ³              ³
+       045 ³ deaf'n'dump       ³ deaf_dmp.mjf ³ forever quattro
+           ³                   ³              ³ zx ay music
+           ³                   ³              ³ (11 place)
+       046 ³ around past       ³ a_past  .mjf ³ zx time#11
+       047 ³ travel in unreal  ³ Flexo116.m   ³ zx time#11
+       048 ³ cee-jay's studin' ³ cj_study.mjf ³ zx time#11
+       049 ³ peculiar peace    ³ peculiar.mjf ³ ascii'o3 zx ay no copy
+           ³ (lon. soul #rep)  ³              ³ (?? place)
+       050 ³ feel c.           ³ feel_mix.mjf ³ ascii'o3 zx ay copy
+           ³ robbie williams   ³              ³ (?? place)
+       051 ³ liquid theme 2    ³ vic_lqid.mjf ³ zx time#12
+       052 ³ shpionizm ;)      ³ shp!onbi.mjf ³ zx time#12
+       053 ³ imperian soul     ³ Flexo60 .M   ³ death fight
+       054 ³ end of the days   ³ Flexo47 .M   ³ death fight
+       055 ³ ringer equvalence ³ ring_098.mjf ³ promised land#4
+           ³ 098               ³              ³
+       056 ³ yo zx-net         ³ Flexo104.m   ³ promised land#4
+           ³ & excess party 1  ³              ³
+       057 ³ forest singing    ³ foresign.mjf ³ promised land#4
+       058 ³ church fucking    ³ Flexo92 .m   ³ promised land#4
+       059 ³ rayden/mkhg       ³ Flexo103.m   ³ promised land#4
+           ³ klassic track     ³              ³
+       060 ³ life protection   ³ Flexo109.m   ³ promised land#4
+       061 ³ hidden squeak in  ³ hidden  .m   ³ promised land#4
+           ³ nik-o's threat    ³              ³
+       062 ³ yo zx-net         ³ Flexo105.m   ³ promised land#4
+           ³ & excess party 2  ³              ³
+       063 ³ synthesis world   ³ Flexo101.m   ³ promised land#4
+       064 ³ underground klub  ³ under_kl.mjf ³ wizard's lair
+       065 ³ computer junkis   ³ computer.mjf ³ izh news#oe
+       066 ³ fire c.prodigy    ³ fire    .mjf ³ izh news#oe
+       067 ³ beyond the ice    ³ ice_pal .mjf ³ izh news#oe
+           ³ palace            ³              ³
+       068 ³ last time         ³ lasttime.mjf ³ izh news#oe
+       069 ³ nuut              ³ nuut    .mjf ³ izh news#oe
+       070 ³ pokemania         ³ pokeman .mjf ³ izh news#oe
+       071 ³ i want to fly...  ³ want_fly.mjf ³ izh news#oe
+       072 ³ k0rDa yL3taem     ³ yl3taem .mjf ³ izh news#oe
+       073 ³ krack me tonight  ³ krack_me.mjf ³ russian chip tune compo
+           ³                   ³              ³ 2oo3 (23th place)
+       074 ³ let1gan noise     ³ let1gan .mjf ³ paradigmus'o3
+           ³ rain              ³              ³ zx ay music
+           ³                   ³              ³ (5th place)
+       075 ³ klaustrophoby     ³ klaus_fb.mjf ³ gotta catch'em all
+       076 ³ easy feels        ³ easyfilz.mjf ³ gotta catch'em all
+       077 ³ 6e3 3By4ka        ³ bezzwuka.mjf ³ the compo
+       078 ³ nemnogo komatozit ³ kmatoz:>.mjf ³ the compo, inferno#4
+       079 ³ rullleeezzz!!!    ³ Flexo01 .m   ³ the compo, inferno#4
+       080 ³ crystal kingdom   ³ Flexo66 .m   ³ the compo, inferno#4
+       081 ³ simple sample     ³ sim_samp.mjf ³ the compo
+       082 ³ fioletto          ³ fioletto.mjf ³ cafe'o3 zx ay music
+           ³                   ³              ³ (3rd place),
+           ³                   ³              ³ cafe'o3 report
+       083 ³ 4d birthday       ³ 4d_birth.mjf ³ death valley:
+           ³                   ³              ³ cafe pre-release
+       084 ³ hugo boss         ³ hugoboss.mjf ³ death valley:
+           ³                   ³              ³ cafe pre-release
+       085 ³ killin' loops     ³ kl'nloop.mjf ³ cafe'o3 zx ay music
+           ³ (alx, c-jeff)     ³              ³ (15th place)
+       086 ³ sound fields 2oo3 ³ soofee  .mjf ³ zx time#13
+           ³ (yerz,c-jeff)     ³              ³
+       087 ³ :datafuck:dj.kor  ³ kornekut.mjf ³ .point.
+           ³ :kornerkut        ³              ³
+       088 ³ acid voodoo bass  ³ vududrum.m   ³ millenium'19o3
+           ³                   ³              ³ zx ay music
+           ³                   ³              ³ (6th place)
+       089 ³ cosmosi           ³ cosmosi .mjf ³ arachno joe
+       090 ³ party atmosphere  ³ party_at.mjf ³ arachno joe
+       091 ³ squizzed phantasy ³ squizzed.mjf ³ arachno joe
+       092 ³ thanx-gift 4      ³ 4_vortex.mjf ³ arachno joe
+           ³ vortex/brainwave  ³              ³
+       093 ³ r+!+p             ³ all&noth.mjf ³ arachno joe
+       094 ³ see.you.on.da.    ³ Flexo94 .m   ³ arachno joe
+           ³ CaFe'2oo3.kul.    ³              ³
+           ³ party             ³              ³
+       095 ³ virtual flying    ³ Flexo108.m   ³ arachno joe
+       096 ³ fire and ice      ³ fire&ice.mjf ³ fire and ice
+       097 ³ still flying      ³ intro   .mjf ³ still flying
+           ³ intro             ³              ³
+       098 ³ intro             ³ Flexo88 .m   ³ still flying
+           ³ (single notes)    ³              ³
+       099 ³ still flying      ³ Flexo78 .m   ³ still flying
+       100 ³ anthology of life ³ Flexo77 .m   ³ still flying
+       101 ³ angels flying     ³ Flexo73 .m   ³ still flying
+       102 ³ untouched motive  ³ Flexo74 .m   ³ still flying
+       103 ³ light world       ³ LightWrd.m   ³ still flying
+       104 ³ time out          ³ Flexo82 .m   ³ still flying
+       105 ³ amazonia          ³ Flexo83 .m   ³ still flying
+       106 ³ night vision      ³ Flexo84 .m   ³ still flying
+       107 ³ miracle           ³ Flexo85 .m   ³ still flying
+           ³ activation        ³              ³
+       108 ³ post scriptum     ³ Flexo87 .m   ³ still flying
+           |                   |              |
+           :                   :              :
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+
+                          . .. digital  music list .. .
+
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+       nxx ³    music name     ³   file name  ³      release  place
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+           :                   :              :
+       001 | fatal.generation  | Fatal_gn.e   | paradox'o2 zx digital
+           ³                   ³              ³ music
+           |                   |              | (4th place)
+           :                   :              :
+       --Ä-Ä-ÄÄÄ-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-ÄÄÄ-ÄÄ-Ä---
+
+       all text by c-jeff//gbg ........ ascii logo by kejser soze//coma

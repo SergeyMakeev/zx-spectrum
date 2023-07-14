@@ -1,0 +1,22 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Sauron of DR\PA-PA-PA.pt2
+<
+Name=SAURON/DIGI-REALY/PRESTIGA:'97
+Comment=Intro
+Time=6144
+Loop=512
+>
+..\..\Authors\Joe of DR\DOOM_3.pt2
+<
+Name=DOO-O-O-O-OOOM!!!(tune by JOE)
+Comment=In-Game
+Time=5184
+Loop=0
+>
+..\..\Authors\Sauron of DR\TERM__2.pt2
+<
+Name=REMIXED BY ANS/DR/PSG
+Comment=Done
+Time=3328
+Loop=0
+>

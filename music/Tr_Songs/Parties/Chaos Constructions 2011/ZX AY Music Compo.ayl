@@ -1,0 +1,80 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Mmcm\MmcM_Over_Line.pt3
+<
+Author=MmcM^Sage 250820110225 YM ABC
+Name=OveR LiNe .... SpEc 4 CC^2011
+Length=11962
+Time=8772
+Loop=0
+>
+..\..\Authors\Splinter\stellar-II.pt3
+<
+Author=cj splin7er (hardtrance tune)
+Name=stellar two
+Length=3936
+Time=7299
+Loop=7296
+>
+<
+Author=cj splin7er (hardtrance tune)
+Name=stellar two
+Length=5331
+Offset=3936
+Time=7299
+>
+..\..\Authors\Bugsy\2011\we_are_the_people_by_empire_of_the_sun.pt3
+<
+Author=BUGSY/HDS   26.08.011
+Name=EMPIRE OF THE SUN: WE ARE PEOPLE
+Length=1527
+Time=11520
+Loop=768
+>
+<
+Author=BUGSY/HDS   26.08.011
+Name=EMPIRE OF THE SUN: WE ARE PEOPLE
+Length=2114
+Offset=1527
+Time=11520
+Loop=768
+>
+..\..\Authors\Silent\Silent-Empiror.pt3
+<
+Author=Silent
+Name='Empiror' (remix)
+Length=5124
+Time=8960
+Loop=0
+>
+..\..\Authors\Siril\lgbr_t2.pt3
+<
+Author=oisee ^ 4d 26.08.2011
+Name=lgbr
+Length=20299
+Time=9472
+Loop=0
+>
+..\..\Authors\Scalesmann\03_sweet thing.pt3
+<
+Author=scalesmann. 2011
+Name=sweet things
+Length=1525
+Time=5746
+Loop=5742
+>
+..\..\Authors\Moran\PAST.pt3
+<
+Author=MORAN
+Name=LAST
+Length=8279
+Time=8064
+Loop=7872
+>
+..\..\Authors\Moran\Carrot and stick.pt3
+<
+Author=Moran/CPU
+Name=KHyT i PRIANIK
+Length=4088
+Time=7872
+Loop=0
+>

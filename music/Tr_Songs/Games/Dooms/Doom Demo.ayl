@@ -1,0 +1,16 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Sauron of DR\Doom-1.pt2
+<
+Name=BY SAURON/DR/PSG::::ENLIGHT'96
+Comment=Intro
+Time=6168
+Loop=536
+>
+..\..\Authors\Sauron of DR\Doom-2.asc
+<
+Author=SAURON/DR/RPSG 1996
+Name=DOOM HARD TECHNO !!!
+Comment=In-Game
+Time=7280
+Loop=0
+>

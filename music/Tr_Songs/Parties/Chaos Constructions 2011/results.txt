@@ -1,0 +1,54 @@
+ZX Demo Compo
+ 	Demo Name	Author
+  1	paralactika	demarche
+  2	parus	AAA Band
+ZX AY Music Compo
+ 	Music Name	Author
+  1	Over Line	Mmcm / Sage
+  2	Stellar Two	Сj Splinter
+  3	We Are The People by Empire Of The Sun	Bugsy / HDS
+  4	Empiror	Silent
+  5	lgbr	Siril
+  6	sweet things	SCL / MC
+  7	Last	moran
+  8	Carrot and stick	Moran
+ZX Beeper Music Compo
+ 	Music Name	Author
+  1	Japan	JeRrS
+  2	A Man for All Seasons	Rene Sens
+  3	satelles	moran
+  4	continence	moran
+ZX Gfx Compo
+ 	Picture Name	Author
+  1	На юг полетели!	SAMANASUKE
+  2	Carlo is back	r0m
+  3	LIVES X 1	Pheel
+  4	ANNIHILATION OF ELECTRIC DEMONS	piesiu
+  5	caramel	wizard / DT
+  6	Эх скукотища!	SAMANASUKE
+  7	Night Pikzella	Sand / Mhm
+  8	Демо запили мне!!!	wizard / DT
+  9	Happy Birthday, Father Founder!	jerkk/ Katharsis
+  10	333	moran
+  11	picman	moran
+  12	Composition with Yellow, Blue and Red	Ziljan
+Realtime ZX GFX Compo
+ 	Picture Name	Author
+  1	2 future	SAmANASUKE
+  2	all us full of future	Diver / 4D
+  3	r_future	wizard / DT
+  4	Опять кысь расшумелся в лес	Vassa
+  5	no future	pROF / 4D
+  6	Virt	Iku
+  7	To The Future!	riskej
+  8	SEXSHOP	КАСик
+  9	looser	sand / mhm
+  10	no no future	moroz1999
+  11	fly to the past	jt137
+Realtime ZX Music Compo
+ 	Music Name	Author
+  1	MmcM_RealTime Track	MmcM
+  2	CCination	riskej
+  3	CC Ahymn Nostalgie	Siril
+  4	what have you done for demoscene?	bfox & fk0
+  5	Suchka	Slip

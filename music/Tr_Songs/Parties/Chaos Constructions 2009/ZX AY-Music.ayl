@@ -1,0 +1,94 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Mmcm\Fast Creature.pt3
+<
+Author=MmcM'Sage 28082009:2213 ABC YM
+Name=FaSt CrEAtUre ... Hi CC'09 ;)
+Length=5055
+Time=7056
+Loop=7032
+>
+..\..\Authors\Voxel\Turboman.pt3
+<
+Author=voxel 3umf
+Name=Turboman
+Length=1885
+Time=9600
+Loop=0
+>
+<
+Author=voxel 3umf
+Name=Turboman
+Length=1576
+Offset=1885
+Time=9600
+>
+..\..\Authors\Vedem\Timedrops.pt3
+<
+Author=Vedem
+Name=timedrops (for CC09)
+Length=9288
+Time=8160
+Loop=7776
+>
+..\..\Authors\A.S. EKB\Poslednij den.pt3
+<
+Author=S.A.V. 27.08.2009
+Name=POSLEDNIJ DEN
+Length=3121
+Time=10240
+Loop=0
+>
+..\..\Authors\TAD\from Guitar\Wooden_Toy.pt3
+<
+Author=rnR T.A.D. 7D9     [from Guitar]
+Name="Wooden Toy"         [2xAY_bAc]
+Length=3616
+Time=6351
+Loop=0
+>
+<
+Author=rnR T.A.D. 7D9     [fixed]
+Name="Wooden Toy"         [2xAY_bAc]
+Length=3233
+Offset=3616
+Time=6351
+>
+..\..\Authors\Megabyte\Indian Tonky Ponky.pt3
+<
+Author=Megabyte 2009.
+Name=Indian Tonky Ponky
+Length=4016
+Time=5616
+Loop=48
+>
+..\..\Authors\Scalesmann\watch my emotions.pt3
+<
+Author=scalesmann^mc.
+Name=watch my emotions
+Length=4122
+Time=6998
+Loop=6996
+>
+<
+Author=scalesmann^mc.
+Name=watch my emotions
+Length=2091
+Offset=4122
+Time=6998
+>
+..\..\Authors\MadMax of KNA\Mechanic Hi-Tech II.pt3
+<
+Author=MadMax / -=K-N-A=-
+Name=Mechanic Hi-Tech II (AY-ABC)
+Length=7923
+Time=7386
+Loop=0
+>
+..\..\Authors\Moran\TechNObiT.pt3
+<
+Author=Moran/CPU
+Name=TechN0biT
+Length=2299
+Time=5760
+Loop=0
+>

@@ -1,0 +1,152 @@
+DiHalt 2022 demoparty
+6-8 January
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+
+Official results v1.0
+
+
+
+[ ZX Spectrum Beeper Music ]
+
+1.   7.51   Freezing Point by Shiru
+2.   7.11   Geostorm by Shiru
+3.   7.03   March Of The BioMech by Tufty ^ 1bit Forum
+4.   5.97   drum'n'halt by utz ^ irrlicht project
+5.   5.76   Rekcart by AER
+6.   5.61   babka_dance by AER
+
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1.   8.00   Not yet sтaр (6ch) by KUVO ^ CSI
+2.   7.76   Long way to DiHalt by EA ^ Antares
+3.   7.39   In 2 channels experience by EA ^ Antares
+4.   6.67   Alien Slaphead by Jumperror ^ Team Moritz
+5.   6.27   DO_NOT_OPEN_THAT_FOKIN_DOOR by lampovyi_ninja
+6.   6.25   Polytechnology Univ. by Groove ^ JS/TNL
+7.   6.20   Nearly there [lil recombination] by Scalesmann ^ March[ing]_cats
+8.   5.94   Kerb by hazard ^ Phantasy
+9.   5.60   The Gifts of the Magi by Роман Русских
+
+
+
+[ Realtime ZX Music ]
+
+1.   7.56   The Winter Gathering by MmcM ^ Sage
+2.   7.29   Fragment 2022 by KUVO ^ CSI
+3.   7.13   hz by EA ^ Antares
+
+
+
+[ Realtime Paint Over ]
+
+1.   6.86   dh2022 space view by Baragoz ^ Lysenko kru
+2.   6.67   Night by shuran33
+3.   6.11   Аисты, ночь, звёздопад by noob
+4.   6.08   paint_over by Dumpkin
+5.   5.82   Gimp fox by Роман Русских
+6.   5.59   net work by ppurw ^ Excess team
+7.   5.24   Planet Landscape by Milena ^ NedoPC
+8.   4.78   Ты лучшая помидорка by Grongy
+
+
+
+[ LowEnd Graphics ]
+
+1.   8.33   Christmas day 2222 by Vassa
+2.   8.09   The One and The Only by Almighty God ^ Atlantis/Level 64/Excess
+3.   7.96   Если веришь, сказка оживёт by Отец хлеба
+4.   7.77   Просим сохранять спокойствие! Ситуация под контролем! by Mister Robin
+5.   7.75   Lion by Manwe ^ SandS
+6.   7.73   Tora - the Year of the Tiger by Katoyama ^ Koalas
+7.   7.42   Longji Rice Terraces by Retro ^ Retronator
+8.   7.29   GhostMirror by devstratum
+9.   7.02   Hermione by Katoyama ^ Koalas
+10.   6.87   t0tem by Grongy
+11.   6.76   Concept by Katoyama ^ Koalas
+12.   6.72   Ryu Ga Gotoku by Katoyama ^ Koalas
+13.   6.61   Alice by Katoyama ^ Koalas
+14.   6.47   Senna by Katoyama ^ Koalas
+15.   6.39   Druid Quest by Katoyama ^ Koalas
+16.   6.35   Lost Christmas Deer by Katoyama ^ Koalas
+17.   6.26   Олень Деда Мороза несет подарки спектрумистам by nodeus
+18.   6.23   Космический олень и дары волхвов / Space deer and the gifts of the Magi by Роман Русских
+18.   6.23   bear shaman by pixelrat
+19.   6.18   Power of tentacle by Dumpkin
+20.   6.08   kuda-to by Dumpkin
+21.   5.98   Into the Bright Future by Grongy
+22.   5.95   Bad Friend by aGGreSSor
+23.   5.94   Duel of the Fates - Harry vs Riddle by Katoyama ^ Koalas
+24.   5.88   Нейролень by neuroguevara
+25.   5.70   Retroid by Katoyama ^ Koalas
+25.   5.70   Star Wars by Grongy
+26.   5.45   Harry & Hermione by Katoyama ^ Koalas
+27.   5.32   Большой ионизированный новогодний фейерверк by Art-top
+28.   5.26   Hello by pixelrat
+29.   5.23   fate by shuran33
+30.   4.89   Tramvay by sashapont
+31.   4.63   Puppy by pixelrat
+
+
+
+[ Realtime LowEnd Graphics ]
+
+1.   6.65   РосСценНадзор рекомендует by nodeus
+2.   6.53   POV: ты оскорбляешь достопочтенных сподвижников спектрумизма под левым аккаунтом вконтактике by Grongy
+3.   6.05   testing by pixelrat
+4.   5.50   Nadziratel by sashapont
+5.   5.28   РосСценНадзор by Grongy
+6.   4.92   Ряха спектрумиста-копираста by Отец дедов
+7.   4.38   Give Me sosisage! by casesoma
+
+
+
+[ Realtime ZX Spectrum 53c Graphics ]
+
+1.   7.28   Ожидание/Реальность by Grongy
+2.   6.54   Girlfriend by mmcm
+3.   6.15   felika by dimidus / Дмитрий Кохно
+4.   5.92   flower queen by waffleB
+4.   5.92   лол by ppurw ^ Excess team
+5.   5.91   balzamit by bfox
+6.   5.78   batterfly by aGGreSSor
+7.   5.71   Hatsune by Mihhru
+8.   5.54   Happy New Beer by Milena ^ NedoPC
+9.   5.53   Fighting spectrumgirl by Casecoma
+10.   5.51   Ночь любви by Grongy
+11.   5.37   Hard choise by KUVO ^ SCI
+12.   5.19   alcohol and friendz by Milena ^ NedoPC
+13.   5.03   Warm Place by ABK
+13.   5.03   Together on Demoscene by shuran33
+13.   5.03   Good girl by Kakos_nonos
+14.   4.94   Do you help me, my girlfriend? by Dumpkin
+15.   4.81   Рободевочка by Нора Руденко
+16.   4.65   Подруга дней моих суровых by Mihhru
+17.   4.60   Боевая подруга by Milena ^ NedoPC
+17.   4.60   Девочка которая кричала "Amiga" by noob
+18.   4.54   Пиво + бабы = демо by Chrv ^ NedoPC
+19.   4.50   Завоз выставки by Mihhru
+20.   4.43   Сушеная рыбка by Milena ^ NedoPC
+21.   4.42   Боевая демосцена by Amirnasyri ^ Excess team
+22.   3.71   Anonimka by Flast
+23.   3.66   all the best by Sherhan
+
+
+
+[ Wild ]
+
+1.   7.70   Король и Шут: Камнем по голове (demo version) by Wally & Art-top
+2.   6.48   Lovebyte 2022 Promo by Lovebyte and friends
+3.   5.77   lost ring by RottenTeam
+4.   4.61   Tic-tac-toe by sashapont
+
+
+
+[ LowEnd 256b Intro ]
+
+1.   6.86   Fool's Mask by Dalthon ^ Joker
+2.   6.40   xtree by Dox ^ Joker

@@ -1,0 +1,23 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Spawn\SWorld.pt3
+<
+Author=SPAWN                      '1999
+Name=FROM FRIENDLY SCATMAN'S WORLD...
+Time=5120
+Loop=0
+>
+..\..\Authors\Ironman\SKATEMAN.stc
+<
+Name=SKATEMANS WORLD/IRONMAN 9.8.95
+>
+..\..\Other\Viator's Disks\SCATMIX1.pt2
+<
+Time=3200
+Loop=0
+>
+..\..\Authors\zHenYa\intro#5.pt2
+<
+Name=S-JOHN MIX COMPOSED BY ZHENYA0
+Time=4672
+Loop=256
+>

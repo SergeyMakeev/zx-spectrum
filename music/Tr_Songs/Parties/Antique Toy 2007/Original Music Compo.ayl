@@ -1,0 +1,115 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.5
+..\..\Authors\Ch41ns4w\Egao no Ketsu.pt3
+<
+Author=ch41ns4w / DLCorp
+Name=Egao no Ketsu
+Comment=667
+Length=5338
+Time=5536
+Loop=0
+>
+..\..\Authors\Gibson\TS\Warm Harmony.pt3
+<
+Author=Gibson
+Name=Warm Harmony
+Comment=638
+Length=3019
+Time=5952
+Loop=5760
+>
+<
+Length=2162
+Offset=3019
+Time=5952
+>
+..\..\Authors\Factor6\Vitamin ZX.sqt
+<
+Author=Factor6 / K3L / Phantasy
+Name=Vitamin ZX
+Comment=588
+Length=3191
+Time=7054
+Loop=0
+>
+..\..\Authors\Splinter\To Stars.pt3
+<
+Author=Splinter / Trinitrocode
+Name=To Stars
+Comment=581
+Length=2125
+Time=5392
+Loop=5196
+>
+<
+Length=2477
+Offset=2125
+Time=5388
+>
+..\..\Authors\Riskej\aqua.pt3
+<
+Author=Riskej / Simbols & Karbofos / DLcorp / Triumph
+Name=Aquarium
+Comment=580
+Length=5220
+Time=5748
+Loop=36
+>
+..\..\Authors\Voxel\Space Adventure - Deep fly.pt3
+<
+Author=Voxel / Triumph
+Name=Deep Fly
+Comment=546
+Length=5704
+Time=10656
+Loop=0
+>
+..\..\Authors\Riskej\Flauttro.Ponne.ftc
+<
+Author=Riskej / Simbols
+Name=Flauttro.Ponne
+Comment=461
+Length=1803
+Time=3072
+Loop=1024
+>
+..\..\Authors\TAD\Voskresenie.pt3
+<
+Author=mr.TAD
+Name=Voskreshenie
+Comment=459
+Length=3851
+Time=8464
+Loop=0
+>
+..\..\Authors\MadMax of KNA\Snow Light in the Light.pt3
+<
+Author=MaDMaX
+Name=Snow Light in the Light
+Comment=449
+Length=3372
+Time=3936
+Loop=3840
+>
+..\..\Authors\Scalesmann\cast.pt3
+<
+Author=Scalesmann / March Cats
+Name=Cast the Love on Everyone
+Comment=443
+Length=588
+Time=7812
+Loop=0
+>
+<
+Length=1217
+Offset=588
+Time=7812
+>
+..\..\Authors\Trefi\squeakdv.pt3
+<
+Author=Trefi / Debr!s
+Name=Squeaking Devil of Nothing Deja vu
+Comment=431
+Length=4974
+Time=6243
+Loop=0
+>

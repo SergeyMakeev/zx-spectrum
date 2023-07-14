@@ -1,0 +1,36 @@
+     .______.   ._____.  .___      ____.     .__________________________|\
+  ._\|_     |__\|_    |_\|_ /___._/    |/___\|_                           \
+  |   /     |    /    |  _/     |       _/    /  partymeister v2.00        \
+  |_ /______|   _     |  \      |       |        -------------------- -    /
+ _ /_______\____\_____|___\_____|_______|___    ________________________  /
+ \/- --_ __---------------------------------\___\--------------------- -|/
+     .__  /__    __.         ._     ___.      ____.  __.         .___
+  ._\|__\/__/_._/  |/_____._\|_)_._/  _|/__._/    |_/  |/_____._\|_ /______
+  |     \/    |    _/     |      |__       |      _/   _/     |  _/       /
+  |_    ||    |    \      |      | /       |      |    \      |  \        \_
+   /____||____|_____\_____|______|_________|______|_____\_____|___\________/
+- -diP------------------------------------------------------------------aSL- -
+
+  Chip MSX
+- -------------------------------------------------------------------------- -
+       01  227 Sink With Me by AceMan / Dreamweb^Resistance^Agenda
+       02  206 Black Lily by MotionRide
+       03  198 Sleepless Night by Malfunction/Altair
+       04  177 Mow Mi Aloes feat. MC $57 by Michu/
+                                            /Genesis Project^MultiStyle Labs^Samar
+       05  173 Hidden Lake of Raving Rabbits by V0yager
+       06  154 Iceberg by ARRGH!BYTE
+
+  Pixel GFX
+- -------------------------------------------------------------------------- -
+       01  216 Rejs/The Cruise by Luisa Poo-Brain^Rabenauge
+       02  207 Transformation by svoy/Agenda
+       03  163 Halffacer by Pardon / Hokuto Force ^ Samar ^ Vulture ^ Jabole ^
+               Vatican Dezong [REMOTE]
+       04  151 Angry Gnome by MotionRide
+       05  142 The Last Cruise by Raphis / Hokuto Force [REMOTE]
+       06  132 the Frogminator by MotionRide
+       07  126 winter by pixelrat [REMOTE]
+       08  116 Manic Gamer by Rogal/Pixel Nation
+       09  114 Dobiegniev Buturovich by Lucy
+       10   79 Odbyt Boy by Caw / Odbyt Design

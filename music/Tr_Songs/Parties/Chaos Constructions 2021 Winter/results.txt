@@ -1,0 +1,75 @@
+                _
+ _ ___ _      ______              _ ____ _       _ __ _     _ ___ _
+__________    ______  __        ____________   __________  __________
+___________ _|      |____    _   ___________  _____________ __________
+\       ___\\_           \  ____ \___       ||             |\       __\ \
+ \      \    |     \      \ _________|      ||c  h  a  o  s| \      \
+\ \      \   |      \      \\       _       ||constructions|  \      \ \
+ \ \      \  |      |\      \\      \       ||2 - 0 - 2 - 1|   \      \ \ \
+\ \ \      \ |      | \      \\      \      || w i n t e r |    \      \ \
+   \ \______\|______|  \______\\____________||_____________|_dvr_\      \ \ \
+       ______ ______       __    ___________   _  __  ____               \ \
+_____  ____  ____   _____ |  |_ ____ __ __ _____ |  |_ __  ____  ____   __\__
+\   _\| __ ||    \ _\   _\|  _/|  _/|  \  |\   _\|  _/|  || __ ||    \ _\   _\
+ \__\ |____||__\__|\____\ |__| |__|  \____| \__\ |__| |__||____||__\__|\____\
+   _    __    _  _   ____  _    _      ___    _   _    _____  ____  _____  __ 
+                                                      /_   /_| __ |/_   /_|  |
+                                                       /____/|____| /____/|__|
+
+  One Scene demo compo (combined)
+- -------------------------------------------------------------------------- -
+       01   57 MoonLight by Jmurenkov ( shown 7, 12 votes, avg=4.750, med=5.0 )
+       02   55 Taurus by Jmurenkov ( shown 6, 15 votes, avg=3.633, med=5.0 )
+       03   51 Kofeek by Arinia Semenisheva ( shown 4, 12 votes, avg=4.250, med=4.5 )
+       04   48 kot by Kolchev ( shown 1, 14 votes, avg=3.452, med=4.0 )
+       05   43 Star by Beliy ( shown 3, 12 votes, avg=3.583, med=4.0 )
+       06   43 Phyton by Piterin ( shown 2, 13 votes, avg=3.269, med=3.0 )
+       07   33 Three by Rahov ( shown 5, 13 votes, avg=2.500, med=2.0 )
+
+  Oldskool Tiny Intro
+- -------------------------------------------------------------------------- -
+       01   92 hyptro by trefi/kpacku ( shown 4, 19 votes, avg=4.842, med=5.0 )
+       02   88 blit22 by error/errorsoft ( shown 3, 22 votes, avg=3.977, med=4.0 )
+       03   75 Random walk by g0blinish ( shown 1, 21 votes, avg=3.571, med=4.0 )
+       04   74 Bars by g0blinish ( shown 2, 22 votes, avg=3.364, med=4.0 )
+
+  Wild Demo
+- -------------------------------------------------------------------------- -
+       01   94 Sleet by frog/ROi ( shown 3, 22 votes, avg=4.273, med=5.0 )
+       02   70 Colour Contention by C.Born ( shown 1, 21 votes, avg=3.333, med=3.0 )
+       03   67 Velesofts dragon in giga screen simulator by Crisis ( shown 2, 19 votes, avg=3.526, med=4.0 )
+
+  Chiptune Music
+- -------------------------------------------------------------------------- -
+       01   77 split minds by scalesmann/march[ing]_cats ( shown 7, 17 votes, avg=4.529, med=5.0 )
+       02   68 4cc21w by EA/Antares ( shown 4, 19 votes, avg=3.579, med=5.0 )
+       03   65 Dissociation by Pator/Joker ( shown 5, 16 votes, avg=4.063, med=4.0 )
+       04   60 Рваный Шум [TornedNoise] by rnR T.A.D. 7E4 ( shown 8, 16 votes, avg=3.750, med=4.0 )
+       05   58 Memories: Still Losing by Brandon ( shown 6, 15 votes, avg=3.867, med=4.0 )
+       06   57 Color Bleeding by hazard/phantasy ( shown 3, 20 votes, avg=2.850, med=4.0 )
+       07   48 Chaosbass by S_TN ( shown 2, 17 votes, avg=2.824, med=3.0 )
+       08   42 call by adkd ( shown 1, 14 votes, avg=3.000, med=3.0 )
+
+  Oldskool Graphics
+- -------------------------------------------------------------------------- -
+       01  115 Spring Through the Lens of Winter by Tutty ( shown 6, 27 votes, avg=4.259, med=4.0 )
+       02  113 Farewell, Mister Arthur Fleck by Tutty ( shown 8, 25 votes, avg=4.520, med=5.0 )
+       03  111 Slavs magic by dman/pcb ( shown 4, 27 votes, avg=4.111, med=5.0 )
+       04  102 Hetfield by dman/pcb ( shown 5, 26 votes, avg=3.923, med=4.0 )
+       05   89 Twisted Perspective by pixelrat ( shown 2, 26 votes, avg=3.423, med=4.0 )
+       06   87 Surferror by devstratum ( shown 7, 22 votes, avg=3.955, med=4.0 )
+       07   79 CROCO by pixelrat ( shown 1, 28 votes, avg=2.810, med=3.0 )
+       08   63 Cat by sashapont/- ( shown 3, 25 votes, avg=2.507, med=3.0 )
+
+  Textmode Art Graphics
+- -------------------------------------------------------------------------- -
+       01  101 Goblins Chaos 2021 by CoaXCable/CoolPHat^Legacy Krew and
+               TheODDFireFox/Legacy Krew ( shown 4, 27 votes, avg=3.726, med=4.0 )
+       02  100 Поехали! by Mr. Roboto ( shown 3, 24 votes, avg=4.167, med=5.0 )
+       03   84 Rose Oni by CatX ( shown 1, 23 votes, avg=3.652, med=4.0 )
+       04   45 buck the covid by eugene ( shown 2, 22 votes, avg=2.045, med=2.0 )
+
+  Realtime Graphics
+- -------------------------------------------------------------------------- -
+       01   70 QC by sashapont/- ( shown 1, 24 votes, avg=2.910, med=4.0 )
+       02   56 Starburst by Pink Panther/Buchaos ( shown 2, 24 votes, avg=2.339, med=3.0 )

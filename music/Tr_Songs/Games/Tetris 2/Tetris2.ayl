@@ -1,0 +1,22 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+..\..\Authors\Fuxoft\Golden Triangle Anthem.fxm
+<
+Author=Fuxoft
+Name=Tetris 2 Intro
+Comment=Tetris 2 (c) Fuxoft 1989
+Address=35300
+>
+..\..\Authors\Fuxoft\Tetris2.fxm
+<
+Author=Fuxoft
+Name=Tetris 2 Title
+Comment=Tetris 2 (c) Fuxoft 1989
+Address=51665
+>
+..\..\Authors\Fuxoft\Red Dawn.fxm
+<
+Author=Fuxoft
+Name=Tetris 2 In-Game
+Comment=Tetris 2 (c) Fuxoft 1989
+Address=52495
+>

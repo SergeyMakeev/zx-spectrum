@@ -1,0 +1,250 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.0
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50
+ChipType=AY
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Popcorn.sqt
+<
+Author=Qjeta
+Name=Popcorn
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This is rewritten MOD from Amiga called PC'90. It took about three days. SUX!
+Time=9024
+Loop=1152
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Can you forgive her.sqt
+<
+Author=Qjeta
+Name=PSB 1. Can You Forgive Her?
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=I made this song in 1993 about two weeks after the single appeared in radio and TV. It comes from LP VERY.
+Time=10949
+Loop=10709
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - I wouldn't normally do this kind of thing.sqt
+<
+Author=Qjeta
+Name=PSB 2. I woldn't normally do this kind of thing
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=It comes from LP VERY too. I loved this one most of the whole LP. And it's even better than Go West.
+Time=8140
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Different point of view.sqt
+<
+Author=Qjeta
+Name=PSB 3. A different point of view
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This one is also from LP VERY. First I wanted to rewrite the whole LP on AY, but it ended with this song. And I began to be interested in rock music.
+Time=8832
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Suburbia.sqt
+<
+Author=Qjeta
+Name=PSB 4. Suburbia
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=I think this is the most favourite of mine. In this demo there is used the version I mixed from LP and Single. Take and enjoy.
+Time=13020
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_1.sqt
+<
+Author=Qjeta
+Name=LOGICAL1
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This is intro song from a game of the same name on the Amiga. I'd say that it's nothing to write home about (the music), but I and MQM team wanted convert this game for Speccy, so I made all songs from this game.
+Time=9600
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_2.sqt
+<
+Author=Qjeta
+Name=LOGICAL2
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Music from the first level. Finally there was nothing from the game, although Mata made graphics. He bought PC and he left Speccy, so there is no one who would be able to complete the game.
+Time=7680
+Loop=1536
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_3.sqt
+<
+Author=Qjeta
+Name=LOGICAL3
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Music from the second level. It seems like a piece of cake, but because of Logical I had to complete table of tuning HW_bass. If someone is interested...
+Time=7680
+Loop=1024
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_4.sqt
+<
+Author=Qjeta
+Name=LOGICAL4
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Music from the third level. I dunno what more to say about it.
+Time=7680
+Loop=768
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Logical_5.sqt
+<
+Author=Qjeta
+Name=LOGICAL5
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Music from the fourth level. There are plenty of levels there, but the music is still repeating.
+Time=7680
+Loop=1024
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - QX3.sqt
+<
+Author=Qjeta
+Name=QX3
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Such a lessure song. The beginning is such a joke, but the speed is then faster. BTW, greets to SCALEX.
+Time=12452
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Q6_1.sqt
+<
+Author=Qjeta
+Name=Q6.1
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Several years ago I cost about six small songs on that time new Atari 1040STE, well, this one I tried to made for AY. Unfortunately it was successful just with the first part, because I filled that four channels on ST very well, that AY would need about six or even five channels.
+Time=3328
+Loop=512
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - QO5.sqt
+<
+Author=Qjeta
+Name=QO5
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=I can't recall what is this song about. May it is that interferences. Typical demo soundtrack. JSH likes it. OMEGA: It was used in my demo called OVERLAP.
+Time=3840
+Loop=1024
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Kvapky krve.sqt
+<
+Author=Qjeta
+Name=KAPKY KRVE
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Great song from Wanastovi Wjeci. In fact it's my absolutely first song I made with SQT. It has some bugs, but that time I didn't know to work with SQT. Btw, greets to George K.
+Time=13216
+Loop=2240
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - The Rot.sqt
+<
+Author=Qjeta
+Name=THE ROT
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This is my first own song I made with SQT. You can realize it by yourself. It's nothing special, but OMEGA chose this song. DEMOLISH THE MOLE!!! OMEGA: I like this one! Don't hurt me.
+Time=17176
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - CCS Song.sqt
+<
+Author=Qjeta
+Name=CCS SNG
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This have absolutely nothing to do with that petrol station. I made this song for a guy called CCS and his minidemo.
+Time=12000
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - XX15.sqt
+<
+Author=Qjeta
+Name=XX15
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Hey Boss, He want to pull my tooth!
+Time=5280
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - JMQ1.sqt
+<
+Author=Qjeta
+Name=JMQ1
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=Another very old song. Unfortunately it's also realizable. OMEGA: I used this song in my demo called UNUSED.
+Time=10012
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Turrican 1 v2.sqt
+<
+Author=Qjeta
+Name=TURRICAN 1
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=After a years I finally finished this work I started in MQM 2. There was the song written with Sound Tracker, so it was not the whole song and it was not completely correct. On the Amiga it was probably four channels music. It took about five days I got loaded (drunk).
+Time=12032
+Loop=512
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Turrican 2.sqt
+<
+Author=Qjeta
+Name=TURRICAN 2
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=On Amiga it's a seven channel song, there it's only three channel one, but you can hear all seven. It took about seven days. It totally filled SQT, so you cannot add any note! I think it's my best coverversion.
+Time=20896
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Fenomena.sqt
+<
+Author=Qjeta
+Name=FENOMENA
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This song comes from the Amiga (demo Enigma). It took ten days of work, about sixty beers Starobrno 10, 1.5 litre of apricot brandy and 200 cigarettes. I made this song years before for ST, but it was not complete. Factor made this song for SQT, but his version was not correct and It was split to the two files.
+Time=16614
+Loop=0
+>
+..\..\Authors\Qjeta\Qjeta's Delirium\Qjeta - Crazy world.sqt
+<
+Author=Qjeta
+Name=CRAZY WORLD
+Program=First Association
+Tracker=SQ-Tracker
+Computer=ZX Spectrum
+Comment=This is in fact only one song which I completely composed on the guitar and then on the computer. I composed this song for my group (we play a rock music as you know), but we didn't finished it, yet. OMEGA: I used this song in the epilogue of the MQM 5 demo.
+Time=12080
+Loop=0
+>

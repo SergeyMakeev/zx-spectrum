@@ -1,0 +1,51 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+..\..\Authors\Splinter\illberem.pt3
+<
+Author=Cj Splinter
+Name=I'll be remember
+Length=4009
+Time=8163
+Loop=8160
+>
+<
+Length=2175
+Offset=4009
+Time=8067
+Loop=8064
+>
+..\..\Authors\Dj Denson\t-means.pt3
+<
+Author=Dj Denson and Cj Splinter
+Name=T-Means (Now pary! edit)
+Length=2331
+Time=9027
+Loop=9024
+>
+<
+Length=4582
+Offset=2331
+Time=9027
+>
+..\..\Authors\Megabyte\contra-rock.pt2
+<
+Author=Megabyte
+Name=contra-rock
+Time=5376
+Loop=0
+>
+..\..\Authors\A.S. EKB\FASCINAT.pt3
+<
+Author=S.A.V.
+Name=fascinate
+Length=4743
+Time=8320
+Loop=0
+>
+..\..\Authors\Jerrs\neponatka2.pt3
+<
+Author=JeRrS
+Name=Ocherednaya neponyatka #2
+Length=836
+Time=3072
+Loop=0
+>

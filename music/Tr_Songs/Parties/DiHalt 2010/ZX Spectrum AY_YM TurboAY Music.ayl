@@ -1,0 +1,71 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.6
+..\..\Authors\Splinter\Adversary.pt3
+<
+Author=Cj Splinter remix 30-06-2010  5:42
+Name=Adversary
+Length=5063
+Time=8835
+Loop=8832
+>
+<
+Author=Splinter vs. Gate42
+Name=Adversary
+Length=2619
+Offset=5063
+Time=8835
+>
+..\..\Authors\Mmcm\Life Movement.pt3
+<
+Author=MmcM'Sage 100720100300 YM ABC
+Name=LiFe MoVeMeNt ...Hi DiHalt Fanz!
+Length=5203
+Time=8288
+Loop=0
+>
+..\..\Authors\Splinter\Regret.pt3
+<
+Author=Cj Splinter (2007-2010)
+Name=Regret (di halt short singleAY)
+Length=3974
+Time=9219
+Loop=0
+>
+..\..\Authors\Jerrs\Golden Ring.pt3
+<
+Author=JeRrS
+Name=Golden Ring
+Length=737
+Time=1160
+Loop=0
+>
+..\..\Authors\Mmcm\I Like Dub.pt3
+<
+Author=MmcM 270620101928 YM ABC
+Name=I Like Dub ... HeAt Up - 4DiHalt
+Length=1233
+Time=8040
+Loop=8016
+>
+<
+Author=MmcM 270620101928 YM ABC
+Name=I Like Dub ... HeAt Up - 4DiHalt
+Length=2154
+Offset=1233
+Time=8040
+>
+..\..\Authors\Simon\Gymnasium.pt3
+<
+Author=Simon
+Name=GIMNASIUM
+Length=1442
+Time=2112
+Loop=1920
+>
+..\..\Authors\Simon\Kalambur.pt3
+<
+Author=Simon
+Name=KALAMBUR
+Length=1710
+Time=4800
+Loop=4608
+>

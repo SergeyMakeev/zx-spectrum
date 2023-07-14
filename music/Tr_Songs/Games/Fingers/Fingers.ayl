@@ -1,0 +1,21 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.3
+..\..\Authors\Sauron of DR\FINGERS2.pt2
+<
+Name=COMPOSED BY SAURON/DR/PSG 1995
+Time=4992
+Loop=0
+>
+..\..\Authors\Sauron of DR\FINGERS1.pt2
+<
+Name=COMPOSED BY SAURON/DR/PSG 1995
+Comment=Hi Score
+Time=640
+Loop=0
+>
+..\..\Authors\Sauron of DR\FINGERS3.pt2
+<
+Name=REMIXED SAURON/DR/PSG & COLDUN
+Length=2920
+Time=4608
+Loop=384
+>

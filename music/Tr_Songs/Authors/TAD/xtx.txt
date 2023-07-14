@@ -1,0 +1,18 @@
+Кучка ProTracker-ных модулей .
+
+для проигрывания нужен AY_Emul , или Speccy :) .
+
+
+Всё писалось на Vortex][ трекере - под AY , при Pentagon-овских частотах :
+
+AY freq = 1.75 MHz
+Int freq = 48.828 Hz
+
+Раскладка каналов - обычно mono .
+
+
+http://sky-killers.narod.ru/
+mailto:rnR-TAD-7Dx@rambler.ru
+
+
+See you !

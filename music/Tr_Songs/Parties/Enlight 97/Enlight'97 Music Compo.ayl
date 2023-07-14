@@ -1,0 +1,699 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+>
+..\..\Authors\Averin Roman\Moscow.asc
+<
+Author=Averin Roman/Real Masters
+Name=Moscow
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=23616
+Loop=23232
+>
+..\..\Authors\Averin Roman\Illusion.asc
+<
+Author=Sergey Maltsev/Real Masters
+Name=Illusion
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=11776
+Loop=5632
+>
+..\..\Authors\Averin Roman\Agress.asc
+<
+Author=Sergey Lapin/Real Masters
+Name=Agress
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=16128
+Loop=15744
+>
+..\..\Authors\Averin Roman\Mr_DJ.asc
+<
+Author=Vlad Petrov/Real Masters
+Name=Mr_DJ
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=13440
+Loop=0
+>
+..\..\Authors\Fist Soft\Pinoccio.pt2
+<
+Author=Fist Soft/Virtual Vision Group
+Name=Pinoccio
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8321
+Loop=8001
+>
+..\..\Authors\Soundliner\SL_MUS.pt2
+<
+Author=Sound Liner/North Star Hackers Group
+Name=SL.MUS
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=16640
+Loop=16320
+>
+..\..\Authors\Dagma\TRANQ.stp
+<
+Author=Dagma/Extreme
+Name=Tranq
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=8832
+Loop=8448
+>
+..\..\Authors\Ksa\LastBatl.stp
+<
+Author=KSA/PGS
+Name=LastBatl
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=8960
+Loop=640
+>
+..\..\Authors\Mr.Nik\NARCO.stp
+<
+Author=Mr.Nik/Flash Inc
+Name=Narco
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=12160
+Loop=11840
+>
+..\..\Authors\Mr.Nik\NIK_VMF.stp
+<
+Author=Mr.Nik/Flash Inc
+Name=NIK_VMF
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=12160
+Loop=0
+>
+..\..\Authors\Kvs\R.Miles.stp
+<
+Author=KVS/Flash Inc
+Name=R.Miles
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=19776
+Loop=0
+>
+..\..\Authors\Voxon\Iris\Iris UD - Setup.fls
+<
+Author=Voxon/Flash Inc
+Name=FLASH!!!
+Program=Enlight'97 Music Compo
+Tracker=STC->Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=11200
+Loop=0
+>
+..\..\Authors\Kvs\FANTASY.stp
+<
+Author=KVS/Flash Inc
+Name=Fantasy
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=11904
+Loop=0
+>
+..\..\Authors\Fux\BIRDZZ!!.pt2
+<
+Author=Gena/PGS
+Name=Morning In The Forest
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8382
+Loop=7806
+>
+..\..\Authors\Mic of MPS\DRM_LESS.stp
+<
+Author=Mic/PGS
+Name=DRM_LESS
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+>
+..\..\Authors\Joe of DR\Nostalgy (Party Version).ftc
+<
+Author=Bloody Joseff/DR
+Name=Nostalgy
+Program=Enlight'97 Music Compo
+Tracker=Fast Tracker
+Computer=ZX Spectrum
+Date=1997
+Time=5648
+Loop=30
+>
+..\..\Authors\Sauron of DR\PA-PA-PA.ftc
+<
+Author=Sauron/DR
+Name=PA-PA-PA
+Program=Enlight'97 Music Compo
+Tracker=Fast Tracker
+Computer=ZX Spectrum
+Date=1997
+Time=6656
+Loop=6400
+>
+..\..\Authors\Suha\Pyramids.pt2
+<
+Author=Suha/DR
+Name=Pyramids
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=15360
+Loop=0
+>
+..\..\Authors\Frunze\CHILDREN.pt2
+<
+Author=Frunze/Style Group
+Name=Children
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=10960
+Loop=0
+>
+..\..\Authors\Muzafar\Bye!1996.pt2
+<
+Author=Musafar/Adia
+Name=1996, Bye!
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9208
+Loop=0
+>
+..\..\Authors\Jaguar\White.pt2
+<
+Author=Jaguar/Power Hackers Group
+Name=White
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8064
+Loop=0
+>
+..\..\Authors\zHenYa\HardLife.pt2
+<
+Author=Zhenya/We/Zero
+Name=Hard Life
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9600
+Loop=0
+>
+..\..\Authors\Creator\Africa (E'97).stp
+<
+Author=Creator/Fairlight
+Name=Africa
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=6528
+Loop=0
+>
+..\..\Authors\EA\EA1997\36 - Agrofoby (4 Enlight'97).pt2
+<
+Author=EA-SOFT/Megadate Group
+Name=Agrofoby
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8640
+Loop=8448
+>
+..\..\Authors\EA\EA1997\34 - Transmit.pt2
+<
+Author=Sister/Megadate Group
+Name=Transmit
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9600
+Loop=9280
+>
+..\..\Authors\EA\EA1997\29 - Fast!!!.pt2
+<
+Author=Master/Megadate Group
+Name=Fast
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9216
+Loop=8960
+>
+..\..\Authors\Ashnar\TALEOF.stp
+<
+Author=Ashnar/Beermans/XTM
+Name=My_Dream
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=10752
+Loop=0
+>
+..\..\Authors\Visual\Good&Evl.pt2
+<
+Author=Visual/Magicsoft/XTM
+Name=GOOD'N'EVIL
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8314
+Loop=0
+>
+..\..\Authors\Msa\XOGRAPHY.pt2
+<
+Author=MSA/Excess Team
+Name=XOGRAPHY
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=6912
+Loop=0
+>
+..\..\Authors\Msa\G_LUCK.pt2
+<
+Author=MSA/Excess Team
+Name=G_LUCK
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9472
+Loop=0
+>
+..\..\Authors\Maverick\MOON.pt2
+<
+Author=Maverick/Twinpeaks Group
+Name=Moonlight
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8960
+Loop=8640
+>
+..\..\Authors\Ded Smirnoff\Alfa4.asc
+<
+Author=Lash/Power of Sound
+Name=ALFA4
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=7616
+Loop=0
+>
+..\..\Authors\Ded Smirnoff\Opus2.asc
+<
+Author=Ded Smirnoff/Power of Sound
+Name=OPUS2
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=13440
+Loop=0
+>
+..\..\Authors\Stack\ENLIGHT1.pt2
+<
+Author=Stack/Green Fort
+Name=Freezer
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=7360
+Loop=7040
+>
+..\..\Authors\Arno\ILLUS+.pt2
+<
+Author=Arno/Omega Group
+Name=Illusion
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8832
+Loop=0
+>
+..\..\Authors\Justinas\LONG END.pt2
+<
+Author=Sector/Serious Speccy Group
+Name=Long End
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=10752
+Loop=10368
+>
+..\..\Authors\Pentasoft\END TIME.pt2
+<
+Author=Pentasoft/Serious Speccy Group
+Name=End Time
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=6656
+Loop=6400
+>
+..\..\Authors\Dnk\BALT-32!.pt2
+<
+Author=DNK/Virt Group
+Name=Baltiyskiy-32
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=7590
+Loop=0
+>
+..\..\Authors\Push\Birds_2.pt2
+<
+Author=Bobov Ivan
+Name=Birds in Forest
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8744
+Loop=8704
+>
+..\..\Authors\Ishma\Long_Fl.pt2
+<
+Author=Ishma
+Name=Long Flight
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9600
+Loop=0
+>
+..\..\Authors\Savage\M.TECHNO.pt2
+<
+Author=Savage
+Name=Mortal Techno
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=5708
+Loop=5688
+>
+..\..\Authors\George\GMS.pt2
+<
+Author=GMS/Gladiatorssoft
+Name=GMS-1
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=10944
+Loop=10560
+>
+..\..\Authors\Mischel\CON_.stp
+<
+Author=Michel/FX-Illusion
+Name=CON
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=8852
+Loop=8832
+>
+..\..\Authors\Eraser\Epilogue.stp
+<
+Author=Eraser/Unique
+Name=EPIL4
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=9984
+Loop=1152
+>
+..\..\Authors\X-man-music\JUNGLE (short version).pt2
+<
+Author=X-Man/Alliance
+Name=JUN3.00
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8960
+Loop=8704
+>
+..\..\Authors\D-Juice\EXREAL.pt2
+<
+Author=Zet/LS
+Name=Exreal Tune
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=14372
+Loop=14116
+>
+..\..\Authors\Kunf\TTB&BBB.pt2
+<
+Author=Kunf/Begemota Soft
+Name=Terrible Teddy Bear and B.B.B.
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=7703
+Loop=0
+>
+..\..\Authors\Kevin\BLISS.pt2
+<
+Author=Kevin
+Name=BLISS
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9421
+Loop=0
+>
+..\..\Authors\Mst\RM_REMIX.pt2
+<
+Author=Maxim Pustovalov
+Name=R.M. - Remix
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=11480
+Loop=0
+>
+..\..\Authors\Avatar\SPLASH.pt2
+<
+Author=Avatar
+Name=The Splash (Part 1)
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8000
+Loop=0
+>
+..\..\Authors\Never\ROADFGHT.pt2
+<
+Author=Flex/Auryn/CPU
+Name=Road Fighter
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=7680
+Loop=7360
+>
+..\..\Authors\Blind\RAVEON.pt2
+<
+Author=Blind/VLM4/CPU
+Name=Rave On!
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9768
+Loop=9320
+>
+..\..\Authors\Never\A1200.pt2
+<
+Author=Never/IS/CPU
+Name=I Wanna A1200
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=5308
+Loop=5052
+>
+..\..\Authors\Chasm\PRESSURE.pt2
+<
+Author=Chasm/IS/CPU
+Name=Pressure
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9372
+Loop=9180
+>
+..\..\Authors\Shark\HELLO.pt2
+<
+Author=Shark/OHG
+Name=Hello World!
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9280
+Loop=0
+>
+..\..\Authors\Grey\JUSIC'97.asc
+<
+Author=Grey/OHG/MFA
+Name=JUSIC'97
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=9280
+Loop=0
+>
+..\..\Authors\Criminal\MAGIC OL.pt2
+<
+Author=Criminal Gas/DKG
+Name=Magic of Love
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9408
+Loop=8960
+>
+..\..\Authors\Starsoft\Holmes.asc
+<
+Author=Jaan + Starsoft/PHT
+Name=Holmes
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=4691
+Loop=0
+>
+..\..\Authors\Jass\E'97_2.stp
+<
+Author=Jass
+Name=E'97/2
+Program=Enlight'97 Music Compo
+Tracker=Sound Tracker Pro
+Computer=ZX Spectrum
+Date=1997
+Time=8345
+Loop=8320
+>
+..\..\Authors\Kum\HEXABIN.pt2
+<
+Author=Kum/Global Corporation
+Name=Hexabin
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9945
+Loop=9920
+>
+..\..\Authors\Kum\EXTREME.pt2
+<
+Author=Kum/Global Corporation
+Name=Extreme
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=8478
+Loop=8448
+>
+..\..\Authors\VVS of DGMS\TRACK4.1.pt2
+<
+Author=VVS/DGMS
+Name=Track 4.1
+Program=Enlight'97 Music Compo
+Tracker=Pro Tracker 2.1
+Computer=ZX Spectrum
+Date=1997
+Time=9472
+Loop=0
+>
+..\..\Authors\Igoval\SKY_SURF.asc
+<
+Author=Igoval/Triangle Group
+Name=SKY_SURF
+Program=Enlight'97 Music Compo
+Tracker=ASC Sound Master
+Computer=ZX Spectrum
+Date=1997
+Time=8800
+Loop=8480
+>

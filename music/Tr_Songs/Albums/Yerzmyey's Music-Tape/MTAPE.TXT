@@ -1,0 +1,224 @@
+
+			HOOY-PROGRAM PRESENTS
+			A one-weekend-work (!!!!)
+			(C) 2002 MEGA-DEMO entitled:
+
+*******************************************************************************
+                          "YERZMYEY'S MUSIC-TAPE"
+*******************************************************************************
+		     (in oposition to music-disk ;-)  )
+
+	-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+	This demo is dedicated to RELICT/PHT^K3L
+	-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+		CODE: HELLBOJ (+YERZ)
+		ALL *37* TUNES BY YERZMYEY
+		ALL GFX BY YERZMYEY (EXCEPT "BEERMAN" (C) BY HELLBOJ)
+		TEXTS: YERZMYEY & HELLBOJ (IN SCROLL)
+
+
+	Keys in every part (except intro):
+	1 - 4: tunes
+	"S" - stop music (now You can chose some next tune or enter next part)
+	"M" - teleportation to next part	
+
+
+              _________________________________________________________ 
+              |                  From HOOY-PROGRAM!!!                 |
+              |-------------------------------------------------------|
+   
+   USE F7 (OR ANOTHER SEARCHING) TO FIND YOUR NAME OR GROUP!!!!!!!!!!!!!!!!!
+   Greetings to:
+
+- special greetz this time fly to RELICT/PHT^K3L
+- KAZ
+- ZIUTEK
+- KASSOFT
+- JACEK MICHALAK
+- CAT-MAN
+- Two Bears Software (HACKER MICHELLE & FRANK BROWN)
+- SEAN ADAMS
+- RAFII SOFT
+- MIVA
+- BILL GILBERT
+- ANDY
+- BR0MBA
+- SZAFRAN
+- KICIA
+- WISEMAN
+- SEBEK N.
+- HACKER CHRIS
+- The Lords
+- JACK DAVIS
+- The Players
+- MAC
+- AMST
+- ICE MAN
+- ICABOD
+- MIKROPOL
+- A. KWIATKOWSKI
+- R.I.P.
+- HACKER DEMON
+- SAPOSOFT (DANIEL MARTANOVIC)
+- NORO
+- BUSY SOFT (SLAVO LABSKY)
+- TINBIN HACKER (CRAIG EADES)
+- Total Eclipse (STEVE ANDERSON & GARETH JAYNE)
+- MAT
+- HACKER DANSOFT
+- Spectrus Adventure Software (MALY)
+- SIR SAM
+- GAPA
+- PESOFT LTD
+- MAREK
+- JOHN (JASIU BLEBLEBLE [???!!])
+- DEONSHEE
+- KAMILLO
+- HACKER PSV
+- PHONEX
+- HACKER JUNIOR
+- CONRADORRE
+- AXELSOFT
+- RAF
+- S.S CAPTAIN
+- WODZU (a wlasciwie obydwaj!!)
+- BZYK
+- TAXI DRIVER
+- FAT RAF
+- SEAN
+- HACKER KILLER
+- BAZOOKA
+- JOHN DALTHON
+- P.P. MINIO
+- CRUSHER
+- MALIN
+- STVE
+- YANKES
+- MARAS
+- MISIU
+- CRAZY MAN
+- MACIEJ WRONSKI
+- SZPERACZ
+- BRUNO
+- SUNGAM
+- RMC
+- MUZ-MAN
+- TARZAN BOY
+- ROBY
+- PCV
+- DI GI
+- MACHUL
+- PETER & PAUL HATCHETS
+- ADAM HODSON
+- NAGEL
+- LEONCIO
+- FAT PETER
+- G. A. LUNTER
+- WoMo-Team
+- ZACK
+- FUXOFT
+- T.E.A.M SOFTWARE
+- DATAsoft (now: BREEZER) 
+- RST 7, (R)SOFT, VAG, SLAYER, BEGINER, (M)SOFT
+- VAR
+- MARK
+- TYGRYS/GDC ;-)
+- CONRADORRE
+- VISION, TALISMAN, FUNSTRAD
+- THE INFAMOUS BLOOD
+- WORLD EYES group
+- EXTREME group (subgroups: BEERMANS, MAGIC SOFT, MEGACODE, SPEED COMPANY)
+- PROGRESS S. T.
+- E-MAGE
+- TANKARD
+- HACKER JIM GOER
+- PENTAGRAM
+- CYREHL OWL
+- K3L
+- DIGITAL REALITY
+- DREAM MAKERS
+- AXCO
+- MR. CRACKPOT
+- RST
+- KOOLPHONE
+- AGENT X
+- DOC. R
+- ZERO (hi, Zhenya!! :-) ) 
+- CODE BUSTERS
+- SEAMANS
+- DMS
+- LAVE SOFTWARE
+- EXCESS
+- NOUMENON TEAM
+- REACTION
+- FLASH
+- NAUGHTY CREW
+- TGM CREW
+- 7 GODS
+- JORDAN & all EXODUS
+- ILLUSION (hi PYZA, hi RADXCELL!!!! ;-) ) 
+- 3SC
+- PHANTASY 
+- X-TRADE
+- BLACK SHARK
+- UNITED MINDS
+- TORNADO
+- TECHNIUM 220
+- HAMMER
+- KAMIKAZE
+- RANDOM + CONCERN CHAOS
+- WLODEK BLACK
+- ZX NET
+- ANDY DAVIS & ALCHEMIST RESEARCH 
+- FBI
+- TFF TEAM
+- TANOD
+- PROXIUM
+- REAL MASTERS 
+- AVALON 
+- CLAW (hi DC PAK!! :-) ) 
+- VIRTUAL BROTHERS
+- ALIOTH
+- SPECCY BOYZ (hi, SS!! :-) ) 
+- BIT MUNCHERS 
+- GLOBAL CORPORATION
+- VAV & KSA
+- GALAXY INC.
+- WARLOCKS
+- IMPERIO from BOWER GROUP + HOG 
+- STYLE
+- BRAINWAVE
+- ANTARES
+- SYNDROME
+- E.S.A. (hullo, FACTOR 6!!!!! :-) ) 
+- ETERNITY INDUSTRY aka PLACEBO
+- DIE KRUPPS
+- JAREK ADAMSKI
+- CHILLZ
+- E.S.I. 
+- TIM FOLLIN
+- ADRIANO
+- GASMAN
+- CI5
+- SERZH
+- KARATE
+- OZZYOSS
+- ANDY BROWN
+- DEPECHE CODE
+- ACCEPT CORP. 
+- SPECIAL TEAM
+- THORGAL & SZNINKIEL (gdzie jestescie, ludziska?!?!) 
+
+                     ...and many other people!!
+
+Ludzie, jesli o kims zapomnialem lub przekrecilem jakas xywke, to mozecie mnie
+zabic. Staralem sie wymienic wszystkich tych, ktorzy w jakis sposob przyczyni-
+li sie do propagowania ZX-SPECTRUM.
+ 
+
+                                            Pozdrawiam!!!!!!!!
+                                          YERZMYEY/HOOY-PROGRAM
+
+                          
+                                        e'mail: hooyprg@friko.onet.pl

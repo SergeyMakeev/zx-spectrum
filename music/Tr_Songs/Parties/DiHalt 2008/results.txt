@@ -1,0 +1,194 @@
+=============================================================================================
+                                        Di:HALT:2008 results
+=============================================================================================
+                                                                                 ver 0.1 beta
+
+
+---------------------------------------------------------------------------------------------
+ZX Spectrum Graphics Compo                              
+---------------------------------------------------------------------------------------------
+1       7,9     Female Sight x Gigascreen       riskej  simbols
+2       7,6     oldsCool (Scene Island)         PheeL / Alexander Filyanov      
+3       6,9     8bit Demoscene  КАСик   
+4       6,4     Little Girl And Autumn          lika and riskej simbols
+5       4,9     shit-1                          Mixer   
+6       4,1     Ne7voyA                         Mixer
+7       3,6     1MYLE1                          Mixer
+8       3       1ye2-E                          Mixer
+
+---------------------------------------------------------------------------------------------
+ZX Spectrum AY/TurboAY-Music Compo                              
+---------------------------------------------------------------------------------------------
+1       7,20    related memories                bfox    
+2       6,57    where are  you  karbofos        drink lovers [triumph]
+3       6,41    WALK                            S.A.V.(Александр Смирнов)
+4       5,53    Third eternal wind              Splinter/Roman Lashkoff [3NC/DLCorp]
+5       5,52    Мне нечего сказать              JeRrs / Stas Zarubin    
+6       5,32    >_< another stupid pop          ch41ns4w/Kuraev Roman [DLCorp]
+7       5,08    Genz                            Voxel / Andrey Konov [Triumph]
+8       4,73    I Need Speed!                   riskej [simbols]
+9       4,40    Lumen - 2000 лет                Firestarter [Hackerz' Design Software]
+10      3,80    Забытые Души / Forgotten Souls  rnR T.A.D. 7D8  s'ky killer's
+
+---------------------------------------------------------------------------------------------
+ZX Spectrum TurboFM-Music                               
+---------------------------------------------------------------------------------------------
+1       6,22    Deep                            Shiru/Alex Semenov
+2       5,43    uzhos                           Alone Coder / Dima Bystrov      Invaders8
+3       5,29    shanson                         John Silver / Denis Loginov     Invaders8
+
+---------------------------------------------------------------------------------------------
+ZX Spectrum 512byte Compo                               
+---------------------------------------------------------------------------------------------
+1       7,2     SUPER-BOOT 512 BYTE REMIX       rasmer / Andrew Timoshik        FiSHBoNE
+2       5,6     Chess-Board in Infinity Madness tiboh   debris 
+3       4,5     192v32                          Budder / Konstantin Zaitsev     MGN Group
+
+---------------------------------------------------------------------------------------------
+ZX Demo                         
+---------------------------------------------------------------------------------------------
+1       8,45    Nedodemo                        Alone Coder / Dima Bystrov      Invaders8
+2       6,45    Diafilm                         GriV            
+3       6,14    the show of speaking socks      cpu+skrju 2008  cpu+skrju 2008
+4       5,38    Standup or get out              Milytia + simbols       
+5       5,31    cats            
+6       4,52    about a thing                   skrju, nq, t (ex-tanya_2308)    
+
+---------------------------------------------------------------------------------------------
+ASCII Graphics Compo                            
+---------------------------------------------------------------------------------------------
+1       6,7     Spasitel                        Dmitry Kalinin  Placebo 
+2       3,9     Babushka                        DiamonDie / Maija Haavisto      foobug/Numedia Cyclops
+
+---------------------------------------------------------------------------------------------
+Freestyle Graphics Compo                                
+---------------------------------------------------------------------------------------------
+1       4,92    www                             Raksha[DZR] / Dmitry Kildishev  ---
+2       3,67    Egypt                           dman / Dmitry Kalinin   Placebo
+3       3,56    demoscene is alive              Darkman007 / Tugay Vladimir     quite
+4       2,50    Soso                            Chika / Chikachova Maria        Myself
+5       2,48    Trilogy                         dman / Dmitry Kalinin   Placebo
+
+---------------------------------------------------------------------------------------------
+Handdraw Graphics Compo                         
+---------------------------------------------------------------------------------------------
+1       7,58    Fallout                         Undead Bat / Denis Gordeev      Professional Kill Machine unofficial team 
+2       7,15    Bird's Morning  Cornacchia      JeeZ
+3       6,56    connecting_for                  Natasha Che / Natalia Rebrova   CPU Rybinsk 
+4       6,39    Alexa                           BoulerMan / Roman Storojenko    
+5       5,89    Disappearance                   taciturn_RIN    
+6       5,69    Highway                         Lady M (Daria Sin)      
+7       5,02    Candle                          Lady M (Daria Sin)      
+8       4,63    Castle                          Lady M (Daria Sin)      
+9       3,92    Evergreen Field                 pteNEC / Skvortsov Yaroslav     
+10      3,55    Heart                           Lady M (Daria Sin)      
+11      2,94    Maru-kun                        Redux / Алексей Прилепский      
+
+---------------------------------------------------------------------------------------------
+Amiga/PC Render Graphics Compo                          
+---------------------------------------------------------------------------------------------
+1       8,48    One Shot                        Royal Ghost     veda3d.com
+2       5,58    Elf                             TOPBEHT / Valentin Loginov      Nzif
+3       4,97    Butcher                         amif1team / sergey karpov       team Dogma
+4       4,65    Placebo                         dman / Dmitry Kalinin   Placebo
+5       3,80    magnetik's cube                 Maksim Magnetik         CyberPunks Unity
+
+---------------------------------------------------------------------------------------------
+Chip Music Compo                                
+---------------------------------------------------------------------------------------------
+1       6,45    Space armada                    Lyzzard (Alex Badarin)  Cornercut
+2       6,17    Remainders of Love              Darkman007 / Vladimir Tugay     Quite
+3       6,13    Shorecrest Pilgrimage (comp.ed) tj technoiZ     cornercut
+4       5,57    sister                          preston sands
+5       5,03    Summer vacation                 Lyzzard (Alex Badarin)  Cornercut
+6       4,98    tillimabi                       Fby Fabio Barzagli      
+7       4,18    structured                      neogen  cornercut
+8       3,88    loud cloud                      mam     quite
+
+---------------------------------------------------------------------------------------------
+Traditional Music Compo                         
+---------------------------------------------------------------------------------------------
+1       6,00    Born in the 80s                 Lyzzard (Alex Badarin)          Cornercut
+2       5,40    D.                              Lyzzard (Alex Badarin)          Cornercut
+3       5,00    Funkotron                       Oleg Dunaev
+
+---------------------------------------------------------------------------------------------
+Alternative Music Compo                         
+---------------------------------------------------------------------------------------------
+1       6,70    Void Source                     Darkman007 / Vladimir Tugay     Quite
+2       6,06    Survivor                        Lyzzard (Alex Badarin)  Cornercut
+3       5,70    aller au casse-gueule           Lyzzard (Alex Badarin)  Cornercut
+4       5,54    for joy alone                   preston sands
+5       5,00    karma                           neogen  cornercut
+6       4,71    came to san                     mam     quite
+7       4,24    absorbing darkness              neogen  cornercut
+
+---------------------------------------------------------------------------------------------
+MP3/OGG Music Compo                             
+---------------------------------------------------------------------------------------------
+1       6,32    OH FUCK UPI'S FUCKED UP HIS DEMOSYSTEM          tone    t-rex
+2       6,30    Menuet                          Lyzzard (Alex Badarin)  Cornercut
+3       6,12    Airstrade                       Splinter        3NC/DLCorp
+4       6,11    Cuntest                         paro    transgenic
+4       6,11    Let you be my valentine         Platosha (Anton Platonov)       Cornercut
+5       6,06    Bottom                          CJ Vlam Newman ака Владимир Матюшёнок   ---
+5       6,06    Bottom                          CJ Vlam Newman ака Владимир Матюшёнок   ---
+6       5,97    Magic Flow                      Neuro_Fx / Nick Loboda  ---
+7       5,70    Sadness                         Mad Bass / Alexey Kovalev       ---
+8       5,42    Static                          beaver  t-rex
+9       5,41    deep to the space               buzz mindfield / Igor Pozdeev   ---
+10      5,38    Life of my heart                Time / Yaroslav Kurdaev ---
+11      5,35    Suicide                         ch41ns4w/Kuraev Roman   DLCorp
+12      5,31    Brilliant Spring                Neuro_Fx / Nick Loboda  ---
+13      5,18    Black Tower                     CJ Vlam Newman ака Владимир Матюшёнок   ---
+14      4,78    Dakkota                         Manwe / Alexander Matchugovsky  SandS 
+15      4,63    re.play                         neogen  cornercut
+
+---------------------------------------------------------------------------------------------
+32k.exe Music Compo                             
+---------------------------------------------------------------------------------------------
+1       7,03    Deep Blue welcomes you          Lyzzard (Alex Badarin)  Cornercut
+2       5,79    Metall in 20 kb                 mam / Sergey Myachin    Quite
+3       3,71                    
+
+---------------------------------------------------------------------------------------------
+Amiga/PC 4Kintro Compo                          
+---------------------------------------------------------------------------------------------
+1       6,94    Chaos Constructions 2008 invitation     kraviz  abhorus
+
+---------------------------------------------------------------------------------------------
+Amiga/PC Demo Compo (made on dihalt'08 realtime… )                              
+---------------------------------------------------------------------------------------------
+1       6,50    quite                           Preston & Co    
+
+---------------------------------------------------------------------------------------------
+Animation Compo                         
+---------------------------------------------------------------------------------------------
+1       8,53    КОЛОБОК                         Алексей/Рузанов/Babay   
+2       7,82    DaHZZ                           Maksim Magnetik Cyber Punks Unity
+3       6,10    Онейротерапия                   Алексей_Рузанов_Babay/Егор_Столмаков_   
+4       5,39    Территория ART HOUSE            Алексей_Рузанов_Бабай/Виктор_Рузанов_/Егор_Столмаков_   Чёрный Буратино
+
+---------------------------------------------------------------------------------------------
+Wild                            
+---------------------------------------------------------------------------------------------
+1       6,79    DDP - ASCII2007.avi             
+2       2,68    For a name and colors           Levitator / Andy Parfenov       tPA 
+
+---------------------------------------------------------------------------------------------
+ZX Realtime Graphics Compo                              
+---------------------------------------------------------------------------------------------
+1       6,64    Esmeralda                       Ray-Noa 
+2       4,89    Forever                         Black Fox       
+3       4,50    PINK KAEL       
+4       4,39    hater08                         Hater/Поров Алексей     ArtX
+5       3,57    Art Field                       КАСик   
+
+---------------------------------------------------------------------------------------------
+PC Realtime Graphics Compo                              
+---------------------------------------------------------------------------------------------
+1       6,32    Smoke leave me alone party      Yukka                                   
+2       6,00    Total                           Natasha_CHE     
+3       5,29    Килька                          Maksim Magnetik Cyber Punks Unity
+4       4,44    Pause                           CJ Vlam Newman  
+5       4,18    YoYo                            Raksha[Dzr]     

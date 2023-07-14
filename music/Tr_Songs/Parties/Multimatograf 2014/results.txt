@@ -1,0 +1,108 @@
+               _  _    _              _     *demoscene*        ___    __ __ 
+   _____  _ _ | || |_ |_| _____  ___ | |_  ___  ___  ___  ___ |  _|  |  |  |
+  |     || | || ||  _|| ||     || .'||  _|| . || . ||  _|| .'||  _|  |-   -|
+  |_|_|_||___||_||_|  |_||_|_|_||__,||_|  |___||_  ||_|  |__,||_|    |__|__|
+                                               |___|                        
+  demoparty +++ Vologda +++ 25-27/04/2014 +++ www.demoscene.multimatograf.ru
+
+        Official results v1.2
+
+						 
+________1Bit ZX Spectrum Music__________________________________________________
+
+ 1. The Invasion / brightentayle                                            4.43
+ 2. surprisingly NOT four twenty / raphaelgoulart                           4.42
+ 3. Acuaca / John Norton Irr                                                2.17
+ 4. Glass / John Norton Irr                                                 2.04
+
+________8bit Chip Music_________________________________________________________
+
+ 1. April Going / kotsoft aka d.j. kot [ZX-Spectrum]                        4.53
+ 2. Maybe Next Time / nix./site [C64]                                       4.07
+ 3. Elite knight / VBI [ZX-Spectrum]                                        3.95
+ 4. Stayin Alive / Gibson [ZX-Spectrum]                                     3.29
+ 5. Sonnacpu / Kakos_nonos [ZX-Spectrum]                                    3.20
+
+________8Bit Graphics___________________________________________________________
+
+ 1. Bear / Dimidrol / Dmitriy Bakhtin [ZX-Spectrum]                         4.70
+ 2. Girl with hat / Vassa [ZX-Spectrum]                                     4.55
+ 3. Yoda / prof4d [ZX-Spectrum]                                             4.52
+ 4. Wrong Bees / TmK / Alexandr Solodkov [ZX-Spectrum]                      4.46
+ 5. Game Over 3 / Jose Luis Pendejo [ZX-Spectrum]                           4.25
+ 6. Witches have long hands / Vassa [ZX-Spectrum]                           3.80
+ 7. Dragon attack / shuran33 / Alexandr Budkin [ZX-Spectrum]                3.52
+ 8. Bart Simpson vs Pacman / g0blinish [ZX-Spectrum]                        3.16
+ 9. curvature of space / John Norton Irr [ZX-Spectrum]                      3.09
+10. zxokia / Kakos_nonos [ZX-Spectrum]                                      3.02
+11. Chemistry phonen / John Norton Irr [ZX-Spectrum]                        3.02
+12. Garden / denpopov [ZX-Spectrum]                                         2.95
+
+________8Bit 256b intro_________________________________________________________
+
+ 1. BB / introspec [ZX-Spectrum]                                            4.55
+ 2. Crypto / trefi & tiboh (debris) [ZX-Spectrum]                           4.23
+ 3. Down with Rules! / introspec [ZX-Spectrum]                              3.73
+ 4. Rasta / g0blinish [Atari XL/XE]                                         3.71
+ 5. dreamtro / trefdeleev/dreambris [ZX-Spectrum]                           3.70
+ 6. Moving Border / ShaMAN / Ruslan Novikov [ZX-Spectrum]                   3.58
+ 7. Logo MM / bender64 [C64]                                                3.46
+ 8. Fake256 / g0blinish [ZX-Spectrum]                                       3.34
+ 9. Wire World / denpopov [ZX-Spectrum]                                     2.69
+10. s256 / shuran33 [ZX-Spectrum]                                           2.54
+11. ColoDrum / VBI [ZX-Spectrum]                                            2.52
+
+________8Bit Demo_______________________________________________________________
+
+ 1. RoboCop demo / Kabardcomp & team site [Apogey BK01c]                    4.51
+ 2. dinvtro / Mr.Scrololo [ZX-Spectrum]                                     4.02
+ 3. SmileMF / denpopov & g0blinish [ZX-Spectrum]                            4.00
+
+________Realtime ZX Graphics____________________________________________________
+
+ 1. rocket raccoon / diver4d                                                4.79
+ 2. Day at God's service / moroz1999                                        4.15
+ 3. Енот весь день пил чай с мистером Свином / Vassa                        4.02
+ 4. FatEnot / shuran33                                                      3.69
+ 5. And There Were Three Photoshopped Raccoons Or So / brightentayle        3.52
+ 6. За травой / nodeus                                                      3.44
+ 7. Alienot on the enemy planet / Kakos_nonos                               1.96
+ - Jenout / John Norton Irr                                                
+
+________ZX Spectrum attributes (53c)____________________________________________
+
+ 1. подснежник / Вадим Кузьминский                                          4.55
+ 2. Мороженка / Krossvas                                                    4.14
+ 3. Dansing penguin's / AntiBender                                          4.02
+ 4. ВЕСЕННИЙ ПОЖИРАТЕЛЬ ЦВЕТКОВ / Сергей Лета                               4.02
+ 5. если бы диззи был пингвином / TmK                                       4.00
+ 6. По весне пИнгвины совсем распустились! / K.C.                           3.82
+ 7. ping / moroz1999                                                        3.78
+ 8. springuin / hydrogen                                                    3.71
+ 9. Яzь! / Buyan                                                            3.61
+10. slide / Анна Кузьминская                                                3.32
+11. Spring love finds yours pinguins / Nuts_                                3.29
+12. Пингвин / Егор Стуленков                                                3.28
+13. Весна. Такая весна. / Marinova Alexandra                                3.11
+14. пингвин на мультиматографе / Наталия Куклина                            3.06
+15. Зе Линукс борн ;) / AntiBender                                          2.97
+16. spring penguin / square                                                 2.96
+17. too HOT / Nuts_                                                         2.93
+18. pingvin changes live / John Norton Irr                                  2.75
+19. Ping Timeout (160 sec) / brightentayle                                  2.63
+20. Green / Kakos_nonos                                                     2.58
+21. Southern guest / Jack^Therac25                                          2.29
+22. Vesna is coming / Kakos_nonos                                           2.16
+23. Old Vesn / John Norton Irr                                              2.13
+24. из раннего / Пикассо                                                    2.12
+
+________Hack Compo______________________________________________________________
+
+1. krossvas                                                             5 points
+
+________Game Quest______________________________________________________________
+
+1. Крабы                                                             1100 points
+2. shuran33                                                          800 points*
+3. Кирилл                                                            800 points*
+* Второе и третье место в номинации разыгрывалось дополнительными раундами.

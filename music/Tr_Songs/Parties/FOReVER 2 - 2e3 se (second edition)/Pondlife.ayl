@@ -1,0 +1,97 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ACB
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=AY
+>
+..\..\Authors\Gasman\Pondlife Intro.stc
+<
+Author=Gasman
+Name=Intro
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=3840
+Loop=0
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT21 - Funk.stc
+<
+Author=Yerzmyey
+Name=Multicolour
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=11520
+Loop=0
+>
+..\..\Authors\Gasman\Rain.stc
+<
+Author=Gasman
+Name=Zero Team Guest Part
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=6912
+Loop=0
+>
+..\..\Authors\Gasman\NorwegianBlue.stc
+<
+Author=Gasman
+Name=What the duck? Jumbo scrolly. Triangle vortex.
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=6272
+Loop=0
+>
+..\..\Authors\Yerzmyey\Yerzmyey's Music-Tape\MT36 - YerzMix2.stc
+<
+Author=Yerzmyey
+Name=Too many scrolly
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=10752
+Loop=0
+>
+..\..\Authors\Justinas\Pondlife Funky-Fit.pt3
+<
+Author=Justinas.sMg.cTl i.a.2001.02.04.
+Name="Funky-Fit" track for _Pondlife_
+Program=Pond Life
+Tracker=Pro Tracker 3.4
+Computer=ZX Spectrum
+Date=2001.02.04
+Comment=Kaleidoscope part
+Time=10054
+Loop=0
+>
+..\..\Authors\Gasman\Pondlife Upstream.stc
+<
+Author=Gasman
+Name=Upstream
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=2560
+Loop=0
+>
+..\..\Authors\Gasman\Cybernoid's Revenge (Pondlife The End).stc
+<
+Author=Gasman
+Name=The End
+Program=Pond Life
+Tracker=Sound Tracker
+Computer=ZX Spectrum
+Date=2001
+Time=10496
+Loop=0
+>

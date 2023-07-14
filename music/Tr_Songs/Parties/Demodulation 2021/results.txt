@@ -1,0 +1,143 @@
+Demodulation'2021    -  - - -- --- ---- ----- ---- --- -- - -  -    Nov 27, 2021
+
+   _ __  _____/____ __  __  ___  _____/      /    ___    /    '___  ___
+_ ____  /    //__  /  |/  \/   \/    //    //    /___\ _/_   //   \/   \  ____ _
+        \___//____/   /   /____/\___/ \___//____/    / /___ //____/    / __ _
+
+                       .o.f.f.i.c.i.a.l.  .r.e.s.u.l.t.s.
+
+
+-   -   -  - - -- --- ----[ oldschool chiptune music ]---- --- -- - -  -   -   -
+
+                                                                     pts     avg
+
+ 1.   Return to youth                 MCMACKER                       334  8.1463
+ 2.   don't tread on me <3            wermi / lzw^joker              265  7.7941
+ 3.   ODULA                           Pator&fatalsnipe               276  7.4595
+ 4.   CyberBullying                   S_TN                           255  7.2857
+ 5.   Demodulation'2021, i'm here!    EA/Antares                     279  7.1538
+ 6.   It's my cry                     Vladimir Khromov               257  7.1389
+ 7.   Storm chasing                   Anvers                         261  7.0541
+ 8.   Dissonance                      aGGreSSor                      274  6.6829
+ 9.   Victory                         ALEXEY hellraver KRIVTSOV      216  6.5455
+ 10.  (ne)evelope                     Daniil Kulikov                 207  6.2727
+ 11.  The war experiment              ALEXEY hellraver KRIVTSOV      222  6.1667
+
+
+
+-   -  - - -- --- -------[ oldschool pixelart graphics ]------ --- -- - -  -   -
+
+                                                                     pts     avg
+
+1.  MSX Night (256x96)                Grongy                         395  8.2292
+2.  Альфред, тебе нельзя в мир людей! Вернись в портал! by Mr. Robin 376  7.8333
+3.  CyberBullying                     Katikataoka                    374  7.4800
+4.  Interceptor                       Kato                           387  7.4423
+5.  Chani                             Kato                           376  7.3725
+6.  53c editor                        Grongy                         357  7.1400
+7.  mushroom planet                   VitiV                          341  7.1042
+8.  2 VAX | ! 2 VAX                   ruguevara                      364  7.0000
+9.  Sakura                            Kato                           337  7.0000
+10. the Arrival                       Kato                           343  6.8776
+11. TwoPilots                         VitiV                          321  6.8298
+12. Princess                          pixelrat                       346  6.7843
+13. In the heart of the labyrinth     xile                           290  6.3043
+14. Christmas town                    mikeymaika                     301  6.1429
+
+
+
+-  -  - - -- --- -----[ realtime ZX Spectrum 53c graphics ]---- --- -- - -  -  -
+
+
+Tема конкурса:  Кем я мечтал(а) стать в детстве
+Сontest theme:  What I dreamed of being as a child                   pts     avg
+
+1.   Сейлормун                         Полька                        312  8.2105
+2.   принцесса-балерина                Полька                        215  7.9630
+3.   Робот-полицейский с Рублёвки      Роман Русских                 249  7.7813
+4.   Pika-Pikachu                      Mr.BruuD                      233  7.7667
+5.   Einstein                          Logiker                       212  7.5714
+5.   Железный дровосек 84-го           Роман Русских                 212  7.5714
+6.   Молния Маквин                     Okee                          233  7.5161
+7.   Папитан                           Grongy                        221  7.3667
+8.   Никем                             Автор всех работ              190  7.3077
+9.   Let's Rock!                       Mihhru                        188  7.2308
+10.  Флаттершай                        Сергей Хомутоы                209  7.2069
+11.  Спасение леса                     Алиса 9лет                    199  7.1071
+12.  Черепашка-ниндзя                  Роман Русских                 202  6.9655
+13.  Sub-zero                          SHAHIN BABAEV                 181  6.7037
+14.  U82                               danperoff                     193  6.6552
+15.  Мама, я в космосе!                timofeymokienko               191  6.5862
+16.  rip and tear                      notarget137                   162  6.4800
+17.  Я лисица, я не хочу ничего решать, я хочу фыр-фыр  by Nihirash  177  6.3214
+18.  Лучший друг                       kyzia                         131  6.2381
+19.  reimu                             alina                         155  6.2000
+20.  замурчательный обед               Алиса                         141  6.1304
+20.  Лтшпре Дшау                       cephaloid                     141  6.1304
+21.  космонавт                         Metamorpho-Game               152  6.0800
+22.  elephant                          demo53c-2                     176  6.0690
+23.  Clown                             aGGreSSor                     151  6.0400
+24.  Felix The Cat                     RedTizer                      154  5.9231
+25.  untitled                          a-ozornin                     148  5.9200
+26.  амоус                             алиса                         146  5.8400
+27.  любовь                            алиса                         144  5.7600
+28.  strojka                           chrv                          141  5.6400
+29.  Handy jet engine                  Kakos_nonos                   135  5.6250
+30.  Ветеринар                         Betty Black                   146  5.6154
+31.  угадай кто я                      алиса                         128  5.5652
+32.  Быть водителем Запорожца          MustangDSG                    139  5.5600
+33.  >>> Hello, world!                 $quidd                        149  5.5185
+34.  Cat                               kato yamazaki                 144  5.3333
+35.  Лисий день                        Катюша                        128  5.3333
+36.  Я.Пиксель                         Степан Воеводин               140  5.1852
+37.  перекладыватель джсонов           demo53c-1                     134  5.1538
+38.  Kitten                            Luvuy                         117  5.0870
+39.  корабль в море                    stas                          122  5.0833
+40.  Морская скорая помощь             Ирина Матчина                 126  5.0400
+41.  пчела                             алиса                         120  5.0000
+42.  Yandex                            Vnnny                         127  4.8846
+43.  Cat                               J_Demkiv                      112  4.8696
+44.  мечта сбылась, чего и всем желаю  Ирина Мвтчина                 101  4.8095
+45.  в египте                          алиса                         105  4.7727
+46.  Ферма                             demo53c-3                      93  4.6500
+47.  Природа                           Андрей                        111  4.6250
+48.  demoparty                         slash_ard                     100  4.0000
+49.  Черны пиксел                      Авилов Алексанр               109  3.8929
+50.  Ракета и ккосонавт!               xzqwka - Артё Мишутин         100  3.8462
+51.  Одиночны пикет в поддержку Навального  by  LLeo                  83  3.3200
+52.  боб строитель                     Сергей                         73  3.3182
+53.  По призванию                      Анастасия                      82  3.2800
+54.  untitled                          betty-lr                       70  2.9167
+
+
+-   -  - -- --- ---- -----[ oldschool intro 256 bytes ]---- ---- --- -- -  -   -
+
+                                                                     pts     avg
+
+1.  lighXTforms                       wbcbz7                         275  7.8571
+2.  Kocu4ka                           ManweSandS                     292  7.4872
+3.  Martian Wind in 128 bytes         Adam Bazaroff / Excess team    282  7.4211
+4.  SUBMARINE                         KUVO / CSI                     275  7.2368
+5.  acceleration                      Евгений Вербин (metamorpho)    236  7.1515
+6.  Wormtrap                          KUVO / CSI                     243  6.5676
+7.  piCSI                             KUVO / CSI                     258  6.4500
+8.  ДЕКОВИДИЗАТОР 3000                Автор Работы                   238  6.4324
+9.  Truchet,jr                        g0blinish                      218  6.4118
+10. 1982                              ded^RMDA                       221  6.3143
+11. LD HL,CAFE                        ded^RMDA                       174  5.2727
+
+
+-   -   -  - - -- --- ---------[ oldschool demo ]--------- --- -- - -  -   -   -
+
+                                                                     pts     avg
+
+1.  CSIquel                           KUVO / CSI                     338  9.1351
+2.  revolved                          stardust                       299  7.6667
+3.  Демка "Hello the БК World!"       Владимир Лидовский             203  5.6389
+
+
+-   -  - - -- --- ---- ------ --------------------- ----- ---- --- -- - -  -   -
+
+                 52 votes were cast by 1098 registered visitors                 
+
+                                see you in 2022!

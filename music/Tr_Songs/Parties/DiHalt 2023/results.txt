@@ -1,0 +1,172 @@
+DiHalt 2023 demoparty
+5-7 January
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+Official results v1.0
+
+[ ZX Spectrum Beeper Music ]
+
+1.   7.61   A Strange Game by utz ^ irrlicht project
+2.   7.18   Synthetic Heartbeat by Ataritufty ^ 1bit Forum
+3.   7.17   Noise In My Head by Shiru
+4.   7.14   Cosmic_Puppy by AER
+5.   7.06   Traffic Lights by Shiru
+6.   6.04   Yo Yo Beep Beep by Ataritufty ^ 1bit Forum
+7.   4.33   SAD Beeper by rnR T.A.D. 7E6 ^ s'ky killer's
+
+
+
+[ ZX Spectrum AY/YM-Music ]
+
+1.   7.63   Christmas Holidays by MmcM ^ Sage
+2.   7.15   Autodream by KUVO ^ CSi
+3.   6.67   Mega Dance part 2 by reddie
+4.   6.64   New Year Experience by EA ^ Antares
+5.   6.52   Sunrise Theme by EA ^ Antares
+6.   6.19   Yet Another Monday by aGGreSSor ^ CPU
+7.   5.67   Die Werwolfes by Cj Splinter
+8.   5.47   Winter Fantasy by UriS
+9.   5.13   TRAP by aGGreSSor ^ CPU
+10.   4.49   M/O by rnR T.A.D. 7E6 ^ s'ky killer's
+11.   4.41   5-oi-na by rnR T.A.D. 7E6 ^ s'ky killer's
+12.   4.32   Dick-Prick by aGGreSSor ^ CPU
+13.   3.89   Endless Existence by rnR T.A.D. 7E6 ^ s'ky killer's
+
+
+
+[ Realtime AY/YM Music ]
+
+1.   8.22   Winter Fragment 2023 by MmcM ^ Sage
+2.   7.39   frag_4x4 by EA ^ Antares
+3.   6.26   another frag 2023 by KUVO ^ CSi
+4.   5.69   real time BuHalt compo by rnR T.A.D. 7E6 ^ s'ky killer's
+
+
+
+[ Realtime Paint Over ]
+
+1.   7.75   Сон конокрада by casecoma
+2.   7.16   приманка by Matsha
+3.   7.04   dragon attack by Grongy
+4.   6.84   Третий всадник на новый год by ansy
+5.   6.62   Финальное ледовое побоище кревпуков с робутантами by Дарья Конькова
+6.   6.43   Эх вы кони, мои кони by shuran33
+7.   6.32   На привале by CHRV
+8.   6.12   bkh 2022 by noob
+9.   5.91   Rocky Coder by Surv!ivor ^ PoS-WT
+10.   5.67   Alternative universe by CHMR & Amirnasyri
+
+
+
+[ LowEnd Graphics ]
+
+1.   9.16   To the Nowhere by ruguevara
+2.   7.46   А ты уже слепил своего новогоднего снеговика ? by TmK ^ deMarche
+3.   7.32   untitled by pixelrat
+4.   6.82   Wagon by Beaver
+5.   6.67   El tucan by Grongy
+6.   6.41   В сказку попала by pixelrat
+7.   6.36   Penguin by Grongy
+8.   6.19   Gena the Crocodile by casecoma
+9.   6.08   яйцо со шрамом by Grongy
+10.   5.73   Garfield Xmas by Katoyama
+11.   5.52   Павук by pixelrat
+12.   5.04   Antarctica - Save the Penguins by Katoyama
+13.   4.50   Санитар демосцены by g0blinish
+
+
+
+[ Realtime LowEnd Graphics ]
+
+1.   8.37   Снег by Дарья Конькова
+2.   8.04   agemans winter by nodeus
+3.   7.55   Зимние забавы старых пней by Grongy
+4.   6.12   Зимние забавы старых пней by casecoma
+5.   6.04   хоровод by Art-top
+6.   5.35   Зимные забавы старых пней by Grongy
+7.   5.30   Old Pentiums by frog ^ ROi
+
+
+
+[ Realtime ZX Spectrum 53c Graphics ]
+
+1.   7.54   Merry Christmas 7e7 by Surv!v0r
+2.   7.05   Рождественская музыка by aGGreSSor ^ CPU
+3.   7.00   Здравствуй ж**а Новый год! by CHMR
+4.   6.85   Happy Сhristmas by Daria Kon'kova
+5.   6.77   Silence please by KUVO ^ CSi
+6.   6.67   Годный подарок в любой день by ZSka
+7.   6.66   Рождественские подарки by casecoma
+8.   6.53   A Speccy Christmas by Logiker
+9.   6.38   Surprise! by toughthrough
+10.   6.35   Rabbit for Luck by Diana
+11.   6.34   Swiateczny Prezent by Dynamika
+12.   6.24   Насыщенная ночь by CHMR
+12.   6.24   Веник- вот лучший подарок (особенно с иголками)) by Amirnasyri
+13.   5.85   merry reindeer knitted sweater by atomic_gun
+14.   5.76   Санта Клаус сошёл с ума by CHMR
+15.   5.68   Мышь - лучшый подарок by CHRV
+16.   5.65   А мы тебе говорили не пить!!(эх Вася Вася) by Amirnasyri
+17.   5.56   Пиво лучший подарок на Новый год (наверно) by Amirnasyri
+18.   5.34   Teddy Bear by Daria Kon'kova
+19.   5.31   "Amiga" as a gift by noob
+20.   5.30   Дедушка и Рудольф принесли в лес подарки by Позориться не будет
+21.   4.97   Дарю любовь by Guest
+22.   4.84   Happy New Year by CHRV
+23.   4.72   Вам подарок! by Sherhan
+24.   4.61   Without butter by sheeesh
+24.   4.61   Когда я прочитал о вреде алкоголя, я бросил чтение by Amirnasyri
+25.   4.38   Where is gift? by anl_cnt
+26.   4.35   Prezent na drodze (Презент на дрозде) by Dynamika
+27.   4.33   light by Antibender
+28.   4.32   Фиг тебе, а не подарок by CHMR
+29.   4.30   Skate by Antibender
+30.   4.23   PoS by Surv!vor ^ PoS-WT
+31.   4.18   Пропьем Россию by CHRV
+32.   3.94   pos wt red by survivor
+
+
+
+[ Oldschool Adult Graphics Compo ]
+
+1.   8.26   Бокал by Art-top
+2.   8.14   Demoscene is alive by KUVO ^ CSi
+3.   7.75   Blue stripes by UriS
+4.   7.49   Gifts by Dimidrol
+5.   7.20   Хотите эротики? by Sherhan
+6.   7.17   What are you staring at? by Schafft
+7.   6.83   out of bounds by Grongy
+8.   6.50   s by Grongy
+9.   6.48   Print by UriS
+10.   5.79   Буревеснтик и башня ;) by UriS
+11.   5.78   Play me by casecoma
+12.   5.61   summertime by UriS
+
+
+
+[ Wild ]
+
+1.   8.29   zxgfx #6 memory by Art-top, Grongy, moroz1999, VS, nodeus
+2.   6.24   Осенний лес by Milesha ^ NedoPC
+3.   5.94   picture by rainman ^ deMarche
+4.   5.59   BananaFich by Желудев Игорь и Аншуков Владимир
+5.   5.14   Crimean Sailboat by aGGreSSor ^ CPU
+
+
+
+[ LowEnd 256b Intro ]
+
+1.   7.30   eye by RMDA
+2.   7.06   Sun Glare by Tutty ^ Kpacku
+3.   6.97   Mystery Pass by NiOl
+4.   6.67   radar by RMDA
+5.   5.76   Ball Run by g0blinish
+
+
+
+[ LowEnd Demo ]
+
+1.   7.50   Christmas tree goes to a party by Frog ^ ROi
+2.   7.39   #07E7 by PoS-WT
+3.   5.02   MMXXIIII by g0blinish

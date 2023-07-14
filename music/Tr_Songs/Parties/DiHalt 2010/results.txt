@@ -1,0 +1,155 @@
+DiHalt 2010 demoparty
+10-11 Jule
+Nizhny Novgorod, Russia
+www.dihalt.org.ru
+
+
+   [ Multichannel Tracker Music ]
+
+1    6.66   frog - paro [Transgenic]
+2    6.25   Unbeatable - Jakim / Mateusz Szymanski [eXtrait^Stage Magician]
+3    5.85   wrong side - Ized [Quite]
+4    5.80   Demoso - BiTL / Alexey Zhukovsky [7dUMP]
+5    5.63   operate - unc [Quite]
+6    5.48   basus - unc [Quite]
+7    5.32   sanguma - preston [Sands]
+8    5.27   Road to Nowhere - Jakim / Mateusz Szymanski [eXtrait^Stage Magician]
+9    5.26   twin computers - preston [Sands]
+10   4.67   good news - paralaxeen [Quite]
+11   4.50   lady on the ladder - paralaxeen [Quite]
+12   4.48   Sister (comedy club mix) - Babay/AlexeyRuzanov
+13   4.41   another child - agis [Quite]
+
+
+   [ MP3/OGG Music ]
+
+1    5.55   Track 2 - Slip [Ottodix]
+2    5.15   Just - JeRrS
+3    5.13   Sax - Enot/Victor Ruzanov
+4    4.97   Submarine - CJ Vlam Newman / Vladimir Volgin
+5    4.92   Track 1 - Slip [Ottodix]
+6    4.90   Happy Acid - Igor Lim
+7    4.74   Violin - Jerrs
+8    4.68   See you later - CJ Vlam Newman / Vladimir Volgin
+9    4.62   Night (DiVers) - CjMadBass
+10   4.46   I Want Zx & Guitar - BiTL / Alexey Zhukovsky [7DUMP]
+11   4.45   Zala - Vodoley [ex Excess Team]
+12   4.26   С Чистого листа (from scratch) - SG
+13   4.24   Zapoved - Andy Razer / Andrej Mityaev [Extremal]
+14   3.66   Ted Beez - Igor Lim
+15   3.63   Ne odin - Enot/Victor Ruzanov
+16   3.13   Scream Tracker - Louigi Verona / Kirill Alferov [Dimlight Alley Crew]
+
+
+   [ Chip Tune Music ]
+
+1    6.23   "One sample - One tune" - Infinity / Alexander Suprunov
+2    5.97   Fun's Abstractions - Darkman007 / Tugay Vladimir [Quite]
+3    5.95   Discoman - Infinity / Alexander Suprunov
+4    5.16   Dawn at the Forest - BiTL / Alexey Zhukovsky [7dUMP]
+5    5.14   Freshfunk - BiTL / Alexey Zhukovsky [7dUMP]
+6    5.03   Mindless - Jakim / Mateusz Szymanski [eXtrait^Stage Magician]
+
+
+   [ 32K.exe Music ]
+
+1    6.48   Slowmotion Robot - BiTL / Alexey Zhukovsky [7dUMP]
+
+
+   [ Handdraw Graphics ]
+
+1    7.46   moustache - Raynoa [Mayhem]
+2    6.08   inACID / В кислоте - Undead Bat / Denis Gordeev [PKM / Professional Kill Mashine]
+3    5.75   z Kid - NZR / Natasha Rebrova [CPU]
+4    5.50   Please Don`t Die / Пожалуйста не умирай - Undead Bat / Denis Gordeev [PKM / Professional Kill Mashine]
+5    5.46   Coming home - Shum
+6    5.17   last night a monster saved my life - Yantus
+
+
+   [ Render Graphics ]
+
+1    6.14   Ural - CJ Vlam Newman / Vladimir Volgin
+
+
+   [ Freestyle Graphics ]
+
+1    5.79   DizzyHalt_2010 - Undead Bat / Denis Gordeev [PKM / Professional Kill Mashine]
+
+
+   [ Amiga/PC 64K intro ]
+
+1    8.65   Mozog - Mayhem
+2    7.77   ino - Quite
+3    6.32   Safe Colors - Manwe / Alexander Matchugovsky [Sands]
+4    6.12   The secrets of cubic tower - deMarche
+5    4.08   Cubic Semafore - SCRIMERS / Ivan Lipko
+
+
+   [ Wild / Film / Animation ]
+
+1    8.77   Кочет и курица (K&K) -  Babay/AlexeyRuzanov
+2    5.62   !ruki_wwerh - GriV
+3    5.21   Vivid Outburst - Smokin Igor
+4    4.96   _gmo - GriV
+5    4.71   Ыба - Babay/AlexeyRuzanov; Egor/EgorStolmakov
+6    4.38   Welcome, Space Invaders! -  Manwe / Alexander Matchugovsky [Sands]
+7    3.45   Привет дихальту от БО - Quite
+8    3.44   Diana -  Nelliripper / Alex Sankin [Pexa Studios]
+9    3.28   "Ludanga - Magic" - Nelliripper / Alex Sankin [Ludanga (Pexa Studios)]
+
+
+
+Official             Online
+Place   Score   Place   Score
+
+
+   [ ZX Spectrum AY/YM TurboAY Music ]
+
+1    6.30   2    5.90   adversary - Cj Splinter [Trinitrocode/DL Corp]
+2    5.97   1    6.26   life movement - MmcM [Sage]
+3    5.67   3    5.71   regret - Cj Splinter [Trinitrocode/DL Corp]
+4    5.57   5    3.59   golden ring - JeRrS
+5    5.53   4    5.55   i like dub - mmcm [sage]
+6    5.31   7    2.93   gymnasium - simon [CPU]
+7    4.83   6    3.16   kalambur - simon [CPU]
+
+
+   [ ZX Spectrum Beeper Music ]
+
+1    7.18   2    6.08   nebula fight - Mister BEEP
+2    6.68   4    4.79   we make a test - JeRrS
+3    6.62   3    5.92   break me - Voxel [Triumph]
+4    6.26   1    6.12   Final Guy - Shiru 
+5    5.48   5    4.16   action hero - Alone Coder [Invaders8, NedoPC]
+6    5.15   6    4.13   menustarter - AER
+
+
+   [ ZX Spectrum TurboFM Music ]
+
+1    7.02   1    6.28   Hazard Lights - Shiru / Alex Semenov
+
+
+   [ ZX Spectrum Graphics ]
+
+1    8.57   3    6.65   CPU loves me - bfox
+2    6.86   6    5.85   Kral - Trixs / Vladimir Kristof
+3    6.77   5    6.34   I have to be a pacman! - pROF/Alexey Rusakov [4D]
+4    6.43   4    6.61   So, it was gray e-Male - riskej / Sergey Sharov [simbols]
+5    5.91   1    7.30   Pearl shell - Flower/ Anna Andreevskaya
+6    5.52   8    4.68   Spartak 7 - Kasik [Sinclair Club]
+7    5.41   7    4.81   unauthorized bite - r0m
+8    5.23   2    6.84   Frightened Birds - Piesiu
+9    4.77   9    4.50   ЕЩЁ НЕ ВСЁ!!! (not all) - SAMANASUKE
+10   3.83   10   3.04   Simplicity - GM BIT
+
+
+   [ ZX Spectrum 512b intro ]
+
+1    6.36   1    6.05   Scroll? 512b - Shiru/Alex Semenov
+
+
+   [ ZX Spectrum Demo ]
+
+1    7.93   1    6.64   40% - mr.plop, dr.kvetch and sugar ass m.d. 
+2    7.48   2    6.15   Koshki megademo (Cats) - AAAband
+3    4.11   3    3.44   vnn boot - VNN [K.C.Soft]

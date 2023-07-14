@@ -1,0 +1,30 @@
+ZX Spectrum Sound Chip Emulator Play List File v1.1
+<
+Channels=Stereo
+ChannelsAllocation=ABC
+ChipFrequency=1773400
+PlayerFrequency=50000
+ChipType=YM
+>
+..\..\Authors\Sergey Bulba\SB_2000\NeOtpusk.pt3
+<
+Author=Sergey Bulba
+Name=Ne Otpuskay of Zemphira
+Tracker=Pro Tracker 3.4r
+Computer=ZX Spectrum
+Date=From 1 to 3 of September 2000
+Comment=Composed in Z80 Stealth and ZX_Emul Speccy Emulators after 5 years of silence...
+Time=10920
+Loop=0
+>
+..\..\Authors\Sergey Bulba\SB_2000\Nokturn.pt3
+<
+Author=Sergey Bulba
+Name=Shopen's Nokturn
+Tracker=Pro Tracker 3.4r
+Computer=ZX Spectrum
+Date=From 7 to 10 of January 2001
+Comment=Composed in ZX_Emul Speccy Emulator during big depression...
+Time=12813
+Loop=12663
+>
