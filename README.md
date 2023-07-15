@@ -56,3 +56,5 @@ https://zxaaa.net/view_demos.php
 https://worldofspectrum.net/utilities/  
 
 
+https://www.overtakenbyevents.com/lets-talk-about-the-zx-specrum-screen-layout/  
+

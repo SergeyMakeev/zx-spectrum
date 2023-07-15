@@ -1,0 +1,541 @@
+»з журнала Deja Vu #04,  емерово, 01.04.98
+
+
+
+јвтор: Cardinal/PGC/BD
+__________________________________________
+
+   ¬ этой статье речь пойдет  о  различных
+проигрывател€х AY-шной музыки. я вам  рас-
+скажу о довольно важном эффекте  (особенно
+в демомэйкерстве) -о плавном затухании му-
+зыки в любой момент времени. —разу  скажу,
+что ни в одном из  существующих  PLAYER'ов
+компилированных музонов (будь то Pro Trac-
+ker; Sound Tracker Pro by KSA и  т.д)  нет
+такой функции, котора€ позвол€ла бы плавно
+уменьшать громкость музыки. ј посему  пой-
+дем по-пор€дку...
+   „тобы сделать этот эффект, надо  пон€ть
+как процессор общаетс€ с AY и немножко по-
+копатьс€ в PLAYERе. ¬ сопроцессоре AY есть
+16 регистров, с помощью которых  генериру-
+ютс€ различные звуки.  аждый из  этих  ре-
+гистров выполн€ет свою функцию. ќбо всех €
+говорить не стану, а остановлюсь только на
+трех. Ёто регистры R8, R9, R10, младшие  5
+битов которых управл€ют громкостью (ампли-
+тудой) каналов A, B и C. ¬ообще, чтобы по-
+лучить доступ к какому-нибудь регистру AY,
+нужно его  номер  (от 0 до 15)  занести  в
+порт #FFFD, а значение - в порт #BFFD.
+   я специально не говорю об этом  подроб-
+но, т.к. это было описано в  книге  ј.Ћар-
+чеко и Ќ.–одионова "ZX-Spectrum  &  TR-DOS
+дл€ пользователей и программистов".
+   ¬есь этот разговор € завел к тому,  что
+надо в PLAYER'е найти место, где занос€тс€
+некоторые значени€ в регистры R8,R9 и R10.
+“ак вот, надо перед тем  местом  поставить
+ловушку, (CALL address, где address - ваша
+процедурка) котора€ изменит  (уменьшит  на
+определенное значение)  байты  этих  самых
+значений, прежде чем PLAYER  выдаст  их  в
+регистры R8, R9 и R10 музыкального  сопро-
+цессора. ¬ приложении вы найдете п€ть  ис-
+ходников в формате ALASM v3.8c.  аждый ис-
+ходник годитс€ только дл€ музонов компили-
+рованных в следующих редакторах и компил€-
+торах:  Sound Tracker Pro by KSA Software;
+Pro Tracker v2.4;  Sound Tracker Song Com-
+piler v1.2; Sound Tracker Music's Recompi-
+ler v2.1 by KSA; Pro Tracker v 2.1 by Gol-
+den Disk.
+   »сходники довольно сырые, но хорошо де-
+монстрируют эффект.  ак ими  пользоватьс€?
+«агружаете исходник в ассемблер,  выходите
+в STS, подгружаете компилированный музон с
+PLAYER'ом, возвращаетесь в редактор,  под-
+правл€ете значение метки MUZAK (она указы-
+вает на адрес подгружаемого  музона),  ас-
+семблируете и запускаете. ≈сли вы услышали
+музыку, значит со слухом у вас все в  пол-
+ном пор€дке :-)... ѕотом попробуйте нажать
+кнопку "L" - музыка должна  плавно  затих-
+нуть. Ќажмите на кнопку "K" - музыка заиг-
+рает с нормальной громкостью.  SPACE - вы-
+ход. ≈ще раз повтор€ю, что  исходники  де-
+монстрационные, и если вы будете использо-
+вать их в своих программах - уберите  лиш-
+нее и попробуйте оптимизировать их по дли-
+не, особенно подпрограмму, начинающуюс€  с
+метки GLUSH и до конца, если вам, конечно,
+это удастс€ :-).
+   Ќапоследок хочу сказать,  что  PLAYGEAR
+COMPANY слепили часть к PROGRESS MEGADEMO,
+так что ждите демо от SERIOUS SPECCY  GRO-
+UP! ј также хочу поздравить SPECCY с  п€т-
+надцитилетием и пожелать ему  прожить  еще
+столько же..!
+
+
+
+
+;+------------------------------------------------------------+
+;| »—’ќƒЌ»  ѕ–ќ÷≈ƒ”–џ ѕЋј¬Ќќ√ќ «ј“”’јЌ»я ћ”«џ ».              |
+;| “ќЋ№ ќ ƒЋя ћ”«ќЌќ¬  ќћѕ≈Ћ»–ќ¬јЌЌџ’ ¬                       |
+;| SOUND TRACKER PRO BY KSA SOFTWARE.                         |
+;|                                                            |
+;| CODING BY CARDINAL/PGC/BD.     DATA: 11.01.1998г.          |
+;+------------------------------------------------------------+
+
+        ORG #6000
+        CALL MUZAK
+LOOP    EI
+        HALT
+        CALL MUZAK+6
+        LD A,#BF
+        IN A,(254)
+        RRCA
+        RRCA
+        PUSH AF
+        CALL NC,INST
+        POP AF
+        RRCA
+        CALL NC,UN_INST
+        LD A,#7F
+        IN A,(254)
+        RRCA
+        JP C,LOOP
+        CALL UN_INST
+        CALL MUZAK
+        RET
+
+MUZAK   EQU #C000               ;јƒ–≈—  ќћѕ»Ћя÷»» ћ”«ќЌј
+SPEEDG  EQU 8                   ;— ќ–ќ—“№ «ј“”’јЌ»я ћ”«џ ».
+
+INST    LD DE,MUZAK+#FC         ;»Ќ»÷»јЋ»«ј÷»я «ј√Ћ”Ў ».
+        LD HL,GL1+1             ;
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,MUZAK+#05C8
+        LD DE,GLUSH
+        LD (HL),#CD
+        INC HL
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,G1+1
+        LD (HL),0
+        INC HL
+        LD (HL),SPEEDG
+        RET
+
+UN_INST LD HL,MUZAK+#05C8       ;ќ“ћ≈Ќя≈ћ «ј√Ћ”Ў ”.
+        LD (HL),#11
+        INC HL
+        LD (HL),#BF
+        INC HL
+        LD (HL),#FF
+        RET
+
+
+GLUSH   PUSH HL         ;ѕ–ќ÷≈ƒ”–ј «ј√Ћ”Ў », «јѕ”— ј≈“—я
+        LD HL,G1+2      ;ѕ–ќ»√–џ¬ј“≈Ћ≈ћ.
+G1      LD BC,0
+        DJNZ G2
+        LD B,SPEEDG
+        INC C
+G2      LD (HL),B
+        DEC HL
+        LD (HL),C
+        LD A,#10
+        CP C
+        JR NC,G3
+        LD (HL),A
+        LD C,A
+G3      LD B,3
+GL1     LD HL,0
+G5      LD A,(HL)
+        AND 15
+G6      SUB C
+        JR NC,G4
+        XOR A
+G4      LD (HL),A
+        DEC HL
+        DJNZ G5
+        LD DE,#FFBF
+        POP HL
+        RET
+
+
+
+
+;+------------------------------------------------------------+
+;| »—’ќƒЌ»  ѕ–ќ÷≈ƒ”–џ ѕЋј¬Ќќ√ќ «ј“”’јЌ»я ћ”«џ ».              |
+;| “ќЋ№ ќ ƒЋя ћ”«ќЌќ¬  ќћѕ≈Ћ»–ќ¬јЌЌџ’ ¬                       |
+;| PROTRACKER v2.4 (— Ќјƒѕ»—№ё for phantom family home-using) |
+;|                                                            |
+;| CODING BY CARDINAL/PGC/BD.     DATA: 11.01.1998г.          |
+;+------------------------------------------------------------+
+
+        ORG #6000
+        CALL MUZAK
+LOOP    EI
+        HALT
+        CALL MUZAK+5
+        LD A,#BF
+        IN A,(254)
+        RRCA
+        RRCA
+        PUSH AF
+        CALL NC,INST
+        POP AF
+        RRCA
+        CALL NC,UN_INST
+        LD A,#7F
+        IN A,(254)
+        RRCA
+        JP C,LOOP
+        CALL UN_INST
+        CALL MUZAK
+        RET
+
+MUZAK   EQU #C000               ;јƒ–≈—  ќћѕ»Ћя÷»» ћ”«ќЌј
+SPEEDG  EQU 8                   ;— ќ–ќ—“№ «ј“”’јЌ»я ћ”«џ ».
+
+INST    LD DE,MUZAK+#0A13       ;»Ќ»÷»јЋ»«ј÷»я «ј√Ћ”Ў ».
+        LD HL,GL1+1
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,MUZAK+#02AA
+        LD DE,GLUSH
+        LD (HL),#CD
+        INC HL
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,G1+1
+        LD (HL),0
+        INC HL
+        LD (HL),SPEEDG
+        RET
+
+UN_INST LD HL,MUZAK+#02AA       ;ќ“ћ≈Ќя≈ћ «ј√Ћ”Ў ”.
+        LD (HL),#11
+        INC HL
+        LD (HL),#BF
+        INC HL
+        LD (HL),#FF
+        RET
+
+
+GLUSH   PUSH HL         ;ѕ–ќ÷≈ƒ”–ј «ј√Ћ”Ў », «јѕ”— ј≈“—я
+        LD HL,G1+2      ;ѕ–ќ»√–џ¬ј“≈Ћ≈ћ.
+G1      LD BC,0
+        DJNZ G2
+        LD B,SPEEDG
+        INC C
+G2      LD (HL),B
+        DEC HL
+        LD (HL),C
+        LD A,#10
+        CP C
+        JR NC,G3
+        LD (HL),A
+        LD C,A
+G3      LD B,3
+GL1     LD HL,0
+G5      LD A,(HL)
+        AND 15
+G6      SUB C
+        JR NC,G4
+        XOR A
+G4      LD (HL),A
+        DEC HL
+        DJNZ G5
+        LD DE,#FFBF
+        POP HL
+        RET
+
+
+
+
+;+------------------------------------------------------------+
+;| »—’ќƒЌ»  ѕ–ќ÷≈ƒ”–џ ѕЋј¬Ќќ√ќ «ј“”’јЌ»я ћ”«џ ».              |
+;| “ќЋ№ ќ ƒЋя ћ”«ќЌќ¬  ќћѕ≈Ћ»–ќ¬јЌЌџ’ ¬                       |
+;| SOUND TRACKER SONG COMPILER v1.2.                          |
+;|                                                            |
+;| CODING BY CARDINAL/PGC/BD.     DATA: 11.01.1998г.          |
+;+------------------------------------------------------------+
+
+        ORG #6000
+        CALL MUZAK
+LOOP    EI
+        HALT
+        CALL MUZAK+6
+        LD A,#BF
+        IN A,(254)
+        RRCA
+        RRCA
+        PUSH AF
+        CALL NC,INST
+        POP AF
+        RRCA
+        CALL NC,UN_INST
+        LD A,#7F
+        IN A,(254)
+        RRCA
+        JP C,LOOP
+        CALL UN_INST
+        CALL MUZAK
+        RET
+
+MUZAK   EQU #C000               ;јƒ–≈—  ќћѕ»Ћя÷»» ћ”«ќЌј
+SPEEDG  EQU 8                   ;— ќ–ќ—“№ «ј“”’јЌ»я ћ”«џ ».
+
+INST    LD DE,MUZAK+#AB         ;»Ќ»÷»јЋ»«ј÷»я «ј√Ћ”Ў ».
+        LD HL,GL1+1
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD DE,MUZAK+#AE
+        LD HL,GL2+1
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,MUZAK+#041F
+        LD DE,GLUSH
+        LD (HL),#CD
+        INC HL
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,G1+1
+        LD (HL),0
+        INC HL
+        LD (HL),SPEEDG
+        RET
+
+UN_INST LD HL,MUZAK+#041F       ;ќ“ћ≈Ќя≈ћ «ј√Ћ”Ў ”.
+        LD DE,GL2+1
+        LD (HL),#21
+        INC HL
+        LD A,(DE)
+        LD (HL),A
+        INC HL
+        INC DE
+        LD A,(DE)
+        LD (HL),A
+        RET
+
+
+GLUSH   LD HL,G1+2      ;ѕ–ќ÷≈ƒ”–ј «ј√Ћ”Ў », «јѕ”— ј≈“—я
+G1      LD BC,0         ;ѕ–ќ»√–џ¬ј“≈Ћ≈ћ.
+        DJNZ G2
+        LD B,SPEEDG
+        INC C
+G2      LD (HL),B
+        DEC HL
+        LD (HL),C
+        LD A,#10
+        CP C
+        JR NC,G3
+        LD (HL),A
+        LD C,A
+G3      LD B,3
+GL1     LD HL,0
+G5      LD A,(HL)
+        AND 15
+G6      SUB C
+        JR NC,G4
+        XOR A
+G4      LD (HL),A
+        DEC HL
+        DJNZ G5
+GL2     LD HL,MUZAK+#AE
+        RET
+
+
+
+
+;+------------------------------------------------------------+
+;| »—’ќƒЌ»  ѕ–ќ÷≈ƒ”–џ ѕЋј¬Ќќ√ќ «ј“”’јЌ»я ћ”«џ ».              |
+;| “ќЋ№ ќ ƒЋя ћ”«ќЌќ¬  ќћѕ≈Ћ»–ќ¬јЌЌџ’ ¬                       |
+;| SOUND TRACKER MUSIC'S RECOMPILER v2.1 BY KSA SOFTWARE.     |
+;|                                                            |
+;| CODING BY CARDINAL/PGC/BD.     DATA: 11.01.1998г.          |
+;+------------------------------------------------------------+
+
+        ORG #6000
+        CALL MUZAK
+LOOP    EI
+        HALT
+        CALL MUZAK+6
+        LD A,#BF
+        IN A,(254)
+        RRCA
+        RRCA
+        PUSH AF
+        CALL NC,INST
+        POP AF
+        RRCA
+        CALL NC,UN_INST
+        LD A,#7F
+        IN A,(254)
+        RRCA
+        JP C,LOOP
+        CALL UN_INST
+        CALL MUZAK
+        RET
+
+MUZAK   EQU #C000               ;јƒ–≈—  ќћѕ»Ћя÷»» ћ”«ќЌј
+SPEEDG  EQU 8                   ;— ќ–ќ—“№ «ј“”’јЌ»я ћ”«џ ».
+
+INST    LD DE,MUZAK+#0121       ;»Ќ»÷»јЋ»«ј÷»я «ј√Ћ”Ў ».
+        LD HL,GL1+1
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,MUZAK+#0568
+        LD DE,GLUSH
+        LD (HL),#CD
+        INC HL
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,G1+1
+        LD (HL),0
+        INC HL
+        LD (HL),SPEEDG
+        RET
+
+UN_INST LD HL,MUZAK+#0568       ;ќ“ћ≈Ќя≈ћ «ј√Ћ”Ў ”.
+        LD (HL),#11
+        INC HL
+        LD (HL),#FF
+        INC HL
+        LD (HL),#BF
+        RET
+
+
+GLUSH   PUSH HL         ;ѕ–ќ÷≈ƒ”–ј «ј√Ћ”Ў », «јѕ”— ј≈“—я
+        LD HL,G1+2      ;ѕ–ќ»√–џ¬ј“≈Ћ≈ћ.
+G1      LD BC,0
+        DJNZ G2
+        LD B,SPEEDG
+        INC C
+G2      LD (HL),B
+        DEC HL
+        LD (HL),C
+        LD A,#10
+        CP C
+        JR NC,G3
+        LD (HL),A
+        LD C,A
+G3      LD B,3
+GL1     LD HL,0
+G5      LD A,(HL)
+        AND 15
+G6      SUB C
+        JR NC,G4
+        XOR A
+G4      LD (HL),A
+        INC HL
+        DJNZ G5
+        LD DE,#BFFF
+        POP HL
+        RET
+
+
+
+
+;+------------------------------------------------------------+
+;| »—’ќƒЌ»  ѕ–ќ÷≈ƒ”–џ ѕЋј¬Ќќ√ќ «ј“”’јЌ»я ћ”«џ ».              |
+;| “ќЋ№ ќ ƒЋя ћ”«ќЌќ¬  ќћѕ≈Ћ»–ќ¬јЌЌџ’ ¬                       |
+;| PRO TRACKER v2.1 BY GOLDEN DISK.                           |
+;|                                                            |
+;| CODING BY CARDINAL/PGC/BD.     DATA: 11.01.1998г.          |
+;+------------------------------------------------------------+
+
+        ORG #6000
+        CALL MUZAK
+LOOP    EI
+        HALT
+        CALL MUZAK+6
+        LD A,#BF
+        IN A,(254)
+        RRCA
+        RRCA
+        PUSH AF
+        CALL NC,INST
+        POP AF
+        RRCA
+        CALL NC,UN_INST
+        LD A,#7F
+        IN A,(254)
+        RRCA
+        JP C,LOOP
+        CALL UN_INST
+        CALL MUZAK
+        RET
+
+MUZAK   EQU #C000               ;јƒ–≈—  ќћѕ»Ћя÷»» ћ”«ќЌј
+SPEEDG  EQU 8                   ;— ќ–ќ—“№ «ј“”’јЌ»я ћ”«џ ».
+
+INST    LD DE,MUZAK+#0255       ;»Ќ»÷»јЋ»«ј÷»я «ј√Ћ”Ў ».
+        LD HL,GL1+1
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,MUZAK+#0535
+        LD DE,GLUSH
+        LD (HL),#CD
+        INC HL
+        LD (HL),E
+        INC HL
+        LD (HL),D
+        LD HL,G1+1
+        LD (HL),0
+        INC HL
+        LD (HL),SPEEDG
+        RET
+
+UN_INST LD HL,MUZAK+#0535       ;ќ“ћ≈Ќя≈ћ «ј√Ћ”Ў ”.
+        LD (HL),#11
+        INC HL
+        LD (HL),#BF
+        INC HL
+        LD (HL),#FF
+        RET
+
+
+GLUSH   PUSH HL         ;ѕ–ќ÷≈ƒ”–ј «ј√Ћ”Ў », «јѕ”— ј≈“—я
+        LD HL,G1+2      ;ѕ–ќ»√–џ¬ј“≈Ћ≈ћ.
+G1      LD BC,0
+        DJNZ G2
+        LD B,SPEEDG
+        INC C
+G2      LD (HL),B
+        DEC HL
+        LD (HL),C
+        LD A,#10
+        CP C
+        JR NC,G3
+        LD (HL),A
+        LD C,A
+G3      LD B,3
+GL1     LD HL,0
+G5      LD A,(HL)
+        AND 15
+G6      SUB C
+        JR NC,G4
+        XOR A
+G4      LD (HL),A
+        DEC HL
+        DJNZ G5
+        LD DE,#FFBF
+        POP HL
+        RET
