@@ -16,23 +16,54 @@ Main:
     OUT (254), A
 
 
-    LD HL, 0x5800 ; attributes
-    LD B, 128       ; loop counter
-MyLoop:    
-    LD (HL), 0x20     ; green paper
-    INC HL
-    DJNZ MyLoop
+;     LD HL, 0x5800   ; attributes
+;     LD B, 128       ; loop counter
+; MyLoop:    
+;     LD (HL), 0x20   ; green paper
+;     INC HL
+;     DJNZ MyLoop
 
     ;--------------
+    LD HL, 0x4000       ; start of screen memory
+    LD DE, Letter       ; start of letter 'A' bitmap
+	LD A, (DE)
+	LD (HL), A
 
-    LD HL, 0x4000 ; screen address
-    LD B, 128 ; loop counter
-MyLoop2:
-    LD (HL), 255
-    INC HL
-    DJNZ MyLoop2
+	INC H				; next line - inc hl, 256
+	INC E               ;             inc de, 1
+	LD A, (DE)
+	LD (HL), A
+
+	INC H				; next line - inc hl, 256
+	INC E               ;             inc de, 1
+	LD A, (DE)
+	LD (HL), A
+
+	INC H				; next line - inc hl, 256
+	INC E               ;             inc de, 1
+	LD A, (DE)
+	LD (HL), A
+
+	INC H				; next line - inc hl, 256
+	INC E               ;             inc de, 1
+	LD A, (DE)
+	LD (HL), A
+
+	INC H				; next line - inc hl, 256
+	INC E               ;             inc de, 1
+	LD A, (DE)
+	LD (HL), A
+
 
     RET                                     ; And return
+
+Letter:
+    DB %00011000
+    DB %00100100
+    DB %01000010
+    DB %01111110
+    DB %10000001
+    DB %10000001
 
 Font:
 	DB 0,0,0,0,0,0,0,0
