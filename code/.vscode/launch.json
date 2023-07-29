@@ -2,6 +2,36 @@
 
 {
     "configurations": [
+        {
+            "type": "dezog",
+            "request": "launch",
+            "name": "Simulator - ZX48K Spectrum",
+            "remoteType": "zsim",
+            "zsim": {
+                "visualMemory": true,
+                "memoryModel": "ZX48K",
+                "ulaScreen": true,
+                "zxBorderWidth": 20,
+                "vsyncInterrupt": true,
+                "zxKeyboard": true,
+                "zxBeeper": true
+            },
+            "sjasmplus": [
+                {
+                    "path": "${fileDirname}/${fileBasenameNoExtension}.sld.txt"
+                }
+            ],
+            "commandsAfterLaunch": [],
+            "history": {
+                "reverseDebugInstructionCount": 1000000,
+                "spotCount": 10,
+                "codeCoverageEnabled": true
+            },
+            "startAutomatically": false,
+            "rootFolder": "${fileDirname}",
+            "load": "${fileDirname}/${fileBasenameNoExtension}.sna",
+            "topOfStack": "stack_top"
+            },
     {
         "type": "dezog",
         "request": "launch",
