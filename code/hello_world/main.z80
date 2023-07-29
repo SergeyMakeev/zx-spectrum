@@ -4,8 +4,9 @@
 ; ZXSPECTRUMNEXT
 ; https://z00m128.github.io/sjasmplus/documentation.html
     DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
 
-Stack_Top: EQU 0xFFF0
+stack_top: EQU 0xFFF0
 Code_Start: EQU 0x7FFD				
 
     ORG Code_Start

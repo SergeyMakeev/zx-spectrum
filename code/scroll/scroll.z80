@@ -20,14 +20,28 @@ Main:
     LD A, 2         ; set border color to red(2)
     OUT (254), A
 
-	CALL PrintText
-	RET
+    CALL PrintText
+
+    CALL Scroll
+    RET
+
+    ;--------------
+Scroll:
+
+    LD HL, 0x401f
+    LD A, 255
+    LD (HL), A
+
+    OR A                 ; reset CF flag
+    RL (HL)              ; CF <- [byte] <- CF
+   
+    RET
 
 
 
     ;--------------
 PrintText:	
-	LD HL, 0x3fff              ; screen address (0x4000-1)
+	LD HL, 0x401b              ; screen address (0x4000-1)
 	LD (ScreenAddr), HL
 	LD BC, Text
 TextLoop:	
@@ -92,7 +106,7 @@ TextLoop:
     RET                                     ; And return
 
 Text:
-    DB "Sergey Makeev!!!"
+    DB "TEST"
 	DB 0
 
 ScreenAddr:
@@ -233,4 +247,4 @@ Font:
 
 Code_Length: EQU $-Code_Start+1
 
-    SAVESNA "font/font.sna", Code_Start
+    SAVESNA "scroll/scroll.sna", Code_Start

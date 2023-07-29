@@ -2,3 +2,5 @@
 *.lst
 *.sna
 *.tap
+*.sld.txt
+.tmp

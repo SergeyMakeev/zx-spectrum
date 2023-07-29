@@ -4,8 +4,9 @@
 ; IM 2: Uses an interrupt vector table, indexed by value on data bus.
 ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
     DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
 
-Stack_Top: EQU 0xFFF0
+stack_top: EQU 0xFFF0
 
 Code_Start: EQU 0x8000
     ORG Code_Start

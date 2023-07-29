@@ -8,7 +8,9 @@
             "type": "shell",
             "command": "sjasmplus",    						
             "args": [
-				"--lst=${fileDirname}/${fileBasenameNoExtension}.lst",
+                "--sld",
+                "--fullpath",
+                "--lst=${fileDirname}/${fileBasenameNoExtension}.lst",
             	"${file}"                                   
 			],
             "group": {
