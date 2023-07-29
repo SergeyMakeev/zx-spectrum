@@ -3,6 +3,10 @@
 ; IM 1: Jumps to address &0038
 ; IM 2: Uses an interrupt vector table, indexed by value on data bus.
 ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+;
+;http://z80-heaven.wikidot.com/instructions-set
+;https://learn.cemetech.net/index.php/Z80:Opcodes
+;
     DEVICE ZXSPECTRUM48
 
 Stack_Top: EQU 0xFFF0
@@ -15,58 +19,119 @@ Main:
     LD A, 2         ; set border color to red(2)
     OUT (254), A
 
+	CALL PrintText
+	RET
 
-;     LD HL, 0x5800   ; attributes
-;     LD B, 128       ; loop counter
-; MyLoop:    
-;     LD (HL), 0x20   ; green paper
-;     INC HL
-;     DJNZ MyLoop
+
 
     ;--------------
-    LD HL, 0x4000       ; start of screen memory
-    LD DE, Letter       ; start of letter 'A' bitmap
-	LD A, (DE)
-	LD (HL), A
+PrintText:	
+	LD HL, 0x3fff              ; screen address (0x4000-1)
+	LD (ScreenAddr), HL
+	LD BC, Text
+TextLoop:	
+	LD A, (BC)
+	OR A
+	RET Z                      ; return if symobol is zero
+	INC BC                     ; step to next symbol
+	
+	LD H, 0                    ; ld hl, a
+	LD L, A
 
-	INC H				; next line - inc hl, 256
-	INC E               ;             inc de, 1
-	LD A, (DE)
-	LD (HL), A
+	ADD HL, HL                 ; hl2 = hl + hl
+	ADD HL, HL                 ; hl4 = hl2 + hl2
+	ADD HL, HL                 ; hl8 = hl8 + hl8
+	
+	LD DE, Font                ; start of font
+	ADD HL, DE                 ; a specific letter
 
-	INC H				; next line - inc hl, 256
-	INC E               ;             inc de, 1
-	LD A, (DE)
-	LD (HL), A
+    LD DE, (ScreenAddr)              ; screen address
+	INC DE                           ; next pos
+	LD (ScreenAddr), DE
 
-	INC H				; next line - inc hl, 256
-	INC E               ;             inc de, 1
-	LD A, (DE)
-	LD (HL), A
+	LD A, (HL)                 ; load 8 pix
+	LD (DE), A                 ; store 8 pix
 
-	INC H				; next line - inc hl, 256
-	INC E               ;             inc de, 1
-	LD A, (DE)
-	LD (HL), A
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
 
-	INC H				; next line - inc hl, 256
-	INC E               ;             inc de, 1
-	LD A, (DE)
-	LD (HL), A
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
 
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
 
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
+
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
+
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
+
+	INC D				; next line - inc DE, 256
+	INC L               ;             inc hl, 1
+	LD A, (HL)
+	LD (DE), A
+
+	JR TextLoop
     RET                                     ; And return
 
-Letter:
-    DB %00011000
-    DB %00100100
-    DB %01000010
-    DB %01111110
-    DB %10000001
-    DB %10000001
+Text:
+    DB "Sergey Makeev!!!"
+	DB 0
+
+ScreenAddr:
+	DB 0, 0	
 
 Font:
-	DB 0,0,0,0,0,0,0,0
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+	DB 255,255,255,255,255,255,255,255
+
+	DB 0,0,0,0,0,0,0,0 ;32 = space
 	DB 0,16,16,16,16,0,16,0
 	DB 0,36,36,0,0,0,0,0
 	DB 0,36,126,36,36,126,36,0
