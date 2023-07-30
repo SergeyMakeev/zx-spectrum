@@ -29,11 +29,94 @@ Main:
 Scroll:
 
     LD HL, 0x401f
+    PUSH HL
     LD A, 255
     LD (HL), A
 
+    ; line 0
     OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 1
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 2
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 3
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 4
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 5
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 6
+    POP HL
+    INC H ; next line
+    PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 7
+    POP HL
+    INC H ; next line
+    ;PUSH HL
+    
+    OR A                 ; reset CF flag
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
    
     RET
 
@@ -68,37 +151,37 @@ TextLoop:
 	LD (DE), A                 ; store 8 pix
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 

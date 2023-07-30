@@ -11,7 +11,7 @@
                 "visualMemory": true,
                 "memoryModel": "ZX48K",
                 "ulaScreen": true,
-                "zxBorderWidth": 20,
+                "zxBorderWidth": 10,
                 "vsyncInterrupt": true,
                 "zxKeyboard": true,
                 "zxBeeper": true
@@ -24,7 +24,7 @@
             "commandsAfterLaunch": [],
             "history": {
                 "reverseDebugInstructionCount": 1000000,
-                "spotCount": 10,
+                "spotCount": 60,
                 "codeCoverageEnabled": true
             },
             "startAutomatically": false,
@@ -49,7 +49,7 @@
         "commandsAfterLaunch": [],
         "history": {
             "reverseDebugInstructionCount": 1000000,
-            "spotCount": 10,
+            "spotCount": 60,
             "codeCoverageEnabled": true
         },
         "startAutomatically": false,

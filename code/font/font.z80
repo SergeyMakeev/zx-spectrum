@@ -54,37 +54,37 @@ TextLoop:
 	LD (DE), A                 ; store 8 pix
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
 	INC D				; next line - inc DE, 256
-	INC L               ;             inc hl, 1
+	INC HL               ;             inc hl, 1
 	LD A, (HL)
 	LD (DE), A
 
