@@ -82,89 +82,90 @@ Interrupt:
 
     ;--------------
 Scroll:
-
-    LD HL, 0x401f
-    PUSH HL
+    ;  0x4000
+    ;  256x192 pixels (32x24 chars)
+    ;  
 
     ; line 0
     OR A                 ; reset CF flag
+    LD HL, CharBuffer
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f   ; 0x1f = 31
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 1
-    POP HL
-    INC H ; next line
-    PUSH HL
-    
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+1
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 2
-    POP HL
-    INC H ; next line
-    PUSH HL
-    
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+2
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 3
-    POP HL
-    INC H ; next line
-    PUSH HL
     
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+3
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 4
-    POP HL
-    INC H ; next line
-    PUSH HL
     
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+4
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 5
-    POP HL
-    INC H ; next line
-    PUSH HL
     
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+5
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100+0x0100+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 6
-    POP HL
-    INC H ; next line
-    PUSH HL
     
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+6
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
 
     ; line 7
-    POP HL
-    INC H ; next line
-    ;PUSH HL
     
     OR A                 ; reset CF flag
+    LD HL, CharBuffer+7
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, 0x401f+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100
     DUP 32               ; duplicate 32 times
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
@@ -173,7 +174,8 @@ Scroll:
    
     RET
 
-
+CharBuffer:
+    DB 255, 255, 255, 255, 255, 255, 255, 255
 
     ;--------------
 PrintText:	

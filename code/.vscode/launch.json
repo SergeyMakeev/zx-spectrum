@@ -52,7 +52,7 @@
             "spotCount": 60,
             "codeCoverageEnabled": true
         },
-        "startAutomatically": false,
+        "startAutomatically": true,
         "rootFolder": "${fileDirname}",
         "load": "${fileDirname}/${fileBasenameNoExtension}.sna",
         "topOfStack": "stack_top"
