@@ -20,7 +20,7 @@ Main:
     LD A, 2         ; set border color to red(2)
     OUT (254), A
 
-    CALL PrintText
+    CALL ResetText
 
     ; Interrupt mode 2
     LD HL,Interrupt
@@ -57,7 +57,7 @@ Interrupt:
     LD A, 0         ; set border color to (2)
     OUT (254), A
 
-
+    CALL PrintLetterIfNeed
     CALL Scroll
 
     LD A, 2         ; set border color to red(2)
@@ -170,24 +170,29 @@ Scroll:
     RL (HL)              ; CF <- [byte] <- CF
     DEC HL
     EDUP
-
    
     RET
 
-CharBuffer:
-    DB 255, 255, 255, 255, 255, 255, 255, 255
+PrintLetterIfNeed:
+    LD A, (Counter)
+    DEC A
+    JR NZ,PrintLetterExit
+    LD A, 8
+    LD (Counter), A
 
-    ;--------------
-PrintText:	
-	LD HL, 0x401b              ; screen address (0x4000-1)
-	LD (ScreenAddr), HL
-	LD BC, Text
-TextLoop:	
-	LD A, (BC)
+    ; print 8 pixels
+    ;LD A, 0xaa   ;0x55
+    ;LD (CharBuffer), A
+
+;;;;;
+	LD BC, (TextReadAddr)       ; fetch + incerase current character address
+	LD A, (BC)                  ; fetch character
+    INC BC
+    LD (TextReadAddr), BC
+
 	OR A
-	RET Z                      ; return if symobol is zero
-	INC BC                     ; step to next symbol
-	
+	JR Z, ResetText             ; reset scroller if character is zero (loop)
+
 	LD H, 0                    ; ld hl, a
 	LD L, A
 
@@ -196,59 +201,38 @@ TextLoop:
 	ADD HL, HL                 ; hl8 = hl8 + hl8
 	
 	LD DE, Font                ; start of font
-	ADD HL, DE                 ; a specific letter
+	ADD HL, DE                 ; HL = a specific letter
+	LD DE, CharBuffer
+	LD BC, 8
+	LDIR
+        
+    RET
 
-    LD DE, (ScreenAddr)              ; screen address
-	INC DE                           ; next pos
-	LD (ScreenAddr), DE
+PrintLetterExit:
+    LD (Counter), A
+    RET
+ResetText:
+    LD HL, Text
+    LD (TextReadAddr), HL
+    RET
 
-	LD A, (HL)                 ; load 8 pix
-	LD (DE), A                 ; store 8 pix
 
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
 
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
+TextReadAddr:
+    DB 0, 0
 
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
+Counter:
+    DB 8
 
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
+CharBuffer:
+    DB 0, 0, 0, 0, 0, 0, 0, 0
 
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
-
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
-
-	INC D				; next line - inc DE, 256
-	INC HL               ;             inc hl, 1
-	LD A, (HL)
-	LD (DE), A
-
-	JR TextLoop
-    RET                                     ; And return
+    ;--------------
 
 Text:
-    DB "TEST"
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
+    DB "THANK YOU FOR WATCHING!!!                                "
 	DB 0
-
-ScreenAddr:
-	DB 0, 0	
 
 Font:
 	DB 255,255,255,255,255,255,255,255
