@@ -41,6 +41,9 @@ https://solhsa.com/zip/img2spec_40.zip
 ## ZX Paintbrush
 https://sourcesolutions.itch.io/zx-paintbrush  
 
+## SkoolKit (Spectrum game disassembly toolkit)
+https://github.com/skoolkid/skoolkit  
+https://skoolkit.ca/  
 
 ## Helpfull resources
 
