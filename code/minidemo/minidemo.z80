@@ -1,0 +1,371 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+;
+;http://z80-heaven.wikidot.com/instructions-set
+;https://learn.cemetech.net/index.php/Z80:Opcodes
+;
+
+; 0 - black
+; 1 - blue
+; 2 - red
+; 3 - magenta
+; 4 - green
+; 5 - cyan
+; 6 - yellow
+; 7 - white
+    DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
+
+stack_top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+
+    CALL ClearScreen
+
+    ; vortex tracker init address
+    di
+    call 0xc000
+    ei
+
+
+    CALL DrawLogo
+    CALL ResetText
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+
+    ;LD A, 1         ; set border color to blue
+    ;OUT (254), A
+
+    CALL PrintLetterIfNeed
+
+    ;LD A, 2         ; set border color to red
+    ;OUT (254), A
+
+    CALL Scroll
+
+    ;LD A, 4         ; set border color to green
+    ;OUT (254), A
+
+    ; vortex tracker play address
+    call 0xc005
+
+    ;LD A, 0         ; set border color to black
+    ;OUT (254), A
+
+
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+ClearScreen:
+    XOR  A 
+
+    ; clear border
+    OUT  (#FE),A             
+
+    ; clear pixels
+    LD   HL, 0x4000
+    LD   DE, 0x4001
+    LD   BC, 0x17ff
+    LD   (HL),A
+    LDIR   
+
+
+    ;clear attrs (in thirds)
+    LD A, 4                  ; green
+    LD   HL, 0x5800
+    LD   DE, 0x5801
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+    LD A, 1                  ; blue
+    LD   HL, 0x5900
+    LD   DE, 0x5901
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+    LD A, 6                  ; yellow
+    LD   HL, 0x5A00
+    LD   DE, 0x5A01
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+
+
+    RET
+
+    ;--------------
+LogoDst: EQU 0x404A ; logo  screen address    
+DrawLogo:
+	LD HL, LogoData
+	LD DE, LogoDst
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+	LD DE, LogoDst+32
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+	LD DE, LogoDst+32+32
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+	LD DE, LogoDst+32+32+32
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+	LD DE, LogoDst+32+32+32+32
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+	LD DE, LogoDst+32+32+32+32+32
+    DUP 8
+	LD BC, 12
+	LDIR
+    LD BC, 0xf4   ;256-12
+    ADD DE, BC
+    EDUP
+
+
+    RET
+
+    ;--------------
+Scroll:
+    ;  0x4000
+    ;  256x192 pixels (32x24 chars)
+    ;  https://i.redd.it/zx-spectrum-48k-video-memory-layout-v0-gqg161nzf4f91.png?format=pjpg&s=5e079dbe91ee49fe253d5f39f080a7d8bf0d4fe8
+scrl_addr: EQU 0x5080 ; scroller screen address
+
+    ; line 0
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f   ; 0x1f = 31
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 1
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+1
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 2
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+2
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 3
+    
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+3
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 4
+    
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+4
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 5
+    
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+5
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100+0x0100+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 6
+    
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+6
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+
+    ; line 7
+    
+    OR A                 ; reset CF flag
+    LD HL, CharBuffer+7
+    RL (HL)              ; CF <- [byte] <- CF
+    LD HL, scrl_addr+0x1f+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100+0x0100
+    DUP 32               ; duplicate 32 times
+    RL (HL)              ; CF <- [byte] <- CF
+    DEC HL
+    EDUP
+   
+    RET
+
+PrintLetterIfNeed:
+    LD A, (Counter)
+    DEC A
+    JR NZ,PrintLetterExit
+    LD A, 8
+    LD (Counter), A
+
+    ; print 8 pixels
+    ;LD A, 0xaa   ;0x55
+    ;LD (CharBuffer), A
+
+;;;;;
+	LD BC, (TextReadAddr)       ; fetch + incerase current character address
+	LD A, (BC)                  ; fetch character
+    INC BC
+    LD (TextReadAddr), BC
+
+	OR A
+	JR Z, ResetText             ; reset scroller if character is zero (loop)
+
+	LD H, 0                    ; ld hl, a
+	LD L, A
+    
+    ; sub hl, 32
+    LD DE, 0xffe0              ; -32
+    ADD HL, DE
+
+	ADD HL, HL                 ; hl2 = hl + hl
+	ADD HL, HL                 ; hl4 = hl2 + hl2
+	ADD HL, HL                 ; hl8 = hl8 + hl8
+	
+	LD DE, Font                ; start of font
+	ADD HL, DE                 ; HL = a specific letter
+	LD DE, CharBuffer
+	LD BC, 8
+	LDIR
+        
+    RET
+
+PrintLetterExit:
+    LD (Counter), A
+    RET
+ResetText:
+    LD HL, Text
+    LD (TextReadAddr), HL
+    RET
+
+
+
+TextReadAddr:
+    DB 0, 0
+
+Counter:
+    DB 8
+
+CharBuffer:
+    DB 0, 0, 0, 0, 0, 0, 0, 0
+
+    ;--------------
+
+Text:
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
+    DB "THANK YOU FOR WATCHING!!!                    # # # #               "
+	DB 0
+
+
+    include "font.z80"
+    include "logo.z80"
+
+    ORG 0xc000
+    INCHOB "startrip.$c"
+
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "minidemo/minidemo.sna", Code_Start
