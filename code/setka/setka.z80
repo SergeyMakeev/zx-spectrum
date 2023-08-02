@@ -1,0 +1,133 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+    DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
+
+stack_top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+
+    LD A, 0         ; set border color to black
+    OUT (254), A
+
+    CALL Setka
+
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+Setka:
+    LD (SavedSP), SP
+    LD SP, 0x5800               ; set stack to the end of the screen
+
+CurrentCounter:
+    LD A, 8                     ; loop counter. opcode: 3e 08
+CurrentPatterAddr:    
+    LD HL, FillPattern          ; fill pattern addres. opcode 21 XX XX (XXXX = 16 bit number)
+    DEC A
+    JR NZ, NotYetFinished
+
+    ; loop reset
+    LD A, 8
+    LD HL, FillPattern-8
+NotYetFinished:
+    LD (CurrentCounter+1), A       ; note: self modifying code! (update counter)
+    LD DE, 8
+    ADD HL, DE
+    LD (CurrentPatterAddr+1), HL   ; note self modifying code! (update address)
+
+CurrentAddr:
+    LD IX, HL
+    LD BC,8 ; loop counter
+
+InnerLoop:
+    LD L,(IX+0)
+    LD H, L
+
+    ; 256 bytes * 8 = 2048 pixels = 8 lines
+    DUP 128
+    PUSH HL
+    EDUP
+
+    INC IX
+    DEC BC         
+    LD A,B         
+    OR C           
+    JP NZ, InnerLoop    
+
+
+    LD SP, (SavedSP)
+    RET
+
+SavedSP:
+    DB 0, 0
+
+FillPattern:
+    DB 0xAA, 0x00, 0x80, 0x00, 0x80, 0x00, 0x80, 0x00
+    DB 0x00, 0x55, 0x00, 0x40, 0x00, 0x40, 0x00, 0x40
+    DB 0x20, 0x00, 0xAA, 0x00, 0x20, 0x00, 0x20, 0x00
+    DB 0x00, 0x10, 0x00, 0x55, 0x00, 0x10, 0x00, 0x10
+    DB 0x08, 0x00, 0x08, 0x00, 0xAA, 0x00, 0x08, 0x00
+    DB 0x00, 0x04, 0x00, 0x04, 0x00, 0x55, 0x00, 0x04
+    DB 0x02, 0x00, 0x02, 0x00, 0x02, 0x00, 0xAA, 0x00
+    DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
+
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "setka/setka.sna", Code_Start
