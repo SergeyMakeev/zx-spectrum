@@ -36,6 +36,7 @@ Main:
 
     CALL DrawLogo
     CALL ResetText
+    CALL ResetText2
 
     ; Interrupt mode 2
     LD HL,Interrupt
@@ -73,11 +74,14 @@ Interrupt:
     ;OUT (254), A
 
     CALL PrintLetterIfNeed
+    CALL PrintLetterIfNeed2
+
 
     ;LD A, 2         ; set border color to red
     ;OUT (254), A
 
     CALL Scroll
+    CALL ScrollAttrib
 
     ;LD A, 4         ; set border color to green
     ;OUT (254), A
@@ -108,7 +112,7 @@ ClearScreen:
     XOR  A 
 
     ; clear border
-    OUT  (#FE),A             
+    OUT  (0xFE),A             
 
     ; clear pixels
     LD   HL, 0x4000
@@ -199,7 +203,10 @@ DrawLogo:
 
     RET
 
-    ;--------------
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
 Scroll:
     ;  0x4000
     ;  256x192 pixels (32x24 chars)
@@ -300,11 +307,6 @@ PrintLetterIfNeed:
     LD A, 8
     LD (Counter), A
 
-    ; print 8 pixels
-    ;LD A, 0xaa   ;0x55
-    ;LD (CharBuffer), A
-
-;;;;;
 	LD BC, (TextReadAddr)       ; fetch + incerase current character address
 	LD A, (BC)                  ; fetch character
     INC BC
@@ -341,7 +343,6 @@ ResetText:
     RET
 
 
-
 TextReadAddr:
     DB 0, 0
 
@@ -351,11 +352,122 @@ Counter:
 CharBuffer:
     DB 0, 0, 0, 0, 0, 0, 0, 0
 
-    ;--------------
+
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
+    ;------------------------------------------------------------------------------------------------------------------------
+
+    MACRO PUT_ATTR_PIX dstAddr, srcAddr
+    XOR A                 ; reset CF flag and clear A
+    LD HL, srcAddr
+    RL (HL)               ; CF <- [byte] <- CF
+    JR NC, .EmptyPix
+    LD A, (AttrColor)
+.EmptyPix
+    LD (dstAddr), A
+    ENDM
+
+ 
+ScrollAttrib:
+
+    ; scroll one line
+    LD   HL, 0x5941
+    LD   DE, 0x5940
+    LD   BC, 255
+    LDIR 
+
+    ; print new pixels
+    PUT_ATTR_PIX 0x595f, CharBuffer2+0
+    PUT_ATTR_PIX 0x595f+32, CharBuffer2+1
+    PUT_ATTR_PIX 0x595f+32+32, CharBuffer2+2
+    PUT_ATTR_PIX 0x595f+32+32+32, CharBuffer2+3
+    PUT_ATTR_PIX 0x595f+32+32+32+32, CharBuffer2+4
+    PUT_ATTR_PIX 0x595f+32+32+32+32+32, CharBuffer2+5
+    PUT_ATTR_PIX 0x595f+32+32+32+32+32+32, CharBuffer2+6
+    PUT_ATTR_PIX 0x595f+32+32+32+32+32+32+32, CharBuffer2+7
+
+
+
+    RET
+
+
+
+
+PrintLetterIfNeed2:
+    LD A, (Counter2)
+    DEC A
+    JR NZ,PrintLetterExit2
+    LD A, 8
+    LD (Counter2), A
+
+	LD BC, (TextReadAddr2)       ; fetch + incerase current character address
+	LD A, (BC)                  ; fetch character
+    INC BC
+    LD (TextReadAddr2), BC
+
+    ; check for heart symbol (#)
+    LD HL, AttrColor                
+    CP 35
+    JR Z, SetRedColor
+    LD (HL), 10                     ; blue
+    JR Cont
+SetRedColor:    
+    LD (HL), 16                     ; red
+
+
+Cont:
+	OR A
+	JR Z, ResetText2             ; reset scroller if character is zero (loop)
+
+	LD H, 0                    ; ld hl, a
+	LD L, A
+    
+    ; sub hl, 32
+    LD DE, 0xffe0              ; -32
+    ADD HL, DE
+
+	ADD HL, HL                 ; hl2 = hl + hl
+	ADD HL, HL                 ; hl4 = hl2 + hl2
+	ADD HL, HL                 ; hl8 = hl8 + hl8
+	
+	LD DE, Font                ; start of font
+	ADD HL, DE                 ; HL = a specific letter
+	LD DE, CharBuffer2
+	LD BC, 8
+	LDIR
+        
+    RET
+
+PrintLetterExit2:
+    LD (Counter2), A
+    RET
+ResetText2:
+    LD HL, Text2
+    LD (TextReadAddr2), HL
+    RET
+
+
+TextReadAddr2:
+    DB 0, 0
+
+Counter2:
+    DB 8
+
+CharBuffer2:
+    DB 0, 0, 0, 0, 0, 0, 0, 0
+
+AttrColor:
+    DB 10
+
 
 Text:
     DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
     DB "THANK YOU FOR WATCHING!!!                    # # # #               "
+	DB 0
+
+Text2:
+    DB "THIS # DEMO DEDICATED TO ALL RENDERING PEOPLE IN THE WORLD!  #  U ROCKS! # # #  "
 	DB 0
 
 
