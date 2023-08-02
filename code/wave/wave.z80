@@ -1,0 +1,118 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+    DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
+
+stack_top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+
+    LD A, 0         ; set border color to black
+    OUT (254), A
+
+    CALL WaveScroll
+
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+WaveScroll:
+    LD (SavedSP), SP
+    LD SP, ScreeAddrBuffer2
+    LD A, 255
+    
+    DUP 8
+    POP HL
+    LD (HL), A
+    EDUP
+
+    LD SP, (SavedSP)
+    RET
+
+
+SavedSP:
+    DB 0, 0
+
+    ;  0x4000
+    ;  256x192 pixels (32x24 chars)
+    ;  https://i.redd.it/zx-spectrum-48k-video-memory-layout-v0-gqg161nzf4f91.png?format=pjpg&s=5e079dbe91ee49fe253d5f39f080a7d8bf0d4fe8
+    ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/screen-memory-layout
+ScreeAddrBuffer2:
+    LUA ALLPASS
+        for i = 0, 7 do
+            local x = 0
+            local y = i+2
+
+            -- compute speccy screen address from x,y
+            x = x & 31
+
+            local y_b012 = y & 7
+            local y_b345 = (y & 56) >> 3
+            local y_b67 = (y & 192) >> 6
+            
+            local l = x | (y_b345 << 5)
+            local h = 64 | y_b012 | (y_b67 << 3)
+
+            _pc(string.format("DB %d, %d", l, h))
+
+        end
+    ENDLUA
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "wave/wave.sna", Code_Start
