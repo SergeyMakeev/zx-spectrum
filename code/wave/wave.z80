@@ -50,6 +50,11 @@ Interrupt:
     LD A, 0         ; set border color to black
     OUT (254), A
 
+    CALL Setka
+
+    LD A, 1         ; set border color to blue
+    OUT (254), A
+
     CALL WaveScroll
 
     LD A, 2         ; set border color to red(2)
@@ -72,20 +77,121 @@ Interrupt:
     RET                                     ; And return
 
 WaveScroll:
-    LD (SavedSP), SP
-    LD SP, ScreeAddrBuffer2
+    LD (WaveScrollSavedSP), SP
+
+WaveScrollCounter:
+    LD A, 64                     ; 'animation' frame
+    DEC A
+    JP NZ, WaveScrollContinue
+    LD A, 64
+
+WaveScrollContinue:
+    LD (WaveScrollCounter+1),A
+
+    LD H, 0
+    LD L, A
+    ADD HL, HL                  ; hl = hl * 16
+    ADD HL, HL
+    ADD HL, HL
+    ADD HL, HL
+    LD DE, ScreeAddrBuffer2     ; precomputed table (screen addr here!)
+    ADD HL, DE                  ; 
+
+    LD SP, HL
     LD A, 255
+
+    LD DE, SpriteData
     
     DUP 8
-    POP HL
-    LD (HL), A
+    POP HL                     ; fetch screen addr
+    LD A, (DE)                 ; fetch sprite data (first byte) note: sprite is two bit wide!
+    OR (HL)                    ;  write
+    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
+    INC L
+    LD A, (DE)                 ; fetch sprite data (second byte)
+    OR (HL)                    ;  write
+    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
     EDUP
+
+    LD SP, (WaveScrollSavedSP)
+    RET
+
+;-----------------------------
+
+Setka:
+    LD (SavedSP), SP
+    LD SP, 0x5800               ; set stack to the end of the screen
+
+CurrentCounter:
+    LD A, 8                     ; loop counter. opcode: 3e 08
+CurrentPatterAddr:    
+    LD HL, FillPattern          ; fill pattern addres. opcode 21 XX XX (XXXX = 16 bit number)
+    DEC A
+    JR NZ, NotYetFinished
+
+    ; loop reset
+    LD A, 8
+    LD HL, FillPattern-8
+NotYetFinished:
+    LD (CurrentCounter+1), A       ; note: self modifying code! (update counter)
+    LD DE, 8
+    ADD HL, DE
+    LD (CurrentPatterAddr+1), HL   ; note self modifying code! (update address)
+
+CurrentAddr:
+    LD IX, HL
+    LD BC,8 ; loop counter
+
+InnerLoop:
+    LD L,(IX+0)
+    LD H, L
+
+    ; 256 bytes * 8 = 2048 pixels = 8 lines
+    DUP 128
+    PUSH HL
+    EDUP
+
+    INC IX
+    DEC BC         
+    LD A,B         
+    OR C           
+    JP NZ, InnerLoop    
+
 
     LD SP, (SavedSP)
     RET
 
-
 SavedSP:
+    DB 0, 0
+
+FillPattern:
+    DB 0xAA, 0x00, 0x80, 0x00, 0x80, 0x00, 0x80, 0x00
+    DB 0x00, 0x55, 0x00, 0x40, 0x00, 0x40, 0x00, 0x40
+    DB 0x20, 0x00, 0xAA, 0x00, 0x20, 0x00, 0x20, 0x00
+    DB 0x00, 0x10, 0x00, 0x55, 0x00, 0x10, 0x00, 0x10
+    DB 0x08, 0x00, 0x08, 0x00, 0xAA, 0x00, 0x08, 0x00
+    DB 0x00, 0x04, 0x00, 0x04, 0x00, 0x55, 0x00, 0x04
+    DB 0x02, 0x00, 0x02, 0x00, 0x02, 0x00, 0xAA, 0x00
+    DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
+
+
+
+;-----------------------------
+
+SpriteData:
+    DB %00000000, %00000000
+    DB %00000000, %01100110
+    DB %00000000, %11111111
+    DB %00000000, %11111111
+    DB %00000000, %11111111
+    DB %00000000, %01111110
+    DB %00000000, %00111100
+    DB %00000000, %00011000
+
+
+WaveScrollSavedSP:
     DB 0, 0
 
     ;  0x4000
@@ -94,22 +200,53 @@ SavedSP:
     ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/screen-memory-layout
 ScreeAddrBuffer2:
     LUA ALLPASS
-        for i = 0, 7 do
-            local x = 0
-            local y = i+2
+        for step = 0, 64 do
+            local k = (step / 64.0)             -- 0..1 range
+            k = (k * 2.0) - 1.0                 -- -1..1 range
+            k = k * math.pi                     -- -pi..pi range
+            local cos_val = math.cos(k)         -- -1..1
+            cos_val = (cos_val * 0.5) + 0.5     --  0..1 
+            cos_val = cos_val * 56              -- 0..56 (amplitude)
+            cos_val = 128 + cos_val             -- 128..184 (offset)
+            cos_val = math.floor(cos_val + 0.5) -- floor (to integer)
 
-            -- compute speccy screen address from x,y
-            x = x & 31
+            _pc(string.format("; ---- frame(%d) cos(%3.2f), y(%d) ----", step, k, cos_val))
 
-            local y_b012 = y & 7
-            local y_b345 = (y & 56) >> 3
-            local y_b67 = (y & 192) >> 6
-            
-            local l = x | (y_b345 << 5)
-            local h = 64 | y_b012 | (y_b67 << 3)
+            for i = 0, 7 do
+                local x = 0
+                local y = cos_val + i
+                --local y = 184+i
 
-            _pc(string.format("DB %d, %d", l, h))
+                -- compute speccy screen address from x,y
 
+                if x < 0 then
+                  x = 0
+                end
+
+                if x >= 256 then
+                  x = 255
+                end
+
+                if y < 0 then
+                  y = 0
+                end
+
+                if y >= 192 then
+                  y = 191
+                end
+
+                x = x & 31
+
+                local y_b012 = y & 7
+                local y_b345 = (y & 56) >> 3
+                local y_b67 = (y & 192) >> 6
+                
+                local l = x | (y_b345 << 5)
+                local h = 64 | y_b012 | (y_b67 << 3)
+
+                _pc(string.format("DW 0x%02x%02x  ; %s", h, l, y))
+
+            end
         end
     ENDLUA
 
