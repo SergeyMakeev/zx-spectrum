@@ -6,7 +6,18 @@
     DEVICE ZXSPECTRUM48
     SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
 
+; slow memory (#6000-#7FFF) ~8Kb
+; fast memory (#8000-#BFFF)
 stack_top: EQU 0xFFF0
+
+    ORG 0x6000
+SpriteData: DB 0    ;..................... a lot of data ...............
+; 96 sprites(characters) * 16 bytes each * 4 (offset by two pixels) = 6144 bytes
+; SpriteData+96*16*0 = offset(0)
+; SpriteData+96*16*1 = offset(2)
+; SpriteData+96*16*2 = offset(4)
+; SpriteData+96*16*3 = offset(6)
+
 
 Code_Start: EQU 0x8000
     ORG Code_Start
@@ -14,6 +25,8 @@ Code_Start: EQU 0x8000
 Main:
     LD A, 2         ; set border color to red(2)
     OUT (254), A
+
+    CALL PreScrollFont
 
     ; Interrupt mode 2
     LD HL,Interrupt
@@ -57,11 +70,6 @@ Interrupt:
 
     CALL WaveScroll
 
-    LD A, 5         ; set border color 
-    OUT (254), A
-
-    CALL WaveScrollSpritesBits
-
     LD A, 2         ; set border color to red(2)
     OUT (254), A
 
@@ -81,18 +89,66 @@ Interrupt:
     EI                                      ; Enable interrupts
     RET                                     ; And return
 
-; scroll sprites using 
-WaveScrollSpritesBits:
-    LD HL, SpriteData+29*16+15
-    DUP 240
-    OR A                 ; reset CF flag
-    RL (HL)              ; CF <- [byte] <- CF
-    DEC HL
-    RL (HL)              ; CF <- [byte] <- CF
-    DEC HL
-    EDUP
+
+; E = number of pixels to shift PLUS ONE!!  e.g, 1,2,3,4,5,6,7,8
+PreScrollFontImpl:    
+    LD HL, Font                     ; source 8 bit/character
+    LD BC, 96*8                     ; 96 characters, 8 bytes each
+.PreScrollLoop
+    PUSH BC                         ; save loop counter
+    PUSH DE                         ; save inner loop counter
+
+    LD A, (HL)                      ; load original 8 pixels
+    INC HL
+    LD D, 0                         ; set hi-byte to zero 
+;------------ scroll pixels
+.PreScrollInnerLoop
+    DEC E
+    JR Z, .PreScrollBreakInnerLoop
+    OR A                            ; clear CF flag 
+    RL A                            ; CF <- [byte] <- CF   \
+    RL D                            ; CF <- [byte] <- CF   /
+    JR .PreScrollInnerLoop
+;------------ scroll pixels
+.PreScrollBreakInnerLoop
+    ; write shifted pixels
+    LD (IX), D
+    INC IX
+    LD (IX), A
+    INC IX
+
+    ; loop
+    POP DE                          ; restore inner loop counter
+    POP BC                          ; restore loop counter
+    DEC BC         
+    LD A,B         
+    OR C           
+    JP NZ, .PreScrollLoop    
     RET
 
+PreScrollFont:
+    LD E, 1                 ; num pixels to scroll (0)
+    LD IX, SpriteData       ; destination 16 bit/character
+    CALL PreScrollFontImpl
+    LD E, 3                 ; num pixels to scroll (2)
+    CALL PreScrollFontImpl
+    LD E, 5                 ; num pixels to scroll (4)
+    CALL PreScrollFontImpl
+    LD E, 7                 ; num pixels to scroll (6)
+    CALL PreScrollFontImpl
+    RET
+
+; ========================================================================
+;
+;  scroller here!!!!
+;
+;  TODO:
+;     - remove hl*16 in sine table computation
+;     - per pixel animation (sprite palette swap)
+;     - print first pixel (easy?)
+;     - add text print (easy)
+;
+; ========================================================================
 WaveScroll:
     LD (WaveScrollSavedSP), SP
 
@@ -104,8 +160,8 @@ WaveScrollCounter: LD A, 64                     ; 'animation' frame
 WaveScrollContinue:
     LD (WaveScrollCounter+1),A           ; update counter
     LD (WaveScrollTblAddr+1),A           ; update table addr
-    LD IX, SpriteData
-    LD BC, 30 ; loop counter
+    LD IX, WaveScrollScratch+29          ; current text addr (end)
+    LD BC, 30 ; loop counter (30 chars)
 WaveScrollLoop:
 
   ;  EXX                 ; swap BC, DE, HL -> BC', DE', HL' (To save BC. Note: we can't PUSH BC, since stack is not available)
@@ -113,18 +169,31 @@ WaveScrollLoop:
 WaveScrollTblAddr: LD HL, 0x0012  ; opcode: 0x21, 0x12, 0x00
     ADD HL, BC          ; add sprite number to animation frame
     
-    LD A, L             ; frame = frame & 63
-    AND 63
-    LD L, A
-
+    ;LD A, L             ; frame = frame & 63
+    ;AND 63
+    ;LD L, A
+    ; hl = ((animation_frame + char_index) & 63) * 16
     ADD HL, HL                    ; hl = hl * 16
-    ADD HL, HL
-    ADD HL, HL
+    ADD HL, HL                    ;
+    ADD HL, HL                    ; table entry has 8 addresses, and each address is 2 bytes long, hence 16!
     ADD HL, HL
     LD DE, ScreeAddrBuffer2     ; precomputed table (screen addr here!)
     ADD HL, DE                  ; 
     LD SP, HL
-    LD DE, IX                   ; actual sprite data
+
+    LD A, (IX)                  ; load current character code (sprite index)
+    SUB 32                      ; subtract 32 
+    LD L, A                     ;
+    LD H, 0                     ; hl = character code
+    ADD HL, HL                  ;
+    ADD HL, HL                  ;
+    ADD HL, HL                  ; hl = hl * 16
+    ADD HL, HL                  ;
+    LD DE, SpriteData
+    ; IX = text pointer
+    ; HL = char offset
+    ; BC = animation cycle
+    ADD DE, HL                  ; actual sprite data
 
     
     ; --- draw single sprite
@@ -142,9 +211,7 @@ WaveScrollTblAddr: LD HL, 0x0012  ; opcode: 0x21, 0x12, 0x00
     INC DE
     EDUP
 
-    ; step to the next sprite (16 bytes)
-    LD DE, 16
-    ADD IX, DE
+    DEC IX
 ;    EXX                        ; restore BC
     DEC C
     JP NZ,WaveScrollLoop
@@ -212,104 +279,82 @@ FillPattern:
 
 
 
-;-----------------------------
-; 30 chars (each is 2 byte wide)
-SpriteData:
-   
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB 0, 255, 0, 255, 0, 255, 0, 255, 0, 255, 0, 255, 0, 255, 0, 255
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-    DB %00000000, %00000000, %00000000, %01100110, %00000000, %11111111, %00000000, %11111111, %00000000, %11111111, %00000000, %01111110, %00000000, %00111100, %00000000, %00011000
-
-
 WaveScrollSavedSP:
     DB 0, 0
 
+WaveScrollScratch:
+    DB "#ABCDE12345ABCDE12345ABCDE12345#QWERTY"
+
+    ALIGN 256
     ;  0x4000
     ;  256x192 pixels (32x24 chars)
     ;  https://i.redd.it/zx-spectrum-48k-video-memory-layout-v0-gqg161nzf4f91.png?format=pjpg&s=5e079dbe91ee49fe253d5f39f080a7d8bf0d4fe8
     ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/screen-memory-layout
 ScreeAddrBuffer2:
     LUA ALLPASS
-        for step = 0, 64 do
-            local k = (step / 64.0)             -- 0..1 range
-            k = (k * 2.0) - 1.0                 -- -1..1 range
-            k = k * math.pi                     -- -pi..pi range
-            local cos_val = math.cos(k)         -- -1..1
-            cos_val = (cos_val * 0.5) + 0.5     --  0..1 
-            cos_val = cos_val * 56              -- 0..56 (amplitude)
-            cos_val = 128 + cos_val             -- 128..184 (offset)
-            cos_val = math.floor(cos_val + 0.5) -- floor (to integer)
+        for tableNum = 0, 1 do                      -- we need two table to wrap without clamping
+            for step = 0, 64 do
+                local k = (step / 64.0)             -- 0..1 range
+                k = (k * 2.0) - 1.0                 -- -1..1 range
+                k = k * math.pi                     -- -pi..pi range
+                local cos_val = math.cos(k)         -- -1..1
+                cos_val = (cos_val * 0.5) + 0.5     --  0..1 
+                cos_val = cos_val * 56              -- 0..56 (amplitude)
+                cos_val = 128 + cos_val             -- 128..184 (offset)
+                cos_val = math.floor(cos_val + 0.5) -- floor (to integer)
 
-            _pc(string.format("; ---- frame(%d) cos(%3.2f), y(%d) ----", step, k, cos_val))
+                _pc(string.format("; ---- frame(%d) cos(%3.2f), y(%d) ----", step, k, cos_val))
 
-            for i = 0, 7 do
-                local x = 0
-                local y = cos_val + i
-                --local y = 184+i
+                for i = 0, 7 do
+                    local x = 0
+                    local y = cos_val + i
+                    --local y = 184+i
 
-                -- compute speccy screen address from x,y
+                    -- compute speccy screen address from x,y
 
-                if x < 0 then
-                  x = 0
+                    if x < 0 then
+                    x = 0
+                    end
+
+                    if x >= 256 then
+                    x = 255
+                    end
+
+                    if y < 0 then
+                    y = 0
+                    end
+
+                    if y >= 192 then
+                    y = 191
+                    end
+
+                    x = x & 31
+
+                    local y_b012 = y & 7
+                    local y_b345 = (y & 56) >> 3
+                    local y_b67 = (y & 192) >> 6
+                    
+                    local l = x | (y_b345 << 5)
+                    local h = 64 | y_b012 | (y_b67 << 3)
+                    local hl = (h << 8) | l
+
+                    -- note: hacky optimization! subtract 1 from hl (to avoid doing this at runtime!)
+                    hl = hl - 1
+
+                    _pc(string.format("DW 0x%04x  ; %s", hl, y))
+
                 end
-
-                if x >= 256 then
-                  x = 255
-                end
-
-                if y < 0 then
-                  y = 0
-                end
-
-                if y >= 192 then
-                  y = 191
-                end
-
-                x = x & 31
-
-                local y_b012 = y & 7
-                local y_b345 = (y & 56) >> 3
-                local y_b67 = (y & 192) >> 6
-                
-                local l = x | (y_b345 << 5)
-                local h = 64 | y_b012 | (y_b67 << 3)
-                local hl = (h << 8) | l
-
-                -- note: hacky optimization! subtract 1 from hl (to avoid doing this at runtime!)
-                hl = hl - 1
-
-                _pc(string.format("DW 0x%04x  ; %s", hl, y))
-
             end
         end
     ENDLUA
+    ALIGN
+
+
+    ALIGN 256
+    ; 96 characters, 8 bytes each = 768 bytes
+    include "font.z80"
+    ALIGN
+
 
 Code_Length: EQU $-Code_Start+1
 
