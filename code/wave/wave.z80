@@ -142,44 +142,46 @@ PreScrollFont:
 ;
 ;  scroller here!!!!
 ;
-;  TODO:
-;     - remove hl*16 in sine table computation
-;     - per pixel animation (sprite palette swap)
-;     - print first pixel (easy?)
-;     - add text print (easy)
-;
 ; ========================================================================
 WaveScroll:
-    LD (WaveScrollSavedSP), SP
+    LD (WaveScrollSavedSP), SP               ; save stack pointer
 
-WaveScrollCounter: LD A, 64                     ; 'animation' frame
-    DEC A
+WaveScrollCounter: LD A, 64                  ; 'animation' frame
+    DEC A                                    ; decrease anim frame
     JP NZ, WaveScrollContinue
-    LD A, 64
+    LD A, 64                                 ; reset animation
 
 WaveScrollContinue:
-    LD (WaveScrollCounter+1),A           ; update counter
-    LD (WaveScrollTblAddr+1),A           ; update table addr
-    LD IX, WaveScrollScratch+29          ; current text addr (end)
-    LD BC, 30 ; loop counter (30 chars)
-WaveScrollLoop:
-
-  ;  EXX                 ; swap BC, DE, HL -> BC', DE', HL' (To save BC. Note: we can't PUSH BC, since stack is not available)
-
-WaveScrollTblAddr: LD HL, 0x0012  ; opcode: 0x21, 0x12, 0x00
-    ADD HL, BC          ; add sprite number to animation frame
+    LD (WaveScrollCounter+1),A              ; update animation frame
+    LD IX, WaveScrollScratch+32             ; current text addr (sprite indexes) (note: last sprite addr, since we are rendering backwards!)
     
-    ;LD A, L             ; frame = frame & 63
-    ;AND 63
-    ;LD L, A
-    ; hl = ((animation_frame + char_index) & 63) * 16
-    ADD HL, HL                    ; hl = hl * 16
-    ADD HL, HL                    ;
-    ADD HL, HL                    ; table entry has 8 addresses, and each address is 2 bytes long, hence 16!
+    ;SpriteDataEntries
+
+    LD H, 0                                 ; HL = anim frame
+    LD L, A
+    ;LD L, 0
+    ADD HL, HL                              ; HL = HL * 16
+    ADD HL, HL                              ; ScreeAddrBuffer2 = 8 precomputed screen addresses per character 
+    ADD HL, HL                              ;   addres is 16-bit (2 bytes) = 8 * 2 = 16 bytes
     ADD HL, HL
-    LD DE, ScreeAddrBuffer2     ; precomputed table (screen addr here!)
-    ADD HL, DE                  ; 
-    LD SP, HL
+    LD DE, ScreeAddrBuffer2                 ;
+    ADD HL, DE                              ; HL = address where precomputed screen addreses are stored
+
+    AND 3                                   ; mask anim frame to make it 0..3 (we only have 4 sprite banks = scroll by 2px)
+    CALL Z, ScrollScratchBuffer 
+    LD (SpriteBankSelector+2), A            ; update active sprite bank (by fixing +N in LD (IY+N) )
+    LD (SpriteBankSelector2+2), A            ; update active sprite bank (by fixing +N in LD (IY+N) )
+    LD (SpriteBankSelector3+2), A            ; update active sprite bank (by fixing +N in LD (IY+N) )
+    LD IY, SpriteDataEntries                ; sprite bank entry table (only high byte of addres, since sprite banks are aligned)            
+
+    LD SP, HL                               ; set stack pointer to precomputed screen addresses
+                                            ; (since every time we pop value from the stack SP automatically updates
+                                            ;  we don't need to do nothing in the inner loop)
+
+
+
+;---------- last character (sprite) ---------
+    LD BC, 32 ; current index
 
     LD A, (IX)                  ; load current character code (sprite index)
     SUB 32                      ; subtract 32 
@@ -187,20 +189,56 @@ WaveScrollTblAddr: LD HL, 0x0012  ; opcode: 0x21, 0x12, 0x00
     LD H, 0                     ; hl = character code
     ADD HL, HL                  ;
     ADD HL, HL                  ;
-    ADD HL, HL                  ; hl = hl * 16
+    ADD HL, HL                  ; hl = hl * 16 (16 since sprite width = 16px )
     ADD HL, HL                  ;
-    LD DE, SpriteData
+SpriteBankSelector3: LD D, (IY+0) ; load high byte
+    LD E, 0                      ; since all sprite banks are aligned E is always zero
     ; IX = text pointer
     ; HL = char offset
     ; BC = animation cycle
     ADD DE, HL                  ; actual sprite data
-
-    
-    ; --- draw single sprite
+   
+    ; --- draw single sprite ---
     DUP 8
     POP HL                     ; fetch screen addr
     ADD HL, BC
-    LD A, (DE)                 ; fetch sprite data (first byte) note: sprite is two bit wide!
+    LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
+    ;LD A,255
+    OR (HL)                    ;  write
+    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
+    INC HL
+;    LD A, (DE)                 ; fetch sprite data (second byte)
+;    OR (HL)                    ;  write
+;    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
+    EDUP
+    DEC IX
+
+;----------
+    LD BC, 31 ; loop counter
+
+WaveScrollInnerLoop:
+    LD A, (IX)                  ; load current character code (sprite index)
+    SUB 32                      ; subtract 32 
+    LD L, A                     ;
+    LD H, 0                     ; hl = character code
+    ADD HL, HL                  ;
+    ADD HL, HL                  ;
+    ADD HL, HL                  ; hl = hl * 16 (16 since sprite width = 16px )
+    ADD HL, HL                  ;
+SpriteBankSelector: LD D, (IY+0) ; load high byte
+    LD E, 0                      ; since all sprite banks are aligned E is always zero
+    ; IX = text pointer
+    ; HL = char offset
+    ; BC = animation cycle
+    ADD DE, HL                  ; actual sprite data
+   
+    ; --- draw single sprite ---
+    DUP 8
+    POP HL                     ; fetch screen addr
+    ADD HL, BC
+    LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
     OR (HL)                    ;  write
     LD (HL), A                 ;     pixels (merge with existing screen pixels)
     INC DE
@@ -212,13 +250,65 @@ WaveScrollTblAddr: LD HL, 0x0012  ; opcode: 0x21, 0x12, 0x00
     EDUP
 
     DEC IX
-;    EXX                        ; restore BC
     DEC C
-    JP NZ,WaveScrollLoop
+    JP NZ, WaveScrollInnerLoop
 
-    LD SP, (WaveScrollSavedSP)
+;----- first character (sprite, note we only need to draw half of it!!)
+    LD A, (IX)                  ; load current character code (sprite index)
+    SUB 32                      ; subtract 32 
+    LD L, A                     ;
+    LD H, 0                     ; hl = character code
+    ADD HL, HL                  ;
+    ADD HL, HL                  ;
+    ADD HL, HL                  ; hl = hl * 16 (16 since sprite width = 16px )
+    ADD HL, HL                  ;
+SpriteBankSelector2: LD D, (IY+0) ; load high byte
+    LD E, 0                      ; since all sprite banks are aligned E is always zero
+    ; IX = text pointer
+    ; HL = char offset
+    ; BC = animation cycle
+    ADD DE, HL                  ; actual sprite data
+   
+    ; --- draw single sprite ---
+    DUP 8
+    POP HL                     ; fetch screen addr
+    ADD HL, BC
+;    LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
+;    OR (HL)                    ;  write
+;    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
+    INC HL
+    LD A, (DE)                 ; fetch sprite data (second byte)
+    OR (HL)                    ;  write
+    LD (HL), A                 ;     pixels (merge with existing screen pixels)
+    INC DE
+    EDUP
+
+;-----    
+
+    LD SP, (WaveScrollSavedSP) ; restore stack pointer
     RET
 
+ScrollScratchBuffer:
+    PUSH AF
+    EXX                         ; save BC, DE, HL to shadow registers
+    LD DE, WaveScrollScratch
+    LD HL, WaveScrollScratch+1
+    LD BC, 32
+    LDIR
+CurrentScrollerText: LD HL, ScrollerText
+    LD A, (HL)
+    INC HL
+    OR A
+    JR NZ, ContinueAsNormal
+    LD A, 32                  ; reset
+    LD HL, ScrollerText       ;   scroller 
+ContinueAsNormal:    
+    LD (DE), A                       ; append to scratch
+    LD (CurrentScrollerText+1), HL   ; move to the next character
+    EXX                              ; restore BC, DE, HL from shadow registers
+    POP AF
+    RET
 ;-----------------------------
 
 Setka:
@@ -277,13 +367,31 @@ FillPattern:
     DB 0x02, 0x00, 0x02, 0x00, 0x02, 0x00, 0xAA, 0x00
     DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
 
+;FillPattern__:
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 
 
 WaveScrollSavedSP:
     DB 0, 0
 
 WaveScrollScratch:
-    DB "#ABCDE12345ABCDE12345ABCDE12345#QWERTY"
+;   DB "AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXZW"
+    DB "                                 "
+
+ScrollerText:
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
+    DB "THANK YOU FOR WATCHING!!!                    # # # #               "
+    DB 0 
+
+CurrentScrollerTextAddr:
+    DW ScrollerText
 
     ALIGN 256
     ;  0x4000
@@ -292,7 +400,7 @@ WaveScrollScratch:
     ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/screen-memory-layout
 ScreeAddrBuffer2:
     LUA ALLPASS
-        for tableNum = 0, 1 do                      -- we need two table to wrap without clamping
+        for tableNum = 0, 2 do                      -- we need two tables to wrap without clamping
             for step = 0, 64 do
                 local k = (step / 64.0)             -- 0..1 range
                 k = (k * 2.0) - 1.0                 -- -1..1 range
@@ -338,13 +446,30 @@ ScreeAddrBuffer2:
                     local h = 64 | y_b012 | (y_b67 << 3)
                     local hl = (h << 8) | l
 
-                    -- note: hacky optimization! subtract 1 from hl (to avoid doing this at runtime!)
+                    -- note: hacky optimization! subtract 2 from hl (to avoid doing this at runtime!)
                     hl = hl - 1
 
                     _pc(string.format("DW 0x%04x  ; %s", hl, y))
 
                 end
             end
+        end
+    ENDLUA
+    ALIGN
+ScreeAddrBuffer2End:    
+
+    ALIGN 256
+SpriteDataEntries:
+    LUA ALLPASS
+        local banks = {0, 3, 2, 1}
+        for _, sprite_bank in ipairs(banks) do
+            local sprite_bank_offset = sprite_bank*1536
+            local sprite_bank_addr = _c("SpriteData") + sprite_bank_offset
+            if (sprite_bank_addr & 0xff) ~= 0 then
+                sj.error("Sprite bank address must be aligned!")
+            end
+            local sprite_bank_addr_hi = (sprite_bank_addr >> 8)
+            _pc(string.format("DB 0x%02x  ; offset = %d", sprite_bank_addr_hi, sprite_bank_offset))
         end
     ENDLUA
     ALIGN
