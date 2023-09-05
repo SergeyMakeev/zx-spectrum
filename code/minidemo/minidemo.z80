@@ -44,7 +44,6 @@ Main:
     ei
 
 
-    CALL DrawLogo
     CALL ResetText2
 
     ; Interrupt mode 2
@@ -90,21 +89,27 @@ Interrupt:
 
     CALL WaveScroll
 
-    LD A, 1         ; set border color
+    LD A, 3         ; set border color
     OUT (254), A
 
     CALL PrintLetterIfNeed2
 
-    LD A, 2         ; set border color
+    LD A, 4         ; set border color
     OUT (254), A
 
     CALL ScrollAttrib
 
-    LD A, 4         ; set border colo
+    LD A, 5         ; set border color
     OUT (254), A
 
     ; vortex tracker play address
     call 0xc005
+
+    LD A, 6         ; set border color
+    OUT (254), A
+
+    CALL DrawLogo
+
 
     LD A, 0         ; set border color
     OUT (254), A
@@ -165,61 +170,47 @@ ClearScreen:
 
     RET
 
-    ;--------------
-LogoDst: EQU 0x402A ; logo  screen address    
+;=============================================================
+
+    MACRO DRAW_SPRITE_LINE screenAddr, spriteAddr
+    DUP 8, LineNum
+    LD SP, spriteAddr+LineNum*12
+    POP AF            ; read 2 bytes (16 pixels)
+    POP BC            ; read 2 bytes (16 pixels)
+    POP DE            ; read 2 bytes (16 pixels)
+    POP HL            ; read 2 bytes (16 pixels)
+    POP IX            ; read 2 bytes (16 pixels)
+    POP IY            ; read 2 bytes (16 pixels)
+    LD SP, screenAddr+LineNum*256
+    PUSH IY           ; write 2 bytes
+    PUSH IX           ; write 2 bytes
+    PUSH HL           ; write 2 bytes
+    PUSH DE           ; write 2 bytes
+    PUSH BC           ; write 2 bytes
+    PUSH AF           ; write 2 bytes
+    EDUP
+    ENDM
+
+
+LogoDst: EQU 0x4036 ; logo  screen address    
 DrawLogo:
-	LD HL, LogoData
-	LD DE, LogoDst
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
 
-	LD DE, LogoDst+32
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
+    LD (SavedSP), SP ; save SP
 
-	LD DE, LogoDst+32+32
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
+    DRAW_SPRITE_LINE LogoDst, LogoData
+    DRAW_SPRITE_LINE LogoDst+32*1, LogoData+96*1
+    DRAW_SPRITE_LINE LogoDst+32*2, LogoData+96*2
+    DRAW_SPRITE_LINE LogoDst+32*3, LogoData+96*3
+    DRAW_SPRITE_LINE LogoDst+32*4, LogoData+96*4
+    DRAW_SPRITE_LINE LogoDst+32*5, LogoData+96*5
 
-	LD DE, LogoDst+32+32+32
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
 
-	LD DE, LogoDst+32+32+32+32
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
-
-	LD DE, LogoDst+32+32+32+32+32
-    DUP 8
-	LD BC, 12
-	LDIR
-    LD BC, 0xf4   ;256-12
-    ADD DE, BC
-    EDUP
-
+    LD SP, (SavedSP) ; restore SP
 
     RET
 
+
+;=============================================================
 
     MACRO PUT_ATTR_PIX dstAddr, srcAddr
     XOR A                 ; reset CF flag and clear A
@@ -724,7 +715,10 @@ SpriteDataEntries:
 
     ALIGN 256
 
+Font:
     include "font.z80"
+
+LogoData:    
     include "logo.z80"
 
     ORG 0xc000

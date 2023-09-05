@@ -3,7 +3,7 @@
 ; IM 1: Jumps to address &0038
 ; IM 2: Uses an interrupt vector table, indexed by value on data bus.
 ; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
-    DEVICE ZXSPECTRUM128 
+    DEVICE ZXSPECTRUM48 
     SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
 
 stack_top: EQU 0xFFF0
@@ -12,6 +12,19 @@ Code_Start: EQU 0x8000
     ORG Code_Start
 
 Main:
+
+    DUP 16
+    CALL atrFadeOut
+    EI
+    HALT
+    HALT
+    HALT
+    HALT
+    HALT
+    EDUP
+
+    CALL ClearScreen
+
     LD A, 2         ; set border color to red(2)
     OUT (254), A
 
@@ -86,6 +99,44 @@ Interrupt:
     ; https://zxspectrumcoding.wordpress.com/2022/01/01/128k-programming-basics-vortex-tracker-part-1/
 
 
+; https://gist.github.com/ped7g/4bb94291ff379441494110f13825d956
+;------------------------------------------------------------------------------
+; ULA attributes "fade out" effect, going through PAPER/INK values,
+; decrements them (individually) by 1 every iteration (call of routine)
+;
+; No input ; modifies AF, BC, D, HL
+atrFadeOut:
+    ld      hl,$5800
+    ld      bc,(3<<8) | %00'001'001 ; B = 3, C = mask for INK/PAPER "1"
+.doThird:               ; process 256 bytes (third of ULA screen)
+    ld      a,(hl)      ; read current attribute
+    ; for both PAPER and INK (individually), all three bits are merged into one by OR
+    ld      d,a         ; the merged bits will land into "bottom" bit (b0 INK, b3 PAPER)
+    rra                 ; setting those to "1" for non-zero INK/PAPER value
+    or      d           ; and "0" for zero INK/PAPER - this will be then subtracted
+    rra                 ; from current attribute
+    or      d           ; *here* the bits 0 and 3 are "1" for non-zero INK and PAPER
+    and     c           ; extract those bottom INK (+1)/PAPER (+8) bits into A
+    ; subtract that value from current attribute, to decrement INK/PAPER individually
+    sub     d           ; A = decrement - attribute
+    neg                 ; A = attribute - decrement (new attribute value)
+    ld      (hl),a      ; write the darkened attribute value
+    inc     l
+    jp      nz,.doThird ; process next attribute, until 256 of them were done
+    inc     h
+    djnz    .doThird    ; repeat for next third of ULA screen
+    ret
+
+
+ClearScreen:
+    XOR  A
+    OUT  (0xFE),A
+    LD   HL,0x4000
+    LD   DE,0x4001
+    LD   BC,0x1AFF
+    LD   (HL),A
+    LDIR   
+    RET
 
 ; vt_init:    
 ;     ;; initialize song
@@ -138,5 +189,6 @@ Interrupt:
 
 Code_Length: EQU $-Code_Start+1
 
-    EMPTYTAP "noise.tap"
+    EMPTYTAP "music_pic.tap"
     SAVETAP "music_pic/music_pic.tap", CODE, "Code", Code_Start, Code_Length, Code_Start
+    SAVESNA "music_pic/music_pic.sna", Code_Start
