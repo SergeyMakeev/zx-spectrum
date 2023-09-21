@@ -1,0 +1,258 @@
+    DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
+
+stack_top: EQU 0xFFF0
+
+    ORG 0x6000
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+
+    CALL PreScrollLogoSprite
+    CALL ClearScreen
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+
+    LD A, 2         ; set border color 
+    OUT (254), A
+
+    CALL DrawLogo
+
+    LD A, 1         ; set border color
+    OUT (254), A
+
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+ClearScreen:
+    XOR  A 
+
+    ; clear border
+    OUT  (0xFE),A             
+
+    ; clear pixels
+    LD   HL, 0x4000
+    LD   DE, 0x4001
+    LD   BC, 0x17ff
+    LD   (HL),A
+    LDIR   
+
+
+    ;clear attrs (in thirds)
+    LD A, 4                  ; green
+    LD   HL, 0x5800
+    LD   DE, 0x5801
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+    LD A, 1                  ; blue
+    LD   HL, 0x5900
+    LD   DE, 0x5901
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+    LD A, 6                  ; yellow
+    LD   HL, 0x5A00
+    LD   DE, 0x5A01
+    LD   BC, 0xff
+    LD   (HL),A
+    LDIR   
+
+    RET
+
+;=============================================================
+; HL = src
+; DE = dst
+; BC = counter (NOTE!!! BC<=255)
+
+CopyPreScrollLine:
+    ; copy bytes
+    PUSH BC
+    PUSH DE
+    LDIR   
+
+    POP HL
+    POP BC
+    ADD HL, BC
+    DEC HL
+    LD B, C
+    LD C, 0
+    ;HL = end address
+
+    ; scroll bits
+    OR A        ; reset CF flag
+.Loop   
+    RL (HL)
+    DEC HL
+    DJNZ .Loop    
+    RET
+
+; HL = source address
+; DE = destination address
+PreScrollLogoSingleSprite:
+    LD B, 48  ; 48 lines height
+.VertLoop
+    PUSH BC
+    LD BC, 14
+    PUSH HL
+    PUSH DE
+    PUSH BC
+    CALL CopyPreScrollLine
+    POP BC
+    POP DE
+    POP HL
+    ADD HL, BC
+    ADD DE, BC
+    POP BC
+    DJNZ .VertLoop
+    RET
+
+
+PreScrollLogoSprite:
+    LD HL, LogoData+768*0
+    LD DE, LogoData+768*1
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*1
+    LD DE, LogoData+768*2
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*2
+    LD DE, LogoData+768*3
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*3
+    LD DE, LogoData+768*4
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*4
+    LD DE, LogoData+768*5
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*5
+    LD DE, LogoData+768*6
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*6
+    LD DE, LogoData+768*7
+    CALL PreScrollLogoSingleSprite
+
+    RET
+
+DestinationScrTable:
+    DW 0x4036, 0x4136, 0x4236, 0x4336, 0x4436, 0x4536, 0x4636, 0x4736
+    DW 0x4056, 0x4156, 0x4256, 0x4356, 0x4456, 0x4556, 0x4656, 0x4756
+    DW 0x4076, 0x4176, 0x4276, 0x4376, 0x4476, 0x4576, 0x4676, 0x4776
+    DW 0x4096, 0x4196, 0x4296, 0x4396, 0x4496, 0x4596, 0x4696, 0x4796
+    DW 0x40b6, 0x41b6, 0x42b6, 0x43b6, 0x44b6, 0x45b6, 0x46b6, 0x47b6
+    DW 0x40d6, 0x41d6, 0x42d6, 0x43d6, 0x44d6, 0x45d6, 0x46d6, 0x47d6
+
+
+LogoDst: EQU 0x4036 ; logo  screen address    
+DrawLogo:
+
+    LD (SavedSP), SP ; save SP
+
+    ; IX = pointer to the screen addresses table
+    ; IY = sprite addr
+    LD IX, DestinationScrTable
+    LD IY, LogoData
+
+    DUP 48
+    LD SP, IY
+    POP AF            ; read 2 bytes (16 pixels)
+    POP BC            ; read 2 bytes (16 pixels)
+    POP DE            ; read 2 bytes (16 pixels)
+    POP HL            ; read 2 bytes (16 pixels)
+    EX AF,AF'         ; switch to shadow AF
+    EXX               ; switch to shadow registers BC, DE, HL (note: we can not use HL)
+    POP BC            ; read 2 bytes (16 pixels)
+    POP DE            ; read 2 bytes (16 pixels)
+    ;POP HL           ; we need that HL!!! (see below)
+    POP AF   
+    LD L, (IX+0)      ; load dst screen addr from memory
+    LD H, (IX+1)      ;     one byte at a time
+    LD SP, HL         ; move stack pointer to that screen memory
+    PUSH AF
+    ;PUSH HL          ; we need that HL!!! (see above)
+    PUSH DE           ; write 2 bytes
+    PUSH BC           ; write 2 bytes
+    EXX
+    EX AF,AF'         ; switch to shadow AF
+    PUSH HL           ; write 2 bytes
+    PUSH DE           ; write 2 bytes
+    PUSH BC           ; write 2 bytes
+    PUSH AF           ; write 2 bytes
+
+    ; go to the next line
+    LD BC, 14         
+    ADD IY, BC
+    ; go to the next table item
+    INC IX
+    INC IX
+    EDUP
+
+    LD SP, (SavedSP) ; restore SP
+    RET
+
+SavedSP:
+    DB 0, 0
+
+    ALIGN 256
+
+LogoData:
+    include "logo.z80"
+; the logo size is 672 bytes (14*6 'characters' and every 'character' is 8 pixels height = 14*6*8 = 672 bytes)
+; 672 aligned to 256 = 768 bytes
+; 8 (pre)scrolled logos = 768 * 8 = 6144 bytes
+; LogoData+6144 = end of logo data
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "logofx/logofx.sna", Code_Start
