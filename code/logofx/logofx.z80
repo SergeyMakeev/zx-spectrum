@@ -185,55 +185,47 @@ PreScrollLogoSprite:
 
     RET
 
-DestinationScrTable:
-    DW 0x4036, 0x4136, 0x4236, 0x4336, 0x4436, 0x4536, 0x4636, 0x4736
-    DW 0x4056, 0x4156, 0x4256, 0x4356, 0x4456, 0x4556, 0x4656, 0x4756
-    DW 0x4076, 0x4176, 0x4276, 0x4376, 0x4476, 0x4576, 0x4676, 0x4776
-    DW 0x4096, 0x4196, 0x4296, 0x4396, 0x4496, 0x4596, 0x4696, 0x4796
-    DW 0x40b6, 0x41b6, 0x42b6, 0x43b6, 0x44b6, 0x45b6, 0x46b6, 0x47b6
-    DW 0x40d6, 0x41d6, 0x42d6, 0x43d6, 0x44d6, 0x45d6, 0x46d6, 0x47d6
-
 
 LogoDst: EQU 0x4036 ; logo  screen address    
 DrawLogo:
 
     LD (SavedSP), SP ; save SP
 
-    ; IX = pointer to the screen addresses table
-    ; IY = sprite addr
-    LD IX, DestinationScrTable
-    LD IY, LogoData
+    ; IX = pointer to sprite render table
+    LD IX, SpriteTable0
 
     DUP 48
-    LD SP, IY
+    LD L, (IX+0)      ; load src screen addr from memory
+    LD H, (IX+1)      ;     one byte at a time
+    LD SP, HL         ; move stack pointer to that screen memory
+
+    ; step to then next table entry
+    INC IX
+    INC IX
+
     POP AF            ; read 2 bytes (16 pixels)
     POP BC            ; read 2 bytes (16 pixels)
     POP DE            ; read 2 bytes (16 pixels)
     POP HL            ; read 2 bytes (16 pixels)
-    EX AF,AF'         ; switch to shadow AF
+    POP IY            ; read 2 bytes (16 pixels)     
     EXX               ; switch to shadow registers BC, DE, HL (note: we can not use HL)
     POP BC            ; read 2 bytes (16 pixels)
     POP DE            ; read 2 bytes (16 pixels)
     ;POP HL           ; we need that HL!!! (see below)
-    POP AF   
     LD L, (IX+0)      ; load dst screen addr from memory
     LD H, (IX+1)      ;     one byte at a time
     LD SP, HL         ; move stack pointer to that screen memory
-    PUSH AF
     ;PUSH HL          ; we need that HL!!! (see above)
     PUSH DE           ; write 2 bytes
     PUSH BC           ; write 2 bytes
     EXX
-    EX AF,AF'         ; switch to shadow AF
+    PUSH IY           ; write 2 bytes
     PUSH HL           ; write 2 bytes
     PUSH DE           ; write 2 bytes
     PUSH BC           ; write 2 bytes
     PUSH AF           ; write 2 bytes
 
-    ; go to the next line
-    LD BC, 14         
-    ADD IY, BC
-    ; go to the next table item
+    ; step to then next table entry
     INC IX
     INC IX
     EDUP
@@ -245,6 +237,17 @@ SavedSP:
     DB 0, 0
 
     ALIGN 256
+
+    ; format: from addr, to addr (per line)
+SpriteTable0:
+    DW LogoData+14* 0, 0x4036, LogoData+14* 1, 0x4136, LogoData+14* 2, 0x4236, LogoData+14* 3, 0x4336, LogoData+14* 4, 0x4436, LogoData+14* 5, 0x4536, LogoData+14* 6, 0x4636, LogoData+14* 7, 0x4736
+    DW LogoData+14* 8, 0x4056, LogoData+14* 9, 0x4156, LogoData+14*10, 0x4256, LogoData+14*11, 0x4356, LogoData+14*12, 0x4456, LogoData+14*13, 0x4556, LogoData+14*14, 0x4656, LogoData+14*15, 0x4756
+    DW LogoData+14*16, 0x4076, LogoData+14*17, 0x4176, LogoData+14*18, 0x4276, LogoData+14*19, 0x4376, LogoData+14*20, 0x4476, LogoData+14*21, 0x4576, LogoData+14*22, 0x4676, LogoData+14*23, 0x4776
+    DW LogoData+14*24, 0x4096, LogoData+14*25, 0x4196, LogoData+14*26, 0x4296, LogoData+14*27, 0x4396, LogoData+14*28, 0x4496, LogoData+14*29, 0x4596, LogoData+14*30, 0x4696, LogoData+14*31, 0x4796
+    DW LogoData+14*32, 0x40b6, LogoData+14*33, 0x41b6, LogoData+14*34, 0x42b6, LogoData+14*35, 0x43b6, LogoData+14*36, 0x44b6, LogoData+14*37, 0x45b6, LogoData+14*38, 0x46b6, LogoData+14*39, 0x47b6
+    DW LogoData+14*40, 0x40d6, LogoData+14*41, 0x41d6, LogoData+14*42, 0x42d6, LogoData+14*43, 0x43d6, LogoData+14*44, 0x44d6, LogoData+14*45, 0x45d6, LogoData+14*46, 0x46d6, LogoData+14*47, 0x47d6
+
+
 
 LogoData:
     include "logo.z80"
