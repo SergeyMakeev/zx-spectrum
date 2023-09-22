@@ -1,21 +1,22 @@
-; The Z80 supports three interrupt modes:
-; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
-; IM 1: Jumps to address &0038
-; IM 2: Uses an interrupt vector table, indexed by value on data bus.
-; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
-;
-;http://z80-heaven.wikidot.com/instructions-set
-;https://learn.cemetech.net/index.php/Z80:Opcodes
-;
-
-; 0 - black
-; 1 - blue
-; 2 - red
-; 3 - magenta
-; 4 - green
-; 5 - cyan
-; 6 - yellow
-; 7 - white
+; Memory map
+; ------------------------------------------
+;  Addr     Length        Desc
+; ------------------------------------------
+;  0x4000   0x1800        Screen (pixels)
+;  0x5800   0x0300        Screen (attributes)
+;  0x6000   0x1800        Pre-scrolled font data (4 sprite banks)
+;  0x7800   0x0040        Fill Pattern + scroller texts + aux data
+;         ~1600 bytes free
+;  0x7840   
+;  0x8000   ...           Code+data
+;         ~800 bytes free
+;  0x9200                 Precomputed tables
+;  0xC000   0x1C11        Music
+;  0xDE00   0x1800        Pre-scrolled logo data (8 sprite banks)
+;  0xF600
+;         ~2300 bytes free
+;  0xFF58   0xA8          Reserved + stack
+; ------------------------------------------
     DEVICE ZXSPECTRUM48
     SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
 
@@ -28,6 +29,32 @@ SpriteData: DB 0    ;..................... a lot of data ...............
 ; SpriteData+96*16*1 = offset(2)
 ; SpriteData+96*16*2 = offset(4)
 ; SpriteData+96*16*3 = offset(6)
+
+    ORG 0x7800
+FillPattern:
+    DB 0xAA, 0x00, 0x80, 0x00, 0x80, 0x00, 0x80, 0x00
+    DB 0x00, 0x55, 0x00, 0x40, 0x00, 0x40, 0x00, 0x40
+    DB 0x20, 0x00, 0xAA, 0x00, 0x20, 0x00, 0x20, 0x00
+    DB 0x00, 0x10, 0x00, 0x55, 0x00, 0x10, 0x00, 0x10
+    DB 0x08, 0x00, 0x08, 0x00, 0xAA, 0x00, 0x08, 0x00
+    DB 0x00, 0x04, 0x00, 0x04, 0x00, 0x55, 0x00, 0x04
+    DB 0x02, 0x00, 0x02, 0x00, 0x02, 0x00, 0xAA, 0x00
+    DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
+
+Text2:
+    DB "THIS # DEMO DEDICATED TO ALL RENDERING PEOPLE IN THE WORLD!  #  U ROCKS! # # #  "
+	DB 0
+
+
+WaveScrollScratch:
+;   DB "AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXZW"
+    DB "                                 "
+
+ScrollerText:
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
+    DB "THANK YOU FOR WATCHING!!!                    # # # #               "
+    DB 0 
+
 
 
 Code_Start: EQU 0x8000
@@ -680,25 +707,12 @@ InnerLoop:
 SavedSP:
     DB 0, 0
 
-FillPattern:
-    DB 0xAA, 0x00, 0x80, 0x00, 0x80, 0x00, 0x80, 0x00
-    DB 0x00, 0x55, 0x00, 0x40, 0x00, 0x40, 0x00, 0x40
-    DB 0x20, 0x00, 0xAA, 0x00, 0x20, 0x00, 0x20, 0x00
-    DB 0x00, 0x10, 0x00, 0x55, 0x00, 0x10, 0x00, 0x10
-    DB 0x08, 0x00, 0x08, 0x00, 0xAA, 0x00, 0x08, 0x00
-    DB 0x00, 0x04, 0x00, 0x04, 0x00, 0x55, 0x00, 0x04
-    DB 0x02, 0x00, 0x02, 0x00, 0x02, 0x00, 0xAA, 0x00
-    DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
 
-;FillPattern__:
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
-;    DB 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+;    ORG 0x9200
+
+PreComputedTablesStart:
+
+
 
 
 TextReadAddr2:
@@ -713,25 +727,9 @@ CharBuffer2:
 AttrColor:
     DB 10
 
-
-Text2:
-    DB "THIS # DEMO DEDICATED TO ALL RENDERING PEOPLE IN THE WORLD!  #  U ROCKS! # # #  "
-	DB 0
-
-
-
-
 WaveScrollSavedSP:
     DB 0, 0
 
-WaveScrollScratch:
-;   DB "AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXZW"
-    DB "                                 "
-
-ScrollerText:
-    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
-    DB "THANK YOU FOR WATCHING!!!                    # # # #               "
-    DB 0 
 
 CurrentScrollerTextAddr:
     DW ScrollerText
@@ -801,7 +799,6 @@ ScreeAddrBuffer2:
     ALIGN
 ScreeAddrBuffer2End:    
 
-    ALIGN 256
 SpriteDataEntries:
     LUA ALLPASS
         local banks = {0, 3, 2, 1}
@@ -816,9 +813,6 @@ SpriteDataEntries:
         end
     ENDLUA
     ALIGN
-
-
-    ALIGN 256
 
 Font:
     include "font.z80"
@@ -841,7 +835,7 @@ Font:
 
 
                 local _x = 74+x_offset + 14*8         -- 14*8 since we need to specify the right coord
-                local y = 14 + line
+                local y = 10 + line
 
                 -- compute speccy screen address from x,y
 
@@ -883,7 +877,7 @@ Font:
         end
     ENDLUA
 
-
+PreComputedTablesEnd:
 
 ;;0xc000
 
