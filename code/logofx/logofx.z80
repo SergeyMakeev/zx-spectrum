@@ -189,10 +189,27 @@ PreScrollLogoSprite:
 LogoDst: EQU 0x4036 ; logo  screen address    
 DrawLogo:
 
-    LD (SavedSP), SP ; save SP
+.AnimFrame: LD A, 65                  ; 'animation' frame (64..1)
+    DEC A                             ; decrease anim frame
+    JP NZ, .NoNeedToResetAnim
+    LD A, 64                          ; reset animation
+
+.NoNeedToResetAnim:
+    LD (.AnimFrame+1), A              ; update animation frame
+    DEC A                             ; 1..64 -> 0..63
+    
+    OR A                              ; reset CF flag
+    RRA                               ; div 2 = 0..63 -> 0..31
+
+    LD HL, SpriteTable0               
+    ADD A, H                          ; take animation frame into account
+    LD H, A
+
+
+    LD (.SaveSP+1), SP ; save SP
 
     ; IX = pointer to sprite render table
-    LD IX, SpriteTable0
+    LD IX, HL
 
     DUP 48
     LD L, (IX+0)      ; load src screen addr from memory
@@ -230,13 +247,10 @@ DrawLogo:
     INC IX
     EDUP
 
-    LD SP, (SavedSP) ; restore SP
+.SaveSP LD SP, 0 ; restore SP
     RET
 
-SavedSP:
-    DB 0, 0
 
-    ALIGN 256
 
     ; format: from addr, to addr (per line)
 ; _SpriteTable0:
@@ -247,45 +261,68 @@ SavedSP:
 ;     DW LogoData+14*32, 0x40b6, LogoData+14*33, 0x41b6, LogoData+14*34, 0x42b6, LogoData+14*35, 0x43b6, LogoData+14*36, 0x44b6, LogoData+14*37, 0x45b6, LogoData+14*38, 0x46b6, LogoData+14*39, 0x47b6
 ;     DW LogoData+14*40, 0x40d6, LogoData+14*41, 0x41d6, LogoData+14*42, 0x42d6, LogoData+14*43, 0x43d6, LogoData+14*44, 0x44d6, LogoData+14*45, 0x45d6, LogoData+14*46, 0x46d6, LogoData+14*47, 0x47d6
 
-SpriteTable0:
     LUA ALLPASS
-        local spriteBankAddr = _c("LogoData")
-        local spriteBankStride = 768
-        for line = 0, 47 do
-            local _x = 9 + 14*8         -- 14*8 since we need to specify the right coord
-            local y = line
+        function generate_table_for_anim_frame(frame_index)
 
-            -- compute speccy screen address from x,y
+            local spriteBankAddr = _c("LogoData")
+            local spriteBankStride = 768
+            for line = 0, 47 do
 
-            -- clamp
-            if _x < 0 then _x = 0 end
-            if _x >= 256 then _x = 255 end
-            if y < 0 then y = 0 end
-            if y >= 192 then y = 191 end
 
-            -- compute screen address
-            local xx0 = math.floor(_x/8)             -- char pos 0..31
-            local xx1 = _x - (xx0 * 8)               -- pixel offset 0..7
-            local spriteBankIndex = 0
-            if xx1 > 0 then
-                xx0 = xx0 + 1
-                spriteBankIndex = 8 - xx1
+                local k = (frame_index / 31.0)               -- to 0..1 range
+                k = (k * 2.0) - 1.0                          -- -1..1 range
+                k = k * math.pi                              -- -pi..pi range
+                k = k + (line * 0.04)
+                local cos_val = math.cos(k)                  -- -1..1
+                local x_offset = math.floor(cos_val * 8)     -- amplitude & round to integer
+
+
+
+                local _x = 74+x_offset + 14*8         -- 14*8 since we need to specify the right coord
+                local y = 14 + line
+
+                -- compute speccy screen address from x,y
+
+                -- clamp
+                if _x < 0 then _x = 0 end
+                if _x >= 256 then _x = 255 end
+                if y < 0 then y = 0 end
+                if y >= 192 then y = 191 end
+
+                -- compute screen address
+                local xx0 = math.floor(_x/8)             -- char pos 0..31
+                local xx1 = _x - (xx0 * 8)               -- pixel offset 0..7
+                local spriteBankIndex = 0
+                if xx1 > 0 then
+                    xx0 = xx0 + 1
+                    spriteBankIndex = 8 - xx1
+                end
+
+                local x = xx0 & 31
+                local y_b012 = y & 7
+                local y_b345 = (y & 56) >> 3
+                local y_b67 = (y & 192) >> 6
+                local l = x | (y_b345 << 5)
+                local h = 64 | y_b012 | (y_b67 << 3)
+                local screen_addr = (h << 8) | l
+                local sprite_addr = spriteBankAddr + (spriteBankIndex * spriteBankStride) + (14 * line)
+                _pc(string.format("DW 0x%04x, 0x%04x  ; %sx%s (%s, %s, %s, %s)", sprite_addr, screen_addr, x, y, _x, xx0, xx1, spriteBankIndex))
+
             end
-
-            local x = xx0 & 31
-            local y_b012 = y & 7
-            local y_b345 = (y & 56) >> 3
-            local y_b67 = (y & 192) >> 6
-            local l = x | (y_b345 << 5)
-            local h = 64 | y_b012 | (y_b67 << 3)
-            local screen_addr = (h << 8) | l
-            local sprite_addr = spriteBankAddr + (spriteBankIndex * spriteBankStride) + (14 * line)
-            _pc(string.format("DW 0x%04x, 0x%04x  ; %sx%s (%s, %s, %s, %s)", sprite_addr, screen_addr, x, y, _x, xx0, xx1, spriteBankIndex))
-
         end
     ENDLUA
 
 
+    LUA ALLPASS
+        for anim_frame = 0, 31 do
+            _pl("    ALIGN 256")
+            _pl(string.format("SpriteTable%d", anim_frame))
+            generate_table_for_anim_frame(anim_frame)
+        end
+    ENDLUA
+
+
+    ALIGN 256
 
 LogoData:
     include "logo.z80"
