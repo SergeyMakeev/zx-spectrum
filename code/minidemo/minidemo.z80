@@ -35,6 +35,7 @@ Code_Start: EQU 0x8000
 
 Main:
 
+    CALL PreScrollLogoSprite
     CALL PreScrollFont
     CALL ClearScreen
 
@@ -167,45 +168,6 @@ ClearScreen:
     LDIR   
 
 
-
-    RET
-
-;=============================================================
-
-    MACRO DRAW_SPRITE_LINE screenAddr, spriteAddr
-    DUP 8, LineNum
-    LD SP, spriteAddr+LineNum*12
-    POP AF            ; read 2 bytes (16 pixels)
-    POP BC            ; read 2 bytes (16 pixels)
-    POP DE            ; read 2 bytes (16 pixels)
-    POP HL            ; read 2 bytes (16 pixels)
-    POP IX            ; read 2 bytes (16 pixels)
-    POP IY            ; read 2 bytes (16 pixels)
-    LD SP, screenAddr+LineNum*256
-    PUSH IY           ; write 2 bytes
-    PUSH IX           ; write 2 bytes
-    PUSH HL           ; write 2 bytes
-    PUSH DE           ; write 2 bytes
-    PUSH BC           ; write 2 bytes
-    PUSH AF           ; write 2 bytes
-    EDUP
-    ENDM
-
-
-LogoDst: EQU 0x4036 ; logo  screen address    
-DrawLogo:
-
-    LD (SavedSP), SP ; save SP
-
-    DRAW_SPRITE_LINE LogoDst, LogoData
-    DRAW_SPRITE_LINE LogoDst+32*1, LogoData+96*1
-    DRAW_SPRITE_LINE LogoDst+32*2, LogoData+96*2
-    DRAW_SPRITE_LINE LogoDst+32*3, LogoData+96*3
-    DRAW_SPRITE_LINE LogoDst+32*4, LogoData+96*4
-    DRAW_SPRITE_LINE LogoDst+32*5, LogoData+96*5
-
-
-    LD SP, (SavedSP) ; restore SP
 
     RET
 
@@ -527,8 +489,151 @@ ContinueAsNormal:
     EXX                              ; restore BC, DE, HL from shadow registers
     POP AF
     RET
-;-----------------------------
+;---------------------------------------------------------------------------------------------------------
+;=============================================================
+; HL = src
+; DE = dst
+; BC = counter (NOTE!!! BC<=255)
 
+CopyPreScrollLine:
+    ; copy bytes
+    PUSH BC
+    PUSH DE
+    LDIR   
+
+    POP HL
+    POP BC
+    ADD HL, BC
+    DEC HL
+    LD B, C
+    LD C, 0
+    ;HL = end address
+
+    ; scroll bits
+    OR A        ; reset CF flag
+.Loop   
+    RL (HL)
+    DEC HL
+    DJNZ .Loop    
+    RET
+
+; HL = source address
+; DE = destination address
+PreScrollLogoSingleSprite:
+    LD B, 48  ; 48 lines height
+.VertLoop
+    PUSH BC
+    LD BC, 14
+    PUSH HL
+    PUSH DE
+    PUSH BC
+    CALL CopyPreScrollLine
+    POP BC
+    POP DE
+    POP HL
+    ADD HL, BC
+    ADD DE, BC
+    POP BC
+    DJNZ .VertLoop
+    RET
+
+
+PreScrollLogoSprite:
+    LD HL, LogoData+768*0
+    LD DE, LogoData+768*1
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*1
+    LD DE, LogoData+768*2
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*2
+    LD DE, LogoData+768*3
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*3
+    LD DE, LogoData+768*4
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*4
+    LD DE, LogoData+768*5
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*5
+    LD DE, LogoData+768*6
+    CALL PreScrollLogoSingleSprite
+
+    LD HL, LogoData+768*6
+    LD DE, LogoData+768*7
+    CALL PreScrollLogoSingleSprite
+
+    RET
+
+DrawLogo:
+
+.AnimFrame: LD A, 65                  ; 'animation' frame (64..1)
+    DEC A                             ; decrease anim frame
+    JP NZ, .NoNeedToResetAnim
+    LD A, 64                          ; reset animation
+
+.NoNeedToResetAnim:
+    LD (.AnimFrame+1), A              ; update animation frame
+    DEC A                             ; 1..64 -> 0..63
+    
+    OR A                              ; reset CF flag
+    RRA                               ; div 2 = 0..63 -> 0..31
+
+    LD HL, SpriteTable0               
+    ADD A, H                          ; take animation frame into account
+    LD H, A
+
+
+    LD (.SaveSP+1), SP ; save SP
+
+    ; IX = pointer to sprite render table
+    LD IX, HL
+
+    DUP 48
+    LD L, (IX+0)      ; load src screen addr from memory
+    LD H, (IX+1)      ;     one byte at a time
+    LD SP, HL         ; move stack pointer to that screen memory
+
+    ; step to then next table entry
+    INC IX
+    INC IX
+
+    POP AF            ; read 2 bytes (16 pixels)
+    POP BC            ; read 2 bytes (16 pixels)
+    POP DE            ; read 2 bytes (16 pixels)
+    POP HL            ; read 2 bytes (16 pixels)
+    POP IY            ; read 2 bytes (16 pixels)     
+    EXX               ; switch to shadow registers BC, DE, HL (note: we can not use HL)
+    POP BC            ; read 2 bytes (16 pixels)
+    POP DE            ; read 2 bytes (16 pixels)
+    ;POP HL           ; we need that HL!!! (see below)
+    LD L, (IX+0)      ; load dst screen addr from memory
+    LD H, (IX+1)      ;     one byte at a time
+    LD SP, HL         ; move stack pointer to that screen memory
+    ;PUSH HL          ; we need that HL!!! (see above)
+    PUSH DE           ; write 2 bytes
+    PUSH BC           ; write 2 bytes
+    EXX
+    PUSH IY           ; write 2 bytes
+    PUSH HL           ; write 2 bytes
+    PUSH DE           ; write 2 bytes
+    PUSH BC           ; write 2 bytes
+    PUSH AF           ; write 2 bytes
+
+    ; step to then next table entry
+    INC IX
+    INC IX
+    EDUP
+
+.SaveSP LD SP, 0 ; restore SP
+    RET
+
+
+;---------------------------------------------------------------------------------------------------------
 Setka:
     LD (SavedSP), SP
     LD SP, 0x5800               ; set stack to the end of the screen
@@ -718,12 +823,82 @@ SpriteDataEntries:
 Font:
     include "font.z80"
 
-LogoData:    
-    include "logo.z80"
+    LUA ALLPASS
+        function generate_table_for_anim_frame(frame_index)
+
+            local spriteBankAddr = _c("LogoData")
+            local spriteBankStride = 768
+            for line = 0, 47 do
+
+
+                local k = (frame_index / 31.0)               -- to 0..1 range
+                k = (k * 2.0) - 1.0                          -- -1..1 range
+                k = k * math.pi                              -- -pi..pi range
+                k = k + (line * 0.04)
+                local cos_val = math.cos(k)                  -- -1..1
+                local x_offset = math.floor(cos_val * 8)     -- amplitude & round to integer
+
+
+
+                local _x = 74+x_offset + 14*8         -- 14*8 since we need to specify the right coord
+                local y = 14 + line
+
+                -- compute speccy screen address from x,y
+
+                -- clamp
+                if _x < 0 then _x = 0 end
+                if _x >= 256 then _x = 255 end
+                if y < 0 then y = 0 end
+                if y >= 192 then y = 191 end
+
+                -- compute screen address
+                local xx0 = math.floor(_x/8)             -- char pos 0..31
+                local xx1 = _x - (xx0 * 8)               -- pixel offset 0..7
+                local spriteBankIndex = 0
+                if xx1 > 0 then
+                    xx0 = xx0 + 1
+                    spriteBankIndex = 8 - xx1
+                end
+
+                local x = xx0 & 31
+                local y_b012 = y & 7
+                local y_b345 = (y & 56) >> 3
+                local y_b67 = (y & 192) >> 6
+                local l = x | (y_b345 << 5)
+                local h = 64 | y_b012 | (y_b67 << 3)
+                local screen_addr = (h << 8) | l
+                local sprite_addr = spriteBankAddr + (spriteBankIndex * spriteBankStride) + (14 * line)
+                _pc(string.format("DW 0x%04x, 0x%04x  ; %sx%s (%s, %s, %s, %s)", sprite_addr, screen_addr, x, y, _x, xx0, xx1, spriteBankIndex))
+
+            end
+        end
+    ENDLUA
+
+
+    LUA ALLPASS
+        for anim_frame = 0, 31 do
+            _pl("    ALIGN 256")
+            _pl(string.format("SpriteTable%d", anim_frame))
+            generate_table_for_anim_frame(anim_frame)
+        end
+    ENDLUA
+
+
+
+;;0xc000
 
     ORG 0xc000
     INCHOB "startrip.$c"
 
+    ORG 0xde00
+LogoData:    
+    include "logo.z80"
+; the logo size is 672 bytes (14*6 'characters' and every 'character' is 8 pixels height = 14*6*8 = 672 bytes)
+; 672 aligned to 256 = 768 bytes
+; 8 (pre)scrolled logos = 768 * 8 = 6144 bytes
+; LogoData+6144 = end of logo data
+
+; 0xf600
 
 Code_Length: EQU $-Code_Start+1
 

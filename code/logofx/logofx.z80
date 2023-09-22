@@ -186,7 +186,7 @@ PreScrollLogoSprite:
     RET
 
 
-LogoDst: EQU 0x4036 ; logo  screen address    
+
 DrawLogo:
 
 .AnimFrame: LD A, 65                  ; 'animation' frame (64..1)
