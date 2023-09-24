@@ -6,7 +6,7 @@
 ;  0x5800   0x0300        Screen (attributes)
 ;  0x6000   0x1800        Pre-scrolled font data (4 sprite banks)
 ;  0x7800   0x0040        Fill Pattern + scroller texts + aux data
-;         ~1600 bytes free
+;         ~1500 bytes free
 ;  0x7840   
 ;  0x8000   ...           Code+data
 ;         ~800 bytes free
@@ -56,6 +56,9 @@ ScrollerText:
     DB 0 
 
 
+    ALIGN 256
+StarSprite:
+    include "star.z80"
 
 Code_Start: EQU 0x8000
     ORG Code_Start
