@@ -138,6 +138,11 @@ Interrupt:
 
     CALL DrawLogo
 
+    LD A, 2         ; set border color
+    OUT (254), A
+
+    CALL AttributeFlash
+
 
     LD A, 0         ; set border color
     OUT (254), A
@@ -662,6 +667,28 @@ DrawLogo:
 .SaveSP LD SP, 0 ; restore SP
     RET
 
+;---------------------------------------------------------------------------------------------------------
+
+AttributeFlash:
+.Cntr: LD A, 29
+    DEC A
+    JR NZ, .Continue
+    LD A, 28
+.Continue
+    LD (.Cntr+1), A   ; A = 1..28
+    DEC A             ; A = 0..27
+    LD (.CTableOffset+2), A                            ; adjust color table offset
+    LD IX, ColorTable                                  ;
+.CTableOffset    LD A, (IX+0)                          ; DD 7E 00
+    DUP 7, Index_y
+    DUP 15, Index_x
+    LD (0x5800+Index_y*32+Index_x+8), A
+    EDUP
+    EDUP
+    RET
+
+ColorTable:
+    DB 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7
 
 ;---------------------------------------------------------------------------------------------------------
 Setka:
