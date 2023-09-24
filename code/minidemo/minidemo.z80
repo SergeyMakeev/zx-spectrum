@@ -351,7 +351,7 @@ ResetText2:
 ;
 ; ========================================================================
 WaveScroll:
-    LD (WaveScrollSavedSP), SP               ; save stack pointer
+    LD (WaveScrollRestoreSP+1), SP          ; save stack pointer
 
 WaveScrollCounter: LD A, 64                  ; 'animation' frame
     DEC A                                    ; decrease anim frame
@@ -406,7 +406,7 @@ SpriteBankSelector3: LD D, (IY+0) ; load high byte
     ADD DE, HL                  ; actual sprite data
    
     ; --- draw single sprite ---
-    DUP 8
+    DUP 7                      ; note: we use 8x7 font to save perf!
     POP HL                     ; fetch screen addr
     ADD HL, BC
     LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
@@ -420,6 +420,7 @@ SpriteBankSelector3: LD D, (IY+0) ; load high byte
 ;    LD (HL), A                 ;     pixels (merge with existing screen pixels)
     INC DE
     EDUP
+    POP HL                      ; pop screen addr for last line (but do not draw it to save perf!)
     DEC IX
 
 ;----------
@@ -442,7 +443,7 @@ SpriteBankSelector: LD D, (IY+0) ; load high byte
     ADD DE, HL                  ; actual sprite data
    
     ; --- draw single sprite ---
-    DUP 8
+    DUP 7                      ; note: we use 8x7 font to save perf!
     POP HL                     ; fetch screen addr
     ADD HL, BC
     LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
@@ -455,6 +456,7 @@ SpriteBankSelector: LD D, (IY+0) ; load high byte
     LD (HL), A                 ;     pixels (merge with existing screen pixels)
     INC DE
     EDUP
+    POP HL                      ; pop screen addr for last line (but do not draw it to save perf!)
 
     DEC IX
     DEC C
@@ -477,7 +479,7 @@ SpriteBankSelector2: LD D, (IY+0) ; load high byte
     ADD DE, HL                  ; actual sprite data
    
     ; --- draw single sprite ---
-    DUP 8
+    DUP 7                      ; note: we use 8x7 font to save perf!
     POP HL                     ; fetch screen addr
     ADD HL, BC
 ;    LD A, (DE)                 ; fetch sprite data (first byte) Note: sprite is two bytes wide!
@@ -490,10 +492,11 @@ SpriteBankSelector2: LD D, (IY+0) ; load high byte
     LD (HL), A                 ;     pixels (merge with existing screen pixels)
     INC DE
     EDUP
+    POP HL                      ; pop screen addr for last line (but do not draw it to save perf!)
 
 ;-----    
 
-    LD SP, (WaveScrollSavedSP) ; restore stack pointer
+WaveScrollRestoreSP:    LD SP, 0 ; restore stack pointer
     RET
 
 ScrollScratchBuffer:
@@ -620,7 +623,7 @@ DrawLogo:
     ; IX = pointer to sprite render table
     LD IX, HL
 
-    DUP 48
+    DUP 46            ; note: do not draw two bottom sprite lines because of perf!
     LD L, (IX+0)      ; load src screen addr from memory
     LD H, (IX+1)      ;     one byte at a time
     LD SP, HL         ; move stack pointer to that screen memory
@@ -755,27 +758,21 @@ ScreeAddrBuffer2:
                 _pc(string.format("; ---- frame(%d) cos(%3.2f), y(%d) ----", step, k, cos_val))
 
                 for i = 0, 7 do
-                    local x = 0
-                    local y = cos_val + i
+                    local x = 0                  -- in characters 
+                    local y = cos_val + i        -- in pixels
                     --local y = 184+i
+
+                    -- y = 128 + i              -- debug (straight scroller)
 
                     -- compute speccy screen address from x,y
 
-                    if x < 0 then
-                    x = 0
-                    end
+                    if x < 0 then x = 0 end
 
-                    if x >= 256 then
-                    x = 255
-                    end
+                    if x >= 32 then x = 31 end
 
-                    if y < 0 then
-                    y = 0
-                    end
+                    if y < 0 then y = 0 end
 
-                    if y >= 192 then
-                    y = 191
-                    end
+                    if y >= 192 then y = 191 end
 
                     x = x & 31
 
