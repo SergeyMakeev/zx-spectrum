@@ -159,6 +159,7 @@ Main:
     CALL PreScrollLogoSprite
     CALL PreScrollFont
     CALL ClearScreen
+    CALL CopyRenegadeToScreen
 
     ; vortex tracker init address
     di
@@ -200,51 +201,51 @@ Interrupt:
     PUSH HL
     PUSH IY
 
-    LD A, 2         ; set border color 
-    OUT (254), A
+    ;LD A, 2         ; set border color 
+    ;OUT (254), A
 
 
     CALL Setka
 
-    LD A, 1         ; set border color
-    OUT (254), A
+    ;LD A, 1         ; set border color
+    ;OUT (254), A
 
     CALL WaveScroll
 
-    LD A, 3         ; set border color
-    OUT (254), A
+    ;LD A, 3         ; set border color
+    ;OUT (254), A
 
     CALL PrintLetterIfNeed2
 
-    LD A, 4         ; set border color
-    OUT (254), A
+    ;LD A, 4         ; set border color
+    ;OUT (254), A
 
     CALL ScrollAttrib
 
-    LD A, 5         ; set border color
-    OUT (254), A
+    ;LD A, 5         ; set border color
+    ;OUT (254), A
 
     ; vortex tracker play address
     call 0xc005
 
-    LD A, 6         ; set border color
-    OUT (254), A
+    ;LD A, 6         ; set border color
+    ;OUT (254), A
 
     CALL DrawLogo
 
-    LD A, 2         ; set border color
-    OUT (254), A
+    ;LD A, 2         ; set border color
+    ;OUT (254), A
 
     CALL AttributeFlash
 
-    LD A, 5         ; set border color
-    OUT (254), A
+    ;LD A, 5         ; set border color
+    ;OUT (254), A
 
 
     CALL StarFx
 
-    LD A, 0         ; set border color
-    OUT (254), A
+    ;LD A, 0         ; set border color
+    ;OUT (254), A
 
 
     POP IY                                  ; Restore all the registers
@@ -284,7 +285,7 @@ ClearScreen:
     LD   (HL),A
     LDIR   
 
-    LD A, 1                  ; blue
+    LD A, 0                  ; black
     LD   HL, 0x5900
     LD   DE, 0x5901
     LD   BC, 0xff
@@ -932,6 +933,14 @@ StarFx:
 
 ;-----------------------------
 
+CopyRenegadeToScreen:
+    LD   HL, RenegadeBackground
+    LD   DE, 0x4800
+    LD   BC, 2016
+    LD   (HL),A
+    LDIR   
+    RET
+
 ;    ORG 0x9200
 
 
@@ -1112,7 +1121,10 @@ LogoData:
 ; 8 (pre)scrolled logos = 768 * 8 = 6144 bytes
 ; LogoData+6144 = end of logo data
 
-; 0xf600
+    ORG 0xf600
+RenegadeBackground:    
+    INCBIN "renegade.scr", 0, 2016
+
 
 Code_Length: EQU $-Code_Start+1
 
