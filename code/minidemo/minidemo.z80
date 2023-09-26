@@ -6,7 +6,7 @@
 ;  0x5800   0x0300        Screen (attributes)
 ;  0x6000   0x1800        Pre-scrolled font data (4 sprite banks)
 ;  0x7800   0x0040        Fill Pattern + scroller texts + aux data
-;         ~1500 bytes free
+;         ~896 bytes free
 ;  0x7840   
 ;  0x8000   ...           Code+data
 ;         ~800 bytes free
@@ -57,8 +57,98 @@ ScrollerText:
 
 
     ALIGN 256
+    ; 160 bytes
+    ALIGN 256
 StarSprite:
-    include "star.z80"
+    ; 0 (biggest star)
+	DB 0,1,0,1,17,1,5,3              
+	DB 191,3,5,1,17,1,0,1
+	DB 0,0,0,0,16,0,64,128
+	DB 250,128,64,0,16,0,0,0
+    ; 32
+	DB 0,0,0,1,1,9,5,3
+	DB 63,3,5,9,1,1,0,0
+	DB 0,0,0,0,0,32,64,128
+	DB 240,128,64,32,0,0,0,0
+    ; 64
+	DB 0,0,0,0,0,1,1,3
+	DB 15,3,1,1,0,0,0,0
+	DB 0,0,0,0,0,0,0,128
+    DB 224,128,0,0,0,0,0,0
+    ;96 (smalles star)
+	DB 0,0,0,0,0,0,0,1
+	DB 3,1,0,0,0,0,0,0
+	DB 0,0,0,0,0,0,0,0
+	DB 128,0,0,0,0,0,0,0
+    ;128 (none)
+    DB 0,0,0,0,0,0,0,0
+    DB 0,0,0,0,0,0,0,0
+    DB 0,0,0,0,0,0,0,0
+    DB 0,0,0,0,0,0,0,0
+
+
+
+Star1S: EQU 0x4023
+Star2S: EQU 0x4025
+
+Star3S: EQU 0x4027
+
+Star4S: EQU 0x4029
+
+    ; 480 bytes
+StarAnimTable:
+    DW StarSprite+128, Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+96,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 3  (small)
+    DW StarSprite+64,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 2
+    DW StarSprite+32,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 1
+    DW StarSprite,     Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 0  (big)
+    DW StarSprite+32,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 1
+    DW StarSprite+64,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 2
+    DW StarSprite+96,  Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 3  (small)
+    DW StarSprite+128, Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star1S, Star1S+32, Star1S+1, Star1S+1+32                  ; frame 4  (none/clear)
+
+    DW StarSprite+128, Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+96,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 3  (small)
+    DW StarSprite+64,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 2
+    DW StarSprite+32,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 1
+    DW StarSprite,     Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 0  (big)
+    DW StarSprite+32,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 1
+    DW StarSprite+64,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 2
+    DW StarSprite+96,  Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 3  (small)
+    DW StarSprite+128, Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star2S, Star2S+32, Star2S+1, Star2S+1+32                  ; frame 4  (none/clear)
+
+    DW StarSprite+128, Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+96,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 3  (small)
+    DW StarSprite+64,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 2
+    DW StarSprite+32,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 1
+    DW StarSprite,     Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 0  (big)
+    DW StarSprite+32,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 1
+    DW StarSprite+64,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 2
+    DW StarSprite+96,  Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 3  (small)
+    DW StarSprite+128, Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star3S, Star3S+32, Star3S+1, Star3S+1+32                  ; frame 4  (none/clear)
+
+    DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+96,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 3  (small)
+    DW StarSprite+64,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 2
+    DW StarSprite+32,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 1
+    DW StarSprite,     Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 0  (big)
+    DW StarSprite+32,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 1
+    DW StarSprite+64,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 2
+    DW StarSprite+96,  Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 3  (small)
+    DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
+    DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
+StarAnimTableEnd:
 
 Code_Start: EQU 0x8000
     ORG Code_Start
@@ -146,6 +236,11 @@ Interrupt:
 
     CALL AttributeFlash
 
+    LD A, 5         ; set border color
+    OUT (254), A
+
+
+    CALL StarFx
 
     LD A, 0         ; set border color
     OUT (254), A
@@ -741,7 +836,101 @@ SavedSP:
     DB 0, 0
 
 
+;---------------------
+
+StarFx:
+
+.DelayTimer: LD A, 5                   ; delay timer
+    DEC A                              ; decrease delay timer
+    JP NZ, .NoNeedToResetDelay
+    LD A, 5                            ; reset delay timer
+.NoNeedToResetDelay    
+    LD (.DelayTimer+1), A              ; update delay timer
+    RET NZ                             ; still waiting? -> return
+
+
+.AnimFrame: LD A, 48+1                ; 'animation' frame (48..1)
+    DEC A                             ; decrease anim frame
+    JP NZ, .NoNeedToResetAnim
+    LD A, 48                          ; reset animation
+
+.NoNeedToResetAnim:
+    LD (.AnimFrame+1), A              ; update animation frame
+    DEC A                             ; 1..48 -> 0..47
+
+    LD H, 0                           ; HL = A
+    LD L, A
+    ADD HL, HL                        ; HL = HL+HL = 2HL
+    LD DE, HL
+    ADD HL, HL                        ; HL = 2HL + 2HL = 4HL
+    ADD HL, HL                        ; HL = 4HL + 4HL = 8HL
+    ADD HL, DE                        ; HL = 8HL + 2HL = 10HL
+    LD DE, StarAnimTable
+    ADD HL, DE                        ; HL = pointer in the anim table
+
+
+    LD (.RestoreSP+1), SP          ; save the stack pointer
+
+    LD SP, HL
+    POP IY                         ; sprite address
+    POP HL                         ; screen addr 1
+    POP BC                         ; screen addr 2
+    EXX
+    POP HL                         ; screen addr 3
+    POP BC                         ; screen addr 4
+    EXX
+
+    LD SP, IY                      ; load sprite address
+    ;LD HL, 0x4000
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    LD HL, BC
+    ;LD HL, 0x4000+32
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    EXX                            ; switch to shadow registers
+
+    ;LD HL, 0x4000+1
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    LD HL, BC
+    ;LD HL, 0x4000+1+32
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    EXX                            ; switch back to normal registers
+    
+.RestoreSP:    LD SP, 0            ; restore stack pointer
+    RET
+
+;-----------------------------
+
 ;    ORG 0x9200
+
+
 
 PreComputedTablesStart:
 
