@@ -87,13 +87,14 @@ StarSprite:
     DB 0,0,0,0,0,0,0,0
 
 
+; 0x4000 = origin
+; y * 32 + x
+Star1S: EQU 0x4000+4*32+2                 ; y = 4, x = 2
+Star2S: EQU 0x4000+1*32+28                ; y = 1, x = 28
 
-Star1S: EQU 0x4023
-Star2S: EQU 0x4025
+Star3S: EQU 0x4000+1*32+4                 ; y = 1, x = 4
 
-Star3S: EQU 0x4027
-
-Star4S: EQU 0x4029
+Star4S: EQU 0x4000+3*32+26                ; y = 3, x = 26
 
     ; 480 bytes
 StarAnimTable:
@@ -276,7 +277,7 @@ ClearScreen:
 
 
     ;clear attrs (in thirds)
-    LD A, 4                  ; green
+    LD A, 7                  ; white
     LD   HL, 0x5800
     LD   DE, 0x5801
     LD   BC, 0xff
@@ -410,10 +411,12 @@ PrintLetterIfNeed2:
     LD HL, AttrColor                
     CP 35
     JR Z, SetRedColor
-    LD (HL), 10                     ; blue
+    LD (HL), 32                    ; green
+    ;LD (HL), 96                     ; bright green
     JR Cont
 SetRedColor:    
-    LD (HL), 16                     ; red
+    LD (HL), 16                    ; red
+    ;LD (HL), 80                     ; bright red 
 
 
 Cont:
@@ -786,7 +789,8 @@ AttributeFlash:
     RET
 
 ColorTable:
-    DB 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7
+    ;DB 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7
+    DB  65, 65, 65, 65, 66, 66, 66, 66, 67, 67, 67, 67, 68, 68, 68, 68, 69, 69, 69, 69, 70, 70, 70, 70, 71, 71, 71, 71
 
 ;---------------------------------------------------------------------------------------------------------
 Setka:
