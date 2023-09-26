@@ -1,0 +1,147 @@
+; The Z80 supports three interrupt modes:
+; IM 0: Executes an instruction that is placed on the data bus by a peripheral.
+; IM 1: Jumps to address &0038
+; IM 2: Uses an interrupt vector table, indexed by value on data bus.
+; http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/interrupts
+    DEVICE ZXSPECTRUM48
+    SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
+
+stack_top: EQU 0xFFF0
+
+Code_Start: EQU 0x8000
+    ORG Code_Start
+
+Main:
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+    ; Interrupt mode 2
+    LD HL,Interrupt
+    LD IX,0xFFF0
+    LD (IX+04h),0xC3           		 ; Opcode for JP
+    LD (IX+05h),L
+    LD (IX+06h),H
+    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
+    LD A,0x39
+    LD I,A
+    LD SP,0xFFF0
+    IM 2
+    EI
+
+Loop:
+    HALT
+    JR Loop
+
+Interrupt:
+    DI                                      ; Disable interrupts 
+    PUSH AF                                 ; Save all the registers on the stack
+    PUSH BC                                 ; This is probably not necessary unless
+    PUSH DE                                 ; we're looking at returning cleanly
+    PUSH HL                                 ; back to BASIC at some point
+    PUSH IX
+    EXX
+    EX AF,AF'
+    PUSH AF
+    PUSH BC
+    PUSH DE
+    PUSH HL
+    PUSH IY
+
+    LD A, 0         ; set border color to black
+    OUT (254), A
+
+    CALL StarFx
+
+    LD A, 2         ; set border color to red(2)
+    OUT (254), A
+
+
+    POP IY                                  ; Restore all the registers
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EXX
+    EX AF,AF'
+    POP IX
+    POP HL
+    POP DE
+    POP BC
+    POP AF
+    EI                                      ; Enable interrupts
+    RET                                     ; And return
+
+StarFx:
+    LD (.RestoreSP+1), SP          ; save the stack pointer
+
+    LD SP, StarAnimTable+10+10+10+10
+    POP IY                         ; sprite address
+    POP HL                         ; screen addr 1
+    POP BC                         ; screen addr 2
+    EXX
+    POP HL                         ; screen addr 3
+    POP BC                         ; screen addr 4
+    EXX
+
+    LD SP, IY                      ; load sprite address
+    ;LD HL, 0x4000
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    LD HL, BC
+    ;LD HL, 0x4000+32
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    EXX                            ; switch to shadow registers
+
+    ;LD HL, 0x4000+1
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    LD HL, BC
+    ;LD HL, 0x4000+1+32
+    DUP 4                          ; draw 8 lines
+    POP DE
+    LD (HL), E
+    INC H
+    LD (HL), D
+    INC H
+    EDUP
+
+    EXX                            ; switch back to normal registers
+    
+.RestoreSP:    LD SP, 0            ; restore stack pointer
+    RET
+
+    ALIGN 256
+StarSprite:
+    include "star.z80"
+
+
+StarAnimTable:
+    DW StarSprite, 0x4000, 0x4000+32, 0x4000+1,  0x4000+1+32                      ; frame 0  (big)
+    DW StarSprite+32, 0x4000, 0x4000+32, 0x4000+1,  0x4000+1+32                   ; frame 1
+    DW StarSprite+64, 0x4000, 0x4000+32, 0x4000+1,  0x4000+1+32                   ; frame 2
+    DW StarSprite+96, 0x4000, 0x4000+32, 0x4000+1,  0x4000+1+32                   ; frame 3  (small)
+    DW StarSprite+128, 0x4000, 0x4000+32, 0x4000+1,  0x4000+1+32                  ; frame 4  (none/clear)
+
+
+Code_Length: EQU $-Code_Start+1
+
+    SAVESNA "starfx/starfx.sna", Code_Start
