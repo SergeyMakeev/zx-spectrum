@@ -42,7 +42,9 @@ FillPattern:
     DB 0x00, 0x01, 0x00, 0x01, 0x00, 0x01, 0x00, 0x55
 
 Text2:
-    DB "THIS # DEMO DEDICATED TO ALL RENDERING PEOPLE IN THE WORLD!  #  U ROCKS! # # #  "
+    DB "        "
+    DB "THIS HUMBLE DEMO IS DEDICATED TO ALL RENDERING PEOPLE IN THE WORLD! # # # THANK YOU ALL FOR DOING GREAT THINGS AND"
+    DB " CONSTANTLY INSPIRING! # # # U ALL ROCK! # # #       "
 	DB 0
 
 
@@ -51,8 +53,15 @@ WaveScrollScratch:
     DB "                                 "
 
 ScrollerText:
-    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUD TO PRESENT A TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! THAT ALL FOLKS! "
-    DB "THANK YOU FOR WATCHING!!!                    # # # #               "
+    DB "                             "
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUDLY  PRESENT TO YOU MY TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! "
+    DB "CODING: SERGEY MAKEEV     GRAPHICS: SERGEY MAKEEV AND IMAGINE SOFTWARE    MUSIC: JAROSLAW BYRCZYNSKI     "
+    DB "KUDOS TO ALL ROBLOX PEOPLE AND ESPECIALLY TO ROBLOX RENDERING TEAM!  #  #  #   GREETINGS TO "
+    DB "ZEUX, ARUSLAN, SIM0NSAYS, LOOK4WHILE, ANDSOFT, SHODAN, WRAITH, TAGVARD, RUDYBEAR, IRONPETER, DDIMA, LOYSO, WAT, TODACE, "
+    DB "DAGGER, ART321, COOPERFEET, BOMBOM, ZEMIN, BAHO, SPAWNGARRET, ASTROLOGER, BANDURES, BINSTREAM, MUXAHUK, DARKMIKE, FRUSTUM, "
+    DB "MAX PERMINOV, MAXX, DWALX AND MAY MANY OTHERS!        "
+    DB "SPECIAL THANKS TO MY FAMILY! # # # AIDA, ARSENII, MATVEI, AND LEO ALEX! # # #   LOVE U GUYS!           "
+    DB "THAT ALL FOLKS! THANK YOU FOR WATCHING!!!                                            "
     DB 0 
 
 
@@ -151,6 +160,14 @@ StarAnimTable:
     DW StarSprite+128, Star4S, Star4S+32, Star4S+1, Star4S+1+32                  ; frame 4  (none/clear)
 StarAnimTableEnd:
 
+TopLogo:
+    DB 0x77, 0xb8, 0xcf, 0x50, 0x89, 0x92, 0xf7, 0xa8, 0x0c, 0x63, 0x38
+    DB 0x84, 0x25, 0x08, 0x50, 0xda, 0x54, 0x84, 0x28, 0x12, 0xb4, 0x84
+    DB 0x67, 0x39, 0x6e, 0x20, 0xab, 0xd8, 0xe7, 0x28, 0x04, 0xd1, 0x18
+    DB 0x14, 0x29, 0x28, 0x20, 0x8a, 0x54, 0x84, 0x28, 0x08, 0x92, 0x04
+    DB 0xe7, 0xa4, 0xcf, 0x20, 0x8a, 0x52, 0xf7, 0x90, 0x1e, 0x67, 0xb8
+
+
 Code_Start: EQU 0x8000
     ORG Code_Start
 
@@ -158,8 +175,22 @@ Main:
 
     CALL PreScrollLogoSprite
     CALL PreScrollFont
+
+
+    DUP 16
+    CALL atrFadeOut
+    EI
+    HALT
+    HALT
+    HALT
+    HALT
+    HALT
+    EDUP
+
+
     CALL ClearScreen
     CALL CopyRenegadeToScreen
+    CALL DrawTopLogo
 
     ; vortex tracker init address
     di
@@ -782,9 +813,9 @@ AttributeFlash:
     LD (.CTableOffset+2), A                            ; adjust color table offset
     LD IX, ColorTable                                  ;
 .CTableOffset    LD A, (IX+0)                          ; DD 7E 00
-    DUP 7, Index_y
+    DUP 6, Index_y
     DUP 15, Index_x
-    LD (0x5800+Index_y*32+Index_x+8), A
+    LD (0x5800+Index_y*32+32+Index_x+8), A
     EDUP
     EDUP
     RET
@@ -933,16 +964,65 @@ StarFx:
 
 ;-----------------------------
 
+DrawTopLogo:
+    LD HL, TopLogo
+    LD DE, 0x4000+10
+    LD BC, 11
+    LDIR   
+    LD DE, 0x4000+256+10
+    LD BC, 11
+    LDIR   
+    LD DE, 0x4000+256*2+10
+    LD BC, 11
+    LDIR   
+    LD DE, 0x4000+256*3+10
+    LD BC, 11
+    LDIR   
+    LD DE, 0x4000+256*4+10
+    LD BC, 11
+    LDIR   
+    RET
+
+
+;-----------------------------
 CopyRenegadeToScreen:
     LD   HL, RenegadeBackground
     LD   DE, 0x4800
     LD   BC, 2016
-    LD   (HL),A
     LDIR   
     RET
 
 ;    ORG 0x9200
 
+;------------------------
+
+; https://gist.github.com/ped7g/4bb94291ff379441494110f13825d956
+;------------------------------------------------------------------------------
+; ULA attributes "fade out" effect, going through PAPER/INK values,
+; decrements them (individually) by 1 every iteration (call of routine)
+;
+; No input ; modifies AF, BC, D, HL
+atrFadeOut:
+    ld      hl,$5800
+    ld      bc,(3<<8) | %00'001'001 ; B = 3, C = mask for INK/PAPER "1"
+.doThird:               ; process 256 bytes (third of ULA screen)
+    ld      a,(hl)      ; read current attribute
+    ; for both PAPER and INK (individually), all three bits are merged into one by OR
+    ld      d,a         ; the merged bits will land into "bottom" bit (b0 INK, b3 PAPER)
+    rra                 ; setting those to "1" for non-zero INK/PAPER value
+    or      d           ; and "0" for zero INK/PAPER - this will be then subtracted
+    rra                 ; from current attribute
+    or      d           ; *here* the bits 0 and 3 are "1" for non-zero INK and PAPER
+    and     c           ; extract those bottom INK (+1)/PAPER (+8) bits into A
+    ; subtract that value from current attribute, to decrement INK/PAPER individually
+    sub     d           ; A = decrement - attribute
+    neg                 ; A = attribute - decrement (new attribute value)
+    ld      (hl),a      ; write the darkened attribute value
+    inc     l
+    jp      nz,.doThird ; process next attribute, until 256 of them were done
+    inc     h
+    djnz    .doThird    ; repeat for next third of ULA screen
+    ret
 
 
 PreComputedTablesStart:
@@ -1063,7 +1143,7 @@ Font:
 
 
 
-                local _x = 74+x_offset + 14*8         -- 14*8 since we need to specify the right coord
+                local _x = 70+x_offset + 14*8         -- 14*8 since we need to specify the right coord
                 local y = 10 + line
 
                 -- compute speccy screen address from x,y
