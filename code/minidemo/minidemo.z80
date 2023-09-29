@@ -13,9 +13,9 @@
 ;         ~320 bytes free
 ;  0xC000   0x1C11        Music
 ;  0xDE00   0x1800        Pre-scrolled logo data (8 sprite banks)
-;  0xF600   0x07e0        renegade screen              
-;         ~376 bytes free
-;  0xFF58   0xA8          * Reserved + stack
+;  0xF300   0x07e0        renegade screen 
+;         ~ 540 bytes free
+;  0xFD00                 interrupt table + stack
 ; ------------------------------------------
     DEVICE ZXSPECTRUM48
     SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
@@ -207,24 +207,33 @@ Main:
     CALL DrawTopLogo
 
     ; vortex tracker init address
-    di
+    DI
     call 0xc000
-    ei
 
 
     CALL ResetText2
 
-    ; Interrupt mode 2
-    LD HL,Interrupt
-    LD IX,0xFFF0
-    LD (IX+04h),0xC3           		 ; Opcode for JP
-    LD (IX+05h),L
-    LD (IX+06h),H
-    LD (IX+0Fh),0x18           		 ; Opcode for JR; this will do JR to FFF4h
-    LD A,0x39
+    ; setup Interrupt Mode 2
+
+    ; fill interrupt table (0xfe = interrupt routine address 0xfefe)
+    LD HL, 0xfd00
+    LD DE, 0xfd01
+    LD BC, 0x0100
+    LD (HL), 0xfe
+    LDIR
+
+    ; set interrupt table
+    LD A,0xfd
     LD I,A
-    LD SP,0xFFF0
+
+    ; generate jp instruction
+    LD A,195                     ; jp opcode
+    LD (0xfefe),A
+    LD HL, Interrupt             ; -- proc addr
+    LD (0xfeff), HL
     IM 2
+
+    LD SP, 0xFE00
     EI
 
 Loop:
@@ -721,32 +730,32 @@ PreScrollLogoSingleSprite:
 
 
 PreScrollLogoSprite:
-    LD HL, LogoData+768*0
-    LD DE, LogoData+768*1
+    LD HL, LogoData+672*0
+    LD DE, LogoData+672*1
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*1
-    LD DE, LogoData+768*2
+    LD HL, LogoData+672*1
+    LD DE, LogoData+672*2
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*2
-    LD DE, LogoData+768*3
+    LD HL, LogoData+672*2
+    LD DE, LogoData+672*3
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*3
-    LD DE, LogoData+768*4
+    LD HL, LogoData+672*3
+    LD DE, LogoData+672*4
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*4
-    LD DE, LogoData+768*5
+    LD HL, LogoData+672*4
+    LD DE, LogoData+672*5
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*5
-    LD DE, LogoData+768*6
+    LD HL, LogoData+672*5
+    LD DE, LogoData+672*6
     CALL PreScrollLogoSingleSprite
 
-    LD HL, LogoData+768*6
-    LD DE, LogoData+768*7
+    LD HL, LogoData+672*6
+    LD DE, LogoData+672*7
     CALL PreScrollLogoSingleSprite
 
     RET
@@ -1144,7 +1153,7 @@ Font:
         function generate_table_for_anim_frame(frame_index)
 
             local spriteBankAddr = _c("LogoData")
-            local spriteBankStride = 768
+            local spriteBankStride = 672
             for line = 0, 47 do
 
 
@@ -1219,12 +1228,11 @@ LogoData:
     include "logo.z80"
 Block3Length: EQU $-Block3Start+1
 ; the logo size is 672 bytes (14*6 'characters' and every 'character' is 8 pixels height = 14*6*8 = 672 bytes)
-; 672 aligned to 256 = 768 bytes
-; 8 (pre)scrolled logos = 768 * 8 = 6144 bytes
-; LogoData+6144 = end of logo data
+; 8 (pre)scrolled logos = 672 * 8 = 5376 bytes
+; LogoData+5376 = end of logo data
 
-Block4Start: EQU 0xf600
-    ORG 0xf600
+Block4Start: EQU 0xf300
+    ORG 0xf300
 RenegadeBackground:    
     INCBIN "renegade.scr", 0, 2016
 
