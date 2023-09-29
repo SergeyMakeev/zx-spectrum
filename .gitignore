@@ -5,3 +5,4 @@
 *.sld.txt
 .tmp
 *.tmp
+!code/minidemo/tap/**/*.*

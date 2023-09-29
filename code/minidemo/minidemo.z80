@@ -2,20 +2,20 @@
 ; ------------------------------------------
 ;  Addr     Length        Desc
 ; ------------------------------------------
-;  0x4000   0x1800        Screen (pixels)
-;  0x5800   0x0300        Screen (attributes)
-;  0x6000   0x1800        Pre-scrolled font data (4 sprite banks)
+;  0x4000   0x1800        * Screen (pixels)
+;  0x5800   0x0300        * Screen (attributes)
+;  0x6000   0x1800        * Pre-scrolled font data (4 sprite banks)
 ;  0x7800   0x0040        Fill Pattern + scroller texts + aux data
 ;         ~896 bytes free
-;  0x7840   
 ;  0x8000   ...           Code+data
 ;         ~800 bytes free
 ;  0x9200                 Precomputed tables
+;         ~320 bytes free
 ;  0xC000   0x1C11        Music
 ;  0xDE00   0x1800        Pre-scrolled logo data (8 sprite banks)
-;  0xF600
-;         ~2300 bytes free
-;  0xFF58   0xA8          Reserved + stack
+;  0xF600   0x07e0        renegade screen              
+;         ~376 bytes free
+;  0xFF58   0xA8          * Reserved + stack
 ; ------------------------------------------
     DEVICE ZXSPECTRUM48
     SLDOPT COMMENT WPMEM, LOGPOINT, ASSERTION
@@ -30,7 +30,14 @@ SpriteData: DB 0    ;..................... a lot of data ...............
 ; SpriteData+96*16*2 = offset(4)
 ; SpriteData+96*16*3 = offset(6)
 
-    ORG 0x7800
+;==========================================================================================================
+;==========================================================================================================
+;==========================================================================================================
+
+Block1Start: EQU 0x7800
+    ORG Block1Start
+
+
 FillPattern:
     DB 0xAA, 0x00, 0x80, 0x00, 0x80, 0x00, 0x80, 0x00
     DB 0x00, 0x55, 0x00, 0x40, 0x00, 0x40, 0x00, 0x40
@@ -167,6 +174,13 @@ TopLogo:
     DB 0x14, 0x29, 0x28, 0x20, 0x8a, 0x54, 0x84, 0x28, 0x08, 0x92, 0x04
     DB 0xe7, 0xa4, 0xcf, 0x20, 0x8a, 0x52, 0xf7, 0x90, 0x1e, 0x67, 0xb8
 
+
+Block1Length: EQU $-Block1Start+1
+
+
+;==========================================================================================================
+;==========================================================================================================
+;==========================================================================================================
 
 Code_Start: EQU 0x8000
     ORG Code_Start
@@ -1188,24 +1202,49 @@ Font:
 
 PreComputedTablesEnd:
 
-;;0xc000
 
-    ORG 0xc000
+Code_Length: EQU $-Code_Start+1
+;==========================================================================================================
+;==========================================================================================================
+;==========================================================================================================
+
+Block2Start: EQU 0xc000
+    ORG Block2Start
     INCHOB "startrip.$c"
+Block2Length: EQU $-Block2Start+1
 
+Block3Start: EQU 0xde00
     ORG 0xde00
 LogoData:    
     include "logo.z80"
+Block3Length: EQU $-Block3Start+1
 ; the logo size is 672 bytes (14*6 'characters' and every 'character' is 8 pixels height = 14*6*8 = 672 bytes)
 ; 672 aligned to 256 = 768 bytes
 ; 8 (pre)scrolled logos = 768 * 8 = 6144 bytes
 ; LogoData+6144 = end of logo data
 
+Block4Start: EQU 0xf600
     ORG 0xf600
 RenegadeBackground:    
     INCBIN "renegade.scr", 0, 2016
 
+Block4Length: EQU $-Block4Start+1
 
-Code_Length: EQU $-Code_Start+1
+
+    EMPTYTAP "minidemo/data01.tap"
+    SAVETAP "minidemo/data01.tap", CODE, "DATA1", Block1Start, Block1Length
+
+    EMPTYTAP "minidemo/code.tap"
+    SAVETAP "minidemo/code.tap", CODE, "CODE", Code_Start, Code_Length, Code_Start
+
+    EMPTYTAP "minidemo/data02.tap"
+    SAVETAP "minidemo/data02.tap", CODE, "DATA2", Block2Start, Block2Length
+
+    EMPTYTAP "minidemo/data03.tap"
+    SAVETAP "minidemo/data03.tap", CODE, "DATA3", Block3Start, Block3Length
+
+    EMPTYTAP "minidemo/data04.tap"
+    SAVETAP "minidemo/data04.tap", CODE, "DATA4", Block4Start, Block4Length
+
 
     SAVESNA "minidemo/minidemo.sna", Code_Start

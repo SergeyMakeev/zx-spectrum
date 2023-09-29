@@ -1,0 +1,1 @@
+copy /b humble_demo.tap + sergey.tap + data01.tap + code.tap + data02.tap + data03.tap + data04.tap humble_demo_release.tap
