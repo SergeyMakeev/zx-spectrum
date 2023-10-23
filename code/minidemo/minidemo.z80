@@ -61,12 +61,12 @@ WaveScrollScratch:
 
 ScrollerText:
     DB "                             "
-    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUDLY  PRESENT TO YOU MY TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! "
+    DB "HELLO! HOLA! SERGEY MAKEEV IS PROUDLY PRESENT TO YOU MY TRIBUTE TO ZX SPECTRUM MACHINE!   SPECCY RULEZ 4EVER! "
     DB "CODING: SERGEY MAKEEV     GRAPHICS: SERGEY MAKEEV AND IMAGINE SOFTWARE    MUSIC: JAROSLAW BYRCZYNSKI     "
     DB "KUDOS TO ALL ROBLOX PEOPLE AND ESPECIALLY TO ROBLOX RENDERING TEAM!  #  #  #   GREETINGS TO "
     DB "ZEUX, ARUSLAN, SIM0NSAYS, LOOK4WHILE, ANDSOFT, SHODAN, WRAITH, TAGVARD, RUDYBEAR, IRONPETER, DDIMA, LOYSO, WAT, TODACE, "
     DB "DAGGER, ART321, COOPERFEET, BOMBOM, ZEMIN, BAHO, SPAWNGARRET, ASTROLOGER, BANDURES, BINSTREAM, MUXAHUK, DARKMIKE, FRUSTUM, "
-    DB "MAX PERMINOV, MAXX, DWALX AND MAY MANY OTHERS!        "
+    DB "MAX PERMINOV, MAXX, DWALX AND MANY MANY OTHERS!       "
     DB "SPECIAL THANKS TO MY FAMILY! # # # AIDA, ARSENII, MATVEI, AND LEO ALEX! # # #   LOVE U GUYS!           "
     DB "THAT ALL FOLKS! THANK YOU FOR WATCHING!!!                                            "
     DB 0 
@@ -258,16 +258,27 @@ Interrupt:
     ;LD A, 2         ; set border color 
     ;OUT (254), A
 
-
     CALL Setka
 
     ;LD A, 1         ; set border color
     ;OUT (254), A
 
     CALL WaveScroll
-
+    
     ;LD A, 3         ; set border color
     ;OUT (254), A
+
+    CALL StarFx
+    
+    ;LD A, 0         ; set border color
+    ;OUT (254), A
+
+    CALL DrawLogo
+
+    ;LD A, 2         ; set border color
+    ;OUT (254), A
+
+
 
     CALL PrintLetterIfNeed2
 
@@ -285,21 +296,12 @@ Interrupt:
     ;LD A, 6         ; set border color
     ;OUT (254), A
 
-    CALL DrawLogo
-
-    ;LD A, 2         ; set border color
-    ;OUT (254), A
-
     CALL AttributeFlash
 
     ;LD A, 5         ; set border color
     ;OUT (254), A
 
 
-    CALL StarFx
-
-    ;LD A, 0         ; set border color
-    ;OUT (254), A
 
 
     POP IY                                  ; Restore all the registers
