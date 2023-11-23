@@ -45,6 +45,10 @@ https://sourcesolutions.itch.io/zx-paintbrush
 https://github.com/skoolkid/skoolkit  
 https://skoolkit.ca/  
 
+## tap2vaw
+https://github.com/raydac/zxtap-to-wav  
+hint use `-f 44100 -a`
+
 ## Helpfull resources
 
 https://chiptune.app/browse/Project%20AY/Spectrum/Demos  
