@@ -47,7 +47,7 @@ https://skoolkit.ca/
 
 ## tap2vaw
 https://github.com/raydac/zxtap-to-wav  
-hint use `-f 44100 -a`
+hint `-f 44100 -a`
 
 ## Helpfull resources
 
